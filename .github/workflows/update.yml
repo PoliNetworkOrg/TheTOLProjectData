@@ -1,0 +1,61 @@
+name: Update database
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update.yml
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update database
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Clone source repo
+        uses: actions/checkout@v2
+        with:
+          repository: PoliNetworkOrg/TheTOLProject
+
+      - name: Clone database repo
+        uses: actions/checkout@v2
+        with:
+          path: ./data/
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build local db
+        run: npm run build:db
+        env:
+          GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+          GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+          GOOGLE_DATABASE_SHEET_ID: ${{ secrets.GOOGLE_DATABASE_SHEET_ID }}
+
+      - name: Move local db
+        run: |
+          [ ! -f temp/database.json ] || mv temp/database.json data/database.json
+          cd data
+          ls
+
+      - name: Commit (automatic update)
+        if: ${{ github.event_name == 'schedule' }}
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: database.json
+          cwd: ./data/
+          author_name: PoliNetwork
+          author_email: PoliNetwork@users.noreply.github.com
+          message: "[auto] build: update database"
+          pathspec_error_handling: exitImmediately
+          
+      - name: Commit (manual update)
+        if: ${{ github.event_name != 'schedule' }}
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: database.json
+          cwd: ./data/
+          message: "build: update database"
+          pathspec_error_handling: exitImmediately
