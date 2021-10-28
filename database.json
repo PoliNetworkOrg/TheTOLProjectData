@@ -1,7 +1,6 @@
 {
   "meta": {
-    "version": "0.0.0",
-    "lastUpdate": "2021-10-26T09:06:24.982Z"
+    "version": "0.0.0"
   },
   "mat": [
     {
@@ -430,8 +429,8 @@
       "id": "31",
       "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = 1 \\\\ x + y = 3 \\end{cases}$",
       "answers": {
-        "a": "Presenta una sola soluzione",
-        "b": "Presenta quattro soluzioni distinte",
+        "a": "Ha una sola soluzione",
+        "b": "Ha quattro soluzioni distinte",
         "c": "E' indeterminato",
         "d": "E' impossibile",
         "e": "Ha due soluzioni distinte"
@@ -442,23 +441,31 @@
     },
     {
       "id": "32",
-      "text": "Elia e Daniele giocano con dadi regolari a 12 facce. Tirano ciascuno il proprio dado e vince chi fa il punto più alto. In caso di parità vince Elia. Qual è la probabilità che vinca Daniele?",
+      "text": "Elia e Diego giocano con dadi regolari a 12 facce. Tirano ciascuno il proprio dado e vince chi fa il punto più alto. In caso di parità vince Elia. Qual è la probabilità che vinca Diego?",
       "answers": {
-        "a": "44228",
-        "b": "1/24",
-        "c": "1/24",
-        "d": "",
+        "a": "1/2",
+        "b": "1/12",
+        "c": "1/3",
+        "d": "1/4",
         "e": "11/24"
       },
-      "correct": "",
+      "correct": "E",
       "attachments": [],
       "validated": true
     },
     {
       "id": "33",
-      "answers": {},
+      "text": "L'espressione $log_7(42)$",
+      "answers": {
+        "a": "Ha valore negativo",
+        "b": "E' equivalente a $-log_7(1/42)$",
+        "c": "Non è un numero reale",
+        "d": "E' equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
+        "e": "E' un numero reale compreso tra 6 e 7"
+      },
+      "correct": "D",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "34",
@@ -713,9 +720,17 @@
     },
     {
       "id": "5",
-      "answers": {},
+      "text": "Due sfere a riposo di massa m2 e m1, con m2 > m1, vengono fatte cadere contemporaneamente dalla stessa altezza. Se si trascurano gli attriti, quale delle due sfere arriva prima a terra?",
+      "answers": {
+        "a": "Arriva prima la sfera con massa minore",
+        "b": "Arriva prima la sfera con massa maggiore",
+        "c": "Arriva prima la sfera con massa maggiore, solo se siamo nel vuoto",
+        "d": "Arrivano contemporaneamente",
+        "e": "Non ci sono dati sufficienti per poter rispondere"
+      },
+      "correct": "D",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "6",
@@ -919,7 +934,7 @@
     },
     {
       "id": "13",
-      "text": "The active group is made ___ of  Federico, Matteo and Gabriele. There's more to come.",
+      "text": "The active group is made ___ of  Elia, Diego, Federico, Matteo and Gabriele. There's more to come.",
       "answers": {
         "a": "up",
         "b": "all",
