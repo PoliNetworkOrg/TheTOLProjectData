@@ -744,7 +744,7 @@
       },
       "correct": "E",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "7",
@@ -758,7 +758,7 @@
       },
       "correct": "D",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "8",
