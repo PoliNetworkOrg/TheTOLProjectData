@@ -245,7 +245,7 @@
     },
     {
       "id": "18",
-      "text": "Siano a,b numeri reali positivi. Sappiamo che ln(a^2b)=7 e che ln(ab) è un numero intero. Quali dei seguenti valori può assumere la quantità ln(ab^2)?",
+      "text": "Siano $a,b$ numeri reali positivi. Sappiamo che $ln(a^2b)=7$ e che $ln(ab)$ è un numero intero. Quali dei seguenti valori può assumere la quantità $ln(ab^2)$?",
       "answers": {
         "a": "1",
         "b": "4",
@@ -255,7 +255,7 @@
       },
       "correct": "E",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "19",
@@ -734,13 +734,29 @@
     },
     {
       "id": "6",
-      "answers": {},
+      "text": "Un'automobile viaggia a 20km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile? ",
+      "answers": {
+        "a": "50 m/s",
+        "b": "13.8 km/s",
+        "c": "13.8 m/s",
+        "d": "2 km/h",
+        "e": "Nessuna delle precedenti è corretta "
+      },
+      "correct": "E",
       "attachments": [],
       "validated": false
     },
     {
       "id": "7",
-      "answers": {},
+      "text": "Quali delle seguenti affermazioni è corretta:",
+      "answers": {
+        "a": "Gli isotopi Dell idrogeno sono tutti stabili ",
+        "b": "L'anione Cl- ha un raggio atomico minore del catione Cl+",
+        "c": "La carica di un elettrone è in valore assoluto uguale alla carica di due protoni ",
+        "d": "È possibile che un elemento non abbia neutroni all'interno del suo nucleo ",
+        "e": "L'energia di ionizzazione è assente nei gas nobili"
+      },
+      "correct": "D",
       "attachments": [],
       "validated": false
     },
