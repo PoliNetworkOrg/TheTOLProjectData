@@ -483,7 +483,7 @@
     },
     {
       "id": "35",
-      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0$ è vera in $0, \\2pi$ ?",
+      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0$ è vera in $[0, \\2pi]$?",
       "answers": {
         "a": "Mai",
         "b": "Sempre",
@@ -497,17 +497,17 @@
     },
     {
       "id": "36",
-      "text": "Nel sistema di numerazione in base quattro, le sole cifre usate sono 0, 1, 2, 3. Quale dei seguenti numeri è $1269_{10}$ in base 4? ",
+      "text": "Nel sistema di numerazione in base quattro, le sole cifre usate sono 0, 1, 2, 3. Quale dei seguenti numeri è $1269_{10}$ in base quattro? ",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$111331_{4}",
+        "b": "$103311_{4}",
+        "c": "$113310_{4}",
+        "d": "$110331_{4}",
+        "e": "$111301_{4}"
       },
-      "correct": "",
+      "correct": "B",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "37",
@@ -852,9 +852,9 @@
     },
     {
       "id": "7",
-      "text": "Quali delle seguenti affermazioni è corretta:",
+      "text": "Quale delle seguenti affermazioni è corretta:",
       "answers": {
-        "a": "Gli isotopi Dell idrogeno sono tutti stabili ",
+        "a": "Gli isotopi dell'idrogeno sono tutti stabili ",
         "b": "L'anione Cl- ha un raggio atomico minore del catione Cl+",
         "c": "La carica di un elettrone è in valore assoluto uguale alla carica di due protoni ",
         "d": "È possibile che un elemento non abbia neutroni all'interno del suo nucleo ",
