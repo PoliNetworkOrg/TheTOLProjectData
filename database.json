@@ -483,7 +483,7 @@
     },
     {
       "id": "35",
-      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0 è vera in [0, $\\2pi$] ?",
+      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0$ è vera in $0, \\2pi$ ?",
       "answers": {
         "a": "Mai",
         "b": "Sempre",
@@ -493,11 +493,11 @@
       },
       "correct": "D",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "36",
-      "text": "Nel sistema di numerazione in base quattro, le sole cifre usate sono 0, 1, 2, 3. Quale dei seguenti numeri è $1269_10$ in base 4? ",
+      "text": "Nel sistema di numerazione in base quattro, le sole cifre usate sono 0, 1, 2, 3. Quale dei seguenti numeri è $1269_{10}$ in base 4? ",
       "answers": {
         "a": "",
         "b": "",
