@@ -469,19 +469,43 @@
     },
     {
       "id": "34",
-      "answers": {},
+      "text": "Quanti tra i seguenti numeri sono primi?  23, 47, 89, 101, 199",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "e": "5"
+      },
+      "correct": "E",
       "attachments": [],
-      "validated": false
+      "validated": true
     },
     {
       "id": "35",
-      "answers": {},
+      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0 è vera in [0, $\\2pi$] ?",
+      "answers": {
+        "a": "Mai",
+        "b": "Sempre",
+        "c": "Per $x \\neq 0, x \\neq \\pi$",
+        "d": "$\\pi < x < 2\\pi$",
+        "e": "$\\pi/2 < x < 3/2\\pi$"
+      },
+      "correct": "D",
       "attachments": [],
       "validated": false
     },
     {
       "id": "36",
-      "answers": {},
+      "text": "Nel sistema di numerazione in base quattro, le sole cifre usate sono 0, 1, 2, 3. Quale dei seguenti numeri è $1269_10$ in base 4? ",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "attachments": [],
       "validated": false
     },
