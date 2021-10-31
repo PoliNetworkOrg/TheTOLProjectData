@@ -450,13 +450,13 @@
     },
     {
       "id": "35",
-      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} >= 0$ è vera in $[0, 2\\pi]$?",
+      "text": "Quando la disequazione $\\frac{2cos(x)-3}{sinx} \\geqslant 0$ è vera in $[0, 2\\pi]$?",
       "answers": {
         "a": "Mai",
         "b": "Sempre",
         "c": "Per $x \\neq 0, x \\neq \\pi$",
         "d": "$\\pi < x < 2\\pi$",
-        "e": "$\\pi/2 < x < 3/2\\pi$"
+        "e": "$\\pi/2 < x < \\pi \\cdot 3/2$"
       },
       "correct": "D",
       "validated": true
