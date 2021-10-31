@@ -437,13 +437,13 @@
     },
     {
       "id": "34",
-      "text": "Quanti tra i seguenti numeri sono primi?  23, 47, 89, 101, 199",
+      "text": "Quanti tra i seguenti numeri 23, 47, 89, 101, 199 sono primi?  ",
       "answers": {
-        "a": "1",
-        "b": "2",
-        "c": "3",
-        "d": "4",
-        "e": "5"
+        "a": "Uno",
+        "b": "Due",
+        "c": "Tre",
+        "d": "Quattro",
+        "e": "Cinque"
       },
       "correct": "E",
       "validated": true
@@ -476,6 +476,7 @@
     },
     {
       "id": "37",
+      "text": "Sapendo che la distanza tra due punti A(8;1) e B(0;x) è pari a 7, quanti valori può assumere x?",
       "answers": {},
       "validated": false
     },
@@ -1020,28 +1021,68 @@
     },
     {
       "id": "17",
-      "answers": {},
-      "validated": false
+      "text": "\"Ok, I have been going out with another girl\", he said. He admitted ___ out with another girl.",
+      "answers": {
+        "a": "to go",
+        "b": "he had go",
+        "c": "to have gone",
+        "d": "he have gone",
+        "e": "having gone"
+      },
+      "correct": "E",
+      "validated": true
     },
     {
       "id": "18",
-      "answers": {},
-      "validated": false
+      "text": "I've been waiting for this moment ___ three months!",
+      "answers": {
+        "a": "---",
+        "b": "still",
+        "c": "for",
+        "d": "till",
+        "e": "since"
+      },
+      "correct": "C",
+      "validated": true
     },
     {
       "id": "19",
-      "answers": {},
-      "validated": false
+      "text": "\"Mike has done more work then you\". You haven't done ___ work as Mike.",
+      "answers": {
+        "a": "much",
+        "b": "as",
+        "c": "as much",
+        "d": "more",
+        "e": "any"
+      },
+      "correct": "C",
+      "validated": true
     },
     {
       "id": "20",
-      "answers": {},
-      "validated": false
+      "text": "How important is it ___ you to pass this test?",
+      "answers": {
+        "a": "to",
+        "b": "for",
+        "c": "in",
+        "d": "that",
+        "e": "---"
+      },
+      "correct": "A",
+      "validated": true
     },
     {
       "id": "21",
-      "answers": {},
-      "validated": false
+      "text": "When I was much younger, I ___ play the piano.",
+      "answers": {
+        "a": "can",
+        "b": "was could to",
+        "c": "can't",
+        "d": "must",
+        "e": "could"
+      },
+      "correct": "E",
+      "validated": true
     },
     {
       "id": "22",
