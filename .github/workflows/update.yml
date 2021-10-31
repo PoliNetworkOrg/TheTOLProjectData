@@ -44,7 +44,7 @@ jobs:
         run: |
           ls temp
           mv temp/database.json data/database.json
-          mv temp/img/** data/img/**
+          mv temp/img/** data/img/
           cd data
           ls
 
