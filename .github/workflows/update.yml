@@ -44,7 +44,6 @@ jobs:
         # There's got to be a better way, but I don't have the mental energy to find it.
         run: |
           ls temp
-          mkdir temp/img
           mv temp/database.json data/database.json
           mv temp/img/** data/img/
           cd data
