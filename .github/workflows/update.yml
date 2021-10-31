@@ -43,7 +43,8 @@ jobs:
       - name: Move local db
         run: |
           ls temp
-          [ ! -f temp ] || mv temp/** data/
+          mv temp/database.json data/database.json
+          mv tmp/img/** data/img/**
           cd data
           ls
 
