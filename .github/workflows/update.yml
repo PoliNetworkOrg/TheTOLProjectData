@@ -36,6 +36,7 @@ jobs:
 
       - name: Move local db
         run: |
+          ls temp
           [ ! -f temp ] || mv temp/** data
           cd data
           ls
