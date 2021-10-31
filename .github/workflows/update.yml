@@ -44,7 +44,7 @@ jobs:
         if: ${{ github.event_name == 'schedule' }}
         uses: EndBug/add-and-commit@v7
         with:
-          add: database.json
+          add: database.json img
           cwd: ./data/
           author_name: PoliNetwork
           author_email: PoliNetwork@users.noreply.github.com
@@ -55,7 +55,7 @@ jobs:
         if: ${{ github.event_name != 'schedule' }}
         uses: EndBug/add-and-commit@v7
         with:
-          add: database.json
+          add: database.json img
           cwd: ./data/
           message: "build: update database"
           pathspec_error_handling: exitImmediately
