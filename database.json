@@ -476,7 +476,7 @@
     },
     {
       "id": "37",
-      "text": "Sapendo che la distanza tra due punti A(4;3) e B(0;x) è pari a 5, quanti valori può assumere x?",
+      "text": "Sapendo che la distanza tra due punti A(4; 3) e B(0; x) è pari a 5, quanti valori può assumere x?",
       "answers": {
         "a": "Nessuno",
         "b": "Uno",
@@ -1106,6 +1106,7 @@
     },
     {
       "id": "22",
+      "text": "Ilaria has eaten ___ of cookies.",
       "answers": {},
       "validated": false
     },
