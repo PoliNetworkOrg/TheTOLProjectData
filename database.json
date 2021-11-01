@@ -1107,28 +1107,67 @@
     {
       "id": "22",
       "text": "Ilaria has eaten ___ of cookies.",
-      "answers": {},
-      "validated": false
+      "answers": {
+        "a": "lots",
+        "b": "lot",
+        "c": "many",
+        "d": "much",
+        "e": "much more"
+      },
+      "correct": "A",
+      "validated": true
     },
     {
       "id": "23",
-      "answers": {},
-      "validated": false
+      "text": "She's addicted ___ new TV series about crime investigation.",
+      "answers": {
+        "a": "of",
+        "b": "by",
+        "c": "for",
+        "d": "to",
+        "e": "with"
+      },
+      "correct": "D",
+      "validated": true
     },
     {
       "id": "24",
-      "answers": {},
-      "validated": false
+      "text": "We run ___ milk for breakfast.",
+      "answers": {
+        "a": "out of",
+        "b": "of",
+        "c": "for",
+        "d": "fast",
+        "e": "with"
+      },
+      "correct": "A",
+      "validated": true
     },
     {
       "id": "25",
-      "answers": {},
-      "validated": false
+      "text": "You were born in the ___ 20th Century.",
+      "answers": {
+        "a": "end",
+        "b": "final",
+        "c": "fined",
+        "d": "finisch",
+        "e": "late"
+      },
+      "correct": "E",
+      "validated": true
     },
     {
       "id": "26",
-      "answers": {},
-      "validated": false
+      "text": "She was definitely here earlier, because she's left her umbrella. She must ___ here earlier, because she's left her umbrella.",
+      "answers": {
+        "a": "be",
+        "b": "have being",
+        "c": "have been",
+        "d": "to be",
+        "e": "has been"
+      },
+      "correct": "C",
+      "validated": true
     },
     {
       "id": "27",
