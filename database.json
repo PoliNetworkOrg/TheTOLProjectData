@@ -491,13 +491,13 @@
       "id": "38",
       "text": "Date due rette:\n\nr: 3x +  4y + k = 0 ed\ns: 6x + ky + 7 = 0\n\nallora esiste un k reale tale che:\n",
       "answers": {
-        "a": "Si intersecano nell'origine",
-        "b": "Coincidono",
+        "a": "Coincidono",
+        "b": "Si intersecano nell'origine",
         "c": "Sono entrambe parallele all'asse delle ordinate",
-        "d": "Sono parallele e distano 2 nelle direzione a loro ortogonale",
+        "d": "Sono parallele ",
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
-      "correct": "E",
+      "correct": "D",
       "validated": true
     },
     {
