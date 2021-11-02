@@ -13,7 +13,7 @@
         "d": "Il polinomio ha due radici reali negative",
         "e": "Il polinomio ha due radici reali negative"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -26,7 +26,7 @@
         "d": "c",
         "e": "E' possibile determinare la base ma non è a, nè b, nè c"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -39,7 +39,7 @@
         "d": "$\\pi \\cdot 5/6$",
         "e": "$\\pi \\cdot 4/3$"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -52,7 +52,7 @@
         "d": "Più di due, ma in numero finito",
         "e": "Infinite"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -65,7 +65,7 @@
         "d": "102",
         "e": "Non si può determinare con i soli dati forniti."
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -78,7 +78,7 @@
         "d": "$y=|ln(x+1)|$",
         "e": "$y=ln(|x+1|)$"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true,
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
@@ -94,7 +94,7 @@
         "d": "$|x| \\cdot |-x| < 0$",
         "e": "$ln(x)>1$"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -107,7 +107,7 @@
         "d": "100",
         "e": "108"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -120,7 +120,7 @@
         "d": "è il quadruplo dell'area di ABC",
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": false
     },
     {
@@ -133,7 +133,7 @@
         "d": "900",
         "e": "5000"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": false
     },
     {
@@ -159,7 +159,7 @@
         "d": "191",
         "e": "189"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": false
     },
     {
@@ -172,7 +172,7 @@
         "d": "Nessuno",
         "e": "Infiniti"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": false
     },
     {
@@ -185,7 +185,7 @@
         "d": "1000",
         "e": "4"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -198,7 +198,7 @@
         "d": "25",
         "e": "100"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": false
     },
     {
@@ -211,7 +211,7 @@
         "d": "Almeno uno tra a e b è un numero negativo",
         "e": "Nessuna delle precedenti"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -224,7 +224,7 @@
         "d": "Tutte le scimmie non mangiano banane",
         "e": "Nessuna scimmia mangia le mele"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": false
     },
     {
@@ -237,7 +237,7 @@
         "d": "3",
         "e": "5"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -250,7 +250,7 @@
         "d": "30",
         "e": "32"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": false
     },
     {
@@ -263,7 +263,7 @@
         "d": "13",
         "e": "5,1"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": false
     },
     {
@@ -276,7 +276,7 @@
         "d": "99",
         "e": "95"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -289,7 +289,7 @@
         "d": "3",
         "e": "4"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": false
     },
     {
@@ -302,7 +302,7 @@
         "d": "3/4",
         "e": "1/6"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -315,7 +315,7 @@
         "d": "$x < 1$",
         "e": "$x > 1$"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": false
     },
     {
@@ -328,7 +328,7 @@
         "d": "sqrt(2)/2",
         "e": "sqrt(3)/2"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": false
     },
     {
@@ -341,7 +341,7 @@
         "d": "sqrt(3)",
         "e": "3/2"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -354,7 +354,7 @@
         "d": "$\\pi/6 , \\pi/3$",
         "e": "$-\\pi/2$"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -367,7 +367,7 @@
         "d": "$5^8 < 9^6 < 2^{12}$",
         "e": "$2^{12} < 9^6 < 5^8$"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -380,7 +380,7 @@
         "d": "Ammette solo 3 soluzioni",
         "e": "Ha infinite soluzioni"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -393,7 +393,7 @@
         "d": "50%",
         "e": "6%"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -406,7 +406,7 @@
         "d": "E' impossibile",
         "e": "Ha due soluzioni distinte"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -419,7 +419,7 @@
         "d": "1/4",
         "e": "11/24"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -432,7 +432,7 @@
         "d": "E' equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
         "e": "E' un numero reale compreso tra 6 e 7"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -445,7 +445,7 @@
         "d": "Quattro",
         "e": "Cinque"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -458,7 +458,7 @@
         "d": "$\\pi < x < 2\\pi$",
         "e": "$\\pi/2 < x < \\pi \\cdot 3/2$"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -471,7 +471,7 @@
         "d": "$110331_{4}$",
         "e": "$111301_{4}$"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -484,7 +484,7 @@
         "d": "Tre",
         "e": "Quattro"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -497,7 +497,7 @@
         "d": "Sono parallele e distano $\\sqrt 2$ nella direzione a loro ortogonale",
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -510,7 +510,7 @@
         "d": "1/5",
         "e": "7/30"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -573,7 +573,7 @@
         "d": "t",
         "e": "w"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true,
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
@@ -674,7 +674,7 @@
         "d": "d",
         "e": "e"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -689,7 +689,7 @@
         "d": "d",
         "e": "e"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -704,7 +704,7 @@
         "d": "d",
         "e": "e"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -719,7 +719,7 @@
         "d": "d",
         "e": "e"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -734,7 +734,7 @@
         "d": "d",
         "e": "e"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     }
   ],
@@ -749,7 +749,7 @@
         "d": "Le correnti che attraversano le resistenze sono inversamente proporzionali alle resistenze",
         "e": "La somma delle correnti che attraversa le resistenze vale V/R1 + R2)"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -762,7 +762,7 @@
         "d": "I bicchieri cadono nello stesso punto, ma il bicchiere di massa m_2 cade prima.",
         "e": "I bicchieri cadono nello stesso punto e toccano terra nello stesso istante."
       },
-      "correct": "C",
+      "correct": "c",
       "validated": false
     },
     {
@@ -775,7 +775,7 @@
         "d": "Da solido a gassoso",
         "e": "Da gassoso a liquido"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": false
     },
     {
@@ -788,7 +788,7 @@
         "d": "9,1 $ \\cdot 10^3$ kcal",
         "e": "33350 kcal"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -801,7 +801,7 @@
         "d": "Arrivano contemporaneamente",
         "e": "Non ci sono dati sufficienti per poter rispondere"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -814,7 +814,7 @@
         "d": "2 km/h",
         "e": "Nessuna delle precedenti è corretta "
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -827,7 +827,7 @@
         "d": "È possibile che un elemento non abbia neutroni all'interno del suo nucleo ",
         "e": "L'energia di ionizzazione è assente nei gas nobili"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -857,7 +857,7 @@
         "d": "With / whom",
         "e": "Why / with"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -870,7 +870,7 @@
         "d": "hasn't he",
         "e": "doesn't he"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -883,7 +883,7 @@
         "d": "for / its",
         "e": "with / it"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -896,7 +896,7 @@
         "d": "a",
         "e": "what a"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -909,7 +909,7 @@
         "d": "to",
         "e": "---"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -922,7 +922,7 @@
         "d": "am",
         "e": "are"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": false
     },
     {
@@ -935,7 +935,7 @@
         "d": "lugage",
         "e": "lugages"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -948,7 +948,7 @@
         "d": "--- / will have",
         "e": "will / will have"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -961,7 +961,7 @@
         "d": "did you came",
         "e": "you'll come"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -974,7 +974,7 @@
         "d": "complaint",
         "e": "congratulations"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -987,7 +987,7 @@
         "d": "as",
         "e": "while"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1000,7 +1000,7 @@
         "d": "many",
         "e": "some"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
@@ -1013,7 +1013,7 @@
         "d": "--- ",
         "e": "in"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1026,7 +1026,7 @@
         "d": "has made",
         "e": "loves"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -1039,7 +1039,7 @@
         "d": "boring",
         "e": "borring"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -1052,7 +1052,7 @@
         "d": "refer",
         "e": "refer to"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -1065,7 +1065,7 @@
         "d": "he have gone",
         "e": "having gone"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -1078,7 +1078,7 @@
         "d": "till",
         "e": "since"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1091,7 +1091,7 @@
         "d": "more",
         "e": "any"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1104,7 +1104,7 @@
         "d": "that",
         "e": "---"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1117,7 +1117,7 @@
         "d": "must",
         "e": "could"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -1130,7 +1130,7 @@
         "d": "much",
         "e": "much more"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1143,7 +1143,7 @@
         "d": "to",
         "e": "with"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -1156,7 +1156,7 @@
         "d": "fast",
         "e": "with"
       },
-      "correct": "A",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1169,7 +1169,7 @@
         "d": "finisch",
         "e": "late"
       },
-      "correct": "E",
+      "correct": "e",
       "validated": true
     },
     {
@@ -1182,7 +1182,7 @@
         "d": "to be",
         "e": "has been"
       },
-      "correct": "C",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1195,7 +1195,7 @@
         "d": "saw / had / buy",
         "e": "saw / has / bought"
       },
-      "correct": "D",
+      "correct": "d",
       "validated": true
     },
     {
@@ -1208,7 +1208,7 @@
         "d": "you",
         "e": "---"
       },
-      "correct": "B",
+      "correct": "b",
       "validated": true
     },
     {
