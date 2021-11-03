@@ -11,7 +11,7 @@
         "b": "Il polinomio ha due radici reali positive",
         "c": "Il polinomio ha due radici reali, una negativa e una positiva",
         "d": "Il polinomio ha due radici reali negative",
-        "e": "Il polinomio ha due radici reali negative"
+        "e": "Non ci sono informazioni sufficienti per rispondere"
       },
       "correct": "c",
       "validated": true
