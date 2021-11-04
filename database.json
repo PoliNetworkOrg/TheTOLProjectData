@@ -203,12 +203,12 @@
     },
     {
       "id": "16",
-      "text": "Dati due numeri reali distinti a,b sappiamo che la media aritmetica tra a e b è uguale alla media aritmetica tra il doppio di a e la metà di b. Cosa si può concludere?",
+      "text": "Dati due numeri reali distinti $a,b$ sappiamo che la media aritmetica tra $a$ e $b$ è uguale alla media aritmetica tra il doppio di $a$ e la metà di $b$. Cosa si può concludere?",
       "answers": {
-        "a": "a>b",
-        "b": "a<b",
-        "c": "a=b",
-        "d": "Almeno uno tra a e b è un numero negativo",
+        "a": "$a>b$",
+        "b": "$a<b$",
+        "c": "$a=b$",
+        "d": "Almeno uno tra $a$ e $b$ è un numero negativo",
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
@@ -264,7 +264,7 @@
         "e": "5,1"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "21",
@@ -741,25 +741,25 @@
   "fis": [
     {
       "id": "1",
-      "text": "Due resistenze R1 ed R2 sono poste in parallelo ed ai capi del collegamento è presente una differenza di potenziale V. Si può affermare che:",
+      "text": "Due resistenze $R_1$ ed $R_2$ sono poste in parallelo ed ai capi del collegamento è presente una differenza di potenziale $V$. Si può affermare che:",
       "answers": {
         "a": "Le due correnti che attraversano le resistenze sono uguali",
-        "b": "La differenza di potenziale è la stessa ai capi di ciascuna resistenza e vale V/2",
+        "b": "La differenza di potenziale è la stessa ai capi di ciascuna resistenza e vale $V/2$",
         "c": "La differenza di potenziale ai capi di ciascuna resistenza è inversamente proporzionale alla resistenza",
         "d": "Le correnti che attraversano le resistenze sono inversamente proporzionali alle resistenze",
-        "e": "La somma delle correnti che attraversa le resistenze vale V/R1 + R2)"
+        "e": "La somma delle correnti che attraversa le resistenze vale $\\frac{V}{R_1 + R_2}"
       },
       "correct": "d",
       "validated": true
     },
     {
       "id": "2",
-      "text": "Due bicchieri aventi masse rispettivamente m_1 e m_2 con m_1=2m_2 vengono fatti rotolare lungo un tavolo partendo da uno stesso punto, nello stesso istante. Il bicchiere di massa minore ha una velocità iniziale pari al doppio della velocità del bicchiere di massa maggiore. Appena raggiungono il bordo del tavolo, essi cadono su un pavimento. Quale delle seguenti affermazioni è corretta, se si trascura ogni attrito?",
+      "text": "Due bicchieri aventi masse rispettivamente $m_1$ e $m_2$ con $m_1$=2$m_2$ vengono fatti rotolare lungo un tavolo partendo da uno stesso punto, nello stesso istante. Il bicchiere di massa minore ha una velocità iniziale pari al doppio della velocità del bicchiere di massa maggiore. Appena raggiungono il bordo del tavolo, essi cadono su un pavimento. Quale delle seguenti affermazioni è corretta, se si trascura ogni attrito?",
       "answers": {
-        "a": "I bicchieri cadono nello stesso punto, ma il bicchiere di massa m_1 cade prima.",
+        "a": "I bicchieri cadono nello stesso punto, ma il bicchiere di massa $m_1$ cade prima.",
         "b": "I bicchieri cadono nello stesso punto e toccano terra nello stesso istante.",
         "c": "I bicchieri cadono in due punti diversi, toccando terra nello stesso istante.",
-        "d": "I bicchieri cadono nello stesso punto, ma il bicchiere di massa m_2 cade prima.",
+        "d": "I bicchieri cadono nello stesso punto, ma il bicchiere di massa $m_2$ cade prima.",
         "e": "I bicchieri cadono nello stesso punto e toccano terra nello stesso istante."
       },
       "correct": "c",
