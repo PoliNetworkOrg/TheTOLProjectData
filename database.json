@@ -203,7 +203,7 @@
     },
     {
       "id": "16",
-      "text": "Dati due numeri reali a,b sappiamo che la media aritmetica tra a e b è uguale alla media aritmetica tra il doppio di a e la metà di b. Cosa si può concludere?",
+      "text": "Dati due numeri reali distinti a,b sappiamo che la media aritmetica tra a e b è uguale alla media aritmetica tra il doppio di a e la metà di b. Cosa si può concludere?",
       "answers": {
         "a": "a>b",
         "b": "a<b",
@@ -212,7 +212,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "17",
@@ -251,7 +251,7 @@
         "e": "32"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "20",
@@ -290,7 +290,7 @@
         "e": "4"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "23",
@@ -1192,7 +1192,7 @@
         "a": "see / had / bought",
         "b": "will see / has / bought",
         "c": "see / has / buy",
-        "d": "saw / had / buy",
+        "d": "saw / had / bought",
         "e": "saw / has / bought"
       },
       "correct": "d",
