@@ -57,7 +57,7 @@
     },
     {
       "id": "5",
-      "text": "In un cinema ci sono 200 posti a sedere, tutti occupati. Vengono vendute 2 tipologie i biglietto: il biglietto per i bambini (che costa €2) e il biglietto per adulti (che costa €5). Sapendo che il cinema ha incassato €511, quanti adulti hanno visto il film?",
+      "text": "In un cinema ci sono 200 posti a sedere, tutti occupati. Vengono vendute 2 tipologie di biglietto: il biglietto per i bambini (che costa €2) e il biglietto per adulti (che costa €5). Sapendo che il cinema ha incassato €511, quanti adulti hanno visto il film?",
       "answers": {
         "a": "98",
         "b": "78",
@@ -138,7 +138,7 @@
     },
     {
       "id": "11",
-      "text": "Quanti sono i punti di intersezione tra i grafici delle funzioni f(x)=sin(x) e g(x)=cos(x) nell'intervallo [0,6pi]?",
+      "text": "Quanti sono i punti di intersezione tra i grafici delle funzioni $f(x)=sin(x)$ e $g(x)=cos(x)$ nell'intervallo $[0,6\\pi]$?",
       "answers": {
         "a": "Tre",
         "b": "Quattro",
@@ -177,7 +177,7 @@
     },
     {
       "id": "14",
-      "text": "La parte intera del numero $log_10(2021)$ vale",
+      "text": "La parte intera del numero $log_{10}(2021)$ vale",
       "answers": {
         "a": "202",
         "b": "3",
@@ -582,17 +582,18 @@
       "id": "45",
       "text": "In un triangolo $PQR$ l'angolo in $Q$ è il doppio dell'angolo in $P$ e l'angolo in $R$ è il doppio dell'angolo in $Q$. Quanto misura, in radianti, l'angolo in $Q$?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$\\pi /8$",
+        "b": "$\\pi / 3$",
+        "c": "$2 \\pi / 5$",
+        "d": "$2 \\pi / 3$",
+        "e": "$2 \\pi /9$"
       },
-      "correct": "",
+      "correct": "e",
       "validated": false
     },
     {
       "id": "46",
+      "text": "Quanto fa $\\frac{2^{10}+2^{5}}{2^{10}-2^{5}}$?",
       "answers": {},
       "validated": false
     },
