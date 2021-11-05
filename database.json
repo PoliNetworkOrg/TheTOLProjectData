@@ -121,7 +121,7 @@
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "10",
@@ -182,11 +182,11 @@
         "a": "202",
         "b": "3",
         "c": "2",
-        "d": "1000",
+        "d": "11",
         "e": "4"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "15",
@@ -294,7 +294,7 @@
     },
     {
       "id": "23",
-      "text": "Un sacchetto contiene un certo numero di palline gialle e un certo numero di palline rosse. Sapendo che il numero di palline rosse è il triplo del numero di palline gialle, la probabilità di estrarre, senza guardare nel sacchetto, una pallina di colore giallo equivale a:",
+      "text": "Un sacchetto contiene un certo numero di palline gialle e un certo numero di palline rosse. Sapendo che il numero di palline rosse è il triplo del numero di palline gialle ed entrambi i tipi di palline sono in quantita non nulla, la probabilità di estrarre, senza guardare nel sacchetto, una pallina di colore giallo equivale a:",
       "answers": {
         "a": "1/3",
         "b": "1/4",
@@ -303,20 +303,20 @@
         "e": "1/6"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "24",
-      "text": "Il dominio della funzione $f(x)=\\frac{ln(x^2)}{ln(1-x)}$ è",
+      "text": "Per quale dei seguenti valori $f(x)=\\frac{ln(x^2)}{ln(1-x)}$ non è definita?",
       "answers": {
-        "a": "$\\mathbb{R}$",
-        "b": "$x \\neq 1$",
-        "c": "$x \\le 1$",
-        "d": "$x < 1$",
-        "e": "$x > 1$"
+        "a": "$x=1$",
+        "b": "$x = -e$",
+        "c": "$x = 0$",
+        "d": "$x = -1$",
+        "e": "Ci sono più risposte possibili."
       },
-      "correct": "d",
-      "validated": false
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "25",
@@ -336,13 +336,13 @@
       "text": "Sia Q un quadrato. Sia r il raggio della circonferenza inscritta nel quadrato Q e R il raggio della circonferenza circoscritta al quadrato Q. Il rapporto R/r vale allora:",
       "answers": {
         "a": "2",
-        "b": "sqrt(2)",
-        "c": "sqrt(2)/2",
-        "d": "sqrt(3)",
-        "e": "3/2"
+        "b": "$\\sqrt{2}$",
+        "c": "$\\frac{\\sqrt{2}}{2}$",
+        "d": "$\\sqrt{3}$",
+        "e": "$\\frac{3}{2}$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "27",
@@ -541,7 +541,15 @@
     },
     {
       "id": "42",
-      "answers": {},
+      "text": "Le radici reali del polinomio $p(x)=(x^2+1)(x^2-1)(x^2+4)(x^2-4)$ sono:",
+      "answers": {
+        "a": "Una",
+        "b": "Due",
+        "c": "Quattro",
+        "d": "Otto",
+        "e": "Il polinomio non ha radici reali"
+      },
+      "correct": "c",
       "validated": false
     },
     {
