@@ -140,14 +140,14 @@
       "id": "11",
       "text": "Quanti sono i punti di intersezione tra i grafici delle funzioni f(x)=sin(x) e g(x)=cos(x) nell'intervallo [0,6pi]?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "Tre",
+        "b": "Quattro",
+        "c": "Cinque",
+        "d": "Sei",
+        "e": "Più di sei"
       },
-      "correct": "",
-      "validated": false
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "12",
@@ -164,7 +164,7 @@
     },
     {
       "id": "13",
-      "text": "Per quanti valori interi di x la funzione f(x)=-x^2+8x-15 assume valori positivi?",
+      "text": "Per quanti valori interi di $x$ la funzione $f(x)=-x^2+8x-15$ assume valori strettamente positivi?",
       "answers": {
         "a": "1",
         "b": "2",
@@ -216,7 +216,7 @@
     },
     {
       "id": "17",
-      "text": "Se la frase \"Tutte le scimmie mangiano almeno una banana\" è FALSA, quale delle seguenti affermazioni possono essere vere?",
+      "text": "Se la frase \"Tutte le scimmie mangiano almeno una banana\" è FALSA, quale delle seguenti affermazioni è sicuramente vera?",
       "answers": {
         "a": "Nessuna scimmia mangia le banane",
         "b": "Tutte le scimmie mangiano almeno due banane",
@@ -225,7 +225,7 @@
         "e": "Nessuna scimmia mangia le mele"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "18",
@@ -494,7 +494,7 @@
         "a": "Si intersecano nell'origine",
         "b": "Coincidono",
         "c": "Sono entrambe parallele all'asse delle ordinate",
-        "d": "Sono parallele e distano $\\sqrt 2$ nella direzione a loro ortogonale",
+        "d": "Sono parallele e distano $\\sqrt{2}$ nella direzione a loro ortogonale",
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
       "correct": "e",
@@ -528,16 +528,16 @@
     },
     {
       "id": "41",
-      "text": "Quanti punti di intersezione può avere al massimo una circonferenza con una parabola?",
+      "text": "L'espressione $\\frac{1}{cos^2(x)}$ equivale",
       "answers": {
-        "a": "1",
-        "b": "2",
-        "c": "4",
-        "d": "6",
-        "e": "8"
+        "a": "$\\frac{1}{sin^2(x)+1}$",
+        "b": "$\\frac{tan(x)}{sin(x)}$",
+        "c": "$1+tan^2(x)$",
+        "d": "$\\frac{tan^2(x)}{sin(x)}$",
+        "e": "$1+sin^2(x)$"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "42",
@@ -550,16 +550,32 @@
         "e": "Il polinomio non ha radici reali"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "43",
-      "answers": {},
+      "text": "Quale delle seguenti funzioni è definita per ogni numero reale $x$?",
+      "answers": {
+        "a": "$y=\\frac{x(x+1)}{|x+2|}$",
+        "b": "$y=\\frac{x^2}{|x^2+1|}$",
+        "c": "$y=\\frac{1}{x^4-1}$",
+        "d": "$y=ln(sin(x))$",
+        "e": "$y=ln(|x|)$"
+      },
+      "correct": "b",
       "validated": false
     },
     {
       "id": "44",
-      "answers": {},
+      "text": "Quale dei seguenti poligoni regolari ha la proprietà di avere ogni angolo interno di ampiezza pari a 150 gradi?",
+      "answers": {
+        "a": "Ottagono",
+        "b": "Pentagono",
+        "c": "Esagono",
+        "d": "Decagono",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
       "validated": false
     },
     {
