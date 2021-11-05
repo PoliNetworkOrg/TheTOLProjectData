@@ -277,7 +277,7 @@
         "e": "95"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "22",
@@ -1213,12 +1213,28 @@
     },
     {
       "id": "29",
-      "answers": {},
+      "text": "I've known her ____ I was 8.",
+      "answers": {
+        "a": "from",
+        "b": "by",
+        "c": "to",
+        "d": "since",
+        "e": "for"
+      },
+      "correct": "d",
       "validated": false
     },
     {
       "id": "30",
-      "answers": {},
+      "text": "My mother is looking _____ my little sister",
+      "answers": {
+        "a": "after",
+        "b": "forward",
+        "c": "up",
+        "d": "back",
+        "e": "next"
+      },
+      "correct": "a",
       "validated": false
     },
     {
