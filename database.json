@@ -567,20 +567,28 @@
     },
     {
       "id": "44",
-      "text": "Quale dei seguenti poligoni regolari ha la proprietà di avere ogni angolo interno di ampiezza pari a 150 gradi?",
+      "text": "Quale dei seguenti poligoni regolari ha la proprietà di avere ogni angolo interno di ampiezza pari a 135 gradi?",
       "answers": {
         "a": "Ottagono",
         "b": "Pentagono",
-        "c": "Esagono",
+        "c": "Dodecagono",
         "d": "Decagono",
-        "e": "Nessuna delle precedenti"
+        "e": "Esagono"
       },
       "correct": "a",
       "validated": false
     },
     {
       "id": "45",
-      "answers": {},
+      "text": "In un triangolo $PQR$ l'angolo in $Q$ è il doppio dell'angolo in $P$ e l'angolo in $R$ è il doppio dell'angolo in $Q$. Quanto misura, in radianti, l'angolo in $Q$?",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
