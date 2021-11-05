@@ -747,7 +747,7 @@
         "b": "La differenza di potenziale è la stessa ai capi di ciascuna resistenza e vale $V/2$",
         "c": "La differenza di potenziale ai capi di ciascuna resistenza è inversamente proporzionale alla resistenza",
         "d": "Le correnti che attraversano le resistenze sono inversamente proporzionali alle resistenze",
-        "e": "La somma delle correnti che attraversa le resistenze vale $\\frac{V}{R_1 + R_2}"
+        "e": "La somma delle correnti che attraversa le resistenze vale $\\frac{V}{R_1 + R_2}$"
       },
       "correct": "d",
       "validated": true
@@ -1239,13 +1239,29 @@
     },
     {
       "id": "31",
-      "answers": {},
-      "validated": false
+      "text": "You ___ be careful.",
+      "answers": {
+        "a": "will better",
+        "b": "can",
+        "c": "'d better",
+        "d": "will shall",
+        "e": "better"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "32",
-      "answers": {},
-      "validated": false
+      "text": "What kind of Erasmus is yours, if you go there ___ car",
+      "answers": {
+        "a": "on",
+        "b": "up",
+        "c": "with",
+        "d": "trough",
+        "e": "by"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "33",
