@@ -134,7 +134,7 @@
         "e": "5000"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "11",
@@ -160,7 +160,7 @@
         "e": "189"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "13",
@@ -329,7 +329,7 @@
         "e": "sqrt(3)/2"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "26",
@@ -515,12 +515,28 @@
     },
     {
       "id": "40",
-      "answers": {},
-      "validated": false
+      "text": "Per quali valori la seguente disequazione $x^2 - e^x > 0$ è verificata?",
+      "answers": {
+        "a": "x < e",
+        "b": "1 < x < e",
+        "c": "x > e",
+        "d": "Nessun valore",
+        "e": "x = 0"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "41",
-      "answers": {},
+      "text": "Quanti punti di intersezione può avere al massimo una circonferenza con una parabola?",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "6",
+        "e": "8"
+      },
+      "correct": "c",
       "validated": false
     },
     {
@@ -1265,23 +1281,55 @@
     },
     {
       "id": "33",
-      "answers": {},
-      "validated": false
+      "text": "Why ___ lessons learned important in project management?",
+      "answers": {
+        "a": "---",
+        "b": "is",
+        "c": "the",
+        "d": "are",
+        "e": "a"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "34",
-      "answers": {},
-      "validated": false
+      "text": "After earning your Bachelor’s degree, you might ___ exhausted.",
+      "answers": {
+        "a": "felt",
+        "b": "seen",
+        "c": "feel",
+        "d": "---",
+        "e": "saw "
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "35",
-      "answers": {},
-      "validated": false
+      "text": "I got vaccinated but I ___ want some of you to ___ away from me.",
+      "answers": {
+        "a": "till / go",
+        "b": "--- /go",
+        "c": "still / stay",
+        "d": "--- / free",
+        "e": "--- /out"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "36",
-      "answers": {},
-      "validated": false
+      "text": "MIT students are probably the only ___ who don't recognize that their university's reputation is slightly overrated.",
+      "answers": {
+        "a": "that",
+        "b": "ones",
+        "c": "---",
+        "d": "of",
+        "e": "one"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "37",
