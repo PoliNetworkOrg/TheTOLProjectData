@@ -1276,7 +1276,7 @@
     },
     {
       "id": "32",
-      "text": "What kind of Erasmus is yours, if you go there ___ car",
+      "text": "What kind of Erasmus is yours, if you go there ___ car?",
       "answers": {
         "a": "on",
         "b": "up",
@@ -1341,13 +1341,29 @@
     },
     {
       "id": "37",
-      "answers": {},
-      "validated": false
+      "text": "\"Who are ___ girls?\" \"I don't know ____\"",
+      "answers": {
+        "a": "that/them",
+        "b": "those/hers",
+        "c": "this/her",
+        "d": "those/them",
+        "e": "this/them"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "38",
-      "answers": {},
-      "validated": false
+      "text": "\"What ____ your score?\" \"27 ____ 30\"",
+      "answers": {
+        "a": "is/out of",
+        "b": "is/on",
+        "c": "are/out of",
+        "d": "are/on",
+        "e": "is/to"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "39",
