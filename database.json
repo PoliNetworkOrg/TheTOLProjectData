@@ -325,8 +325,8 @@
         "a": "3",
         "b": "$\\sqrt{3}$",
         "c": "2",
-        "d": "$\\frac{\\sqrt{2}/2}$",
-        "e": "$\\frac{\\sqrt{3}/2}$"
+        "d": "$\\frac{\\sqrt{2}}{2}$",
+        "e": "$\\frac{\\sqrt{3}}{2}$"
       },
       "correct": "c",
       "validated": true
@@ -599,6 +599,7 @@
     },
     {
       "id": "47",
+      "text": "Abbiamo tre proposizioni p, q ed r che soddisano queste ipotesi:\n\n- se p è vera allora q è vera\n- se p è falsa allora r è falsa\n\nQuale conclusione può essere dedotta?",
       "answers": {},
       "validated": false
     },
