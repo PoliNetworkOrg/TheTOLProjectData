@@ -323,10 +323,10 @@
       "text": "Sia T un triangolo equilatero. Sia r il raggio della circonferenza inscritta nel triangolo T e R il raggio della circonferenza circoscritta al triangolo T. Il rapporto R/r vale allora:",
       "answers": {
         "a": "3",
-        "b": "sqrt(3)",
+        "b": "$\\sqrt{3}$",
         "c": "2",
-        "d": "sqrt(2)/2",
-        "e": "sqrt(3)/2"
+        "d": "$\\frac{\\sqrt{2}/2}$",
+        "e": "$\\frac{\\sqrt{3}/2}$"
       },
       "correct": "c",
       "validated": true
