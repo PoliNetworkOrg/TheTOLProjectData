@@ -612,7 +612,7 @@
     },
     {
       "id": "48",
-      "text": "Abbiamo tre proposizioni p, q ed r che soddisfano queste ipotesi: \n\n$\\begin{cases}\nse &\\text{p è vera allora q è vera} \\\\ \nse &\\text{p è falsa allora r è falsa} \n\\end{cases}$\n\nQuale conclusione può essere dedotta?",
+      "text": "Quale conclusione può essere dedotta avendo tre proposizioni p, q ed r che soddisfano queste ipotesi? \n\n$\\begin{cases}\n\\text{se p è vera allora q è vera} \\\\ \n\\text{se p è falsa allora r è falsa} \n\\end{cases}$\n\n",
       "answers": {
         "a": "Se q è vera allora p è vera",
         "b": "Se p è vera allora r è vera",
@@ -910,8 +910,16 @@
     },
     {
       "id": "9",
-      "answers": {},
-      "validated": false
+      "text": "Una Tesla Model S, viaggiando su una curva con velocità $v$, è soggetta ad una forza centripeta $F$. Quanto vale tale forza agente su una seconda Tesla Model S di uguale massa che viaggia sulla stessa curva a velocità $2v$?",
+      "answers": {
+        "a": "$F$",
+        "b": "$2F$",
+        "c": "$4F$",
+        "d": "$F/2$",
+        "e": "$F^2$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "10",
