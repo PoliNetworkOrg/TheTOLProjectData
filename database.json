@@ -607,13 +607,21 @@
         "d": "0,03% circa",
         "e": "4%"
       },
-      "validated": false
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "48",
-      "text": "Abbiamo tre proposizioni p, q ed r che soddisano queste ipotesi: $\\begin{cases} se p è vera allora q è vera \\\\ se p è falsa allora r è falsa \\end{cases}$\nQuale conclusione può essere dedotta?",
-      "answers": {},
-      "validated": false
+      "text": "Abbiamo tre proposizioni p, q ed r che soddisfano queste ipotesi: \n\n$\\begin{cases}\nse &\\text{p è vera allora q è vera} \\\\ \nse &\\text{p è falsa allora r è falsa} \n\\end{cases}$\n\nQuale conclusione può essere dedotta?",
+      "answers": {
+        "a": "Se q è vera allora p è vera",
+        "b": "Se p è vera allora r è vera",
+        "c": "Se q è vera allora r è vera",
+        "d": "Se r è vera allora q è vera",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "49",
@@ -637,24 +645,6 @@
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "id": "",
-      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = 1 \\\\ x + y = 3 \\end{cases}$",
-      "answers": {},
-      "validated": false
     }
   ],
   "com": [
@@ -1452,7 +1442,7 @@
     },
     {
       "id": "41",
-      "text": "As a superstar DJ's, Tesla  ___ the whole ABBA vinyl collection.",
+      "text": "My friend Dario  ___ the whole ABBA vinyl collection.",
       "answers": {
         "a": "will have bought",
         "b": "will be going to buy",
