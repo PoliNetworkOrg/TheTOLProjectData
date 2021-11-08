@@ -1377,11 +1377,11 @@
       "id": "37",
       "text": "\"Who are ___ girls?\" \"I don't know ____\"",
       "answers": {
-        "a": "that/them",
-        "b": "those/hers",
-        "c": "this/her",
-        "d": "those/them",
-        "e": "this/them"
+        "a": "that / them",
+        "b": "those / hers",
+        "c": "this / her",
+        "d": "those / them",
+        "e": "this / them"
       },
       "correct": "d",
       "validated": true
@@ -1390,24 +1390,40 @@
       "id": "38",
       "text": "\"What ____ your score?\" \"27 ____ 30\"",
       "answers": {
-        "a": "is/out of",
-        "b": "is/on",
-        "c": "are/out of",
-        "d": "are/on",
-        "e": "is/to"
+        "a": "is / out of",
+        "b": "is / on",
+        "c": "are / out of",
+        "d": "are / on",
+        "e": "is / to"
       },
       "correct": "a",
       "validated": true
     },
     {
       "id": "39",
-      "answers": {},
-      "validated": false
+      "text": "She doesn't drive ___ . She drives ___ .",
+      "answers": {
+        "a": "slow / fast",
+        "b": "slowly / more fast",
+        "c": "slowly / fastly",
+        "d": "slow / fastly",
+        "e": "slow / more fast"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "40",
-      "answers": {},
-      "validated": false
+      "text": "Your electric kick scooter is ___ colour ___ mine.",
+      "answers": {
+        "a": "as / as",
+        "b": "same / than",
+        "c": "the same / than",
+        "d": "same / of",
+        "e": "the same / of"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "41",
