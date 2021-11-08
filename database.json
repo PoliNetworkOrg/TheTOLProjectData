@@ -599,12 +599,19 @@
     },
     {
       "id": "47",
-      "text": "Abbiamo tre proposizioni p, q ed r che soddisano queste ipotesi:\n\n- se p è vera allora q è vera\n- se p è falsa allora r è falsa\n\nQuale conclusione può essere dedotta?",
-      "answers": {},
+      "text": "Un'aspirante matricola di Ingegneria, presa dal panico, risponde a caso a tutte e 5 le domande della sezione di comprensione verbale del TOL. Sapendo che per ciascuna domanda ci sono 5 risposte suggerite, qual è la probabilità di rispondere correttamente a tutte e 5 le domande?",
+      "answers": {
+        "a": "20% circa",
+        "b": "25%",
+        "c": "10%",
+        "d": "0,03% circa",
+        "e": "4%"
+      },
       "validated": false
     },
     {
       "id": "48",
+      "text": "Abbiamo tre proposizioni p, q ed r che soddisano queste ipotesi: $\\begin{cases} se p è vera allora q è vera \\\\ se p è falsa allora r è falsa \\end{cases}$\nQuale conclusione può essere dedotta?",
       "answers": {},
       "validated": false
     },
@@ -630,6 +637,24 @@
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "",
+      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = 1 \\\\ x + y = 3 \\end{cases}$",
+      "answers": {},
+      "validated": false
     }
   ],
   "com": [
@@ -1420,35 +1445,75 @@
         "b": "same / than",
         "c": "the same / than",
         "d": "same / of",
-        "e": "the same / of"
+        "e": "the same / as"
       },
       "correct": "e",
       "validated": true
     },
     {
       "id": "41",
-      "answers": {},
-      "validated": false
+      "text": "As a superstar DJ's, Tesla  ___ the whole ABBA vinyl collection.",
+      "answers": {
+        "a": "will have bought",
+        "b": "will be going to buy",
+        "c": "is going to will buy",
+        "d": "is going to buy",
+        "e": "buy"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "42",
-      "answers": {},
-      "validated": false
+      "text": "When Gabriele ___ Bristol UK, he ___ Bansky.",
+      "answers": {
+        "a": "was visiting / met",
+        "b": "visits / met",
+        "c": "visited / was meeting",
+        "d": "was visiting / meet",
+        "e": "visited / meet"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "43",
-      "answers": {},
-      "validated": false
+      "text": "Your friend is a bit slow and he'll never ___ that Diana is crazy about him.",
+      "answers": {
+        "a": "saw",
+        "b": "see",
+        "c": "seen",
+        "d": "be",
+        "e": "been"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "44",
-      "answers": {},
-      "validated": false
+      "text": "If I ___ so tired, I ___ swimming with you.",
+      "answers": {
+        "a": "am not / would come",
+        "b": "wasn't / will come",
+        "c": "weren't / come",
+        "d": "wasn't be / will come",
+        "e": "weren't / would come"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "45",
-      "answers": {},
-      "validated": false
+      "text": "Federico ___ just ___ his GAL exam. ",
+      "answers": {
+        "a": "has / finishing",
+        "b": "has / finished",
+        "c": "finished / ---",
+        "d": "--- / finished",
+        "e": "has / been finishing"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "46",
