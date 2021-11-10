@@ -632,12 +632,28 @@
     },
     {
       "id": "49",
-      "answers": {},
+      "text": "Cosa possiamo dire in merito ai grafici delle seguenti funzioni?\n\n$f(x)=\\sqrt{e^{\\ln(x^{2})}}$\n$g(x)=\\sqrt{\\ln(e^{x^{2}})}$",
+      "answers": {
+        "a": "Sono coincidenti",
+        "b": "Sono coincidenti, a meno di un punto",
+        "c": "Sono coincidenti per $x\\ge 0$",
+        "d": "Sono coincidenti per $x\\le 0$",
+        "e": "Nessuna delle precedeni"
+      },
+      "correct": "b",
       "validated": false
     },
     {
       "id": "50",
-      "answers": {},
+      "text": "Quanto vale l'area del triangolo avente lati di lunghezza 18 cm, 26 cm e 45 cm?",
+      "answers": {
+        "a": "$98 cm^{2}$",
+        "b": "$99 cm^{2}$",
+        "c": "$100 cm^{2}$",
+        "d": "$72\\sqrt{2} cm^{2}$",
+        "e": "Non esiste un triangolo con lati di tali dimensioni"
+      },
+      "correct": "e",
       "validated": false
     },
     {
@@ -657,6 +673,19 @@
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
+    },
+    {
+      "id": "52",
+      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (Si considerino anche quelli privi di significato)",
+      "answers": {
+        "a": "360",
+        "b": "180",
+        "c": "720",
+        "d": "90",
+        "e": "72"
+      },
+      "correct": "a",
+      "validated": false
     }
   ],
   "com": [
