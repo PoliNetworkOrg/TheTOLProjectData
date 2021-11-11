@@ -658,6 +658,87 @@
     },
     {
       "id": "51",
+      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (Si considerino anche quelli privi di significato)",
+      "answers": {
+        "a": "360",
+        "b": "180",
+        "c": "720",
+        "d": "90",
+        "e": "72"
+      },
+      "correct": "a",
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "1000",
       "text": "temp",
       "answers": {
         "a": "x",
@@ -673,19 +754,6 @@
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
-    },
-    {
-      "id": "52",
-      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (Si considerino anche quelli privi di significato)",
-      "answers": {
-        "a": "360",
-        "b": "180",
-        "c": "720",
-        "d": "90",
-        "e": "72"
-      },
-      "correct": "a",
-      "validated": false
     }
   ],
   "com": [
