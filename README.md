@@ -1,2 +1,5 @@
-This repo holds the compiled JSON database.
-It's in a separate repo because this allows to separate the commit histories of the website and the database, avoiding a new commit in the main repo every time we want to recompile the database.
+# TheTOLProject
+
+This repo hosts the compiled JSON database of the web app developed [here](https://github.com/PoliNetworkOrg/TheTOLProject).  
+The repo is automatically updated by the [`update`](https://github.com/PoliNetworkOrg/TheTOLProjectData/blob/main/.github/workflows/update.yml) workflow, any manual change will be overwritten.  
+For any issue and/or proposal, please refer to the info provided in the main repo.
