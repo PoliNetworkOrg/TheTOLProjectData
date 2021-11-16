@@ -1624,8 +1624,16 @@
     },
     {
       "id": "46",
-      "answers": {},
-      "validated": false
+      "text": "Don't phone between 7 and 8. We ___ be ___ dinner then.",
+      "answers": {
+        "a": "will / the",
+        "b": "will / ---",
+        "c": "will / having",
+        "d": "don't / a",
+        "e": "will / have"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "47",
