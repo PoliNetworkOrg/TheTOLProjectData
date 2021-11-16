@@ -1637,28 +1637,68 @@
     },
     {
       "id": "47",
-      "answers": {},
-      "validated": false
+      "text": "I can't find Daria anywhere. I wonder where she is. She might ___ shopping.",
+      "answers": {
+        "a": "have gone",
+        "b": "she has",
+        "c": "has",
+        "d": "she does",
+        "e": "have not"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "48",
-      "answers": {},
-      "validated": false
+      "text": "I'm going out now. If Nicolas ___ phone, tell ___ I'll call him back this evening.",
+      "answers": {
+        "a": "could / his",
+        "b": "--- / me",
+        "c": "does / ---",
+        "d": "should / him",
+        "e": "--- / ---"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "49",
-      "answers": {},
-      "validated": false
+      "text": "It's a big factory. Five hundred people ___ there.",
+      "answers": {
+        "a": "---",
+        "b": "is",
+        "c": "who",
+        "d": "are",
+        "e": "are employed"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "50",
-      "answers": {},
-      "validated": false
+      "text": "Do you know how ___ to Gabriele's penthouse?",
+      "answers": {
+        "a": "to get",
+        "b": "got",
+        "c": "---",
+        "d": "to go",
+        "e": "go"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "51",
-      "answers": {},
-      "validated": false
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "id": "52",
@@ -1667,6 +1707,7 @@
     },
     {
       "id": "53",
+      "text": "Do you know how to get to Gabriele's penthouse?",
       "answers": {},
       "validated": false
     },
