@@ -1689,15 +1689,15 @@
     },
     {
       "id": "51",
-      "text": "",
+      "text": "I was ___ with the film. I ___ expected it to be better.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "disappointed / ---",
+        "b": "disappointing / will",
+        "c": "disappointed / had",
+        "d": "disappointing / ---",
+        "e": "disappointed / have"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     },
     {
