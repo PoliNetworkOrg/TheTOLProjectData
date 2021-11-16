@@ -1676,13 +1676,13 @@
     },
     {
       "id": "50",
-      "text": "Do you know how ___ to Gabriele's penthouse?",
+      "text": "Are you going to make dinner or ___ you ___ I made it?",
       "answers": {
-        "a": "to get",
-        "b": "got",
-        "c": "---",
-        "d": "to go",
-        "e": "go"
+        "a": "would / rather ",
+        "b": "could / not",
+        "c": "rather / ---",
+        "d": "not / rather",
+        "e": "rather / not"
       },
       "correct": "a",
       "validated": true
@@ -1707,7 +1707,6 @@
     },
     {
       "id": "53",
-      "text": "Do you know how to get to Gabriele's penthouse?",
       "answers": {},
       "validated": false
     },
