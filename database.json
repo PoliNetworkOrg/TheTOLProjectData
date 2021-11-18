@@ -1702,33 +1702,81 @@
     },
     {
       "id": "52",
-      "answers": {},
-      "validated": false
+      "text": "She's ___ for me since she ___ school.",
+      "answers": {
+        "a": "works / left",
+        "b": "work / leave",
+        "c": "work / left",
+        "d": "working / leaving",
+        "e": "worked / left"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "53",
-      "answers": {},
-      "validated": false
+      "text": "He was ___ at one of the nation's best institutions.",
+      "answers": {
+        "a": "school",
+        "b": "schooled",
+        "c": "schoolared",
+        "d": "schools",
+        "e": "schoolars"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "54",
-      "answers": {},
-      "validated": false
+      "text": "We ___ good time ___ the party yesterday.",
+      "answers": {
+        "a": "had / at",
+        "b": "have / ---",
+        "c": "have / in",
+        "d": "have / on",
+        "e": "stay / in"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "55",
-      "answers": {},
-      "validated": false
+      "text": "I really appreciate all the help you ___ me.",
+      "answers": {
+        "a": "have to",
+        "b": "have given",
+        "c": "gives to",
+        "d": "gives",
+        "e": "have give"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "56",
-      "answers": {},
-      "validated": false
+      "text": "My team worked hard to ___ the project finished ___ the deadline.",
+      "answers": {
+        "a": "gets / ---",
+        "b": "getting /",
+        "c": "gets / at",
+        "d": "get / by",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "id": "57",
-      "answers": {},
-      "validated": false
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "id": "58",
@@ -1742,6 +1790,12 @@
     },
     {
       "id": "60",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "",
+      "text": "My team worked hard to get the project finished by the deadline.",
       "answers": {},
       "validated": false
     }
