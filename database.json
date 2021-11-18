@@ -670,8 +670,8 @@
       "validated": false
     },
     {
-      "id": "",
-      "text": "In una certa popolazione è risultato che i non vaccinati contro l'infezione da SARS-CoV-2 sono il 70% e anche i malati sono il 70% della popolazione. Non sapendo se ci sia qualche correlazione tra vaccinati e malattia, cosa possiamo certamente dedurre da questi dati?",
+      "id": "52",
+      "text": "In una certa popolazione è risultato che i non vaccinati contro l'infezione da SARS-CoV-2 sono il 70% e anche i malati sono il 70% della popolazione. Non sapendo se ci sia qualche correlazione tra non vaccinati e malattia, cosa possiamo certamente dedurre da questi dati?",
       "answers": {
         "a": "I non vaccinati malati sono più dei non vaccinati sani",
         "b": "I non vaccinati sani sono tanti quanti i vaccinati malati",
@@ -679,11 +679,10 @@
         "d": "I non vaccinati malati sono più dei vaccinati sani",
         "e": "Tutte le deduzioni precedenti possono essere sbagliate"
       },
-      "correct": "",
+      "correct": "b",
       "validated": false
     },
     {
-      "id": "52",
       "answers": {},
       "validated": false
     },
@@ -1042,8 +1041,29 @@
     },
     {
       "id": "10",
-      "answers": {},
-      "validated": false
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "11",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     }
   ],
   "ing": [
@@ -1790,16 +1810,19 @@
     },
     {
       "id": "58",
+      "text": "x",
       "answers": {},
       "validated": false
     },
     {
       "id": "59",
+      "text": "x",
       "answers": {},
       "validated": false
     },
     {
       "id": "60",
+      "text": "x",
       "answers": {},
       "validated": false
     }
