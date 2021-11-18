@@ -670,10 +670,20 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "",
+      "text": "In una certa popolazione è risultato che i non vaccinati contro l'infezione da SARS-CoV-2 sono il 70% e anche i malati sono il 70% della popolazione. Non sapendo se ci sia qualche correlazione tra vaccinati e malattia, cosa possiamo certamente dedurre da questi dati?",
+      "answers": {
+        "a": "I non vaccinati malati sono più dei non vaccinati sani",
+        "b": "I non vaccinati sani sono tanti quanti i vaccinati malati",
+        "c": "I non vaccinati sani sono meno dei vaccinati sani",
+        "d": "I non vaccinati malati sono più dei vaccinati sani",
+        "e": "Tutte le deduzioni precedenti possono essere sbagliate"
+      },
+      "correct": "",
       "validated": false
     },
     {
+      "id": "52",
       "answers": {},
       "validated": false
     },
@@ -1760,22 +1770,22 @@
         "b": "getting /",
         "c": "gets / at",
         "d": "get / by",
-        "e": ""
+        "e": "get / at"
       },
-      "correct": "",
+      "correct": "d",
       "validated": true
     },
     {
       "id": "57",
-      "text": "x",
+      "text": "She is studying engineering ___ university.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "in",
+        "b": "for",
+        "c": "at",
+        "d": "while",
+        "e": "since"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1790,12 +1800,6 @@
     },
     {
       "id": "60",
-      "answers": {},
-      "validated": false
-    },
-    {
-      "id": "",
-      "text": "My team worked hard to get the project finished by the deadline.",
       "answers": {},
       "validated": false
     }
