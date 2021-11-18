@@ -658,7 +658,20 @@
     },
     {
       "id": "51",
-      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (Si considerino anche quelli privi di significato)",
+      "text": "In una certa popolazione è risultato che i non vaccinati contro l'infezione da SARS-CoV-2 sono il 70% e anche i malati sono il 70% della popolazione. Non sapendo se ci sia qualche correlazione tra non vaccinati e malattia, cosa possiamo certamente dedurre da questi dati?",
+      "answers": {
+        "a": "I non vaccinati malati sono più dei non vaccinati sani",
+        "b": "I non vaccinati sani sono tanti quanti i vaccinati malati",
+        "c": "I non vaccinati sani sono meno dei vaccinati sani",
+        "d": "I non vaccinati malati sono più dei vaccinati sani",
+        "e": "Tutte le deduzioni precedenti possono essere sbagliate"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "52",
+      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (si considerino anche quelli privi di significato).",
       "answers": {
         "a": "360",
         "b": "180",
@@ -670,25 +683,30 @@
       "validated": false
     },
     {
-      "id": "52",
-      "text": "In una certa popolazione è risultato che i non vaccinati contro l'infezione da SARS-CoV-2 sono il 70% e anche i malati sono il 70% della popolazione. Non sapendo se ci sia qualche correlazione tra non vaccinati e malattia, cosa possiamo certamente dedurre da questi dati?",
+      "id": "53",
+      "text": "\"Ogni quadrilatero è inscrivibile in una circonferenza\". Questo enunciato è falsificato da quale dei seguenti fatti?",
       "answers": {
-        "a": "I non vaccinati malati sono più dei non vaccinati sani",
-        "b": "I non vaccinati sani sono tanti quanti i vaccinati malati",
-        "c": "I non vaccinati sani sono meno dei vaccinati sani",
-        "d": "I non vaccinati malati sono più dei vaccinati sani",
-        "e": "Tutte le deduzioni precedenti possono essere sbagliate"
+        "a": "Non tutti i parallelogrammi sono inscrivibili",
+        "b": "Non tutti i poligoni sono inscrivibili",
+        "c": "I trapezi isosceli sono tutti inscrivibili",
+        "d": "Tutti i rettangoli sono inscrivibili",
+        "e": "I triangoli sono tutti inscrivibili"
       },
-      "correct": "b",
-      "validated": false
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
+      "id": "54",
+      "text": "\"Non è vero che tutti gli studenti di Ingegneria del Poli sono maschi e intelligenti\". Tale affermazione equivale a:",
+      "answers": {
+        "a": "Nessun studente di Ingegneria del Poli è maschio e intelligente",
+        "b": "Gli studenti di Ingegneria del Poli se sono maschi non sono intelligenti",
+        "c": "C'è qualche studente di Ingegneria del Poli che non è maschio oppure non è intelligente",
+        "d": "Esistono studenti di Ingegneria del Poli maschi ma non intelligenti",
+        "e": "Gli studenti Ingengeria del Poli sono femmine e intelligenti  "
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "answers": {},
@@ -1041,7 +1059,7 @@
     },
     {
       "id": "10",
-      "text": "",
+      "text": "x",
       "answers": {
         "a": "",
         "b": "",
@@ -1054,7 +1072,7 @@
     },
     {
       "id": "11",
-      "text": "",
+      "text": "x",
       "answers": {
         "a": "",
         "b": "",
@@ -1811,20 +1829,54 @@
     {
       "id": "58",
       "text": "x",
-      "answers": {},
-      "validated": false
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "id": "59",
       "text": "x",
-      "answers": {},
-      "validated": false
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "id": "60",
       "text": "x",
-      "answers": {},
-      "validated": false
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "61",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     }
   ]
 }
