@@ -1809,23 +1809,29 @@
     },
     {
       "id": "58",
-      "answers": {},
-      "validated": false
+      "text": "Italian Professor Bombieri is a world ___ mathematician.",
+      "answers": {
+        "a": "own",
+        "b": "owned",
+        "c": "renewed",
+        "d": "renew",
+        "e": "renowned"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "59",
-      "answers": {},
-      "validated": false
-    },
-    {
-      "id": "60",
-      "answers": {},
-      "validated": false
-    },
-    {
-      "id": "61",
-      "answers": {},
-      "validated": false
+      "text": "___ are you getting ___ with your job?",
+      "answers": {
+        "a": "how / on",
+        "b": "--- /---",
+        "c": "who / ---",
+        "d": "--- / it",
+        "e": "why / do"
+      },
+      "correct": "a",
+      "validated": true
     }
   ]
 }
