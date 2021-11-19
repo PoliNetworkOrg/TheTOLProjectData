@@ -1523,13 +1523,13 @@
     },
     {
       "id": "36",
-      "text": "MIT students are probably the only ___ who don't recognize that their university's reputation is slightly overrated.",
+      "text": "MIT students are probably the only ___ who don't ___ that their university's reputation is slightly overrated.",
       "answers": {
-        "a": "that",
-        "b": "ones",
-        "c": "---",
-        "d": "of",
-        "e": "one"
+        "a": "that / say",
+        "b": "ones / recognize",
+        "c": "--- / out",
+        "d": "of / speech",
+        "e": "--- / say"
       },
       "correct": "b",
       "validated": true
@@ -1831,6 +1831,32 @@
         "e": "why / do"
       },
       "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "60",
+      "text": "I've spent ___ money you gave me.",
+      "answers": {
+        "a": "whole",
+        "b": "all the",
+        "c": "---",
+        "d": "amount",
+        "e": "a"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "61",
+      "text": "The ATM service is very good. There's a train ___ ten minutes.",
+      "answers": {
+        "a": "in ",
+        "b": "the whole",
+        "c": "all",
+        "d": "every",
+        "e": "at"
+      },
+      "correct": "d",
       "validated": true
     }
   ]
