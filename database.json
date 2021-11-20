@@ -706,7 +706,7 @@
         "e": "Gli studenti Ingengeria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
@@ -1014,7 +1014,7 @@
     },
     {
       "id": "6",
-      "text": "Un'automobile viaggia a 20km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile? ",
+      "text": "Un'automobile viaggia a 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile? ",
       "answers": {
         "a": "50 m/s",
         "b": "13.8 km/s",
@@ -1063,6 +1063,25 @@
       },
       "correct": "c",
       "validated": true
+    },
+    {
+      "id": "10",
+      "text": "Quali delle seguenti affermazioni è errata?",
+      "answers": {
+        "a": "Il campo magnetico può essere generato da correnti elettriche",
+        "b": "Il campo magnetico può essere generato da aghi magnetici",
+        "c": "Il campo magnetico può essere generato da particelle cariche in moto",
+        "d": "Il campo magnetico può essere generato da materiali ferromagnetici nel vuoto",
+        "e": "Il campo magnetico può essere generato da materiali paramagnetici nel vuoto"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "11",
+      "text": "Un corpo viene lanciato verso l'alto con una velocità iniziale pari a 15 m/s. Dopo quanti secondi raggiunge un'altezza di 10 m?",
+      "answers": {},
+      "validated": false
     }
   ],
   "ing": [
