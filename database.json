@@ -667,7 +667,7 @@
         "e": "Tutte le deduzioni precedenti possono essere sbagliate"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "52",
@@ -693,7 +693,7 @@
         "e": "I triangoli sono tutti inscrivibili"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "54",
@@ -1523,13 +1523,13 @@
     },
     {
       "id": "36",
-      "text": "MIT students are probably the only ___ who don't ___ that their university's reputation is slightly overrated.",
+      "text": "MIT students are probably the only ___ who don't recognize that their university's reputation is slightly overrated.",
       "answers": {
-        "a": "that / say",
-        "b": "ones / recognize",
-        "c": "--- / out",
-        "d": "of / speech",
-        "e": "--- / say"
+        "a": "that",
+        "b": "ones",
+        "c": "---",
+        "d": "of",
+        "e": "say"
       },
       "correct": "b",
       "validated": true
