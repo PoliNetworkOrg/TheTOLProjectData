@@ -1079,9 +1079,16 @@
     },
     {
       "id": "11",
-      "text": "Un corpo viene lanciato verso l'alto con una velocità iniziale pari a 20 m/s. Dopo quanti secondi raggiunge un'altezza di 20 m?",
-      "answers": {},
-      "validated": false
+      "text": "Un sasso viene lanciato verso l'alto con una velocità iniziale pari a 15 m/s. Dopo quanti secondi raggiunge il suolo?",
+      "answers": {
+        "a": "circa 3 secondi",
+        "b": "prima di 4 secondi",
+        "c": "4 secondi",
+        "d": "dopo 4 secondi ma prima di 5 secondi",
+        "e": "5 secondi"
+      },
+      "correct": "d",
+      "validated": true
     }
   ],
   "ing": [
