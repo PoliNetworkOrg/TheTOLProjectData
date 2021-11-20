@@ -839,25 +839,25 @@
         "b": "Nessuna parte della nazione deve essere impegnata a distruggere le leggi",
         "c": "Le leggi devono innanzitutto favorire le classi degli uomini",
         "d": "Il timore dell'uomo per l'uomo è fatale e colmo di delitti",
-        "e": ""
+        "e": "Il timore delle leggi è salutare per la nazione"
       },
-      "correct": "",
-      "validated": false
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "1",
       "sub": "5",
       "track": "E' meglio prevenire i delitti che punirli. Questo è il fine principale d'ogni buona legislazione, che è l'arte di condurre gli uomini al massimo di felicità o al minimo d'infelicità possibile, per parlare secondo tutt'i calcoli dei beni e dei mali della vita. Ma i mezzi impiegati fin ora sono per lo più falsi ed opposti al fine proposto. Non è possibile il ridurre la turbolenta attività degli uomini ad un ordine geometrico senza irregolarità e confusione. Come le costanti e semplicissime leggi della natura non impediscono che i pianeti non si turbino nei loro movimenti così nelle infinite ed oppostissime attrazioni del piacere e del dolore, non possono impedirsene dalle leggi umane i turbamenti ed il disordine. Eppur questa è la chimera degli uomini limitati, quando abbiano il comando in mano. Il proibire una moltitudine di azioni indifferenti non è prevenire i delitti che ne possono nascere, ma egli è un crearne dei  nuovi, egli è un definire a piacere la virtù ed il vizio, che ci vengono predicati eterni ed immutabili. A che saremo ridotti , se ci dovesse essere vietato tutto ciò che può indurci a delitto? Bisognerebbe privare l'uomo dell'uso de' suoi sensi. Per un motivo che spinge gli uomini a commettere un vero delitto, ve ne son mille che gli spingono a commetter quelle azioni indifferenti, che chiamasi delitti, dalle male leggi; e se la probabilità dei delitti è proporzionata al numero dei motivi, l'ampliare la sfera dei delitti è un crescere la probabilità di commettergli. La maggior parte delle leggi non sono che privilegi, cioè un tributo di tutti al comodo di alcuni pochi.  Volete prevenire i delitti? Fate che le leggi sian ben chiare e che tutta la forza della nazione sia condensata a difenderle, e nessuna parte di essa sia impiegata a distruggerle. Fate che le leggi favoriscano meno le classi degli uomini che gli uomini stessi. Fate che gli uomini le temano, e temano esse sole. il timore delle leggi è salutare, ma fatale e fecondo di delitti è quello di uomo a uomo. Gli uomini schiavi sono più voluttuosi, più libertini, più crudeli degli uomini liberi. Questi meditano sulle scenze, meditano sugl'interessi della nazione, veggono grandi oggetti, e gl'imitano; ma quegli contenti del giorno presente cercano fra lo strepito del libertinaggio una distrazione dall'annientamento in cui si veggono; avvezzi all'incertezza dell'esito di ogni cosa, l'esito de' loro delitti divien problematico per essi, in vantaggio della passione che gli determina. Se l'incertezza delle leggi cade su di una nazione indolente per clima, ella mantiene ed aumenta la di lei indolenza e stupidità. Se cade in una nazione voluttuosa, ma attiva, ella ne disperde l'attività in un infinito numero di piccole cabale ed intrighi, che spargono la diffidenza in ogni cuore e che fanno del tradimento e della dissimulazione la base della prudenza. Se cade su dii una nazione coraggiosa e forte, l'incertezza vien tolta alla fine, formando prima molte oscillazioni dalla libertà alla schiavitù, e dalla schiavitù alla libertà.\n\n(C. Beccaria, Dei delitti e delle pene, XLI, Come si prevengano i delitti)",
-      "text": "",
+      "text": "Nel testo, il termine voluttuosa:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "Significa incline ai piaceri dei sensi",
+        "b": "E' usato con disprezzo",
+        "c": "Significa attiva",
+        "d": "Significa coraggiosa, forte",
+        "e": "Non compare"
       },
-      "correct": "",
-      "validated": false
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "2",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": "42",
-      "text": "When Gabriele ___ Bristol UK, he ___ Bansky.",
+      "text": "When Goldie ___ Bristol UK, he ___ Bansky.",
       "answers": {
         "a": "was visiting / met",
         "b": "visits / met",
@@ -1841,7 +1841,7 @@
     },
     {
       "id": "56",
-      "text": "My team worked hard to ___ the project finished ___ the deadline.",
+      "text": "The team worked hard to ___ the project finished ___ the deadline.",
       "answers": {
         "a": "gets / ---",
         "b": "getting /",
@@ -1915,6 +1915,32 @@
         "e": "at"
       },
       "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "62",
+      "text": "The laws of nature ___ physical phenomena.",
+      "answers": {
+        "a": "rebate",
+        "b": "regards",
+        "c": "regard",
+        "d": "related",
+        "e": "release"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "63",
+      "text": "It's better to ___ your mouth ___ and appear stupid than open it and remove all doubt.",
+      "answers": {
+        "a": "skip / out",
+        "b": "force / in",
+        "c": "step / out",
+        "d": "close / open",
+        "e": "keep / shut"
+      },
+      "correct": "e",
       "validated": true
     }
   ]
