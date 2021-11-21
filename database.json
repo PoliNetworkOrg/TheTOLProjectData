@@ -1111,7 +1111,7 @@
     },
     {
       "id": "11",
-      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Il sasso inizierà la sua discesa verso il suolo:",
+      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni altra forza esterna, il sasso inizierà la sua discesa verso il suolo:",
       "answers": {
         "a": "Dopo 1 secondo ma prima di 2 secondi",
         "b": "Dopo 2 secondi ma prima di 3 secondi",
@@ -1119,7 +1119,7 @@
         "d": "Dopo 4 secondi ma prima di 5 secondi",
         "e": "Dopo 5 secondi"
       },
-      "correct": "b",
+      "correct": "a",
       "validated": true
     },
     {
