@@ -866,7 +866,7 @@
       "text": "Il genere letterario del brano è:",
       "answers": {
         "a": "Romanzo epistolare",
-        "b": "Autobiografico",
+        "b": "Autobiografia",
         "c": "Storiografia",
         "d": "Romanzo filosofico",
         "e": "Poema sapienziale"
@@ -878,15 +878,31 @@
       "id": "2",
       "sub": "2",
       "track": "Il buon senso è fra le cose del mondo quella più equamente distribuita, giacchè ognuno pensa di esserne così ben dotato, che perfino quelli che sono più difficili da soddisfare riguardo a ogni altro bene non sogliono desiderarne più di quanto ne abbiano. E in questo non è verosimile che tutti si sbaglino; è la prova, piuttosto, che il potere di bene giudicare e di distinguere il vero dal falso, che è propriamente quel che si dice buon senso o ragione, è per natura uguale a tutti  gli uomini; e quindi che la diversità delle nostre opinioni non dipende dal fatto che alcuni siano più ragionevoli di altri, ma soltanto da questo, che facciamo andare i nostri pensieri per strade diverse e non prestiamo attenzione alle stesse cose. Perchè non basta avere buono l'ingegno; la cosa principale è usarlo bene. Le anime più grandi come sono capaci delle maggiori virtù, così lo sono dei più grandi vizi; e quelli che camminano assai lentamente posso progredire molto di più, se seguono sempre la via diritta, di quelli che correndo se ne allontanano.  Quanto a me, non ho mai preteso che il mio ingegno fosse in qualcosa più perfetto di quello comune; anzi ho spesso desiderato di avere il pensiero così pronto, l'immaginazione così netta e distinta, la memoria così capace o anche così presente, com'è in altri. E non conosco altre qualità che servano a rendere perfetto l'ingegno; perchè quanto alla ragione o discernimento, che è la sola cosa che ci rende uomini e ci distingue dai bruti, credo che essa sia tutta intera in ciascuno di noi, e intendo in questo seguire l'opinione comune degli scolastici, i quali affermano che il più e il meno è solo negli accidenti, non mai nelle forme o nature degli individui di una medesima specie.\n\nDa completare, integrando:\n\n[...] L'importanza del metodo\n[...] Critica ed elogio del sapere\n\n(Renè Descartes (CARTESIO) - Discorso sul metodo)",
-      "answers": {},
-      "validated": false
+      "text": "Secondo Cartesio, la ragione:",
+      "answers": {
+        "a": "Ha valore solo se presente la memoria",
+        "b": "Viene impiegata dagli uomini per sopraffare altri uomini",
+        "c": "Non è comune a tutti gli uomini e non viene utilizzata bene",
+        "d": "E' universale",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "2",
       "sub": "3",
       "track": "Il buon senso è fra le cose del mondo quella più equamente distribuita, giacchè ognuno pensa di esserne così ben dotato, che perfino quelli che sono più difficili da soddisfare riguardo a ogni altro bene non sogliono desiderarne più di quanto ne abbiano. E in questo non è verosimile che tutti si sbaglino; è la prova, piuttosto, che il potere di bene giudicare e di distinguere il vero dal falso, che è propriamente quel che si dice buon senso o ragione, è per natura uguale a tutti  gli uomini; e quindi che la diversità delle nostre opinioni non dipende dal fatto che alcuni siano più ragionevoli di altri, ma soltanto da questo, che facciamo andare i nostri pensieri per strade diverse e non prestiamo attenzione alle stesse cose. Perchè non basta avere buono l'ingegno; la cosa principale è usarlo bene. Le anime più grandi come sono capaci delle maggiori virtù, così lo sono dei più grandi vizi; e quelli che camminano assai lentamente posso progredire molto di più, se seguono sempre la via diritta, di quelli che correndo se ne allontanano.  Quanto a me, non ho mai preteso che il mio ingegno fosse in qualcosa più perfetto di quello comune; anzi ho spesso desiderato di avere il pensiero così pronto, l'immaginazione così netta e distinta, la memoria così capace o anche così presente, com'è in altri. E non conosco altre qualità che servano a rendere perfetto l'ingegno; perchè quanto alla ragione o discernimento, che è la sola cosa che ci rende uomini e ci distingue dai bruti, credo che essa sia tutta intera in ciascuno di noi, e intendo in questo seguire l'opinione comune degli scolastici, i quali affermano che il più e il meno è solo negli accidenti, non mai nelle forme o nature degli individui di una medesima specie.\n\nDa completare, integrando:\n\n[...] L'importanza del metodo\n[...] Critica ed elogio del sapere\n\n(Renè Descartes (CARTESIO) - Discorso sul metodo)",
-      "answers": {},
-      "validated": false
+      "text": "Indicare l'affermazione falsa:",
+      "answers": {
+        "a": "Il buon senso è la capacità di giudicare bene e di distinguere il vero dal falso",
+        "b": "La ragione distingue gli uomini dalle bestie",
+        "c": "E' necessario avere ingegno per distinguersi da altri uomini",
+        "d": "Ragione è sinonimo di buon senso",
+        "e": "Non è sufficiente avere un bell'ingegno: è importante applicarlo bene."
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "2",
@@ -1111,7 +1127,7 @@
     },
     {
       "id": "11",
-      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni altra forza esterna, il sasso inizierà la sua discesa verso il suolo:",
+      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni forza esterna, il sasso inizierà la sua discesa verso il suolo:",
       "answers": {
         "a": "Dopo 1 secondo ma prima di 2 secondi",
         "b": "Dopo 2 secondi ma prima di 3 secondi",
@@ -1124,7 +1140,7 @@
     },
     {
       "id": "12",
-      "text": "Una lampadina a risparmio energetico da 15 W, la cui durata è stimata in circa 7 anni, è collegata ad un generatore di 220 V.  Qual' è il valore della corrente che passa nella lampadina?",
+      "text": "Una lampadina a risparmio energetico da 15 W, la cui durata è stimata in circa 7 anni, è collegata ad un generatore di 220 V.  Qual è il valore della corrente che passa nella lampadina?",
       "answers": {
         "a": "circa 14,7 A",
         "b": "circa 1,7 A",
