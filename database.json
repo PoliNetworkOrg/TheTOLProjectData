@@ -380,7 +380,7 @@
         "d": "Ammette solo 3 soluzioni",
         "e": "Ha infinite soluzioni"
       },
-      "correct": "b",
+      "correct": "c",
       "validated": true
     },
     {
@@ -515,7 +515,7 @@
     },
     {
       "id": "40",
-      "text": "Per quali valori la seguente disequazione $x^2 - e^x > 0$ è verificata?",
+      "text": "Per quali valori la seguente disequazione $- x^2 - e^x > 0$ è verificata?",
       "answers": {
         "a": "$x < e$",
         "b": "$1 < x < e$",
