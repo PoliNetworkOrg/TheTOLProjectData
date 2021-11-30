@@ -1852,11 +1852,11 @@
       "id": "59",
       "text": "___ are you getting ___ with your job?",
       "answers": {
-        "a": "how / on",
+        "a": "How / on",
         "b": "--- /---",
-        "c": "who / ---",
+        "c": "Who / ---",
         "d": "--- / it",
-        "e": "why / do"
+        "e": "Why / do"
       },
       "correct": "a",
       "validated": true
