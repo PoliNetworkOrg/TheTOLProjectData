@@ -1330,7 +1330,7 @@
     },
     {
       "id": "19",
-      "text": "\"Mike has done more work than you\". You haven't done ___ work as Mike.",
+      "text": "Mike has done more work than you. You haven't done ___ work as Mike.",
       "answers": {
         "a": "much",
         "b": "as",
