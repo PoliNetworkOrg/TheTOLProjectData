@@ -1003,7 +1003,7 @@
     },
     {
       "id": "6",
-      "text": "Un'automobile viaggia a 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile? ",
+      "text": "Un'automobile viaggia 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile, considerando che viaggia a velocità costante? ",
       "answers": {
         "a": "50 m/s",
         "b": "13.8 km/s",
