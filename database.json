@@ -1098,7 +1098,7 @@
       "id": "1",
       "text": "___ did you go to the library ___ ?",
       "answers": {
-        "a": "With whom / ---",
+        "a": "where / of",
         "b": "Who / with",
         "c": "When / with",
         "d": "With / whom",
@@ -1203,7 +1203,7 @@
       "text": "You're here on holiday, so when ___ back to your Country?",
       "answers": {
         "a": "have you come",
-        "b": "are you coming",
+        "b": "are you going",
         "c": "came",
         "d": "did you came",
         "e": "you'll come"
@@ -1239,7 +1239,7 @@
     },
     {
       "id": "12",
-      "text": "We are the same as ___ most friends.",
+      "text": "We are the same as ___ most friends.\n",
       "answers": {
         "a": "the",
         "b": "---",
@@ -1346,7 +1346,7 @@
       "text": "How important is it ___ you to pass this test?",
       "answers": {
         "a": "to",
-        "b": "for",
+        "b": "with",
         "c": "in",
         "d": "that",
         "e": "---"
@@ -1395,7 +1395,7 @@
     },
     {
       "id": "24",
-      "text": "We run ___ milk for breakfast.",
+      "text": "We ran ___ milk for breakfast.",
       "answers": {
         "a": "out of",
         "b": "of",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": "37",
-      "text": "\"Who are ___ girls?\" \"I don't know ____\"",
+      "text": "\"Who are ___ girls?\" \"I don't know ___\"",
       "answers": {
         "a": "that / them",
         "b": "those / hers",
@@ -1577,7 +1577,7 @@
     },
     {
       "id": "38",
-      "text": "\"What ____ your score?\" \"27 ____ 30\"",
+      "text": "\"What ___ your score?\" \"27 ___ 30\"",
       "answers": {
         "a": "is / out of",
         "b": "is / on",
@@ -1725,7 +1725,7 @@
         "a": "---",
         "b": "is",
         "c": "who",
-        "d": "are",
+        "d": "in",
         "e": "are employed"
       },
       "correct": "e",
@@ -1785,7 +1785,7 @@
     },
     {
       "id": "54",
-      "text": "We ___ good time ___ the party yesterday.",
+      "text": "We ___ a good time ___ the party yesterday.",
       "answers": {
         "a": "had / at",
         "b": "have / ---",
