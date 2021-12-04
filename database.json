@@ -706,7 +706,7 @@
         "e": "Gli studenti Ingengeria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
