@@ -710,16 +710,3744 @@
     },
     {
       "id": "55",
-      "text": "Si consideri un triangolo ABC tale che $tan B\\hat{A}C = 1 (B\\hat{A}C < \\pi/2) ,  AB = \\sqrt{2} \\cdot BC$ e AC = 1. Allora:",
+      "text": "Si consideri un triangolo $ABC$ tale che $tan (B\\hat{A}C) = 1$ con $B\\hat{A}C < \\pi/2\" ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
       "answers": {
-        "a": "$B\\hat{A}C$ = \\pi/2$",
-        "b": "AB = 1",
-        "c": "La superficie di ABC vale 1",
-        "d": "La superficie di ABC vale 1/2",
+        "a": "$B\\widehat{A}C = \\pi/2$",
+        "b": "$AB = 1$",
+        "c": "La superficie di ABC vale \"1\"",
+        "d": "La superficie di \"ABC\" vale \"1/2\"",
         "e": "$AB = 2 \\cdot sqrt{2}$"
       },
       "correct": "d",
       "validated": true
+    },
+    {
+      "id": "",
+      "text": "Aldo è amico di Bruno e di Carlo. Quando Aldo va alle feste ci vanno anche Bruno e Carlo. Sulla base di queste proposizioni, quale delle seguenti affermazioni è certamente vera?",
+      "answers": {
+        "a": "Ieri c'è stata una festa alla quale Aldo non è andato, quindi anche Bruno e Carlo non sono andati",
+        "b": "Ieri Carlo è andato ad una festa, quindi c'è andato anche Aldo",
+        "c": "Bruno e Carlo ieri sono stati ad una festa, quindi c'è stato anche Aldo",
+        "d": "Aldo ieri è andato ad una festa, quindi sicuramente ci sono andati anche Bruno e Carlo",
+        "e": "Bruno ieri è andato ad una festa, quindi sicuramente c'è andato anche Carlo"
+      },
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
+    },
+    {
+      "answers": {},
+      "validated": false
     },
     {
       "answers": {},
@@ -784,7 +4512,7 @@
         "e": "w"
       },
       "correct": "a",
-      "validated": true,
+      "validated": false,
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg",
@@ -1211,10 +4939,10 @@
       "id": "9",
       "text": "You're here on holiday, so when ___ back to your Country?",
       "answers": {
-        "a": "have it coming",
+        "a": "have you gone",
         "b": "are you going",
-        "c": "going",
-        "d": "coming",
+        "c": "gone",
+        "d": "did you go",
         "e": "---"
       },
       "correct": "b",
