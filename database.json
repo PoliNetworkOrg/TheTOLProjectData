@@ -709,8 +709,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "55",
+      "text": "Si consideri un triangolo ABC tale che $tan B\\hat{A}C = 1 (B\\hat{A}C < \\pi/2) ,  AB = \\sqrt{2} \\cdot BC$ e AC = 1. Allora:",
+      "answers": {
+        "a": "$B\\hat{A}C$ = \\pi/2$",
+        "b": "AB = 1",
+        "c": "La superficie di ABC vale 1",
+        "d": "La superficie di ABC vale 1/2",
+        "e": "$AB = 2 \\cdot sqrt{2}$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "answers": {},
