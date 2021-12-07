@@ -1202,11 +1202,11 @@
       "id": "9",
       "text": "You're here on holiday, so when ___ back to your Country?",
       "answers": {
-        "a": "have you come",
+        "a": "have it coming",
         "b": "are you going",
-        "c": "came",
-        "d": "did you came",
-        "e": "you'll come"
+        "c": "going",
+        "d": "coming",
+        "e": "---"
       },
       "correct": "b",
       "validated": true
@@ -1239,15 +1239,15 @@
     },
     {
       "id": "12",
-      "text": "We are the same as ___ most friends.\n",
+      "text": "Withholding the truth is ___ same as lying\n",
       "answers": {
         "a": "the",
         "b": "---",
-        "c": "any",
-        "d": "many",
-        "e": "some"
+        "c": "it",
+        "d": "not",
+        "e": "hold"
       },
-      "correct": "b",
+      "correct": "a",
       "validated": true
     },
     {
