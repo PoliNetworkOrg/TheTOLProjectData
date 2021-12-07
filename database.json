@@ -722,7 +722,7 @@
       "validated": true
     },
     {
-      "id": "",
+      "id": "56",
       "text": "Aldo è amico di Bruno e di Carlo. Quando Aldo va alle feste ci vanno anche Bruno e Carlo. Sulla base di queste proposizioni, quale delle seguenti affermazioni è certamente vera?",
       "answers": {
         "a": "Ieri c'è stata una festa alla quale Aldo non è andato, quindi anche Bruno e Carlo non sono andati",
@@ -731,7 +731,8 @@
         "d": "Aldo ieri è andato ad una festa, quindi sicuramente ci sono andati anche Bruno e Carlo",
         "e": "Bruno ieri è andato ad una festa, quindi sicuramente c'è andato anche Carlo"
       },
-      "validated": false
+      "correct": "d",
+      "validated": true
     },
     {
       "answers": {},
@@ -4710,7 +4711,7 @@
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "4",
