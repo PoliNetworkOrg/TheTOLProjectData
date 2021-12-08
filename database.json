@@ -710,9 +710,9 @@
     },
     {
       "id": "55",
-      "text": "Si consideri un triangolo $ABC$ tale che $tan (B\\hat{A}C) = 1$ con $B\\hat{A}C < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
+      "text": "Si consideri un triangolo $ABC$ tale che $tan (BÂC) = 1$ con $BÂC < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
       "answers": {
-        "a": "$B\\hat{A}C = \\pi/2$",
+        "a": "$BÂC = \\pi/2$",
         "b": "$AB = 1$",
         "c": "La superficie di $ABC$ vale $1$",
         "d": "La superficie di $ABC$ vale $1/2$",
@@ -727,22 +727,22 @@
       "answers": {
         "a": "Ieri c'è stata una festa alla quale Aldo non è andato, quindi anche Bruno e Carlo non sono andati",
         "b": "Ieri Carlo è andato ad una festa, quindi c'è andato anche Aldo",
-        "c": "Bruno e Carlo ieri sono stati ad una festa, quindi c'è stato anche Aldo",
-        "d": "Aldo ieri è andato ad una festa, quindi sicuramente ci sono andati anche Bruno e Carlo",
-        "e": "Bruno ieri è andato ad una festa, quindi sicuramente c'è andato anche Carlo"
+        "c": "Bruno e Carlo ieri sono stati ad una festa, quindi sicuramente c'è stato anche Aldo",
+        "d": "Aldo ieri è andato ad una festa, quindi ci sono andati anche Bruno e Carlo",
+        "e": "Bruno ieri è andato ad una festa, quindi c'è andato anche Carlo"
       },
       "correct": "d",
       "validated": true
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\widehat{A}BC = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $A\\^{B}C= \\pi \\cdot 2/3$, il perimetro del triangolo è:",
       "answers": {
         "a": "$r + 1/2\\cdot \\sqrt{2}$",
         "b": "$r + 2\\cdot \\sqrt{3}$",
         "c": "$r + \\sqrt{2}$",
-        "d": "$r + \\frac{sqrt{2}}{sqrt{3}}$",
-        "e": "$r + \\frac{sqrt{3}}{sqrt{2}}$"
+        "d": "$r + \\frac{\\sqrt{2}}{\\sqrt{3}}$",
+        "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
       },
       "correct": "b",
       "validated": true
