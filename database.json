@@ -716,7 +716,7 @@
         "b": "$AB = 1$",
         "c": "La superficie di $ABC$ vale $1$",
         "d": "La superficie di $ABC$ vale $1/2$",
-        "e": "$AB = 2 \\cdot sqrt{2}$"
+        "e": "$AB = 2 \\cdot \\sqrt{2}$"
       },
       "correct": "d",
       "validated": true
@@ -735,8 +735,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "57",
+      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\widehat{A}BC = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "answers": {
+        "a": "$r + 1/2\\cdot \\sqrt{2}$",
+        "b": "$r + 2\\cdot \\sqrt{3}$",
+        "c": "$r + \\sqrt{2}$",
+        "d": "$r + \\frac{sqrt{2}}{sqrt{3}}$",
+        "e": "$r + \\frac{sqrt{3}}{sqrt{2}}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
