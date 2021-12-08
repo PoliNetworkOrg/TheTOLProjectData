@@ -710,12 +710,12 @@
     },
     {
       "id": "55",
-      "text": "Si consideri un triangolo $ABC$ tale che $tan (B\\hat{A}C) = 1$ con $B\\hat{A}C < \\pi/2\" ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
+      "text": "Si consideri un triangolo $ABC$ tale che $tan (B\\hat{A}C) = 1$ con $B\\hat{A}C < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
       "answers": {
-        "a": "$B\\widehat{A}C = \\pi/2$",
+        "a": "$B\\hat{A}C = \\pi/2$",
         "b": "$AB = 1$",
-        "c": "La superficie di ABC vale \"1\"",
-        "d": "La superficie di \"ABC\" vale \"1/2\"",
+        "c": "La superficie di $ABC$ vale $1$",
+        "d": "La superficie di $ABC$ vale $1/2$",
         "e": "$AB = 2 \\cdot sqrt{2}$"
       },
       "correct": "d",
@@ -723,7 +723,7 @@
     },
     {
       "id": "56",
-      "text": "Aldo è amico di Bruno e di Carlo. Quando Aldo va alle feste ci vanno anche Bruno e Carlo. Sulla base di queste proposizioni, quale delle seguenti affermazioni è certamente vera?",
+      "text": "Aldo è amico di Bruno e di Carlo. Quando Aldo va alle feste ci vanno anche Bruno e Carlo. Sulla base di queste informazioni, quale delle seguenti affermazioni è certamente vera?",
       "answers": {
         "a": "Ieri c'è stata una festa alla quale Aldo non è andato, quindi anche Bruno e Carlo non sono andati",
         "b": "Ieri Carlo è andato ad una festa, quindi c'è andato anche Aldo",
