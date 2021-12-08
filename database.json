@@ -710,9 +710,9 @@
     },
     {
       "id": "55",
-      "text": "Si consideri un triangolo $ABC$ tale che $tan (BÂC) = 1$ con $BÂC < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
+      "text": "Si consideri un triangolo $ABC$ tale che $tan (\\hat{BAC}) = 1$ con $\\hat{BAC} < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
       "answers": {
-        "a": "$BÂC = \\pi/2$",
+        "a": "$\\hat{BAC} = \\pi/2$",
         "b": "$AB = 1$",
         "c": "La superficie di $ABC$ vale $1$",
         "d": "La superficie di $ABC$ vale $1/2$",
@@ -736,10 +736,10 @@
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = 2/3 \\cdot \\pi$, il perimetro del triangolo è:",
+      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
       "answers": {
         "a": "$r + 2\\cdot \\sqrt{2}$",
-        "b": "$r \\cdot (2 + sqrt{3})$",
+        "b": "$r \\cdot (2 + \\sqrt{3})$",
         "c": "$r \\cdot \\sqrt{3}$",
         "d": "$r + \\frac{\\sqrt{2}}{\\sqrt{3}}$",
         "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
