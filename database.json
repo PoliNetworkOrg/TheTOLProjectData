@@ -736,7 +736,7 @@
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $A\\^{B}C = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $A$$\\^{B}C = \\pi \\cdot 2/3$$, il perimetro del triangolo è:",
       "answers": {
         "a": "$r + 1/2\\cdot \\sqrt{2}$",
         "b": "$r + 2\\cdot \\sqrt{3}$",
