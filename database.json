@@ -713,12 +713,12 @@
       "text": "In un triangolo un lato misura 6 cm ed il coseno dell'angolo acuto ad esso opposto è uguale a $\\frac{\\sqrt{3}}{2}}$. Allora il raggio della circonferenza circoscritta è:",
       "answers": {
         "a": "6 cm",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "b": "$2 \\cdot \\sqrt{3}$ cm",
+        "c": "$3 \\cdot \\sqrt{3}$ cm",
+        "d": "$2 \\cdot \\sqrt{2}$ cm",
+        "e": "3 cm"
       },
-      "correct": "",
+      "correct": "a",
       "validated": true
     },
     {
