@@ -710,15 +710,15 @@
     },
     {
       "id": "55",
-      "text": "Si consideri un triangolo $ABC$ tale che $tan (\\hat{BAC}) = 1$ con $\\hat{BAC} < \\pi/2$ ,  $AB = \\sqrt{2} \\cdot BC$ e $AC = 1$. Allora:",
+      "text": "In un triangolo un lato misura 6 cm ed il coseno dell'angolo acuto ad esso opposto è uguale a $\\frac{\\sqrt{3}}{2}}$. Allora il raggio della circonferenza circoscritta è:",
       "answers": {
-        "a": "$\\hat{BAC} = \\pi/2$",
-        "b": "$AB = 1$",
-        "c": "La superficie di $ABC$ vale $1$",
-        "d": "La superficie di $ABC$ vale $1/2$",
-        "e": "$AB = 2 \\cdot \\sqrt{2}$"
+        "a": "6 cm",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
       },
-      "correct": "d",
+      "correct": "",
       "validated": true
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\widehat{ABC} = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
       "answers": {
         "a": "$r + 2\\cdot \\sqrt{2}$",
         "b": "$r \\cdot (2 + \\sqrt{3})$",
