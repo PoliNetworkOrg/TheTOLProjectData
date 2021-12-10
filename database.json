@@ -74,9 +74,9 @@
       "answers": {
         "a": "$y=|log_{10}(x)+1|$",
         "b": "$y=|log_{10}(x+1)|$",
-        "c": "$y=log_{10}(|x+1|)$",
+        "c": "$y=log_{10}|x+1|$",
         "d": "$y=|ln(x+1)|$",
-        "e": "$y=ln(|x+1|)$"
+        "e": "$y=ln|x+1|$"
       },
       "correct": "d",
       "validated": true,
