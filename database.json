@@ -72,9 +72,9 @@
       "id": "6",
       "text": "Stabilire a quale equazione corrisponde il seguente grafico.",
       "answers": {
-        "a": "$y=|log_{10}{x}+1|$",
-        "b": "$y=|log_{10}{x+1}|$",
-        "c": "$y=log_{10}{|x+1|}$",
+        "a": "$y=|log_{10}(x)+1|$",
+        "b": "$y=|log_{10}(x+1)|$",
+        "c": "$y=log_{10}(|x+1|)$",
         "d": "$y=|ln(x+1)|$",
         "e": "$y=ln(|x+1|)$"
       },
