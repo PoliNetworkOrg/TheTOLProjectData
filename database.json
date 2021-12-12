@@ -4655,7 +4655,7 @@
       "id": "2",
       "sub": "4",
       "track": "Il buon senso è fra le cose del mondo quella più equamente distribuita, giacchè ognuno pensa di esserne così ben dotato, che perfino quelli che sono più difficili da soddisfare riguardo a ogni altro bene non sogliono desiderarne più di quanto ne abbiano. E in questo non è verosimile che tutti si sbaglino; è la prova, piuttosto, che il potere di bene giudicare e di distinguere il vero dal falso, che è propriamente quel che si dice buon senso o ragione, è per natura uguale a tutti  gli uomini; e quindi che la diversità delle nostre opinioni non dipende dal fatto che alcuni siano più ragionevoli di altri, ma soltanto da questo, che facciamo andare i nostri pensieri per strade diverse e non prestiamo attenzione alle stesse cose. Perchè non basta avere buono l'ingegno; la cosa principale è usarlo bene. Le anime più grandi come sono capaci delle maggiori virtù, così lo sono dei più grandi vizi; e quelli che camminano assai lentamente posso progredire molto di più, se seguono sempre la via diritta, di quelli che correndo se ne allontanano.  Quanto a me, non ho mai preteso che il mio ingegno fosse in qualcosa più perfetto di quello comune; anzi ho spesso desiderato di avere il pensiero così pronto, l'immaginazione così netta e distinta, la memoria così capace o anche così presente, com'è in altri. E non conosco altre qualità che servano a rendere perfetto l'ingegno; perchè quanto alla ragione o discernimento, che è la sola cosa che ci rende uomini e ci distingue dai bruti, credo che essa sia tutta intera in ciascuno di noi, e intendo in questo seguire l'opinione comune degli scolastici, i quali affermano che il più e il meno è solo negli accidenti, non mai nelle forme o nature degli individui di una medesima specie. [...] Sono stato nutrito fin dall'infanzia di studi letterari, e poichè mi si faceva credere che per mezzo di essi si potesse acquistare una conoscenza chiara e salda di tutto ciò che è utile alla vita, ero oltremodo desideroso di apprendere. Ma appena compiuto l'intero percorso di studi al termine del quale si suole essere accolti nel rango dei dotti, cambiai del tutto opinione. Perchè mi trovai impacciato da tanti dubbi ed errori che mi sembrava di non aver ricavato altro profitto, cercando di istruirmi, se non di avere scoperto sempre più la mia ignoranza. Eppure stavo in una delle più celebri scuole d'Europa, dove pensavo dovessero trovarsi i dotti, se mai ce n'erano in qualche parte della terra. Lì avevo imparato tutto quello che imparavano gli altri; e in più, non contento delle scienze che ci insegnavano, avevo scorso tutti i libri di quelle ritenute pù curiose e più rare, che mi erano capitate tra le mani. Oltre a ciò, sapevo dei giudizi che gli altri davano di me; e constatavo di non essere considerato in nulla inferiore ai miei compagni, benchè ve ne fossero alcuni destinati ad occupare il posto dei maestri. Infine, il nostro secolo mi sembrava fiorente e fertile di buoni ingegni quanto ogni altro secolo precedente. Tutto questo mi induceva a prendermi la libertà di giudicare da me tutti gli altri, e di pensare che non ci fosse al mondo scienza, quale all'inizio me l'avevano fatta sperare. Non avevo tuttavia smesso di stimare gli esercizi di cui ci si occupa nelle scuole. Riconoscevo che le lingue che vi si apprendono sono necessarie per l'intelligenza dei libri antichi; che la grazia delle favole sveglia l'ingegno, e che lo elevano le azioni memorabili delle storie, le quali, lette con prudenza, aiutano a formare il giudizio. Riconoscevo che la lettura dei buoni libri è come una conversazione con gli uomini più illustri dei secoli passati che ne furono gli autori, e per di più una conversazione studiata, in cui quelli ci palesano solo i loro migliori pensieri. Riconoscevo che l'eloquenza ha forza e bellezza incomparabili, e la poesia delicatezza e dolcezze che incantano; che nelle matematiche ci sono invenzioni assai sottili, che possono ben servire sia a soddisfare i curiosi sia a facilitare tutte le arti e alleviare il lavoro degli uomini. Riconoscevo che gli scritti che trattano dei costumi contengono parecchi utilissimi precetti ed esortazioni alla virtù; che la teologia ci insegna a guardare il cielo, e la filosofia il mezzo per parlare di tutto con verosomiglianza e farci ammirare da quelli che ne sanno di meno; che il diritto, la medicina e le atre scienze danno onori e ricchezze a chi li coltiva; infine, che è bene avere esaminato tutte queste scienze , anch le più cariche di pregiudizi o più false, per conoscerne il giusto valore e non lascarsene ingannare. Ma ritenevo di aver già dedicato un tempo sufficiente alle lingue e anche alla lettura dei libri antichi, alle loro storie e alle loro favole. Perchè a conversare con gli uomini del passato accade quasi lo stesso che col viaggiare. E bene conoscere qualcosa dei costumi di altri popoli, per poter giudicare dei nostri più saggiamente, e non pensare che tutto ciò che è contrario alle nostre usanze sia ridicolo e irragionevole, come fanno di solito quelli che non hanno visto nulla. Ma quando si spende molto tempo nei viaggi, si diventa alla fine stranieri in casa propria; e quando si è troppo curiosi delle cose del passato, si rimane di solito assai ignoranti di quelle del presente.\n---\n(Renè Descartes - CARTESIO - Discorso sul metodo, parte I)",
-      "text": "Un limite della cultura umanistica secondo Cartesio:",
+      "text": "Un limite della cultura umanistica evidenziato da Cartesio:",
       "answers": {
         "a": "Più ci si peoccupa di conoscere le cose del passato, più si rischia di restare ignoranti di quelle attuali",
         "b": "La retorica non viene insegnata, ma si apprende dalla lettura dei libri antichi",
@@ -5207,7 +5207,7 @@
     },
     {
       "id": "29",
-      "text": "I've known her ____ I was 8.",
+      "text": "I've known her ___ I was 8.",
       "answers": {
         "a": "from",
         "b": "by",
@@ -5220,7 +5220,7 @@
     },
     {
       "id": "30",
-      "text": "My mother is looking _____ my little sister",
+      "text": "My mother is looking ___ my little sister",
       "answers": {
         "a": "after",
         "b": "forward",
@@ -5363,7 +5363,7 @@
     },
     {
       "id": "41",
-      "text": "My friend Dario  ___ the whole ABBA vinyl collection.",
+      "text": "My friend Dario ___ the whole ABBA vinyl collection.",
       "answers": {
         "a": "will have bought",
         "b": "will be going to buy",
