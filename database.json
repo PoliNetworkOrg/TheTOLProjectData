@@ -368,7 +368,7 @@
         "e": "$2^{12} < 9^6 < 5^8$"
       },
       "correct": "a",
-      "validated": true
+      "validated": false
     },
     {
       "id": "29",
@@ -472,7 +472,7 @@
         "e": "$111301_{4}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": false
     },
     {
       "id": "37",
@@ -498,7 +498,7 @@
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
       "correct": "e",
-      "validated": true
+      "validated": false
     },
     {
       "id": "39",
@@ -576,7 +576,7 @@
         "e": "Esagono"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "45",
