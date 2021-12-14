@@ -589,20 +589,20 @@
         "e": "$2 \\pi /9$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "46",
       "text": "Quanto fa $\\frac{2^{10}+2^{5}}{2^{10}-2^{5}}$?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "31",
+        "b": "32",
+        "c": "1",
+        "d": "2",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "",
-      "validated": false
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "47",
