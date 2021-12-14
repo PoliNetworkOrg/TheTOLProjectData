@@ -177,7 +177,7 @@
     },
     {
       "id": "14",
-      "text": "La parte intera del numero $log_{10}(2021)$ vale",
+      "text": "La parte intera del numero $log_{10}(2021)$ vale:",
       "answers": {
         "a": "202",
         "b": "3",
@@ -255,7 +255,7 @@
     },
     {
       "id": "20",
-      "text": "La varianza degli elementi dell'insieme ${3, 7, 8, 2, 5}$ vale:",
+      "text": "La varianza degli elementi dell'insieme $A = {3, 7, 8, 2, 5}$ vale:",
       "answers": {
         "a": "6,5",
         "b": "2,55",
@@ -281,7 +281,7 @@
     },
     {
       "id": "22",
-      "text": "Consideriamo gli elementi dell'insieme ${3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}}}$, quanti di essi sono minori di 2?",
+      "text": "Consideriamo gli elementi dell'insieme $A = {3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}}}$, quanti di essi sono minori di 2?",
       "answers": {
         "a": "0",
         "b": "1",
@@ -320,7 +320,7 @@
     },
     {
       "id": "25",
-      "text": "Sia $T$ un triangolo equilatero. Sia $r$ il raggio della circonferenza inscritta nel triangolo $T$ e $R$ il raggio della circonferenza circoscritta al triangolo $T$. Il rapporto $\\frac{R}{r}$ vale allora:",
+      "text": "Sia $T$ un triangolo equilatero. Sia $r$ il raggio della circonferenza inscritta nel triangolo $T$ e $R$ il raggio della circonferenza circoscritta al triangolo $T$. Allora il rapporto $\\frac{R}{r}$ vale:",
       "answers": {
         "a": "$3$",
         "b": "$\\sqrt{3}$",
@@ -333,7 +333,7 @@
     },
     {
       "id": "26",
-      "text": "Sia $Q$ un quadrato. Sia $r$ il raggio della circonferenza inscritta nel quadrato $Q$ e $R$ il raggio della circonferenza circoscritta al quadrato $Q$. Il rapporto $\\frac{R}{r}$ vale allora:",
+      "text": "Sia $Q$ un quadrato. Sia $r$ il raggio della circonferenza inscritta nel quadrato $Q$ e $R$ il raggio della circonferenza circoscritta al quadrato $Q$. Allora il rapporto $\\frac{R}{r}$ vale:",
       "answers": {
         "a": "$2$",
         "b": "$\\sqrt{2}$",
@@ -528,7 +528,7 @@
     },
     {
       "id": "41",
-      "text": "L'espressione $\\frac{1}{cos^2(x)}$ equivale",
+      "text": "L'espressione $\\frac{1}{cos^2(x)}$ equivale a:",
       "answers": {
         "a": "$\\frac{1}{sin^2(x)+1}$",
         "b": "$\\frac{tan(x)}{sin(x)}$",
@@ -589,7 +589,7 @@
         "e": "$2 \\pi /9$"
       },
       "correct": "e",
-      "validated": true
+      "validated": false
     },
     {
       "id": "46",
@@ -671,7 +671,7 @@
     },
     {
       "id": "52",
-      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? (si considerino anche quelli privi di significato).",
+      "text": "Quanti sono gli anagrammi della parola \"POLIMI\"? Si considerino anche quelli privi di significato.",
       "answers": {
         "a": "360",
         "b": "180",
@@ -4720,7 +4720,7 @@
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": true
+      "validated": false
     },
     {
       "id": "4",
