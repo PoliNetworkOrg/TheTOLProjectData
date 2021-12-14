@@ -5311,7 +5311,7 @@
     },
     {
       "id": "37",
-      "text": "\"Who are ___ girls?\" \"I don't know ___\"",
+      "text": "Who are ___ girls? I don't know ___",
       "answers": {
         "a": "that / them",
         "b": "those / hers",
@@ -5324,7 +5324,7 @@
     },
     {
       "id": "38",
-      "text": "\"What ___ your score?\" \"27 ___ 30\"",
+      "text": "What ___ your score? 27 ___ 30",
       "answers": {
         "a": "is / out of",
         "b": "is / on",
