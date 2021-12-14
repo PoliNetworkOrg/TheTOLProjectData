@@ -576,7 +576,7 @@
         "e": "Esagono"
       },
       "correct": "a",
-      "validated": true
+      "validated": false
     },
     {
       "id": "45",
@@ -4720,7 +4720,7 @@
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "4",
