@@ -748,7 +748,16 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "",
+      "text": "Considerato il punto B sull'arco AB in figura, quale è la posizione di P che rende massima l'area del quadrilatero OHPB?",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
