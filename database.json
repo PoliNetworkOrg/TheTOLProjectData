@@ -76,7 +76,7 @@
         "b": "$y=|log_{10}(x+1)|$",
         "c": "$y=log_{10}|x+1|$",
         "d": "$y=|ln(x+1)|$",
-        "e": "$y=ln|x+1|$"
+        "e": "$y=|ln(x+1)|$"
       },
       "correct": "d",
       "validated": true,
@@ -748,7 +748,7 @@
       "validated": true
     },
     {
-      "id": "",
+      "id": "58",
       "text": "Considerato il punto B sull'arco AB in figura, quale è la posizione di P che rende massima l'area del quadrilatero OHPB?",
       "answers": {
         "a": "",
@@ -4689,6 +4689,31 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "3",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "3",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "3",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "3",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "3",
+      "answers": {},
+      "validated": false
     }
   ],
   "fis": [
@@ -4847,6 +4872,11 @@
       },
       "correct": "d",
       "validated": true
+    },
+    {
+      "id": "13",
+      "answers": {},
+      "validated": false
     }
   ],
   "ing": [
@@ -5668,6 +5698,11 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "64",
+      "answers": {},
+      "validated": false
     }
   ]
 }
