@@ -5720,6 +5720,19 @@
       },
       "correct": "a",
       "validated": false
+    },
+    {
+      "id": "65",
+      "text": "The Evil Inc. is the ___ company in the world. ",
+      "answers": {
+        "a": "bad",
+        "b": "worse",
+        "c": "badest",
+        "d": "worstest",
+        "e": "worst"
+      },
+      "correct": "e",
+      "validated": false
     }
   ]
 }
