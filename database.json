@@ -761,6 +761,8 @@
       "validated": false
     },
     {
+      "id": "59",
+      "text": "Sia $ABCD$ un quadrato. Costruiamo esternamente al quadrato il triangolo equilatero $BCP$ e tracciamo la diagonale $AC$. Detta $K$ l'intersezione tra la retta $AC$ e $PD$, trovare l'ampiezza in gradi dell'angolo $\\widehat{CKP}$.",
       "answers": {},
       "validated": false
     },
