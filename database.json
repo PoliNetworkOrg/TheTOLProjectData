@@ -5710,7 +5710,15 @@
     },
     {
       "id": "64",
-      "answers": {},
+      "text": "What time is ___ dinner?",
+      "answers": {
+        "a": "the",
+        "b": "a",
+        "c": "some",
+        "d": "---",
+        "e": "for"
+      },
+      "correct": "a",
       "validated": false
     }
   ]
