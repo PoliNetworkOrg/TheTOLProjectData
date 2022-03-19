@@ -750,7 +750,14 @@
     {
       "id": "58",
       "text": "test",
-      "answers": {},
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
@@ -5729,7 +5736,7 @@
     },
     {
       "id": "66",
-      "text": "Gabriele ___ already ___ at 5:00 AM",
+      "text": "Gabriele ___ already ___ at 5:00 AM.",
       "answers": {
         "a": "is / studies",
         "b": "is / studying",
@@ -5746,7 +5753,7 @@
       "answers": {
         "a": "has / did / forms",
         "b": "is / planning / formed",
-        "c": "has / scheduled /former",
+        "c": "has / scheduled / former",
         "d": "is / did / formy",
         "e": "has / planned / form"
       },
@@ -5755,15 +5762,15 @@
     },
     {
       "id": "68",
-      "text": "",
+      "text": "This challenging project is ___ thanks to the resourcefulness of ___ members.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "grown / their",
+        "b": "grow up / it",
+        "c": "growing / they",
+        "d": "growing / its",
+        "e": "grew /---"
       },
-      "correct": "",
+      "correct": "d",
       "validated": false
     }
   ]
