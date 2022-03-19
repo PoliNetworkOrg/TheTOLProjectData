@@ -749,15 +749,8 @@
     },
     {
       "id": "58",
-      "text": "Considerato il punto B sull'arco AB in figura, quale è la posizione di P che rende massima l'area del quadrilatero OHPB?",
-      "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
-      },
-      "correct": "",
+      "text": "test",
+      "answers": {},
       "validated": false
     },
     {
@@ -5710,7 +5703,7 @@
     },
     {
       "id": "64",
-      "text": "What time is ___ dinner?",
+      "text": "\"What time is ___ show?\" \"I really don't know\"",
       "answers": {
         "a": "the",
         "b": "a",
@@ -5732,6 +5725,45 @@
         "e": "worst"
       },
       "correct": "e",
+      "validated": false
+    },
+    {
+      "id": "66",
+      "text": "Gabriele ___ already ___ at 5:00 AM",
+      "answers": {
+        "a": "is / studies",
+        "b": "is / studying",
+        "c": "--- / studying",
+        "d": "is / study",
+        "e": "studies / ---"
+      },
+      "correct": "b",
+      "validated": false
+    },
+    {
+      "id": "67",
+      "text": "Ilaria __ just ___ a conference call with her ___ math teacher.",
+      "answers": {
+        "a": "has / did / forms",
+        "b": "is / planning / formed",
+        "c": "has / scheduled /former",
+        "d": "is / did / formy",
+        "e": "has / planned / form"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "68",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     }
   ]
