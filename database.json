@@ -5824,12 +5824,12 @@
     },
     {
       "id": "72",
-      "text": "I've heard Chiara and Daria have broken ___. Now they don't even speak to each other.",
+      "text": "I've heard Chiara and Daria have broken ___. Now they don't even speak ___each other.",
       "answers": {
-        "a": "up",
-        "b": "in",
-        "c": "out",
-        "d": "off",
+        "a": "up / to",
+        "b": "in / ---",
+        "c": "out / at",
+        "d": "off / up",
         "e": "through"
       },
       "correct": "a",
