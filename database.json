@@ -762,19 +762,28 @@
     },
     {
       "id": "59",
-      "text": "Giacomo gioca con due dadi, le cui facce sono numerate con i numeri da 1 a 6. Lancia contemporaneamente i dadi e ogni volta annota la somma dei numeri usciti (ad esempio, se in un lancio escono i numeri 3 e 6, annota il numero 9). Dopo 1 milione di tiri, quante volte ci si può aspettare che abbia annotato il numero 2?",
+      "text": "Giacomo gioca con due dadi, le cui facce sono numerate con i numeri da 1 a 6. Lancia contemporaneamente i dadi e ogni volta annota la somma dei numeri usciti (ad esempio, se in un lancio escono i numeri 3 e 6, annota il numero 9). Dopo 1 milione di lanci, quante volte ci si può aspettare che abbia annotato il numero 2?",
       "answers": {
         "a": "0 volte",
         "b": "Circa 2000 volte",
         "c": "Circa 12000 volte",
         "d": "Circa 28000 volte",
-        "e": "Circa 83000 volte"
+        "e": "Circa 91000 volte"
       },
       "correct": "d",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "60",
+      "text": "Quante sono le soluzioni reali dell'equazione $sin(x)=-x$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4",
+        "e": "Infinite"
+      },
+      "correct": "b",
       "validated": false
     },
     {
