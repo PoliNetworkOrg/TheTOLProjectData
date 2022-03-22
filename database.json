@@ -5738,7 +5738,7 @@
         "e": "for"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "65",
@@ -5751,7 +5751,7 @@
         "e": "worst"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "66",
@@ -5764,7 +5764,7 @@
         "e": "studies / ---"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "67",
@@ -5777,7 +5777,7 @@
         "e": "has / planned / form"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "68",
@@ -5790,7 +5790,7 @@
         "e": "grew /---"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "69",
@@ -5833,7 +5833,7 @@
     },
     {
       "id": "72",
-      "text": "I've heard Chiara and Daria have broken ___. Now they don't even speak ___each other.",
+      "text": "I've heard Chiara and Daria have broken ___ . Now they don't even speak ___ each other.",
       "answers": {
         "a": "up / to",
         "b": "in / ---",
@@ -5859,7 +5859,7 @@
     },
     {
       "id": "74",
-      "text": "Oh, knock it ___, Dario! You've ___ going on about this all day.",
+      "text": "Oh, knock it ___ . Dario! You've ___ going on about this all day.",
       "answers": {
         "a": "down / had",
         "b": "off /been",
