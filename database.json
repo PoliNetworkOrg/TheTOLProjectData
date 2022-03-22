@@ -5803,7 +5803,7 @@
         "e": "haven't"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "70",
@@ -5816,7 +5816,7 @@
         "e": "what"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "71",
@@ -5829,7 +5829,7 @@
         "e": "into"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "72",
@@ -5842,7 +5842,7 @@
         "e": "through"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "73",
@@ -5855,7 +5855,7 @@
         "e": "to"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "74",
@@ -5868,7 +5868,7 @@
         "e": "on / had"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     }
   ]
 }
