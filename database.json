@@ -787,7 +787,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "61",
+      "text": "Se il numero reale $a$ è una radice del polinomio $P(x)$, quale di queste affermazioni è sicuramente vera?",
+      "answers": {
+        "a": "$P(x)$ è monico",
+        "b": "$P(x)$ ha grado 1",
+        "c": "$P(0)=a$",
+        "d": "$P(x)$ è divisibile per $(x+a)$",
+        "e": "$P(x)$ è divisibile per $(x-a)$"
+      },
+      "correct": "e",
       "validated": false
     },
     {
