@@ -771,7 +771,7 @@
         "e": "Circa 91000 volte"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "60",
@@ -784,7 +784,7 @@
         "e": "Infinite"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "61",
@@ -797,7 +797,7 @@
         "e": "$P(x)$ è divisibile per $(x-a)$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
