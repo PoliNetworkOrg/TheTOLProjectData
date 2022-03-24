@@ -800,10 +800,20 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "62",
+      "text": "Sapendo che un gatto e mezzo mangia un topo e mezzo in un minuto e mezzo, quanti gatti servono per mangiare sessanta topo in mezz'ora? ",
+      "answers": {
+        "a": "10",
+        "b": "3",
+        "c": "60",
+        "d": "30",
+        "e": "20"
+      },
+      "correct": "b",
       "validated": false
     },
     {
+      "id": "63",
       "answers": {},
       "validated": false
     },
