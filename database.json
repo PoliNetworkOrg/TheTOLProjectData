@@ -826,12 +826,33 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "64",
+      "text": "In quale delle opzioni le due equazioni identificano la stessa curva sul piano cartesiano?",
+      "answers": {
+        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$ e $y=x-2$",
+        "b": "$y=e^{ln(x)}$ e $y=x$",
+        "c": "$y=ln(e^x)$ e $y=x$",
+        "d": "$y=\\sqrt{x}$ e $y^2=x$",
+        "e": "$(x-1)^2+(y-2)^2=9$ e $x^2+y^2-2x-4y=0$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "65",
+      "text": "A quale di queste equazioni potrebbe corrispondere il grafico in figura?",
+      "answers": {
+        "a": "$-4x+2y+3=0$",
+        "b": "$3x+2y-3=0$",
+        "c": "$-3x+y=0$",
+        "d": "$2x-3=0$",
+        "e": "$2y+3=0$"
+      },
+      "correct": "a",
+      "validated": false,
+      "attachments": [
+        "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
+      ]
     },
     {
       "answers": {},
