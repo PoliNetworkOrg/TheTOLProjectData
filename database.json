@@ -814,8 +814,16 @@
     },
     {
       "id": "63",
-      "answers": {},
-      "validated": false
+      "text": "Che cosa rappresenta nel piano ortogonale x^2-y^2+2x=0?",
+      "answers": {
+        "a": "Iperbole ",
+        "b": "Ellisse",
+        "c": "Parabola",
+        "d": "Ellisse con centro in (0,0)",
+        "e": "Circonferenza"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "answers": {},
@@ -4913,7 +4921,28 @@
     },
     {
       "id": "13",
-      "answers": {},
+      "text": "Indicare la terminologia corretta",
+      "answers": {
+        "a": "Isoterma= p costante, isobara=v costante, isocora = t costante ",
+        "b": "Isoterma= t costante, isobara=p costante, isocora= v costante ",
+        "c": "Isoterma= v costante, isobara= p costante, isocora=t costante ",
+        "d": "Isoterma= p costante, isobara= t costante, isocora= v costante ",
+        "e": "Isoterma= v costante, isobara= t costante, isocora= p costante "
+      },
+      "correct": "b",
+      "validated": false
+    },
+    {
+      "id": "14",
+      "text": "indicare quale è la formula corretta:",
+      "answers": {
+        "a": "p*v=nrd",
+        "b": "p/v=nrC",
+        "c": "p/v=d",
+        "d": "p/d=rt/MM",
+        "e": "d=m*v"
+      },
+      "correct": "d",
       "validated": false
     }
   ],
