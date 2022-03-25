@@ -855,11 +855,29 @@
       ]
     },
     {
-      "answers": {},
+      "id": "66",
+      "text": "Quali dei seguenti numeri è intero?",
+      "answers": {
+        "a": "$\\sqrt{27}$",
+        "b": "$\\sqrt{26}$",
+        "c": "$\\sqrt{25}$",
+        "d": "$\\sqrt{24}$",
+        "e": "$\\sqrt{23}$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "67",
+      "text": "Definita la funzione $f(x)=sin(x)+cos(x)$ qual è il massimo valore che può assumere $f(x)$?",
+      "answers": {
+        "a": "$1$",
+        "b": "$\\sqrt{2}$",
+        "c": "$\\sqrt{3}$",
+        "d": "$2$",
+        "e": "$\\frac{1}{2}"
+      },
+      "correct": "b",
       "validated": false
     },
     {
