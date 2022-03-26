@@ -865,7 +865,7 @@
         "e": "$\\sqrt{23}$"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "67",
@@ -878,11 +878,20 @@
         "e": "$\\frac{1}{2}"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "68",
+      "text": "Nei suoi ultimi 4 esami, Gianni ha ottenuto a tutti gli esami, il voto 27. Al quinto esame, ha ottenuto un voto diverso, ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere il voto ottenuto da Gianni?",
+      "answers": {
+        "a": "30",
+        "b": "29",
+        "c": "28",
+        "d": "26",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "answers": {},
