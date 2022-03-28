@@ -5985,7 +5985,7 @@
     },
     {
       "id": "77",
-      "text": "\"How old are you?\" she said. She asked ___ how old ___",
+      "text": "\"How old are you?\", she said. She asked ___ how old ___",
       "answers": {
         "a": "--- / I was",
         "b": "me / I was",
@@ -5998,28 +5998,28 @@
     },
     {
       "id": "78",
-      "text": "",
+      "text": "Smoking is unhealthy, ___ a lot of people find __ difficult to stop",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "although / ---",
+        "b": "even if / ---",
+        "c": "but / it",
+        "d": "but /---",
+        "e": "even if / so"
       },
-      "correct": "",
+      "correct": "b",
       "validated": false
     },
     {
       "id": "79",
-      "text": "",
+      "text": "I'm sorry, she's ___  gone. She ___ some time ago.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "yet /goes away",
+        "b": "already / was",
+        "c": "still / goes away",
+        "d": "already / went",
+        "e": "already / is here"
       },
-      "correct": "",
+      "correct": "d",
       "validated": false
     }
   ]
