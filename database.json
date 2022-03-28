@@ -5956,6 +5956,71 @@
       },
       "correct": "b",
       "validated": true
+    },
+    {
+      "id": "75",
+      "text": "If you ___ more carefully, you ___ so many accidents",
+      "answers": {
+        "a": "drive / couldn't have",
+        "b": "are / don't have",
+        "c": "driven / shouldn't have",
+        "d": "drive / not have",
+        "e": "drove / wouldn't have"
+      },
+      "correct": "e",
+      "validated": false
+    },
+    {
+      "id": "76",
+      "text": "They'll probably be hungry because they ___ eaten",
+      "answers": {
+        "a": "will have",
+        "b": "have had",
+        "c": "won't have",
+        "d": "haven't",
+        "e": "had not"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "77",
+      "text": "\"How old are you?\" she said. She asked ___ how old ___",
+      "answers": {
+        "a": "--- / I was",
+        "b": "me / I was",
+        "c": "--- / she were",
+        "d": "--- / I am",
+        "e": "me / I am"
+      },
+      "correct": "a",
+      "validated": false
+    },
+    {
+      "id": "78",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": false
+    },
+    {
+      "id": "79",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": false
     }
   ]
 }
