@@ -6021,6 +6021,45 @@
       },
       "correct": "d",
       "validated": false
+    },
+    {
+      "id": "80",
+      "text": "When you ___ Mario, ___ him I want to talk to him.",
+      "answers": {
+        "a": "will see / told",
+        "b": "see / tell",
+        "c": "have seen / ask",
+        "d": "might see / would tell",
+        "e": "saw / have told"
+      },
+      "correct": "b",
+      "validated": false
+    },
+    {
+      "id": "81",
+      "text": "In 2017, Roger Federer ___ Wimbledon ___ the eighth time.",
+      "answers": {
+        "a": "has won / at",
+        "b": "would have won / to",
+        "c": "won / for",
+        "d": "wins / by",
+        "e": "win / ---"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "82",
+      "text": "We've been waiting ___ G.R.R. Martin to finish the book ___ more than 10 years.",
+      "answers": {
+        "a": "by / at",
+        "b": "up / through",
+        "c": "--- / on",
+        "d": "on / along",
+        "e": "for / for"
+      },
+      "correct": "e",
+      "validated": false
     }
   ]
 }
