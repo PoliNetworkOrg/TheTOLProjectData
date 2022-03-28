@@ -875,7 +875,7 @@
         "b": "$\\sqrt{2}$",
         "c": "$\\sqrt{3}$",
         "d": "$2$",
-        "e": "$\\frac{1}{2}"
+        "e": "$\\frac{1}{2}$"
       },
       "correct": "b",
       "validated": true
@@ -5962,9 +5962,9 @@
       "text": "If you ___ more carefully, you ___ so many accidents",
       "answers": {
         "a": "drive / couldn't have",
-        "b": "are / don't have",
+        "b": "are / not have",
         "c": "driven / shouldn't have",
-        "d": "drive / not have",
+        "d": "drive / have",
         "e": "drove / wouldn't have"
       },
       "correct": "e",
