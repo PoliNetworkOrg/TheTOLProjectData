@@ -829,11 +829,11 @@
       "id": "64",
       "text": "In quale delle opzioni le due equazioni identificano la stessa curva sul piano cartesiano?",
       "answers": {
-        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$ e $y=x-2$",
-        "b": "$y=e^{ln(x)}$ e $y=x$",
-        "c": "$y=ln(e^x)$ e $y=x$",
-        "d": "$y=\\sqrt{x}$ e $y^2=x$",
-        "e": "$(x-1)^2+(y-2)^2=9$ e $x^2+y^2-2x-4y=0$"
+        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$  ;  $y=x-2$",
+        "b": "$y=e^{ln(x)}$  ;  $y=x$",
+        "c": "$y=ln(e^x)$  ;  $y=x$",
+        "d": "$y=\\sqrt{x}$  ;  $y^2=x$",
+        "e": "$(x-1)^2+(y-2)^2=9$  ;  $x^2+y^2-2x-4y=0$"
       },
       "correct": "c",
       "validated": false
