@@ -5968,7 +5968,7 @@
         "e": "drove / wouldn't have"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "76",
@@ -5981,7 +5981,7 @@
         "e": "had not"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "77",
@@ -5994,33 +5994,33 @@
         "e": "me / I am"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "78",
-      "text": "Smoking is unhealthy, ___ a lot of people find __ difficult to stop",
+      "text": "Smoking is unhealthy, ___ a lot of people find ___ difficult to stop",
       "answers": {
         "a": "although / ---",
         "b": "even if / ---",
         "c": "but / it",
-        "d": "but /---",
+        "d": "but / ---",
         "e": "even if / so"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "79",
       "text": "I'm sorry, she's ___  gone. She ___ some time ago.",
       "answers": {
-        "a": "yet /goes away",
+        "a": "yet / goes away",
         "b": "already / was",
         "c": "still / goes away",
         "d": "already / went",
         "e": "already / is here"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "80",
