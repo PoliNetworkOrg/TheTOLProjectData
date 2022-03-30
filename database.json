@@ -894,7 +894,16 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "69",
+      "text": "In quali dei seguenti polinomi di primo grado $p(x)$ accade che $p(n)$ è un numero pari per qualsiasi valore di $n$ intero?",
+      "answers": {
+        "a": "$p(x)=3x+2$",
+        "b": "$p(x)=2x+7$",
+        "c": "$p(x)=5x+8$",
+        "d": "$p(x)=2x+6$",
+        "e": "$p(x)=x+1$"
+      },
+      "correct": "d",
       "validated": false
     },
     {
