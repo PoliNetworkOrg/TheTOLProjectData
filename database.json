@@ -836,7 +836,7 @@
         "e": "$(x-1)^2+(y-2)^2=9$  ;  $x^2+y^2-2x-4y=0$"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "65",
@@ -6042,7 +6042,7 @@
         "e": "saw / have told"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "81",
@@ -6055,7 +6055,7 @@
         "e": "win / ---"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "82",
@@ -6068,7 +6068,33 @@
         "e": "for / for"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
+    },
+    {
+      "id": "83",
+      "text": "I see that, after ___ this time, you still remember my tastes.",
+      "answers": {
+        "a": "so much",
+        "b": "much",
+        "c": "every",
+        "d": "all",
+        "e": "whole"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "84",
+      "text": "Once ___ time, there was a horse that loved ___ apples more than anything.",
+      "answers": {
+        "a": "--- / eat",
+        "b": "upon a / eating",
+        "c": "a / to eat",
+        "d": "upon the / eatying",
+        "e": "last / ate"
+      },
+      "correct": "b",
+      "validated": true
     }
   ]
 }
