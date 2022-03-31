@@ -908,7 +908,7 @@
     },
     {
       "id": "70",
-      "text": "Per quanti valori $x$ interi la seguente equazione $\\sqrt[4]{x^12} = sin(x)$ è soddisfatta nell'intervallo $[-\\pi, +\\pi]$?",
+      "text": "Per quanti valori $x$ interi la seguente equazione $\\sqrt[4]{(x)^12} = sin(x)$ è soddisfatta nell'intervallo $[-\\pi, +\\pi]$?",
       "answers": {
         "a": "0",
         "b": "1",
