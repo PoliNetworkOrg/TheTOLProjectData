@@ -801,25 +801,25 @@
     },
     {
       "id": "62",
-      "text": "Quali sono le soluzioni $x$ reali della seguente disequazione\n$x|x|\\geqslant |x-2|$ nell'intervallo [-2; 0]?",
+      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}{|x|}}\\geqslant |x-1|$ è soddisfatta?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "(0, 2]",
+        "b": "[0, 1]",
+        "c": "(1, 2)",
+        "d": "[2, +\\infty)",
+        "e": "(0, 1)"
       },
-      "correct": "",
+      "correct": "a",
       "validated": true
     },
     {
       "id": "63",
       "text": "Data la seguente equazione: $x^2+y^2+2x=0$ di quale luogo geometrico dei punti del piano si tratta?",
       "answers": {
-        "a": "Una circonferenza con centro (1; 0) e raggio $\\sqrt{3}$",
-        "b": "Un' ellisse con centro nell'origine",
-        "c": "Un' iperbole equilatera",
-        "d": "Un' ellisse con centro in (-1; 0)",
+        "a": "Una circonferenza con centro (1; 0) e raggio $\\sqrt{1}$",
+        "b": "Un'ellisse con centro nell'origine",
+        "c": "Un'iperbole equilatera",
+        "d": "Un'ellisse con centro in (-1; 0)",
         "e": "Una circonferenza con centro (-1; 0) e raggio 1"
       },
       "correct": "e",
