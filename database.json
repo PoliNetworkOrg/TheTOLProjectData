@@ -801,16 +801,16 @@
     },
     {
       "id": "62",
-      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}{|x|}}\\geqslant |x-1|$ è soddisfatta?",
+      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{|x|}\\geqslant |x-1|$ è soddisfatta?",
       "answers": {
         "a": "(0, 2]",
         "b": "[0, 1]",
         "c": "(1, 2)",
-        "d": "[2, +\\infty)",
-        "e": "(0, 1)"
+        "d": "$[2, +\\infty)$",
+        "e": "(0, 2)"
       },
       "correct": "a",
-      "validated": true
+      "validated": false
     },
     {
       "id": "63",
@@ -849,7 +849,7 @@
         "e": "$2y+3=0$"
       },
       "correct": "a",
-      "validated": true,
+      "validated": false,
       "attachments": [
         "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
       ]
@@ -907,7 +907,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "70",
+      "text": "Per quanti valori $x$ interi la seguente equazione $\\sqrt{4}{x^12} = sin(x)$ è soddisfatta nell'intervallo $[-\\pi, +\\pi]$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "b",
       "validated": false
     },
     {
