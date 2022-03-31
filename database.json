@@ -801,7 +801,7 @@
     },
     {
       "id": "62",
-      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{x}\\geqslant |x-1|$ è soddisfatta?",
+      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{x}\\geqslant \\sqrt{(x-1)^{2}}$ è soddisfatta?",
       "answers": {
         "a": "(0, 2]",
         "b": "[0, 1]",
@@ -917,20 +917,20 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "71",
-      "text": "Sia $cos(x)=\\frac{k-1}{k+1}$ con $K \\in ℕ$. Allora cos(x) è definita se:",
+      "text": "Sia $cos(x)=\\frac{k-1}{k+1}$ con $K \\in ℕ$. Allora $cos(x)$ è definita se:",
       "answers": {
         "a": "$k \\geqslant 0$",
-        "b": "$k \\not -1$",
+        "b": "$k \\ne -1$",
         "c": "$k > -1$",
         "d": "$-1 < k \\leqslant 1$",
         "e": "$-1 < k \\leqslant 0$"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
