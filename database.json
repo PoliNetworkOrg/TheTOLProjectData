@@ -933,8 +933,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "72",
+      "text": "Le vetture di una certa linea tranviaria partono dal capolinea ad intervalli regolari di 10 e 30 minuti alternativamente. In media, quanto deve aspettare la partenza del tram un utente che giunga al capolinea senza conoscere gli orari di partenza?",
+      "answers": {
+        "a": "10 minuti",
+        "b": "12  minuti e mezzo",
+        "c": "15 minuti",
+        "d": "20 minuti",
+        "e": "30 minuti"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "answers": {},
