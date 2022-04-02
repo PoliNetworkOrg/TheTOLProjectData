@@ -936,24 +936,27 @@
       "id": "72",
       "text": "Le vetture di una certa linea tranviaria partono dal capolinea ad intervalli regolari di 10 e 30 minuti alternativamente. In media, quanto deve aspettare la partenza del tram un utente che giunga al capolinea senza conoscere gli orari di partenza?",
       "answers": {
-        "a": "10 minuti",
+        "a": "20 minuti",
         "b": "12  minuti e mezzo",
-        "c": "15 minuti",
-        "d": "20 minuti",
+        "c": "10 minuti",
+        "d": "15 minuti",
         "e": "30 minuti"
       },
-      "correct": "a",
+      "correct": "c",
       "validated": true
     },
     {
-      "id": "",
-      "text": "Interrogato dal magistrato, Ferruccio negò fermamente di non aver rifiutato di affermare il falso. Basandosi sulla precedente affermazione, quale delle seguenti alternative è esatta:",
+      "id": "73",
+      "text": "Interrogato dal magistrato, Ferruccio negò fermamente di non aver rifiutato di affermare il falso. Basandosi sulla precedente affermazione, quale delle seguenti alternative è esatta?",
       "answers": {
         "a": "Ferruccio si è rifiutato di dire il falso",
         "b": "Ferruccio ha affermato il falso",
-        "c": "Ferruccio si è rifiutato di dire la verità"
+        "c": "Ferruccio ha detto la verità",
+        "d": "Ferruccio si è rifiutato di dire la verità",
+        "e": "Ferruccio dice sempre la verità, anche quando mente"
       },
-      "validated": false
+      "correct": "a",
+      "validated": true
     },
     {
       "answers": {},
