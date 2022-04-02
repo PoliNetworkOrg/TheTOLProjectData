@@ -6167,6 +6167,32 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "87",
+      "text": "I've never seen ___ a messy room.",
+      "answers": {
+        "a": "that",
+        "b": "such",
+        "c": "much",
+        "d": "very",
+        "e": "too"
+      },
+      "correct": "b",
+      "validated": false
+    },
+    {
+      "id": "88",
+      "text": "When the phone ___, I was ___ bed.",
+      "answers": {
+        "a": "ringed / on",
+        "b": "ring / to",
+        "c": "rung / at",
+        "d": "ranged / off",
+        "e": "rang / in"
+      },
+      "correct": "e",
+      "validated": false
     }
   ]
 }
