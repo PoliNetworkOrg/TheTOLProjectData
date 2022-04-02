@@ -973,7 +973,7 @@
     },
     {
       "id": "75",
-      "text": "Se si aumentassero di 1 $cm$ tutti i lati di un rettangolo, allora la sua area aumenterebbe di 31 $cm^2$. Se dello stesso rettangolo venissero diminuiti di 1 $cm$ i due lati maggiori e di 2 $cm$ gli altri due, allora la sua area diminuirebbe di 46 $cm^2$. Quanto misurano i lati del rettangolo?",
+      "text": "Se si aumentano di 1 $cm$ tutti i lati di un rettangolo, allora la sua area aumenta di 31 $cm^2$; se vengono diminuiti di 1 $cm$ i due lati maggiori e di 2 $cm$ gli altri due, allora la sua area diminuisce di 46 $cm^2$. Quanto misurano i lati del rettangolo?",
       "answers": {
         "a": "17 $cm$ e 10 $cm$",
         "b": "16 $cm$ e 13 $cm$",
@@ -5046,7 +5046,7 @@
         "e": "Nessuna delle precedenti."
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     }
   ],
   "ing": [
