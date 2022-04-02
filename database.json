@@ -6179,7 +6179,7 @@
         "e": "too"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "88",
@@ -6192,7 +6192,33 @@
         "e": "rang / in"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
+    },
+    {
+      "id": "89",
+      "text": "I'm ___ reader of X-Men comics, but I'm starting to feel ___ by the amount of series that are currently being published.",
+      "answers": {
+        "a": "an avid / overwhelmed",
+        "b": "an animistic / bamboozled",
+        "c": "a caustic / flabbergasted",
+        "d": "a casual / overlooked",
+        "e": "an erratic / overdressed"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "90",
+      "text": "This assignment must be ___ by Monday.",
+      "answers": {
+        "a": "handed to",
+        "b": "hund on",
+        "c": "handed",
+        "d": "handed in",
+        "e": "handed into"
+      },
+      "correct": "d",
+      "validated": true
     }
   ]
 }
