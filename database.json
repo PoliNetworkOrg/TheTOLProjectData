@@ -801,7 +801,7 @@
     },
     {
       "id": "62",
-      "text": "Per quali $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{x}\\geqslant \\sqrt{(x-1)^{2}}$ è soddisfatta?",
+      "text": "Per quali valori $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{x}\\geqslant \\sqrt{(x-1)^{2}}$ è soddisfatta?",
       "answers": {
         "a": "(0, 2]",
         "b": "[0, 1]",
