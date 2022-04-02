@@ -959,8 +959,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "74",
+      "text": "La relazione $sin^4(x)+cos^4(x)+2sin^2(x)cos^2(x)=ln^2(e)$:",
+      "answers": {
+        "a": "E' sempre falsa",
+        "b": "E' vera $\\forall x$",
+        "c": "E' vera $\\iff x=\\pi$",
+        "d": "E' vera $\\iff x=0$",
+        "e": "E' vera $\\iff sin(x)=cos(x)$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
