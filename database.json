@@ -5056,6 +5056,32 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "14",
+      "text": "Quale delle seguenti affermazioni è corretta:",
+      "answers": {
+        "a": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di elettroni",
+        "b": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di elettroni ma diverso numero di protoni",
+        "c": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di massa ma diverso numero atomico",
+        "d": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di neutroni ma diverso numero di elettroni",
+        "e": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di neutroni"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "15",
+      "text": "Un piccolo conduttore è immerso in un campo elettrico uniforme generato da un condensatore costituito da due lastre conduttrici piane e parallele (armature) che possiedono cariche elettriche uguali in valore assoluto e di segni opposti. Si può affermare che:",
+      "answers": {
+        "a": "Nel conduttore si crea una carica indotta di segno opposto alla armatura pià vicina del condensatore. Se è al centro dei due piani, e solo in questo caso, la carica indotta è nulla",
+        "b": "Nel conduttore, in condizioni stazionarie, il campo elettrico è sempre nullo",
+        "c": "Nel conduttore il campo elettrico è minore che nel vuoto",
+        "d": "Nel conduttore il campo elettrico è opposto a quello esterno e uguale in valore assoluto",
+        "e": "Il potenziale del conduttore diminuisce rispetto a quello nel vuoto"
+      },
+      "correct": "b",
+      "validated": true
     }
   ],
   "ing": [
