@@ -960,13 +960,13 @@
     },
     {
       "id": "74",
-      "text": "La relazione $sin^4(x)+cos^4(x)+2sin^2(x)cos^2(x)=ln^2(e)$:",
+      "text": "La relazione $sin^4(x)+cos^4(x)+2sin^2(x)cos^2(x)=ln^2(e)$ è:",
       "answers": {
-        "a": "E' sempre falsa",
-        "b": "E' vera $\\forall x$",
-        "c": "E' vera $\\iff x=\\pi$",
-        "d": "E' vera $\\iff x=0$",
-        "e": "E' vera $\\iff sin(x)=cos(x)$"
+        "a": "Sempre falsa",
+        "b": "Vera $\\forall x$",
+        "c": "Vera $\\iff x=\\pi$",
+        "d": "Vera $\\iff x=0$",
+        "e": "Vera $\\iff sin(x)=cos(x)$"
       },
       "correct": "b",
       "validated": true
@@ -985,8 +985,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "76",
+      "text": "Quanto rimane in percentuale del volume di un cubo dal quale viene tolto 2/3 del volume della sfera inscritta?",
+      "answers": {
+        "a": "Dipende dal lato del cubo",
+        "b": "73% circa",
+        "c": "67% circa",
+        "d": "70% circa",
+        "e": "65% circa"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "answers": {},
