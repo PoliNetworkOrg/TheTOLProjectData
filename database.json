@@ -998,6 +998,8 @@
       "validated": true
     },
     {
+      "id": "77",
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ} e l'angolo in $B$ misura $90^{\\circ}. Le bisettrici dell'angolo in ",
       "answers": {},
       "validated": false
     },
@@ -5930,7 +5932,7 @@
     },
     {
       "id": "64",
-      "text": "\"What time is ___ show?\" \"I really don't know\"",
+      "text": "\"What time is ___ show?\" \"I really don't know\".",
       "answers": {
         "a": "the",
         "b": "a",
@@ -6086,7 +6088,7 @@
     },
     {
       "id": "76",
-      "text": "They'll probably be hungry because they ___ eaten",
+      "text": "They'll probably be hungry because they ___ eaten.",
       "answers": {
         "a": "will have",
         "b": "have had",
@@ -6099,7 +6101,7 @@
     },
     {
       "id": "77",
-      "text": "\"How old are you?\", she said. She asked ___ how old ___",
+      "text": "\"How old are you?\", she said. She asked ___ how old ___ .",
       "answers": {
         "a": "--- / I was",
         "b": "me / I was",
@@ -6112,7 +6114,7 @@
     },
     {
       "id": "78",
-      "text": "Smoking is unhealthy, ___ a lot of people find ___ difficult to stop",
+      "text": "Smoking is unhealthy, ___ a lot of people find ___ difficult to stop.",
       "answers": {
         "a": "although / ---",
         "b": "even if / ---",
@@ -6242,7 +6244,7 @@
     },
     {
       "id": "88",
-      "text": "When the phone ___, I was ___ bed.",
+      "text": "When the phone ___ , I was ___ bed.",
       "answers": {
         "a": "ringed / on",
         "b": "ring / to",
@@ -6277,6 +6279,45 @@
         "e": "handed into"
       },
       "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "91",
+      "text": "The ___ beautiful word in the English language is \"you\".",
+      "answers": {
+        "a": "best",
+        "b": "most",
+        "c": "more",
+        "d": "less",
+        "e": "last"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "92",
+      "text": "Elisa was disappointed ___ the low mark she ___ in the test.",
+      "answers": {
+        "a": "from / had",
+        "b": "of /get",
+        "c": "by / got",
+        "d": "because / does",
+        "e": "for / did not"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "93",
+      "text": "If you ___ stayed at home, there wouldn't ___ any trouble.",
+      "answers": {
+        "a": "'d / have been",
+        "b": "--- / see",
+        "c": "'ll / seen",
+        "d": "'d / have had",
+        "e": "--- / had"
+      },
+      "correct": "a",
       "validated": true
     }
   ]
