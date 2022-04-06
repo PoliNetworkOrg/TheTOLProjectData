@@ -904,7 +904,7 @@
         "e": "$p(x)=x+1$"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "70",
@@ -999,9 +999,16 @@
     },
     {
       "id": "77",
-      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ} e l'angolo in $B$ misura $90^{\\circ}. Le bisettrici dell'angolo in ",
-      "answers": {},
-      "validated": false
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\widehat{APC}$? ",
+      "answers": {
+        "a": "$126^{\\circ}$",
+        "b": "$135^{\\circ}$",
+        "c": "$148^{\\circ}$",
+        "d": "$144^{\\circ}$",
+        "e": "$150^{\\circ}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
