@@ -1025,16 +1025,16 @@
     },
     {
       "id": "79",
-      "text": "",
+      "text": "I risultati di un'indagine interna al Poli mostrano che il 55% degli studenti amano la matematica, il 25% amano la fisica ed il 15% entrambe. Quanti sono gli studenti che non amano nè matematica nè fisica?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "10%",
+        "b": "15%",
+        "c": "30%",
+        "d": "35%",
+        "e": "40%"
       },
-      "correct": "",
-      "validated": false
+      "correct": "d",
+      "validated": true
     },
     {
       "id": "80",
@@ -1102,7 +1102,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
