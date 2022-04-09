@@ -1012,7 +1012,7 @@
     },
     {
       "id": "78",
-      "text": "La variante Omicron di un virus ha contagiato 10.000 cittadini di una provincia Cinese. Si sa che in questa provincia i contagiati crescono costantemente nella misura di 1000 casi al giorno. In uno stato Americano, 1000 cittadini vengono contagiati dalla stessa variante, con una crescita dei contagi giornalieri del 50%. Dopo quanti giorni il numero dei contagiati dello stato Americano supera quello della provincia Cinese?",
+      "text": "La variante Omicron di un virus ha contagiato 10.000 residenti di una provincia cinese. Si sa che in questa provincia i contagiati crescono costantemente nella misura di 1000 casi al giorno. In uno stato americano, 1000 residenti vengono contagiati dalla stessa variante, con una crescita dei contagi giornalieri del 50%. Dopo quanti giorni il numero dei contagiati dello stato americano supera quello della provincia cinese?",
       "answers": {
         "a": "Prima di 6 giorni",
         "b": "Dopo 6 giorni ma prima di 7 giorni",
@@ -1024,27 +1024,81 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "79",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "80",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "81",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "82",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "83",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "84",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
