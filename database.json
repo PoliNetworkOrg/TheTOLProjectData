@@ -1051,15 +1051,15 @@
     },
     {
       "id": "81",
-      "text": "Qual è il valore di tg(alfa) sapendo che sin(alfa)=4/5 e che l'angolo alfa si trova nel primo quadrante?",
+      "text": "Qual è il valore di tg(alfa) sapendo che sin(alfa)=5/13 e che l'angolo alfa si trova nel primo quadrante?",
       "answers": {
-        "a": "4/3",
-        "b": "3/4",
-        "c": "5/3",
-        "d": "3/5",
-        "e": "4/5"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
       },
-      "correct": "a",
+      "correct": "",
       "validated": false
     },
     {
