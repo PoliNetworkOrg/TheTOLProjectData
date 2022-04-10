@@ -1053,13 +1053,13 @@
       "id": "81",
       "text": "Qual è il valore di tg(alfa) sapendo che sin(alfa)=5/13 e che l'angolo alfa si trova nel primo quadrante?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "13/12",
+        "b": "12/13",
+        "c": "5/12",
+        "d": "12/5",
+        "e": "13/5"
       },
-      "correct": "",
+      "correct": "c",
       "validated": false
     },
     {
