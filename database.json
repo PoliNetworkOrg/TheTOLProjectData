@@ -988,13 +988,13 @@
       "id": "76",
       "text": "Quanto rimane in percentuale del volume di un cubo dal quale viene tolto 2/3 del volume della sfera inscritta?",
       "answers": {
-        "a": "Dipende dal lato del cubo",
-        "b": "73% circa",
-        "c": "67% circa",
-        "d": "70% circa",
-        "e": "65% circa"
+        "a": "65% circa",
+        "b": "67% circa",
+        "c": "70% circa",
+        "d": "73% circa",
+        "e": "Dipende dal lato del cubo"
       },
-      "correct": "e",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1040,10 +1040,13 @@
       "id": "80",
       "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo beta di depressione (di B rispetto ad A) che l'orizzontale per A forma con la semiretta AB è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
       "answers": {
-        "a": "73 metri circa",
+        "a": "150 metri",
         "b": "173 metri circa",
-        "c": "273 metri circa"
+        "c": "300 metri",
+        "d": "373 metri circa",
+        "e": "Nessuna delle precedenti "
       },
+      "correct": "d",
       "validated": false
     },
     {
