@@ -1037,7 +1037,13 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "80",
+      "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo beta di depressione (di B rispetto ad A) che l'orizzontale per A forma con la semiretta AB è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
+      "answers": {
+        "a": "73 metri circa",
+        "b": "173 metri circa",
+        "c": "273 metri circa"
+      },
       "validated": false
     },
     {
