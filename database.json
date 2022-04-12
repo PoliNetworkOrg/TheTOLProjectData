@@ -865,7 +865,7 @@
         "e": "$\\sqrt{23}$"
       },
       "correct": "c",
-      "validated": true
+      "validated": false
     },
     {
       "id": "67",
@@ -1060,20 +1060,20 @@
         "e": "$\\frac{13}{5}$"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "82",
-      "text": "Tre ingegneri avviano uno studio indipendente l'uno dall'altro per risolvere un problema energetico di importanza mondiale. Nell'ipotesi che le probabilità di successo di ciascun ingegnere siano rispettivamente del 40%, 50% e 60%, quale è la probabilità che il problema venga risolto? ",
+      "text": "Tre Ingegneri lavorano indipendentemente l'uno dall'altro per risolvere un problema energetico di importanza mondiale. Nell'ipotesi che le probabilità di successo di ciascun Ingegnere siano rispettivamente del 40%, 50% e 60%, quale è la probabilità che il problema venga risolto? ",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "45% circa",
+        "b": "50%",
+        "c": "75%",
+        "d": "77% circa",
+        "e": "88%"
       },
-      "correct": "",
-      "validated": false
+      "correct": "e",
+      "validated": true
     },
     {
       "answers": {},
