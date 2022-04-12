@@ -749,7 +749,7 @@
     },
     {
       "id": "58",
-      "text": "Sia $ABCD$ un quadrato. Costruiamo esternamente al quadrato il triangolo equilatero $BCP$ e tracciamo la diagonale $AC$. Detta $K$ l'intersezione tra la retta $AC$ e $PD$, trovare l'ampiezza in gradi dell'angolo $\\widehat{CKP}$.",
+      "text": "Sia $ABCD$ un quadrato. Costruiamo esternamente al quadrato il triangolo equilatero $BCP$ e tracciamo la diagonale $AC$. Detta $K$ l'intersezione tra la retta $AC$ e $PD$, trovare l'ampiezza in gradi dell'angolo $\\hat{CKP}$.",
       "answers": {
         "a": "$60^{\\circ}$",
         "b": "$75^{\\circ}$",
@@ -986,7 +986,7 @@
     },
     {
       "id": "76",
-      "text": "Quanto rimane in percentuale del volume di un cubo dal quale viene tolto 2/3 del volume della sfera inscritta?",
+      "text": "Quanto rimane in percentuale del volume di un cubo dal quale viene tolto $\\frac{2}{3}$ del volume della sfera inscritta?",
       "answers": {
         "a": "65% circa",
         "b": "67% circa",
@@ -999,7 +999,7 @@
     },
     {
       "id": "77",
-      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\widehat{APC}$? ",
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\hat{APC}$? ",
       "answers": {
         "a": "$126^{\\circ}$",
         "b": "$135^{\\circ}$",
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "80",
-      "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo beta di depressione (di B rispetto ad A) che l'orizzontale per A forma con la semiretta AB è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
+      "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo $\\beta$ che l'orizzontale per A forma con la semiretta $\\overline{AB}$ è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
       "answers": {
         "a": "150 metri",
         "b": "173 metri circa",
@@ -1047,20 +1047,20 @@
         "e": "Nessuna delle precedenti "
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "81",
-      "text": "Qual è il valore di tg(alfa) sapendo che sin(alfa)=5/13 e che l'angolo alfa si trova nel primo quadrante?",
+      "text": "Qual è il valore di $\\tg(\\alfa)$ sapendo che $\\sin(\\alfa)=\\frac{5}{13}$ e che l'angolo $\\alfa$ si trova nel primo quadrante?",
       "answers": {
-        "a": "13/12",
-        "b": "12/13",
-        "c": "5/12",
-        "d": "12/5",
-        "e": "13/5"
+        "a": "$\\frac{13}{12}$",
+        "b": "$\\frac{12}{13}$",
+        "c": "$\\frac{5}{12}$",
+        "d": "$\\frac{12}{5}$",
+        "e": "$\\frac{13}{5}$"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
