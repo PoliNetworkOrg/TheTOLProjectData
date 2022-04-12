@@ -5168,7 +5168,7 @@
       "id": "15",
       "text": "Un piccolo conduttore è immerso in un campo elettrico uniforme generato da un condensatore costituito da due lastre conduttrici piane e parallele (armature) che possiedono cariche elettriche uguali in valore assoluto e di segni opposti. Si può affermare che:",
       "answers": {
-        "a": "Nel conduttore si crea una carica indotta di segno opposto alla armatura pià vicina del condensatore. Se è al centro dei due piani, e solo in questo caso, la carica indotta è nulla",
+        "a": "Nel conduttore si crea una carica indotta di segno opposto alla armatura più vicina del condensatore. Se è al centro dei due piani, e solo in questo caso, la carica indotta è nulla",
         "b": "Nel conduttore, in condizioni stazionarie, il campo elettrico è sempre nullo",
         "c": "Nel conduttore il campo elettrico è minore che nel vuoto",
         "d": "Nel conduttore il campo elettrico è opposto a quello esterno e uguale in valore assoluto",
@@ -5195,7 +5195,7 @@
       "text": "Quale delle seguenti affermazioni è errata:",
       "answers": {
         "a": "Le onde sonore non posso propagarsi nel vuoto",
-        "b": "Le onde elettromagnatiche si propagano sempre nel vuoto",
+        "b": "Le onde elettromagnetiche si propagano sempre nel vuoto",
         "c": "Le onde elettromagnetiche non possono propagarsi nel vuoto",
         "d": "Le onde elettromagnetiche hanno velocità minore in acqua che in vuoto",
         "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
