@@ -1064,7 +1064,7 @@
     },
     {
       "id": "82",
-      "text": "Tre ingegneri avviano uno studio indipendente l'uno dall'altro per risolvere un problema energetico di importanza mondiale. Nell'ipotesi che le probabilità di successo di ciascun ingegnere siano rispettivamente  1/2, 1/3 e 1/4, quale è la probabilità che il problema non venga risolto? ",
+      "text": "Tre ingegneri avviano uno studio indipendente l'uno dall'altro per risolvere un problema energetico di importanza mondiale. Nell'ipotesi che le probabilità di successo di ciascun ingegnere siano rispettivamente del 40%, 50% e 60%, quale è la probabilità che il problema venga risolto? ",
       "answers": {
         "a": "",
         "b": "",
@@ -5188,7 +5188,7 @@
         "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "17",
@@ -5201,7 +5201,7 @@
         "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     }
   ],
   "ing": [
