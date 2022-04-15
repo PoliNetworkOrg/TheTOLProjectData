@@ -1076,7 +1076,16 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "83",
+      "text": "Un polinomio $p(x)$ è tale che $p(1)=2, p(2)=3$. Quanto vale $p(3)$?",
+      "answers": {
+        "a": "4",
+        "b": "0",
+        "c": "3",
+        "d": "1",
+        "e": "Non si può determinare con i soli dati forniti"
+      },
+      "correct": "e",
       "validated": false
     },
     {
