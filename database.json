@@ -1014,11 +1014,11 @@
       "id": "78",
       "text": "La variante Omicron di un virus ha contagiato 10.000 residenti di una provincia cinese. Si sa che in questa provincia i contagiati crescono costantemente nella misura di 1000 casi al giorno. In uno stato americano, 1000 residenti vengono contagiati dalla stessa variante, con una crescita dei contagi giornalieri del 50%. Dopo quanti giorni il numero dei contagiati dello stato americano supera quello della provincia cinese?",
       "answers": {
-        "a": "Prima di 6 giorni",
-        "b": "Dopo 6 giorni ma prima di 7 giorni",
-        "c": "Dopo 7 giorni",
-        "d": "Dopo 7 giorni ma prima di 17 giorni",
-        "e": "Dopo 17 giorni"
+        "a": "Prima del sesto giorno",
+        "b": "Tra il sesto ed il settimo giorno",
+        "c": "Dopo il settimo giorno",
+        "d": "Tra il settimo ed il diciasettesimo giorno",
+        "e": "Dopo il diciasettesimo giorno"
       },
       "correct": "b",
       "validated": true
