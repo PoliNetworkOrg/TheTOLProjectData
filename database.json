@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "mat": [
     {
@@ -76,7 +76,7 @@
         "b": "$y=|log_{10}(x+1)|$",
         "c": "$y=log_{10}|x+1|$",
         "d": "$y=|ln(x+1)|$",
-        "e": "$y=ln|x+1|$"
+        "e": "$y=|ln(x+1)|$"
       },
       "correct": "d",
       "validated": true,
@@ -748,124 +748,344 @@
       "validated": true
     },
     {
-      "id": "",
-      "text": "Considerato il punto B sull'arco AB in figura, quale è la posizione di P che rende massima l'area del quadrilatero OHPB?",
+      "id": "58",
+      "text": "Sia $ABCD$ un quadrato. Costruiamo esternamente al quadrato il triangolo equilatero $BCP$ e tracciamo la diagonale $AC$. Detta $K$ l'intersezione tra la retta $AC$ e $PD$, trovare l'ampiezza in gradi dell'angolo $\\hat{CKP}$.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$60^{\\circ}$",
+        "b": "$75^{\\circ}$",
+        "c": "$30^{\\circ}$",
+        "d": "$45^{\\circ}$",
+        "e": "$90^{\\circ}$"
       },
-      "correct": "",
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "59",
+      "text": "Giacomo gioca con due dadi, le cui facce sono numerate con i numeri da 1 a 6. Lancia contemporaneamente i dadi e ogni volta annota la somma dei numeri usciti (ad esempio, se in un lancio escono i numeri 3 e 6, annota il numero 9). Dopo 1 milione di lanci, quante volte ci si può aspettare che abbia annotato il numero 2?",
+      "answers": {
+        "a": "0 volte",
+        "b": "Circa 2000 volte",
+        "c": "Circa 12000 volte",
+        "d": "Circa 28000 volte",
+        "e": "Circa 91000 volte"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "60",
+      "text": "Quante sono le soluzioni reali dell'equazione $sin(x)=-x$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4",
+        "e": "Infinite"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "61",
+      "text": "Se il numero reale $a$ è una radice del polinomio $P(x)$, quale di queste affermazioni è sicuramente vera?",
+      "answers": {
+        "a": "Il coefficiente del termine con esponente maggiore di $P(x)$ è 1.",
+        "b": "$P(x)$ ha grado 1",
+        "c": "$P(0)=a$",
+        "d": "$P(x)$ è divisibile per $(x+a)$",
+        "e": "$P(x)$ è divisibile per $(x-a)$"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "62",
+      "text": "Per quali valori $x$ reali la seguente disequazione\n$\\frac{\\sqrt{x^2}}{x}\\geqslant \\sqrt{(x-1)^{2}}$ è soddisfatta?",
+      "answers": {
+        "a": "(0, 2]",
+        "b": "[0, 1]",
+        "c": "(1, 2)",
+        "d": "$[2, +\\infty)$",
+        "e": "(0, 2)"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "63",
+      "text": "Data la seguente equazione: $x^2+y^2+2x=0$ di quale luogo geometrico dei punti del piano si tratta?",
+      "answers": {
+        "a": "Una circonferenza con centro (1; 0) e raggio $\\sqrt{1}$",
+        "b": "Un'ellisse con centro nell'origine",
+        "c": "Un'iperbole equilatera",
+        "d": "Un'ellisse con centro in (-1; 0)",
+        "e": "Una circonferenza con centro (-1; 0) e raggio 1"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "64",
+      "text": "In quale delle opzioni le due equazioni identificano la stessa curva sul piano cartesiano?",
+      "answers": {
+        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$  ;  $y=x-2$",
+        "b": "$y=e^{ln(x)}$  ;  $y=x$",
+        "c": "$y=ln(e^x)$  ;  $y=x$",
+        "d": "$y=\\sqrt{x}$  ;  $y^2=x$",
+        "e": "$(x-1)^2+(y-2)^2=9$  ;  $x^2+y^2-2x-4y=0$"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "65",
+      "text": "A quale di queste equazioni potrebbe corrispondere il grafico in figura?",
+      "answers": {
+        "a": "$-4x+2y+3=0$",
+        "b": "$3x+2y-3=0$",
+        "c": "$-3x+y=0$",
+        "d": "$2x-3=0$",
+        "e": "$2y+3=0$"
+      },
+      "correct": "a",
+      "validated": true,
+      "attachments": [
+        "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
+      ]
+    },
+    {
+      "id": "66",
+      "text": "Quali dei seguenti numeri è intero?",
+      "answers": {
+        "a": "$\\sqrt{27}$",
+        "b": "$\\sqrt{26}$",
+        "c": "$\\sqrt{25}$",
+        "d": "$\\sqrt{24}$",
+        "e": "$\\sqrt{23}$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "67",
+      "text": "Definita la funzione $f(x)=sin(x)+cos(x)$ qual è il massimo valore che può assumere $f(x)$?",
+      "answers": {
+        "a": "$1$",
+        "b": "$\\sqrt{2}$",
+        "c": "$\\sqrt{3}$",
+        "d": "$2$",
+        "e": "$\\frac{1}{2}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "68",
+      "text": "Nei suoi ultimi 4 esami, Gianni ha ottenuto a tutti gli esami, il voto 27. Al quinto esame, ha ottenuto un voto diverso, ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere il voto ottenuto da Gianni?",
+      "answers": {
+        "a": "30",
+        "b": "29",
+        "c": "28",
+        "d": "26",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "69",
+      "text": "In quali dei seguenti polinomi di primo grado $p(x)$ accade che $p(n)$ è un numero pari per qualsiasi valore di $n$ intero?",
+      "answers": {
+        "a": "$p(x)=3x+2$",
+        "b": "$p(x)=2x+7$",
+        "c": "$p(x)=5x+8$",
+        "d": "$p(x)=2x+6$",
+        "e": "$p(x)=x+1$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "70",
+      "text": "Per quanti valori $x$ interi la seguente equazione $\\sqrt[4]{x^{12}} = sin(x)$ è soddisfatta nell'intervallo $[-\\pi, +\\pi]$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "71",
+      "text": "Sia $cos(x)=\\frac{k-1}{k+1}$ con $K \\in ℕ$. Allora $cos(x)$ è definita se:",
+      "answers": {
+        "a": "$k \\geqslant 0$",
+        "b": "$k \\ne -1$",
+        "c": "$k > -1$",
+        "d": "$-1 < k \\leqslant 1$",
+        "e": "$-1 < k \\leqslant 0$"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "72",
+      "text": "Le vetture di una certa linea tranviaria partono dal capolinea ad intervalli regolari di 10 e 30 minuti alternativamente. In media, quanto deve aspettare la partenza del tram un utente che giunga al capolinea senza conoscere gli orari di partenza?",
+      "answers": {
+        "a": "20 minuti",
+        "b": "12  minuti e mezzo",
+        "c": "10 minuti",
+        "d": "15 minuti",
+        "e": "30 minuti"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "73",
+      "text": "Interrogato dal magistrato, Ferruccio negò fermamente di non aver rifiutato di affermare il falso. Basandosi sulla precedente affermazione, quale delle seguenti alternative è esatta?",
+      "answers": {
+        "a": "Ferruccio si è rifiutato di dire il falso",
+        "b": "Ferruccio ha affermato il falso",
+        "c": "Ferruccio ha detto la verità",
+        "d": "Ferruccio si è rifiutato di dire la verità",
+        "e": "Ferruccio dice sempre la verità, anche quando mente"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "74",
+      "text": "La relazione $sin^4(x)+cos^4(x)+2sin^2(x)cos^2(x)=ln^2(e)$ è:",
+      "answers": {
+        "a": "Sempre falsa",
+        "b": "Vera $\\forall x$",
+        "c": "Vera $\\iff x=\\pi$",
+        "d": "Vera $\\iff x=0$",
+        "e": "Vera $\\iff sin(x)=cos(x)$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "75",
+      "text": "Se si aumentano di 1 $cm$ tutti i lati di un rettangolo, allora la sua area aumenta di 31 $cm^2$; se vengono diminuiti di 1 $cm$ i due lati maggiori e di 2 $cm$ gli altri due, allora la sua area diminuisce di 46 $cm^2$. Quanto misurano i lati del rettangolo?",
+      "answers": {
+        "a": "17 $cm$ e 10 $cm$",
+        "b": "16 $cm$ e 13 $cm$",
+        "c": "18 $cm$ e 12 $cm$",
+        "d": "19 $cm$ e 11 $cm$",
+        "e": "16 $cm$ e 10 $cm$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "76",
+      "text": "Quanto rimane in percentuale del volume di un cubo dal quale viene tolto $\\frac{2}{3}$ del volume della sfera inscritta?",
+      "answers": {
+        "a": "65% circa",
+        "b": "67% circa",
+        "c": "70% circa",
+        "d": "73% circa",
+        "e": "Dipende dal lato del cubo"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "77",
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\hat{APC}$? ",
+      "answers": {
+        "a": "$126^{\\circ}$",
+        "b": "$135^{\\circ}$",
+        "c": "$148^{\\circ}$",
+        "d": "$144^{\\circ}$",
+        "e": "$150^{\\circ}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "78",
+      "text": "La variante Omicron di un virus ha contagiato 10.000 residenti di una provincia cinese. Si sa che in questa provincia i contagiati crescono costantemente nella misura di 1000 casi al giorno. In uno stato americano, 1000 residenti vengono contagiati dalla stessa variante, con una crescita dei contagi giornalieri del 50%. Dopo quanti giorni il numero dei contagiati dello stato americano supera quello della provincia cinese?",
+      "answers": {
+        "a": "Prima del sesto giorno",
+        "b": "Tra il sesto ed il settimo giorno",
+        "c": "Dopo il settimo giorno",
+        "d": "Tra il settimo ed il diciasettesimo giorno",
+        "e": "Dopo il diciasettesimo giorno"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "79",
+      "text": "I risultati di un'indagine interna al Poli mostrano che il 55% degli studenti amano la matematica, il 25% amano la fisica ed il 15% entrambe. Quanti sono gli studenti che non amano nè matematica nè fisica?",
+      "answers": {
+        "a": "10%",
+        "b": "15%",
+        "c": "30%",
+        "d": "35%",
+        "e": "40%"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "80",
+      "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo $\\beta$ che l'orizzontale per A forma con la semiretta $\\overline{AB}$ è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
+      "answers": {
+        "a": "150 metri",
+        "b": "173 metri circa",
+        "c": "300 metri",
+        "d": "373 metri circa",
+        "e": "Nessuna delle precedenti "
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "81",
+      "text": "Qual è il valore di $\\tg(\\alpha)$ sapendo che $\\sin(\\alpha)=\\frac{5}{13}$ e che l'angolo $\\alpha$ si trova nel primo quadrante?",
+      "answers": {
+        "a": "$\\frac{13}{12}$",
+        "b": "$\\frac{12}{13}$",
+        "c": "$\\frac{5}{12}$",
+        "d": "$\\frac{12}{5}$",
+        "e": "$\\frac{13}{5}$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "82",
+      "text": "Tre Ingegneri lavorano indipendentemente l'uno dall'altro per risolvere un problema energetico di importanza mondiale. Nell'ipotesi che le probabilità di successo di ciascun Ingegnere siano rispettivamente del 40%, 50% e 60%, quale è la probabilità che il problema venga risolto? ",
+      "answers": {
+        "a": "45% circa",
+        "b": "50%",
+        "c": "75%",
+        "d": "77% circa",
+        "e": "88%"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
-      "validated": false
-    },
-    {
-      "answers": {},
+      "id": "83",
+      "text": "Un polinomio $p(x)$ è tale che $p(1)=2, p(2)=3$. Quanto vale $p(3)$?",
+      "answers": {
+        "a": "4",
+        "b": "0",
+        "c": "3",
+        "d": "1",
+        "e": "Non si può determinare con i soli dati forniti"
+      },
+      "correct": "e",
       "validated": false
     },
     {
@@ -4689,6 +4909,81 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "3",
+      "sub": "1",
+      "track": "Due cose riempiono l'animo di ammirazione e di reverenza sempre nuove e crescenti, quanto più spesso e più a lungo il pensiero vi si ferma su: il cielo stellato sopra di me e la legge morale in me. Queste due cose, non ho da cercarle fuori della portata della mia vista, avvolte in oscurità, e nel trascendente; né devo, semplicemente, presumerle: le vedo davanti a me, e le connetto immediatamente con la coscienza della mia esistenza. La prima comincia dal luogo, che occupo nel mondo sensibile esterno, ed estende la connessione in cui mi trovo a grandezze immensurabili, con mondi sopra mondi, e sistemi di sistemi; e, oltre a ciò, ai tempi senza confine del loro movimento periodico, del loro inizio e del loro durare. La seconda parte dal mio Io invisibile, dalla mia personalità; e mi rappresenta in un mondo che ha un'infinità vera, ma è percepibile solo dall'intelletto, e con il quale (ma, perciò, anche al tempo stesso con tutti quei mondi visibili) mi riconosco in una connessione non semplicemente accidentale, come nel primo caso, bensì universale e necessaria. La prima veduta, di un insieme innumerabile di mondi, annienta, per così dire, la mia importanza di «creatura animale», che dovrà restituire la materia di cui è fatta al pianeta (un semplice punto nell'universo), dopo essere stata dotata per breve tempo (non si sa come) di forza vitale. La seconda, al contrario, innalza infinitamente il mio valore, come valore di una «intelligenza», in grazia della mia personalità, in cui la legge morale mi rivela una vita indipendente dall'animalità, e perfino dall'intero mondo sensibile: almeno per quel che si può desumere dalla destinazione finale della mia esistenza in virtù di questa legge; la quale destinazione non è limitata alle condizioni e ai confini di questa vita, ma va all'infinito. Se non che, ammirazione e rispetto possono sì stimolare l'indagine e la riflessione, ma non colmare le lacune. Che cosa si ha da fare, ora, per istituire tale indagine in modo utile e confacente alla sublimità dell'oggetto? Qui vi sono esempi che possono servire da ammonimento, ma anche da modello. L'osservazione del mondo cominciò dal più splendido spettacolo che i sensi umani potessero presentare, e che il nostro intelletto potesse riuscire a seguire nella sua estensione: e finì nell'astrologia. La morale cominciò con la proprietà più nobile dell'umana natura, il cui sviluppo e la cui cultura promettono benefici senza fini: e fini nel fanatismo o nella superstizione. Così accade a tutti i tentativi ancora rozzi, in cui la parte principale spetterebbe all'uso della ragione: uso che non si può trovare da sé, con il frequente esercizio, come l'uso dei piedi: soprattutto quando concerna proprietà che non si possono presentare così immediatamente nella comune esperienza. Ma dopo che, per quanto tardi, fu introdotta la massima di riflettere bene anticipatamente su tutti i passi che la ragione ha intenzione di compiere, e di non lasciarla procedere se non sul binario di un metodo precedentemente ben studiato, lo studio dell'edificio del mondo prese tutt'altra direzione, con un successo senza paragone migliore. Il cadere di una pietra, o il movimento di una fionda, analizzato nei suoi elementi e nelle forze che vi si manifestano, e trattato matematicamente, finì col produrre quella veduta chiara e per sempre immutabile sulla costituzione del mondo, che, col progresso dell'osservazione, può sperare di ampliarsi sempre di più, ma non mai temere di dover tornare sui propri passi. Ora, quell'esempio può consigliare di mettersi sulla stessa strada nel trattare le disposizioni morali della nostra natura, e darci la speranza di giungere a un risultato altrettanto buono. Abbiamo pure a disposizione gli esempi della ragione che giudica in materia morale. Analizzarli nei loro concetti elementari e, in mancanza della «matematica», intraprendere tuttavia un procedimento analogo a quello della «chimica», di «separazione» dell'empirico dal razionale, che in essi si possa trovare, con ripetute ricerche sul comune intelletto dell'uomo, può darci entrambi gli elementi allo stato puro e – cosa che ciascuno per sé solo può fare – farceli riconoscere con certezza; e così porre rimedio, sia alla confusione di un giudizio ancora rozzo e non esercitato, sia (cosa assai più necessaria) alle «stravaganze geniali» con cui, come sogliono fare gli adepti della pietra filosofale, senza alcuna indagine metodica e conoscenza della natura si promettono sognati tesori, e si dilapidano i veri. In una parola: la scienza (criticamente cercata, e metodicamente introdotta) è la stretta porta che conduce alla dottrina della saggezza, se con questa s'intende, non solo ciò che si deve fare, ma ciò che deve servire da guida ai «maestri» per spianare alla saggezza un cammino aperto e facilmente riconoscibile, che ciascuno debba percorrere, assicurando chi li segua dai passi falsi: una scienza di cui deve sempre restare custode la filosofia, alle cui ricerche sottili il pubblico non ha da prendere parte alcuna; mentre deve partecipare alle sue «dottrine», che solo dopo una siffatta elaborazione gli si possono presentare con buona chiarezza. \n---\n(Immanuel Kant - Critica della ragion pratica)",
+      "text": "Il compito della filosofia:",
+      "answers": {
+        "a": "Custodire con le sue indagini la scienza",
+        "b": "Non limitare la nostra conoscenza al valore empirico della realtà visibile",
+        "c": "Ricondurre le scelte morali alle determinazioni dell'esperienza",
+        "d": "Dare una visione dell'invisibile senza giustificarne l'esistenza",
+        "e": "Spiegare le connessioni della legge morale con il mondo fisico"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "3",
+      "sub": "2",
+      "track": "Due cose riempiono l'animo di ammirazione e di reverenza sempre nuove e crescenti, quanto più spesso e più a lungo il pensiero vi si ferma su: il cielo stellato sopra di me e la legge morale in me. Queste due cose, non ho da cercarle fuori della portata della mia vista, avvolte in oscurità, e nel trascendente; né devo, semplicemente, presumerle: le vedo davanti a me, e le connetto immediatamente con la coscienza della mia esistenza. La prima comincia dal luogo, che occupo nel mondo sensibile esterno, ed estende la connessione in cui mi trovo a grandezze immensurabili, con mondi sopra mondi, e sistemi di sistemi; e, oltre a ciò, ai tempi senza confine del loro movimento periodico, del loro inizio e del loro durare. La seconda parte dal mio Io invisibile, dalla mia personalità; e mi rappresenta in un mondo che ha un'infinità vera, ma è percepibile solo dall'intelletto, e con il quale (ma, perciò, anche al tempo stesso con tutti quei mondi visibili) mi riconosco in una connessione non semplicemente accidentale, come nel primo caso, bensì universale e necessaria. La prima veduta, di un insieme innumerabile di mondi, annienta, per così dire, la mia importanza di «creatura animale», che dovrà restituire la materia di cui è fatta al pianeta (un semplice punto nell'universo), dopo essere stata dotata per breve tempo (non si sa come) di forza vitale. La seconda, al contrario, innalza infinitamente il mio valore, come valore di una «intelligenza», in grazia della mia personalità, in cui la legge morale mi rivela una vita indipendente dall'animalità, e perfino dall'intero mondo sensibile: almeno per quel che si può desumere dalla destinazione finale della mia esistenza in virtù di questa legge; la quale destinazione non è limitata alle condizioni e ai confini di questa vita, ma va all'infinito. Se non che, ammirazione e rispetto possono sì stimolare l'indagine e la riflessione, ma non colmare le lacune. Che cosa si ha da fare, ora, per istituire tale indagine in modo utile e confacente alla sublimità dell'oggetto? Qui vi sono esempi che possono servire da ammonimento, ma anche da modello. L'osservazione del mondo cominciò dal più splendido spettacolo che i sensi umani potessero presentare, e che il nostro intelletto potesse riuscire a seguire nella sua estensione: e finì nell'astrologia. La morale cominciò con la proprietà più nobile dell'umana natura, il cui sviluppo e la cui cultura promettono benefici senza fini: e fini nel fanatismo o nella superstizione. Così accade a tutti i tentativi ancora rozzi, in cui la parte principale spetterebbe all'uso della ragione: uso che non si può trovare da sé, con il frequente esercizio, come l'uso dei piedi: soprattutto quando concerna proprietà che non si possono presentare così immediatamente nella comune esperienza. Ma dopo che, per quanto tardi, fu introdotta la massima di riflettere bene anticipatamente su tutti i passi che la ragione ha intenzione di compiere, e di non lasciarla procedere se non sul binario di un metodo precedentemente ben studiato, lo studio dell'edificio del mondo prese tutt'altra direzione, con un successo senza paragone migliore. Il cadere di una pietra, o il movimento di una fionda, analizzato nei suoi elementi e nelle forze che vi si manifestano, e trattato matematicamente, finì col produrre quella veduta chiara e per sempre immutabile sulla costituzione del mondo, che, col progresso dell'osservazione, può sperare di ampliarsi sempre di più, ma non mai temere di dover tornare sui propri passi. Ora, quell'esempio può consigliare di mettersi sulla stessa strada nel trattare le disposizioni morali della nostra natura, e darci la speranza di giungere a un risultato altrettanto buono. Abbiamo pure a disposizione gli esempi della ragione che giudica in materia morale. Analizzarli nei loro concetti elementari e, in mancanza della «matematica», intraprendere tuttavia un procedimento analogo a quello della «chimica», di «separazione» dell'empirico dal razionale, che in essi si possa trovare, con ripetute ricerche sul comune intelletto dell'uomo, può darci entrambi gli elementi allo stato puro e – cosa che ciascuno per sé solo può fare – farceli riconoscere con certezza; e così porre rimedio, sia alla confusione di un giudizio ancora rozzo e non esercitato, sia (cosa assai più necessaria) alle «stravaganze geniali» con cui, come sogliono fare gli adepti della pietra filosofale, senza alcuna indagine metodica e conoscenza della natura si promettono sognati tesori, e si dilapidano i veri. In una parola: la scienza (criticamente cercata, e metodicamente introdotta) è la stretta porta che conduce alla dottrina della saggezza, se con questa s'intende, non solo ciò che si deve fare, ma ciò che deve servire da guida ai «maestri» per spianare alla saggezza un cammino aperto e facilmente riconoscibile, che ciascuno debba percorrere, assicurando chi li segua dai passi falsi: una scienza di cui deve sempre restare custode la filosofia, alle cui ricerche sottili il pubblico non ha da prendere parte alcuna; mentre deve partecipare alle sue «dottrine», che solo dopo una siffatta elaborazione gli si possono presentare con buona chiarezza. \n---\n(Immanuel Kant - Critica della ragion pratica)",
+      "text": "Indicare l'affermazione falsa:",
+      "answers": {
+        "a": "La superstizione è un possibile risultato della morale non guidata da un metodo",
+        "b": "La matematica ha permesso alla scienza naturale di progredire",
+        "c": "Le leggi fisiche che sono state scoperte sono definitive e non c'è da temere che vengano smentite",
+        "d": "L'uso corretto della ragione necessita che venga prima elaborato un metodo",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "3",
+      "sub": "3",
+      "track": "Due cose riempiono l'animo di ammirazione e di reverenza sempre nuove e crescenti, quanto più spesso e più a lungo il pensiero vi si ferma su: il cielo stellato sopra di me e la legge morale in me. Queste due cose, non ho da cercarle fuori della portata della mia vista, avvolte in oscurità, e nel trascendente; né devo, semplicemente, presumerle: le vedo davanti a me, e le connetto immediatamente con la coscienza della mia esistenza. La prima comincia dal luogo, che occupo nel mondo sensibile esterno, ed estende la connessione in cui mi trovo a grandezze immensurabili, con mondi sopra mondi, e sistemi di sistemi; e, oltre a ciò, ai tempi senza confine del loro movimento periodico, del loro inizio e del loro durare. La seconda parte dal mio Io invisibile, dalla mia personalità; e mi rappresenta in un mondo che ha un'infinità vera, ma è percepibile solo dall'intelletto, e con il quale (ma, perciò, anche al tempo stesso con tutti quei mondi visibili) mi riconosco in una connessione non semplicemente accidentale, come nel primo caso, bensì universale e necessaria. La prima veduta, di un insieme innumerabile di mondi, annienta, per così dire, la mia importanza di «creatura animale», che dovrà restituire la materia di cui è fatta al pianeta (un semplice punto nell'universo), dopo essere stata dotata per breve tempo (non si sa come) di forza vitale. La seconda, al contrario, innalza infinitamente il mio valore, come valore di una «intelligenza», in grazia della mia personalità, in cui la legge morale mi rivela una vita indipendente dall'animalità, e perfino dall'intero mondo sensibile: almeno per quel che si può desumere dalla destinazione finale della mia esistenza in virtù di questa legge; la quale destinazione non è limitata alle condizioni e ai confini di questa vita, ma va all'infinito. Se non che, ammirazione e rispetto possono sì stimolare l'indagine e la riflessione, ma non colmare le lacune. Che cosa si ha da fare, ora, per istituire tale indagine in modo utile e confacente alla sublimità dell'oggetto? Qui vi sono esempi che possono servire da ammonimento, ma anche da modello. L'osservazione del mondo cominciò dal più splendido spettacolo che i sensi umani potessero presentare, e che il nostro intelletto potesse riuscire a seguire nella sua estensione: e finì nell'astrologia. La morale cominciò con la proprietà più nobile dell'umana natura, il cui sviluppo e la cui cultura promettono benefici senza fini: e fini nel fanatismo o nella superstizione. Così accade a tutti i tentativi ancora rozzi, in cui la parte principale spetterebbe all'uso della ragione: uso che non si può trovare da sé, con il frequente esercizio, come l'uso dei piedi: soprattutto quando concerna proprietà che non si possono presentare così immediatamente nella comune esperienza. Ma dopo che, per quanto tardi, fu introdotta la massima di riflettere bene anticipatamente su tutti i passi che la ragione ha intenzione di compiere, e di non lasciarla procedere se non sul binario di un metodo precedentemente ben studiato, lo studio dell'edificio del mondo prese tutt'altra direzione, con un successo senza paragone migliore. Il cadere di una pietra, o il movimento di una fionda, analizzato nei suoi elementi e nelle forze che vi si manifestano, e trattato matematicamente, finì col produrre quella veduta chiara e per sempre immutabile sulla costituzione del mondo, che, col progresso dell'osservazione, può sperare di ampliarsi sempre di più, ma non mai temere di dover tornare sui propri passi. Ora, quell'esempio può consigliare di mettersi sulla stessa strada nel trattare le disposizioni morali della nostra natura, e darci la speranza di giungere a un risultato altrettanto buono. Abbiamo pure a disposizione gli esempi della ragione che giudica in materia morale. Analizzarli nei loro concetti elementari e, in mancanza della «matematica», intraprendere tuttavia un procedimento analogo a quello della «chimica», di «separazione» dell'empirico dal razionale, che in essi si possa trovare, con ripetute ricerche sul comune intelletto dell'uomo, può darci entrambi gli elementi allo stato puro e – cosa che ciascuno per sé solo può fare – farceli riconoscere con certezza; e così porre rimedio, sia alla confusione di un giudizio ancora rozzo e non esercitato, sia (cosa assai più necessaria) alle «stravaganze geniali» con cui, come sogliono fare gli adepti della pietra filosofale, senza alcuna indagine metodica e conoscenza della natura si promettono sognati tesori, e si dilapidano i veri. In una parola: la scienza (criticamente cercata, e metodicamente introdotta) è la stretta porta che conduce alla dottrina della saggezza, se con questa s'intende, non solo ciò che si deve fare, ma ciò che deve servire da guida ai «maestri» per spianare alla saggezza un cammino aperto e facilmente riconoscibile, che ciascuno debba percorrere, assicurando chi li segua dai passi falsi: una scienza di cui deve sempre restare custode la filosofia, alle cui ricerche sottili il pubblico non ha da prendere parte alcuna; mentre deve partecipare alle sue «dottrine», che solo dopo una siffatta elaborazione gli si possono presentare con buona chiarezza. \n---\n(Immanuel Kant - Critica della ragion pratica)",
+      "text": "Separare l'empirico dal razionale:",
+      "answers": {
+        "a": "E' importante per comprendere la pienezza della realtà visibile",
+        "b": "E' fondamentale per apprezzare il mondo fisico",
+        "c": "E' essenziale per trattare i temi morali",
+        "d": "E' imprescindibile per completare l'indagine interiore",
+        "e": "Deve essere un'impresa comune a tutta l'umanità"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "3",
+      "sub": "4",
+      "track": "Due cose riempiono l'animo di ammirazione e di reverenza sempre nuove e crescenti, quanto più spesso e più a lungo il pensiero vi si ferma su: il cielo stellato sopra di me e la legge morale in me. Queste due cose, non ho da cercarle fuori della portata della mia vista, avvolte in oscurità, e nel trascendente; né devo, semplicemente, presumerle: le vedo davanti a me, e le connetto immediatamente con la coscienza della mia esistenza. La prima comincia dal luogo, che occupo nel mondo sensibile esterno, ed estende la connessione in cui mi trovo a grandezze immensurabili, con mondi sopra mondi, e sistemi di sistemi; e, oltre a ciò, ai tempi senza confine del loro movimento periodico, del loro inizio e del loro durare. La seconda parte dal mio Io invisibile, dalla mia personalità; e mi rappresenta in un mondo che ha un'infinità vera, ma è percepibile solo dall'intelletto, e con il quale (ma, perciò, anche al tempo stesso con tutti quei mondi visibili) mi riconosco in una connessione non semplicemente accidentale, come nel primo caso, bensì universale e necessaria. La prima veduta, di un insieme innumerabile di mondi, annienta, per così dire, la mia importanza di «creatura animale», che dovrà restituire la materia di cui è fatta al pianeta (un semplice punto nell'universo), dopo essere stata dotata per breve tempo (non si sa come) di forza vitale. La seconda, al contrario, innalza infinitamente il mio valore, come valore di una «intelligenza», in grazia della mia personalità, in cui la legge morale mi rivela una vita indipendente dall'animalità, e perfino dall'intero mondo sensibile: almeno per quel che si può desumere dalla destinazione finale della mia esistenza in virtù di questa legge; la quale destinazione non è limitata alle condizioni e ai confini di questa vita, ma va all'infinito. Se non che, ammirazione e rispetto possono sì stimolare l'indagine e la riflessione, ma non colmare le lacune. Che cosa si ha da fare, ora, per istituire tale indagine in modo utile e confacente alla sublimità dell'oggetto? Qui vi sono esempi che possono servire da ammonimento, ma anche da modello. L'osservazione del mondo cominciò dal più splendido spettacolo che i sensi umani potessero presentare, e che il nostro intelletto potesse riuscire a seguire nella sua estensione: e finì nell'astrologia. La morale cominciò con la proprietà più nobile dell'umana natura, il cui sviluppo e la cui cultura promettono benefici senza fini: e fini nel fanatismo o nella superstizione. Così accade a tutti i tentativi ancora rozzi, in cui la parte principale spetterebbe all'uso della ragione: uso che non si può trovare da sé, con il frequente esercizio, come l'uso dei piedi: soprattutto quando concerna proprietà che non si possono presentare così immediatamente nella comune esperienza. Ma dopo che, per quanto tardi, fu introdotta la massima di riflettere bene anticipatamente su tutti i passi che la ragione ha intenzione di compiere, e di non lasciarla procedere se non sul binario di un metodo precedentemente ben studiato, lo studio dell'edificio del mondo prese tutt'altra direzione, con un successo senza paragone migliore. Il cadere di una pietra, o il movimento di una fionda, analizzato nei suoi elementi e nelle forze che vi si manifestano, e trattato matematicamente, finì col produrre quella veduta chiara e per sempre immutabile sulla costituzione del mondo, che, col progresso dell'osservazione, può sperare di ampliarsi sempre di più, ma non mai temere di dover tornare sui propri passi. Ora, quell'esempio può consigliare di mettersi sulla stessa strada nel trattare le disposizioni morali della nostra natura, e darci la speranza di giungere a un risultato altrettanto buono. Abbiamo pure a disposizione gli esempi della ragione che giudica in materia morale. Analizzarli nei loro concetti elementari e, in mancanza della «matematica», intraprendere tuttavia un procedimento analogo a quello della «chimica», di «separazione» dell'empirico dal razionale, che in essi si possa trovare, con ripetute ricerche sul comune intelletto dell'uomo, può darci entrambi gli elementi allo stato puro e – cosa che ciascuno per sé solo può fare – farceli riconoscere con certezza; e così porre rimedio, sia alla confusione di un giudizio ancora rozzo e non esercitato, sia (cosa assai più necessaria) alle «stravaganze geniali» con cui, come sogliono fare gli adepti della pietra filosofale, senza alcuna indagine metodica e conoscenza della natura si promettono sognati tesori, e si dilapidano i veri. In una parola: la scienza (criticamente cercata, e metodicamente introdotta) è la stretta porta che conduce alla dottrina della saggezza, se con questa s'intende, non solo ciò che si deve fare, ma ciò che deve servire da guida ai «maestri» per spianare alla saggezza un cammino aperto e facilmente riconoscibile, che ciascuno debba percorrere, assicurando chi li segua dai passi falsi: una scienza di cui deve sempre restare custode la filosofia, alle cui ricerche sottili il pubblico non ha da prendere parte alcuna; mentre deve partecipare alle sue «dottrine», che solo dopo una siffatta elaborazione gli si possono presentare con buona chiarezza. \n---\n(Immanuel Kant - Critica della ragion pratica)",
+      "text": "La legge morale:",
+      "answers": {
+        "a": "Non è riconducibile alle determinazioni dell'esperienza",
+        "b": "Si identifica con la saggezza",
+        "c": "E' l'esito della pretesa di usare esclusivamente la ragione",
+        "d": "Viene connessa con la consapevolezza della propria esistenza",
+        "e": "Ha bisogno di essere dimostrata come le altre leggi che governano il mondo fisico"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "3",
+      "sub": "5",
+      "track": "Due cose riempiono l'animo di ammirazione e di reverenza sempre nuove e crescenti, quanto più spesso e più a lungo il pensiero vi si ferma su: il cielo stellato sopra di me e la legge morale in me. Queste due cose, non ho da cercarle fuori della portata della mia vista, avvolte in oscurità, e nel trascendente; né devo, semplicemente, presumerle: le vedo davanti a me, e le connetto immediatamente con la coscienza della mia esistenza. La prima comincia dal luogo, che occupo nel mondo sensibile esterno, ed estende la connessione in cui mi trovo a grandezze immensurabili, con mondi sopra mondi, e sistemi di sistemi; e, oltre a ciò, ai tempi senza confine del loro movimento periodico, del loro inizio e del loro durare. La seconda parte dal mio Io invisibile, dalla mia personalità; e mi rappresenta in un mondo che ha un'infinità vera, ma è percepibile solo dall'intelletto, e con il quale (ma, perciò, anche al tempo stesso con tutti quei mondi visibili) mi riconosco in una connessione non semplicemente accidentale, come nel primo caso, bensì universale e necessaria. La prima veduta, di un insieme innumerabile di mondi, annienta, per così dire, la mia importanza di «creatura animale», che dovrà restituire la materia di cui è fatta al pianeta (un semplice punto nell'universo), dopo essere stata dotata per breve tempo (non si sa come) di forza vitale. La seconda, al contrario, innalza infinitamente il mio valore, come valore di una «intelligenza», in grazia della mia personalità, in cui la legge morale mi rivela una vita indipendente dall'animalità, e perfino dall'intero mondo sensibile: almeno per quel che si può desumere dalla destinazione finale della mia esistenza in virtù di questa legge; la quale destinazione non è limitata alle condizioni e ai confini di questa vita, ma va all'infinito. Se non che, ammirazione e rispetto possono sì stimolare l'indagine e la riflessione, ma non colmare le lacune. Che cosa si ha da fare, ora, per istituire tale indagine in modo utile e confacente alla sublimità dell'oggetto? Qui vi sono esempi che possono servire da ammonimento, ma anche da modello. L'osservazione del mondo cominciò dal più splendido spettacolo che i sensi umani potessero presentare, e che il nostro intelletto potesse riuscire a seguire nella sua estensione: e finì nell'astrologia. La morale cominciò con la proprietà più nobile dell'umana natura, il cui sviluppo e la cui cultura promettono benefici senza fini: e fini nel fanatismo o nella superstizione. Così accade a tutti i tentativi ancora rozzi, in cui la parte principale spetterebbe all'uso della ragione: uso che non si può trovare da sé, con il frequente esercizio, come l'uso dei piedi: soprattutto quando concerna proprietà che non si possono presentare così immediatamente nella comune esperienza. Ma dopo che, per quanto tardi, fu introdotta la massima di riflettere bene anticipatamente su tutti i passi che la ragione ha intenzione di compiere, e di non lasciarla procedere se non sul binario di un metodo precedentemente ben studiato, lo studio dell'edificio del mondo prese tutt'altra direzione, con un successo senza paragone migliore. Il cadere di una pietra, o il movimento di una fionda, analizzato nei suoi elementi e nelle forze che vi si manifestano, e trattato matematicamente, finì col produrre quella veduta chiara e per sempre immutabile sulla costituzione del mondo, che, col progresso dell'osservazione, può sperare di ampliarsi sempre di più, ma non mai temere di dover tornare sui propri passi. Ora, quell'esempio può consigliare di mettersi sulla stessa strada nel trattare le disposizioni morali della nostra natura, e darci la speranza di giungere a un risultato altrettanto buono. Abbiamo pure a disposizione gli esempi della ragione che giudica in materia morale. Analizzarli nei loro concetti elementari e, in mancanza della «matematica», intraprendere tuttavia un procedimento analogo a quello della «chimica», di «separazione» dell'empirico dal razionale, che in essi si possa trovare, con ripetute ricerche sul comune intelletto dell'uomo, può darci entrambi gli elementi allo stato puro e – cosa che ciascuno per sé solo può fare – farceli riconoscere con certezza; e così porre rimedio, sia alla confusione di un giudizio ancora rozzo e non esercitato, sia (cosa assai più necessaria) alle «stravaganze geniali» con cui, come sogliono fare gli adepti della pietra filosofale, senza alcuna indagine metodica e conoscenza della natura si promettono sognati tesori, e si dilapidano i veri. In una parola: la scienza (criticamente cercata, e metodicamente introdotta) è la stretta porta che conduce alla dottrina della saggezza, se con questa s'intende, non solo ciò che si deve fare, ma ciò che deve servire da guida ai «maestri» per spianare alla saggezza un cammino aperto e facilmente riconoscibile, che ciascuno debba percorrere, assicurando chi li segua dai passi falsi: una scienza di cui deve sempre restare custode la filosofia, alle cui ricerche sottili il pubblico non ha da prendere parte alcuna; mentre deve partecipare alle sue «dottrine», che solo dopo una siffatta elaborazione gli si possono presentare con buona chiarezza. \n---\n(Immanuel Kant - Critica della ragion pratica)",
+      "text": "La connessione con il mondo fisico:",
+      "answers": {
+        "a": "Può essere accidentale o necessaria",
+        "b": "E' sia accidentale che necessaria",
+        "c": "Può essere universale e necessaria",
+        "d": "E' contemporaneamente accidentale e universale",
+        "e": "E' accidentale"
+      },
+      "correct": "e",
+      "validated": true
     }
   ],
   "fis": [
@@ -4846,6 +5141,71 @@
         "e": "circa 0,48 A"
       },
       "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "13",
+      "text": "Considerata l'equazione di stato dei gas perfetti, pV=nRT, in una trasformazione isocora:",
+      "answers": {
+        "a": "Esiste un legame di proporzionalità diretta fra p e T",
+        "b": "Esiste un legame di proporzionalità diretta fra V e T",
+        "c": "Esiste un legame di proporzionalità inversa fra p e V",
+        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale.",
+        "e": "Nessuna delle precedenti."
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "14",
+      "text": "Quale delle seguenti affermazioni è corretta:",
+      "answers": {
+        "a": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di elettroni",
+        "b": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di elettroni ma diverso numero di protoni",
+        "c": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di massa ma diverso numero atomico",
+        "d": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di neutroni ma diverso numero di elettroni",
+        "e": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di neutroni"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "15",
+      "text": "Un piccolo conduttore è immerso in un campo elettrico uniforme generato da un condensatore costituito da due lastre conduttrici piane e parallele (armature) che possiedono cariche elettriche uguali in valore assoluto e di segni opposti. Si può affermare che:",
+      "answers": {
+        "a": "Nel conduttore si crea una carica indotta di segno opposto alla armatura più vicina del condensatore. Se è al centro dei due piani, e solo in questo caso, la carica indotta è nulla",
+        "b": "Nel conduttore, in condizioni stazionarie, il campo elettrico è sempre nullo",
+        "c": "Nel conduttore il campo elettrico è minore che nel vuoto",
+        "d": "Nel conduttore il campo elettrico è opposto a quello esterno e uguale in valore assoluto",
+        "e": "Il potenziale del conduttore diminuisce rispetto a quello nel vuoto"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "16",
+      "text": "Un gas perfetto compie un'espansione isoterma reversibile. Allora:",
+      "answers": {
+        "a": "L'energia interna del gas rimane costante",
+        "b": "Il calore ceduto dal gas all'ambiente è uguale al calore assorbito",
+        "c": "Il calore assorbito dal gas è uguale al lavoro fatto dal gas sull'ambiente",
+        "d": "Il calore assorbito è nullo",
+        "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "17",
+      "text": "Quale delle seguenti affermazioni è errata:",
+      "answers": {
+        "a": "Le onde sonore non possono propagarsi nel vuoto",
+        "b": "Le onde elettromagnetiche si propagano solo nel vuoto",
+        "c": "Le onde elettromagnetiche non possono propagarsi nel vuoto",
+        "d": "Le onde elettromagnetiche hanno velocità minore in acqua che in vuoto",
+        "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
+      },
+      "correct": "b",
       "validated": true
     }
   ],
@@ -5667,6 +6027,396 @@
         "e": "keep / shut"
       },
       "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "64",
+      "text": "\"What time is ___ show?\" \"I really don't know\".",
+      "answers": {
+        "a": "the",
+        "b": "a",
+        "c": "some",
+        "d": "---",
+        "e": "for"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "65",
+      "text": "The Evil Inc. is the ___ company in the world. ",
+      "answers": {
+        "a": "bad",
+        "b": "worse",
+        "c": "badest",
+        "d": "worstest",
+        "e": "worst"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "66",
+      "text": "Gabriele ___ already ___ at 5:00 AM.",
+      "answers": {
+        "a": "is / studies",
+        "b": "is / studying",
+        "c": "--- / studying",
+        "d": "is / study",
+        "e": "studies / ---"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "67",
+      "text": "Ilaria __ just ___ a conference call with her ___ math teacher.",
+      "answers": {
+        "a": "has / did / forms",
+        "b": "is / planning / formed",
+        "c": "has / scheduled / former",
+        "d": "is / did / formy",
+        "e": "has / planned / form"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "68",
+      "text": "This challenging project is ___ thanks to the resourcefulness of ___ members.",
+      "answers": {
+        "a": "grown / their",
+        "b": "grow up / it",
+        "c": "growing / they",
+        "d": "growing / its",
+        "e": "grew /---"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "69",
+      "text": "I wish I ___ started studying earlier.",
+      "answers": {
+        "a": "have",
+        "b": "am",
+        "c": "is",
+        "d": "had",
+        "e": "haven't"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "70",
+      "text": "Did you really leave the TV on ___ night?",
+      "answers": {
+        "a": "whole",
+        "b": "all",
+        "c": "the",
+        "d": "for",
+        "e": "what"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "71",
+      "text": "Have you seen my glasses? I've been looking ___ them for ages.",
+      "answers": {
+        "a": "forward",
+        "b": "on",
+        "c": "for",
+        "d": "at",
+        "e": "into"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "72",
+      "text": "I've heard Chiara and Daria have broken ___ . Now they don't even speak ___ each other.",
+      "answers": {
+        "a": "up / to",
+        "b": "in / ---",
+        "c": "out / at",
+        "d": "off / up",
+        "e": "through"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "73",
+      "text": "Pack your things, everyone. We're leaving ___ noon.",
+      "answers": {
+        "a": "on",
+        "b": "at",
+        "c": "in",
+        "d": "through",
+        "e": "to"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "74",
+      "text": "Oh, knock it ___ , Dario! You've ___ going on about this all day.",
+      "answers": {
+        "a": "down / had",
+        "b": "off /been",
+        "c": "up /being",
+        "d": "out / ---",
+        "e": "on / had"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "75",
+      "text": "If you ___ more carefully, you ___ so many accidents",
+      "answers": {
+        "a": "drive / couldn't have",
+        "b": "are / not have",
+        "c": "driven / shouldn't have",
+        "d": "drive / have",
+        "e": "drove / wouldn't have"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "76",
+      "text": "They'll probably be hungry because they ___ eaten.",
+      "answers": {
+        "a": "will have",
+        "b": "have had",
+        "c": "won't have",
+        "d": "haven't",
+        "e": "had not"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "77",
+      "text": "\"How old are you?\", she said. She asked ___ how old ___ .",
+      "answers": {
+        "a": "--- / I was",
+        "b": "her / I was",
+        "c": "--- / she were",
+        "d": "--- / I am",
+        "e": "me / I am"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "78",
+      "text": "Smoking is unhealthy, ___ a lot of people find ___ difficult to stop.",
+      "answers": {
+        "a": "although / ---",
+        "b": "even if / ---",
+        "c": "but / it",
+        "d": "but / ---",
+        "e": "even if / so"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "79",
+      "text": "I'm sorry, she's ___  gone. She ___ some time ago.",
+      "answers": {
+        "a": "yet / goes away",
+        "b": "already / was",
+        "c": "still / goes away",
+        "d": "already / went",
+        "e": "already / is here"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "80",
+      "text": "When you ___ Mario, ___ him I want to talk to him.",
+      "answers": {
+        "a": "will see / told",
+        "b": "see / tell",
+        "c": "have seen / ask",
+        "d": "might see / would tell",
+        "e": "saw / have told"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "81",
+      "text": "In 2017, Roger Federer ___ Wimbledon ___ the eighth time.",
+      "answers": {
+        "a": "has won / at",
+        "b": "would have won / to",
+        "c": "won / for",
+        "d": "wins / by",
+        "e": "win / ---"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "82",
+      "text": "We've been waiting ___ G.R.R. Martin to finish the book ___ more than 10 years.",
+      "answers": {
+        "a": "by / at",
+        "b": "up / through",
+        "c": "--- / on",
+        "d": "on / along",
+        "e": "for / for"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "83",
+      "text": "I see that, after ___ this time, you still remember my tastes.",
+      "answers": {
+        "a": "so much",
+        "b": "much",
+        "c": "every",
+        "d": "all",
+        "e": "whole"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "84",
+      "text": "Once ___ time, there was a horse that loved ___ apples more than anything.",
+      "answers": {
+        "a": "--- / eat",
+        "b": "upon a / eating",
+        "c": "a / to eat",
+        "d": "upon the / eatying",
+        "e": "last / ate"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "85",
+      "text": "I never ___ them nowadays. The last time we ___ was ten years ago.",
+      "answers": {
+        "a": "seen / met",
+        "b": "saw / meet",
+        "c": "see / met",
+        "d": "seen / met",
+        "e": "have seen / meet"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "86",
+      "text": "She's the freshman I met ___ the open day.",
+      "answers": {
+        "a": "at",
+        "b": "on",
+        "c": "---",
+        "d": "in",
+        "e": "into"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "87",
+      "text": "I've never seen ___ a messy room.",
+      "answers": {
+        "a": "that",
+        "b": "such",
+        "c": "much",
+        "d": "very",
+        "e": "too"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "88",
+      "text": "When the phone ___ , I was ___ bed.",
+      "answers": {
+        "a": "ringed / on",
+        "b": "ring / to",
+        "c": "rung / at",
+        "d": "ranged / off",
+        "e": "rang / in"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "89",
+      "text": "I'm ___ reader of X-Men comics, but I'm starting to feel ___ by the amount of series that are currently being published.",
+      "answers": {
+        "a": "an avid / overwhelmed",
+        "b": "an animistic / bamboozled",
+        "c": "a caustic / flabbergasted",
+        "d": "a casual / overlooked",
+        "e": "an erratic / overdressed"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "90",
+      "text": "This assignment must be ___ by Monday.",
+      "answers": {
+        "a": "handed to",
+        "b": "hund on",
+        "c": "handed",
+        "d": "handed in",
+        "e": "handed into"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "91",
+      "text": "The ___ beautiful word in the English language is \"you\".",
+      "answers": {
+        "a": "best",
+        "b": "most",
+        "c": "more",
+        "d": "less",
+        "e": "last"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "92",
+      "text": "Elisa was disappointed ___ the low mark she ___ in the test.",
+      "answers": {
+        "a": "from / had",
+        "b": "of /get",
+        "c": "by / got",
+        "d": "because / does",
+        "e": "for / did not"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "93",
+      "text": "If you ___ stayed at home, there wouldn't ___ any trouble.",
+      "answers": {
+        "a": "'d / have been",
+        "b": "--- / see",
+        "c": "'ll / seen",
+        "d": "'d / have had",
+        "e": "--- / had"
+      },
+      "correct": "a",
       "validated": true
     }
   ]
