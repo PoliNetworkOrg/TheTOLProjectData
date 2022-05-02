@@ -1038,7 +1038,7 @@
     },
     {
       "id": "80",
-      "text": "Un guardiano A si trova in cima ad un faro alto 100 metri ed osserva una nave B ferma in mare. Si sa che l'angolo $\\beta$ che l'orizzontale per A forma con la semiretta $\\overline{AB}$ è di 15°. Quanto dista il guardiano A della nave B? Si considerino A e B punti materiali.",
+      "text": "Un guardiano $A$ si trova in cima ad un faro alto 100 metri ed osserva una nave $B$ ferma in mare. Si sa che l'angolo $\\beta$ che l'orizzontale per $A$ forma con la semiretta $\\overline{AB}$ è di 15°. Quanto dista il guardiano $A$ della nave $B$? Si considerino $A$ e $B$ punti materiali.",
       "answers": {
         "a": "150 metri",
         "b": "173 metri circa",
