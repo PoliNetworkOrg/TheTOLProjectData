@@ -17,5 +17,5 @@ jobs:
         env:
           USER: ${{ github.event.sender.login }}
       - run: git fetch origin
-      - run: 'git merge origin/main -m "chore: update production database" -m "Executed via .github/workflows/deploy.yml"'
+      - run: 'git merge origin/main --allow-unrelated-histories -m "chore: update production database" -m "Executed via .github/workflows/deploy.yml"'
       - run: git push
