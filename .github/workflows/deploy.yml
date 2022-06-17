@@ -26,5 +26,5 @@ jobs:
           echo ::set-output name=curr::$(git rev-parse origin/main)
       - run: 'git commit -m "chore: update db to match $CURR" -m "Executed via .github/workflows/deploy.yml"'
         env:
-          CURR: ${{ steps.sha.curr }}
+          CURR: ${{ steps.sha.outputs.curr }}
       - run: git push
