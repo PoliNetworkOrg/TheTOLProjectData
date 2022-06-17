@@ -17,5 +17,14 @@ jobs:
         env:
           USER: ${{ github.event.sender.login }}
       - run: git fetch origin
-      - run: 'git merge origin/main --allow-unrelated-histories -m "chore: update production database" -m "Executed via .github/workflows/deploy.yml"'
+      - run: |
+          git checkout origin/main database.json
+          git add database.json
+      - id: sha
+        run: |
+          echo ::set-output name=prev::${git rev-parse origin/stable}
+          echo ::set-output name=curr::${git rev-parse origin/main}
+      - run: 'git commit -m "chore: update db to match $CURR" -m "Executed via .github/workflows/deploy.yml"'
+        env:
+          CURR: ${{ steps.sha.curr }}
       - run: git push
