@@ -1089,7 +1089,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "84",
+      "text": "Determinare quale delle seguenti equazioni non ha soluzioni reali.",
+      "answers": {
+        "a": "$e^x+e^{-x}=2$",
+        "b": "$e^x+e^{-x}=8/3$",
+        "c": "$e^x+e^{-x}=1$",
+        "d": "$e^x+e^{-x}=e$",
+        "e": "$e^x+e^{-x}=3$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
