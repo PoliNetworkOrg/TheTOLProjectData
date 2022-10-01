@@ -1102,11 +1102,29 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "85",
+      "text": "La retta $y=mx+1$ passa per i punti $sqrt{2}$, log_{pi}{p}$ e $(log_{pi}{p}, 1)$. Quali sono i possibili valori di $p$? ",
+      "answers": {
+        "a": "$p=1 e p=sqrt{2}$",
+        "b": "$p=0 e p=sqrt{2}$",
+        "c": "$p=1 e p=pi$",
+        "d": "$p=0 e p=1$",
+        "e": "$p=0 e p=pi$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "86",
+      "text": "La misura del perimetro di un rettangolo è pari a $6 \\cdot sqrt{3}$ cm. Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
@@ -4993,6 +5011,13 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "1",
+      "track": "test",
+      "answers": {},
+      "validated": false
     }
   ],
   "fis": [
@@ -5216,6 +5241,12 @@
       },
       "correct": "b",
       "validated": true
+    },
+    {
+      "id": "18",
+      "text": "test",
+      "answers": {},
+      "validated": false
     }
   ],
   "ing": [
@@ -6427,6 +6458,12 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "94",
+      "text": "test",
+      "answers": {},
+      "validated": false
     }
   ]
 }
