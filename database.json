@@ -1103,28 +1103,28 @@
     },
     {
       "id": "85",
-      "text": "La retta $y=mx+1$ passa per i punti $sqrt{2}$, log_{pi}{p}$ e $(log_{pi}{p}, 1)$. Quali sono i possibili valori di $p$? ",
+      "text": "La retta $y=mx+1$ passa per i punti $(\\sqrt{2}, log_{\\pi}(p))$ e $(log_{\\pi}(p), 1)$. Quali sono i possibili valori di $p$? ",
       "answers": {
-        "a": "$p=1 e p=sqrt{2}$",
-        "b": "$p=0 e p=sqrt{2}$",
-        "c": "$p=1 e p=pi$",
-        "d": "$p=0 e p=1$",
-        "e": "$p=0 e p=pi$"
+        "a": "$p=1$ e $p=\\sqrt{2}$",
+        "b": "$p=0$ e $p=s\\sqrt{2}$",
+        "c": "$p=1$ e $p=\\pi$",
+        "d": "$p=0$ e $p=1$",
+        "e": "$p=0$ e $p=\\pi$"
       },
       "correct": "c",
       "validated": false
     },
     {
       "id": "86",
-      "text": "La misura del perimetro di un rettangolo è pari a $6 \\cdot sqrt{3}$ cm. Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
+      "text": "La misura del perimetro di un rettangolo è pari a $6 \\cdot \\sqrt{3} cm$ Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$y=-x^2+3^{3/2}x",
+        "b": "$y=-x^2-2^{3/2}x",
+        "c": "$y=-x^2+3^{1/2}x",
+        "d": "$y=-x^2-3^{1/2}x",
+        "e": "$y=-x^2-3^{2/3}x"
       },
-      "correct": "",
+      "correct": "a",
       "validated": false
     },
     {
@@ -5011,13 +5011,6 @@
       },
       "correct": "e",
       "validated": true
-    },
-    {
-      "id": "4",
-      "sub": "1",
-      "track": "test",
-      "answers": {},
-      "validated": false
     }
   ],
   "fis": [
@@ -5241,12 +5234,6 @@
       },
       "correct": "b",
       "validated": true
-    },
-    {
-      "id": "18",
-      "text": "test",
-      "answers": {},
-      "validated": false
     }
   ],
   "ing": [
@@ -6458,12 +6445,6 @@
       },
       "correct": "a",
       "validated": true
-    },
-    {
-      "id": "94",
-      "text": "test",
-      "answers": {},
-      "validated": false
     }
   ]
 }
