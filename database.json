@@ -1116,7 +1116,7 @@
     },
     {
       "id": "86",
-      "text": "La misura del perimetro di un rettangolo è pari a $6 \\cdot \\sqrt{3}$ cm. Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
+      "text": "La misura del perimetro di un rettangolo è pari a $6 \\sqrt{3}$ cm. Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
       "answers": {
         "a": "$y=-x^2+3 \\sqrt{3}x$",
         "b": "$y=-x^2-3 \\sqrt{3}x$",
