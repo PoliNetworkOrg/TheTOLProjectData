@@ -1103,29 +1103,29 @@
     },
     {
       "id": "85",
-      "text": "La retta $y=mx+1$ passa per i punti $(\\sqrt{2}, log_{\\pi}(p))$ e $(log_{\\pi}(p), 1)$. Quali sono i possibili valori di $p$? ",
+      "text": "La retta $y=mx+1$ passa per i punti $(\\sqrt{2}, log_{\\pi}p)$ e $(log_{\\pi}p, 1)$. Quali sono i possibili valori di $p$? ",
       "answers": {
-        "a": "$p=1$ e $p=\\sqrt{2}$",
-        "b": "$p=0$ e $p=\\sqrt{2}$",
-        "c": "$p=1$ e $p=\\pi$",
-        "d": "$p=0$ e $p=1$",
-        "e": "$p=0$ e $p=\\pi$"
+        "a": "$p=1$ e $p=\\pi$",
+        "b": "$p=1$ e $p=\\sqrt{2}$",
+        "c": "$p=\\sqrt{2}$ e $p=\\pi$",
+        "d": "$p=1$ e $p=1$",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "c",
-      "validated": false
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "86",
-      "text": "La misura del perimetro di un rettangolo è pari a $6 \\sqrt{3}$ cm. Quale tra le seguenti funzioni esprime l'area del rettangolo?  ",
+      "text": "Il rettangolo di area massima avente perimetro 24 cm è:  ",
       "answers": {
-        "a": "$y=-x^2+3 \\sqrt{3}x$",
-        "b": "$y=-x^2-3 \\sqrt{3}x$",
-        "c": "$y=-x^2+\\sqrt{3}x$",
-        "d": "$y=-x^2-\\sqrt{3}x$",
-        "e": "$y=-x^2+3x$"
+        "a": "Un rettangolo con base 12 cm e altezza 4 cm",
+        "b": "Un quadrato di lato 6 cm",
+        "c": "Un rettangolo con base uguale 12 cm e altezza uguale alla radice quadrata della sua diagonale",
+        "d": "Un quadrato con la diagonale uguale al diametro della circonferenza in cui è inscritto",
+        "e": "Un rettangolo con base uguale a 12 cm e altezza uguale al rapporto tra la misura del lato maggiore e quella del lato minore"
       },
-      "correct": "a",
-      "validated": false
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
