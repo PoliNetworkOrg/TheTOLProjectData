@@ -1129,9 +1129,16 @@
     },
     {
       "id": "87",
-      "text": "In un triangolo rettangolo $ABC$ l'ipotenusa $AC$ misur ",
-      "answers": {},
-      "validated": false
+      "text": "In un triangolo rettangolo $ABC$ l'ipotenusa $AC$ misura 8 cm ed il cateto $BC$ è la metà di $AC$. Considerato un punto $P$ su $AC$ e la sua proiezione $K$ su $BC$, per quale posizione di $P$ l'area di $BAPK$ è la metà di quella di &ABC$?",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "answers": {},
