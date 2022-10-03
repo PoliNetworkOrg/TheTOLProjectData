@@ -1120,14 +1120,16 @@
       "answers": {
         "a": "Un rettangolo con base 12 cm e altezza 4 cm",
         "b": "Un quadrato di lato 6 cm",
-        "c": "Un rettangolo con base uguale 12 cm e altezza uguale alla radice quadrata della sua diagonale",
-        "d": "Un quadrato con la diagonale uguale al diametro della circonferenza in cui è inscritto",
-        "e": "Un rettangolo con base uguale a 12 cm e altezza uguale al rapporto tra la misura del lato maggiore e quella del lato minore"
+        "c": "Un rettangolo con base 12 cm e altezza uguale alla radice quadrata della sua diagonale",
+        "d": "Un quadrato con la diagonale uguale al semiperimetro del rettangolo dato",
+        "e": "Un rettangolo con base 6 cm e altezza uguale alla raggio della circonferenza in cui è inscritto"
       },
       "correct": "b",
       "validated": true
     },
     {
+      "id": "87",
+      "text": "In un triangolo rettangolo $ABC$ l'ipotenusa $AC$ misur ",
       "answers": {},
       "validated": false
     },
