@@ -1131,11 +1131,11 @@
       "id": "87",
       "text": "In un triangolo rettangolo $ABC$ l'ipotenusa $AC$ misura 8 cm ed il cateto $BC$ è la metà di $AC$. Considerato un punto $P$ su $AC$ e la sua proiezione $K$ su $BC$, per quale posizione di $P$ l'area di $BAPK$ è la metà di quella di &ABC$?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$\\overline{PC}=2$",
+        "b": "$\\overline{PC}=\\sqrt{2}$",
+        "c": "$\\overline{PC}=2\\sqrt{2}$",
+        "d": "$\\overline{PC}=3\\sqrt{2}$",
+        "e": "$\\overline{PC}=4\\sqrt{2}$"
       },
       "correct": "",
       "validated": true
