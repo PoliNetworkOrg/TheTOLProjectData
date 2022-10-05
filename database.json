@@ -1142,7 +1142,7 @@
     },
     {
       "id": "88",
-      "text": "Qual è la distanza più breve tra due circonferenze aventi equazioni $(x+2)^2+(y-3)^2=18$ e $(x-7)^2+(y+6)^2=2$?",
+      "text": "Qual è la distanza più breve tra la curva avente equazione $(x+2)^2+(y-3)^2=18$ e la curva $(x-7)^2+(y+6)^2=2$?",
       "answers": {
         "a": "9",
         "b": "$9\\sqrt{2}$",
@@ -1154,8 +1154,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "89",
+      "text": "Nell'intervallo $(-\\pi, 2\\pi)$, quante soluzioni soddisfano l'equazione $cos(x)+sin(x)=1÷\\pi$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "4"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "answers": {},
