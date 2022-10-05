@@ -1168,7 +1168,7 @@
     },
     {
       "id": "90",
-      "text": "Quanti sono i numeri interi positivi $n$ per i quali la potenza $n^100$ è un numero in base 10 formato da non più di 50 cifre?",
+      "text": "Quanti sono i numeri interi positivi $n$ per i quali la potenza $n^{100}$ è un numero in base 10 formato da non più di 50 cifre?",
       "answers": {
         "a": "2",
         "b": "3",
