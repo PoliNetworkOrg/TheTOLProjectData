@@ -1155,7 +1155,7 @@
     },
     {
       "id": "89",
-      "text": "Nell'intervallo $(-\\pi, 2\\pi)$, quante soluzioni soddisfano l'equazione $cos(x)+sin(x)=1÷\\pi$?",
+      "text": "Nell'intervallo $[-\\pi, 2\\pi]$, quante soluzioni soddisfano l'equazione $cos(x)+sin(x)=\\frac{1}{\\pi}$?",
       "answers": {
         "a": "0",
         "b": "1",
@@ -1167,8 +1167,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "90",
+      "text": "Quanti sono i numeri interi positivi $n$ per i quali la potenza $n^100$ è un numero in base 10 formato da non più di 50 cifre?",
+      "answers": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
