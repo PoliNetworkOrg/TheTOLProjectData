@@ -1168,15 +1168,15 @@
     },
     {
       "id": "90",
-      "text": "Per quali valori di $x$ reali l'equazione $3^{x} -\\sqrt{3}^{x+4}+20=0 è soddisfatta?",
+      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -\\sqrt{3}^{x+4}+20=0$?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$log_2{5}$ e $log_3{4}$",
+        "b": "$log_2{3}$ e $log_3{5}$",
+        "c": "$2log_3{5}$ e $2log_3{4}$",
+        "d": "$log_2{5}$ e $2$",
+        "e": "$log_3{5}$ e $2$"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     },
     {
