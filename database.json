@@ -1141,7 +1141,11 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "88",
+      "text": "Qual è la distanza più breve tra due circonferenze aventi equazioni: $C1: (x+2)^2+(y-3)^2=18$ e $C2: (X-7)^2+(y+6)^2=2$?",
+      "answers": {
+        "a": "0"
+      },
       "validated": false
     },
     {
