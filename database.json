@@ -1168,15 +1168,15 @@
     },
     {
       "id": "90",
-      "text": "Quanti sono i numeri interi positivi $n$ per i quali la potenza $n^{100}$ è un numero in base 10 formato da non più di 50 cifre?",
+      "text": "Per quali valori di $x$ reali l'equazione $3^{x} -\\sqrt{3}^{x+4}+20=0 è soddisfatta?",
       "answers": {
-        "a": "2",
-        "b": "3",
-        "c": "4",
-        "d": "5",
-        "e": "Nessuna delle precedenti"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
       },
-      "correct": "b",
+      "correct": "",
       "validated": true
     },
     {
