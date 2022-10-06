@@ -1168,7 +1168,7 @@
     },
     {
       "id": "90",
-      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -\\sqrt{3}^{x+4}+20=0$?",
+      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -\\sqrt{3}^{(x+4)}+20=0$?",
       "answers": {
         "a": "$log_2{5}$ e $log_3{4}$",
         "b": "$log_2{3}$ e $log_3{5}$",
@@ -1180,8 +1180,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "91",
+      "text": "La funzione $f(x)=-\\sqrt{3}sin(x)+cos(x)$ è equivalente a:",
+      "answers": {
+        "a": "$f(x)=\\sqrt{3}sin(x)-cos(x)$",
+        "b": "$f(x)=2sin(x-\\frac{\\pi}{6})$",
+        "c": "$f(x)=2sin(x+\\frac{5\\pi}{6})$",
+        "d": "$f(x)=sin(x-\\frac{\\pi}{12})$",
+        "e": "$f(x)=\\sqrt{3}sin(x+\\frac{\\pi}{2})$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "answers": {},
