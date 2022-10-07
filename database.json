@@ -5204,7 +5204,7 @@
     },
     {
       "id": "12",
-      "text": "Una lampadina a risparmio energetico da 15 W, la cui durata è stimata in circa 7 anni, è collegata ad un generatore di 220 V.  Qual è il valore della corrente che passa nella lampadina?",
+      "text": "Una lampadina a risparmio energetico da 15 W è collegata ad un generatore di 220 V. Qual è il valore della corrente che passa nella lampadina?",
       "answers": {
         "a": "circa 14,7 A",
         "b": "circa 1,7 A",
@@ -5278,6 +5278,19 @@
         "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
       },
       "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "18",
+      "text": "Due sfere di acciaio si avvicinano alla stessa velocità fino a scontrarsi frontalmente in un urto elastico. Dopo l'urto, una delle due sfere con massa 60 g rimane ferma. Quant'è la massa dell'altra sfera?",
+      "answers": {
+        "a": "30 g",
+        "b": "40 g",
+        "c": "50 g",
+        "d": "60 g",
+        "e": "70 g"
+      },
+      "correct": "c",
       "validated": true
     }
   ],
