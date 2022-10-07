@@ -5282,15 +5282,15 @@
     },
     {
       "id": "18",
-      "text": "Due sfere di acciaio si avvicinano alla stessa velocità fino a scontrarsi frontalmente in un urto elastico. Dopo l'urto, una delle due sfere con massa 60 g rimane ferma. Quant'è la massa dell'altra sfera?",
+      "text": "Due sfere di acciaio si avvicinano alla stessa velocità fino a scontrarsi frontalmente in un urto elastico. Dopo l'urto, una delle due sfere con massa 600 g rimane ferma. Quant'è la massa dell'altra sfera?",
       "answers": {
-        "a": "30 g",
-        "b": "40 g",
-        "c": "50 g",
-        "d": "60 g",
-        "e": "70 g"
+        "a": "0,2 kg",
+        "b": "0,3 kg",
+        "c": "0,4 kg",
+        "d": "0,6 kg",
+        "e": "0,7 kg"
       },
-      "correct": "c",
+      "correct": "a",
       "validated": true
     }
   ],
@@ -6502,6 +6502,19 @@
         "e": "--- / had"
       },
       "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "94",
+      "text": "The only thing you can depend ___ is your family.",
+      "answers": {
+        "a": "---",
+        "b": "on",
+        "c": "to",
+        "d": "with",
+        "e": "for"
+      },
+      "correct": "b",
       "validated": true
     }
   ]
