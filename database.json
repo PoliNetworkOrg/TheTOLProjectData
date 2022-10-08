@@ -5295,13 +5295,16 @@
     },
     {
       "id": "19",
-      "text": "Un cubetto di ghiaccio è completamente immerso in bicchiere contenente acqua fino al bordo. Se il ghiaccio si scioglie, allora:",
+      "text": "Un cubetto di ghiaccio è completamente immerso in un bicchiere contenente acqua. Se il cubetto di ghiaccio si scioglie, allora:",
       "answers": {
         "a": "Il livello dell'acqua non cambia",
         "b": "Il livello dell'acqua scende",
-        "c": "Il livello dell'acqua sale"
+        "c": "Il livello dell'acqua sale",
+        "d": "Non si può concludere nulla con le informazioni fornite",
+        "e": "Nessuna delle precedenti"
       },
-      "validated": false
+      "correct": "b",
+      "validated": true
     }
   ],
   "ing": [
@@ -6525,6 +6528,45 @@
         "e": "for"
       },
       "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "95",
+      "text": "I ___ to leave the party ___ last night. I wasn't very well.",
+      "answers": {
+        "a": "had / before",
+        "b": "have / ---",
+        "c": "had / early",
+        "d": "have / before",
+        "e": "had not / ---"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "96",
+      "text": "I'm looking forward to ___ on holiday.",
+      "answers": {
+        "a": "go",
+        "b": "stay",
+        "c": "book",
+        "d": "going",
+        "e": "see"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "97",
+      "text": "\"Would you pass ___ suitcase, please?\", he asked. He asked ___ to pass ___ siutcase.",
+      "answers": {
+        "a": "my /me / his",
+        "b": "the /me / her",
+        "c": "my / --- / its",
+        "d": "my / ---/  my",
+        "e": "my / --- / its"
+      },
+      "correct": "a",
       "validated": true
     }
   ]
