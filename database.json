@@ -5292,6 +5292,16 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "19",
+      "text": "Un cubetto di ghiaccio è completamente immerso in bicchiere contenente acqua fino al bordo. Se il ghiaccio si scioglie, allora:",
+      "answers": {
+        "a": "Il livello dell'acqua non cambia",
+        "b": "Il livello dell'acqua scende",
+        "c": "Il livello dell'acqua sale"
+      },
+      "validated": false
     }
   ],
   "ing": [
