@@ -1194,9 +1194,16 @@
     },
     {
       "id": "92",
-      "text": "Siano $\\alpha=cos(\\frac{\\2pi}{3}$, $\\beta=tg(\\frac{\\-pi}{3}$ e $\\gamma=sin(\\frac{\\19pi}{4}$. Allora:",
-      "answers": {},
-      "validated": false
+      "text": "Se $a=cos(\\frac{\\2pi}{3})$, $b=tg(\\frac{\\-pi}{3})$ e $c=sin(\\frac{\\19pi}{4})$, allora:",
+      "answers": {
+        "a": "$c>a>b$",
+        "b": "$a<b<c$",
+        "c": "$a>c>b$",
+        "d": "$a<c<b$",
+        "e": "$c>b>a$"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "answers": {},
@@ -5307,6 +5314,19 @@
       },
       "correct": "b",
       "validated": true
+    },
+    {
+      "id": "20",
+      "text": "L'acqua allo stato liquido, alla pressione ambiente e alla temperatura di 1°C viene riscaldata fino a 4°C. Allora:",
+      "answers": {
+        "a": "Il volume diminuisce.",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "a",
+      "validated": false
     }
   ],
   "ing": [
