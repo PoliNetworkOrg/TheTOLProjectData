@@ -1194,7 +1194,7 @@
     },
     {
       "id": "92",
-      "text": "Siano $a=cos(\\frac{2\\pi}{3})$, $b=tg(-\\frac{\\pi}{3})$ e $c=sin(\\frac{19\\pi}{4})$. Quale delle seguenti diseguaglianze è verificata?",
+      "text": "Siano $a=cos(\\frac{2\\pi}{3})$, $b=tg(-\\frac{\\pi}{3})$, $c=sin(\\frac{19\\pi}{4})$. Quale delle seguenti diseguaglianze è verificata?",
       "answers": {
         "a": "$c>a>b$",
         "b": "$a<b<c$",
