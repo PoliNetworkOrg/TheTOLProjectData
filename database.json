@@ -1194,7 +1194,7 @@
     },
     {
       "id": "92",
-      "text": "Se $a=cos(\\frac{2\\pi}{3})$, $b=tg(\\frac{\\-pi}{3})$ e $c=sin(\\frac{19\\pi}{4})$, allora:",
+      "text": "Se $a=cos(\\frac{2\\pi}{3})$, $b=tan(\\frac{\\-pi}{3})$ e $c=sin(\\frac{19\\pi}{4})$, allora:",
       "answers": {
         "a": "$c>a>b$",
         "b": "$a<b<c$",
@@ -5065,6 +5065,57 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "1",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\nAristotele - Metafisica",
+      "text": "Secondo l'autore, le arti:",
+      "answers": {
+        "a": "Si sviluppano grazie alla filosofia",
+        "b": "Sono fini a se stesse",
+        "c": "Sono una forma di filosofia",
+        "d": "Si differenziano dalla filosofia",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "2",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\nAristotele - Metafisica",
+      "text": "L'origine della filosofia:",
+      "answers": {
+        "a": "E' suddivisibile in grado semplice di meraviglia e grado più complesso",
+        "b": "E' legata alla sola meraviglia degli uomini per l'universo conosciuto",
+        "c": "E' legata alla sola curiosità degli uomini di comprendere fenomeni complessi",
+        "d": "",
+        "e": "Non compare nel testo"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "3",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\nAristotele - Metafisica",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "4",
+      "sub": "4",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\nAristotele - Metafisica",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "4",
+      "sub": "5",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\nAristotele - Metafisica",
+      "answers": {},
+      "validated": false
     }
   ],
   "fis": [
