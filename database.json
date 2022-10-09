@@ -1168,7 +1168,7 @@
     },
     {
       "id": "90",
-      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -\\sqrt{3}^{x+4}+20=0$?",
+      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -(\\sqrt{3})^{x+4}+20=0$?",
       "answers": {
         "a": "$log_2{5}$ e $log_3{4}$",
         "b": "$log_2{3}$ e $log_3{5}$",
