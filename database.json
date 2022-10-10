@@ -5360,8 +5360,8 @@
         "a": "Il livello dell'acqua non cambia",
         "b": "Il livello dell'acqua scende",
         "c": "Il livello dell'acqua sale",
-        "d": "Non si può concludere nulla con le informazioni fornite",
-        "e": "Nessuna delle precedenti"
+        "d": "Inizialmente il livello dell'acqua scende, poi sale",
+        "e": "Non si può concludere nulla con le informazioni fornite"
       },
       "correct": "b",
       "validated": true
