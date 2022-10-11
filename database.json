@@ -1207,7 +1207,7 @@
     },
     {
       "id": "93",
-      "text": "Data la funzione $f(x)=\\sqrt{(\\sqrt{x^2)^2}}$, quale delle seguenti affermazioni è vera?",
+      "text": "Data la funzione $f(x)=\\sqrt{(\\sqrt{x^2-1)^2}}$, quale delle seguenti affermazioni è vera?",
       "answers": {
         "a": "$\\exist \\alpha >1$ | $f(x)=\\alpha$ ha esattamente tre soluzioni distinte",
         "b": "Il grafico di $f(x)$ è simmetrico rispetto alla retta $x=0$",
