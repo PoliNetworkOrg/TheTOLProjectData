@@ -6701,7 +6701,7 @@
         "a": "lent you",
         "b": "lent me",
         "c": "borrow me",
-        "d": "borrow",
+        "d": "borrow it",
         "e": "borrow you"
       },
       "correct": "a",
