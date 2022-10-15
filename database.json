@@ -1216,11 +1216,20 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "94",
+      "text": "Siano $a$ e $b$ numeri reali positivi. Allora:",
+      "answers": {
+        "a": "$\\frac{1}{a+b}=\\frac{1}{a}+\\frac{1}{b}$",
+        "b": "$\\frac{1}{a+b} \\leqslant \\frac{1}{a}+\\frac{1}{b}$",
+        "c": "$\\frac{1}{a+b} \\geqslant \\frac{1}{a}+\\frac{1}{b}$",
+        "d": "$\\frac{1}{a+b} \\gt \\frac{1}{a}+\\frac{1}{b}$",
+        "e": "$\\frac{1}{a+b} \\lt \\frac{1}{a}+\\frac{1}{b}$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "answers": {},
@@ -6709,7 +6718,7 @@
       "answers": {
         "a": "lent you",
         "b": "lent me",
-        "c": "borrow me",
+        "c": "borrow",
         "d": "borrow it",
         "e": "borrow you"
       },
