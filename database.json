@@ -1105,10 +1105,10 @@
       "id": "85",
       "text": "La retta $y=mx+1$ passa per i punti $(\\sqrt{2}, log_{\\pi}p)$ e $(log_{\\pi}p, 1)$. Quali sono i possibili valori di $p$? ",
       "answers": {
-        "a": "$p=1$ e $p=\\pi$",
-        "b": "$p=1$ e $p=\\sqrt{2}$",
-        "c": "$p=\\sqrt{2}$ e $p=\\pi$",
-        "d": "$p=1$ e $p=1$",
+        "a": "$p=1$ , $p=\\pi$",
+        "b": "$p=1$ , $p=\\sqrt{2}$",
+        "c": "$p=\\sqrt{2}$ , $p=\\pi$",
+        "d": "$p=1$ , $p=1$",
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
