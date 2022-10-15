@@ -1216,7 +1216,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": false
     },
     {
       "id": "94",
@@ -1229,7 +1229,7 @@
         "e": "$\\frac{1}{a+b} \\lt \\frac{1}{a}+\\frac{1}{b}$"
       },
       "correct": "e",
-      "validated": true
+      "validated": false
     },
     {
       "answers": {},
