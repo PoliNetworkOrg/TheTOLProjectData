@@ -1232,7 +1232,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "95",
+      "text": "Sia $P$ l'insieme dei punti della regione di piano compresa tra i lati di un triangolo avente come vertici i punti $A(0,0)$, $B(5,4)$, $C(7,2)$. Sia inoltre $Q$ l'insieme dei punti della regione di piano compresa tra i lati di un triangolo avente come vertici i punti $A(0,0)$, $B(5,4)$, $D(6,2)$. Allora l'insieme complementare di $Q$ rispetto a $P$ vale:",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
