@@ -1220,7 +1220,7 @@
     },
     {
       "id": "94",
-      "text": "Siano $a$ e $b$ numeri reali positivi. Allora:",
+      "text": "Siano $a$, $b$ $\\in \\Reals$, con $a$, $b$ $\\gt 0$. Allora:",
       "answers": {
         "a": "$\\frac{1}{a+b}=\\frac{1}{a}+\\frac{1}{b}$",
         "b": "$\\frac{1}{a+b} \\leqslant \\frac{1}{a}+\\frac{1}{b}$",
