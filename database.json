@@ -1220,13 +1220,13 @@
     },
     {
       "id": "94",
-      "text": "Siano $a$, $b$ $\\in \\Reals$, con $a$, $b$ $\\gt 0$. Allora:",
+      "text": "Il perimetro di un dodecagono regolare inscritto in una circonferenza di raggio uguale a $1$ è uguale a:",
       "answers": {
-        "a": "$\\frac{1}{a+b}=\\frac{1}{a}+\\frac{1}{b}$",
-        "b": "$\\frac{1}{a+b} \\leqslant \\frac{1}{a}+\\frac{1}{b}$",
-        "c": "$\\frac{1}{a+b} \\geqslant \\frac{1}{a}+\\frac{1}{b}$",
-        "d": "$\\frac{1}{a+b} \\gt \\frac{1}{a}+\\frac{1}{b}$",
-        "e": "$\\frac{1}{a+b} \\lt \\frac{1}{a}+\\frac{1}{b}$"
+        "a": "$2\\pi\\sqrt{2}$",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "e",
       "validated": false
