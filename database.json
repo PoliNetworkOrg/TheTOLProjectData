@@ -1222,13 +1222,13 @@
       "id": "94",
       "text": "Il perimetro di un dodecagono regolare inscritto in una circonferenza di raggio uguale a $1$ è uguale a:",
       "answers": {
-        "a": "$2\\pi(sqrt{6}-sqrt{2})",
-        "b": "$2\\pi(sqrt{6}-sqrt{2})",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$2\\pi (\\sqrt{6}-\\sqrt{2})$",
+        "b": "$6(\\sqrt{6}-\\sqrt{2})$",
+        "c": "$2\\pi(\\sqrt{2-\\sqrt{3}})$",
+        "d": "$6(\\sqrt{2-\\sqrt{3}})$",
+        "e": "$2\\pi (\\frac\\{\\sqrt{6}}{\\sqrt{2}})$"
       },
-      "correct": "",
+      "correct": "b",
       "validated": false
     },
     {
