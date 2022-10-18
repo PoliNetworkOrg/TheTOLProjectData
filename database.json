@@ -1226,7 +1226,7 @@
         "b": "$6(\\sqrt{6}-\\sqrt{2})$",
         "c": "$2\\pi(\\sqrt{2-\\sqrt{3}})$",
         "d": "$6(\\sqrt{2-\\sqrt{3}})$",
-        "e": "$2\\pi (\\frac\\{\\sqrt{6}}{\\sqrt{2}})$"
+        "e": "$2\\pi (\\frac {\\sqrt{6}}{\\sqrt{2}})$"
       },
       "correct": "b",
       "validated": false
