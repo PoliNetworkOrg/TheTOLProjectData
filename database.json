@@ -1222,13 +1222,13 @@
       "id": "94",
       "text": "Il perimetro di un dodecagono regolare inscritto in una circonferenza di raggio uguale a $1$ è uguale a:",
       "answers": {
-        "a": "$2\\pi\\sqrt{2}$",
+        "a": "",
         "b": "",
         "c": "",
         "d": "",
-        "e": "Nessuna delle precedenti"
+        "e": ""
       },
-      "correct": "e",
+      "correct": "",
       "validated": false
     },
     {
