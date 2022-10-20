@@ -1216,7 +1216,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "94",
@@ -1229,7 +1229,7 @@
         "e": "$2\\pi (\\frac {\\sqrt{6}}{\\sqrt{2}})$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "95",
