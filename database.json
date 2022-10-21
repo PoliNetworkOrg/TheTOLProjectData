@@ -1246,12 +1246,12 @@
     },
     {
       "id": "96",
-      "text": "Siano date tre rette nello spazio, a due a due perpendicolari. Allora:",
+      "text": "L’affermazione “la somma degli angoli interni di un poligono non può essere uguale ad un numero dispari di angoli retti “ è:",
       "answers": {
-        "a": "Possono avere un punto in comune",
-        "b": "Giacciono sullo stesso piano",
-        "c": "Due di esse sono parallele",
-        "d": "Devono avere un punto in comune",
+        "a": "Vera, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "b": "Falsa, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "c": "Vera, ma solo per i poligoni regolari",
+        "d": "Vera, ma solo se il poligono ha un numero dispari di lati",
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
