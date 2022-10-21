@@ -1245,8 +1245,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "96",
+      "text": "Siano date tre rette nello spazio, a due a due perpendicolari. Allora:",
+      "answers": {
+        "a": "Possono avere un punto in comune",
+        "b": "Giacciono sullo stesso piano",
+        "c": "Due di esse sono parallele",
+        "d": "Devono avere un punto in comune",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "answers": {},
