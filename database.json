@@ -1268,20 +1268,20 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": false
     },
     {
       "id": "98",
-      "text": "",
+      "text": "Per quali valori di $n \\in \\N$ l'equazione $\\sqrt{3n} 2 \\sqrt{n} \\sqrt{4}{1024}$ = $\\sqrt{4n} 2 \\sqrt{3} \\sqrt{16}$ è soddisfatta?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$n=0$",
+        "b": "$n=1, n=10$",
+        "c": "$n=1$",
+        "d": "$n=0, n=10$",
+        "e": "$n=10$"
       },
-      "correct": "",
-      "validated": true
+      "correct": "e",
+      "validated": false
     },
     {
       "answers": {},
