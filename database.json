@@ -1258,8 +1258,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "97",
+      "text": "Data la seguente disequazione $e^\\frac{\\sqrt{x^2}-2}{x^4-1} \\geqslant 1$, l'insieme delle soluzioni $x\\in \\Reals$ è:",
+      "answers": {
+        "a": "$\\Reals \\setminus {-1, 1}$",
+        "b": "$(-\\infin, -1)",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "answers": {},
