@@ -1272,8 +1272,16 @@
     },
     {
       "id": "98",
-      "answers": {},
-      "validated": false
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "answers": {},
