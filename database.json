@@ -1261,11 +1261,11 @@
       "id": "97",
       "text": "Data la seguente disequazione $e^\\frac{\\sqrt{x^2}-2}{x^4-1} \\geqslant 1$, l'insieme delle soluzioni $x\\in \\Reals$ è:",
       "answers": {
-        "a": "$\\Reals \\setminus {-1, 1}$",
-        "b": "$(-\\infin, -1] \\cup (1, +\\infin)$",
+        "a": "$\\Reals \\setminus {{-1, 1}}$",
+        "b": "$(-\\infin, -1) \\cup (1, +\\infin)$",
         "c": "$[-2, -1) \\cup (1, 2]$",
         "d": "$(-\\infin, -2] \\cup (-1, 1) \\cup [2, +\\infin)$",
-        "e": "nessuna delle precedenti"
+        "e": "Nessuna delle precedenti"
       },
       "correct": "d",
       "validated": true
