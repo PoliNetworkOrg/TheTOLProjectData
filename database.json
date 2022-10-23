@@ -1285,7 +1285,7 @@
     },
     {
       "id": "99",
-      "text": "",
+      "text": "Il numero di studenti $N$ di un noto ateneo che hanno avuto l'influenza $t$ mesi dopo l'inizio del semestre di un anno non bisestile, può essere descritto mediante il modello $N(t)= 370 - \\frac {495}{1+2t}$ per $t \\geqslant 0$. Dopo quanto tempo 100 studenti hanno contratto l'influenza?",
       "answers": {
         "a": "",
         "b": "",
