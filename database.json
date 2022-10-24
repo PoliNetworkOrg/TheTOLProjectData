@@ -5433,13 +5433,13 @@
       "id": "20",
       "text": "Un serbatoio è riempito d'acqua fino al bordo. Quando un foro sul fondo viene aperto, il serbatoio si svuota nel tempo $T$. Quanto tempo $T'$ ci vorrà per svuotare il serbatoio se è riempito a metà?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$T'=\\frac {2T}{\\sqrt{2}$",
+        "b": "$T'=\\frac {sqrt{2}}{2T}$",
+        "c": "$T'=\\frac {T}{\\sqrt{2}$",
+        "d": "$T'=\\frac {sqrt{2}}{T}$",
+        "e": "Occorre conoscere l'area della sezione del foro"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     }
   ],
