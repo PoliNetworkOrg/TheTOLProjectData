@@ -5214,7 +5214,7 @@
       "answers": {
         "a": "Da liquido a solido",
         "b": "Da liquido a gassoso",
-        "c": "Da gassoso a solido",
+        "c": "Da vapore a solido",
         "d": "Da solido a gassoso",
         "e": "Da gassoso a liquido"
       },
@@ -5424,9 +5424,22 @@
         "b": "Il livello dell'acqua scende",
         "c": "Il livello dell'acqua sale",
         "d": "Inizialmente il livello dell'acqua scende, poi sale",
-        "e": "Non si può concludere nulla con le informazioni fornite"
+        "e": "Non si può concludere nulla con le sole informazioni fornite"
       },
       "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "20",
+      "text": "Un serbatoio è riempito d'acqua fino al bordo. Quando un foro sul fondo viene aperto, il serbatoio si svuota nel tempo $T$. Quanto tempo $T'$ ci vorrà per svuotare il serbatoio se è riempito a metà?",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": true
     }
   ],
