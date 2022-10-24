@@ -5167,9 +5167,12 @@
       "answers": {
         "a": "La filosofia non è una scienza",
         "b": "La filosofia è scienza libera",
-        "c": "Il fine della filosofia è liberre gli uomini"
+        "c": "Il fine della filosofia è istruire gli uomini",
+        "d": "La filosofia è un arte pratica",
+        "e": "La filosofia è praticata da soli uomini agiati e benestanti"
       },
-      "validated": false
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "4",
@@ -5438,10 +5441,10 @@
       "id": "20",
       "text": "Un serbatoio è riempito d'acqua fino al bordo. Quando un foro sul fondo viene aperto, il serbatoio si svuota nel tempo $T$. Quanto tempo $T'$ ci vorrà per svuotare il serbatoio se è riempito a metà?",
       "answers": {
-        "a": "$T'=\\frac {2T}{\\sqrt{2}}$",
+        "a": "$T'=\\frac {2}{2\\sqrt{2}}$",
         "b": "$T'=\\frac {\\sqrt{2}}{2T}$",
         "c": "$T'=\\frac {T}{\\sqrt{2}}$",
-        "d": "$T'=\\frac {\\sqrt{2}}{T}$",
+        "d": "$T'=T \\frac {\\sqrt{2}}{2}$",
         "e": "E' necessario conoscere l'area della sezione del foro"
       },
       "correct": "c",
