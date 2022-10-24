@@ -5152,7 +5152,7 @@
       "answers": {
         "a": "E' suddivisibile in grado semplice di meraviglia e grado più complesso",
         "b": "E' legata alla sola meraviglia degli uomini per l'universo conosciuto",
-        "c": "E' opera di uomini liberi",
+        "c": "E' opera di uomini un tempo liberi",
         "d": "Ha inibito la libertà degli uomini",
         "e": "Non compare nel testo"
       },
@@ -5163,7 +5163,12 @@
       "id": "4",
       "sub": "3",
       "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
-      "answers": {},
+      "text": "Indicare l'affermazione corretta:",
+      "answers": {
+        "a": "La filosofia non è una scienza",
+        "b": "La filosofia è scienza libera",
+        "c": "Il fine della filosofia è liberre gli uomini"
+      },
       "validated": false
     },
     {
@@ -5433,11 +5438,11 @@
       "id": "20",
       "text": "Un serbatoio è riempito d'acqua fino al bordo. Quando un foro sul fondo viene aperto, il serbatoio si svuota nel tempo $T$. Quanto tempo $T'$ ci vorrà per svuotare il serbatoio se è riempito a metà?",
       "answers": {
-        "a": "$T'=\\frac {2T}{\\sqrt{2}$",
-        "b": "$T'=\\frac {sqrt{2}}{2T}$",
-        "c": "$T'=\\frac {T}{\\sqrt{2}$",
-        "d": "$T'=\\frac {sqrt{2}}{T}$",
-        "e": "Occorre conoscere l'area della sezione del foro"
+        "a": "$T'=\\frac {2T}{\\sqrt{2}}$",
+        "b": "$T'=\\frac {\\sqrt{2}}{2T}$",
+        "c": "$T'=\\frac {T}{\\sqrt{2}}$",
+        "d": "$T'=\\frac {\\sqrt{2}}{T}$",
+        "e": "E' necessario conoscere l'area della sezione del foro"
       },
       "correct": "c",
       "validated": true
