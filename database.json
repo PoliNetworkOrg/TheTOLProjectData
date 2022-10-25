@@ -6790,6 +6790,38 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "104",
+      "text": "I couldn't sleep ___ very tired.",
+      "answers": {
+        "a": "although I was",
+        "b": "despite I was",
+        "c": "despite of being",
+        "d": "spite of being",
+        "e": "I was"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "105",
+      "text": "You should insure your bike in case ___ stolen.",
+      "answers": {
+        "a": "it will be",
+        "b": "if it will be",
+        "c": "it is",
+        "d": "if it is",
+        "e": "will be"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "106",
+      "text": "The club is for members ___ . You ___ you're a members.",
+      "answers": {},
+      "validated": false
     }
   ]
 }
