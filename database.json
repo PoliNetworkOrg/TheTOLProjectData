@@ -6819,9 +6819,81 @@
     },
     {
       "id": "106",
-      "text": "The club is for members ___ . You ___ you're a members.",
-      "answers": {},
-      "validated": false
+      "text": "The club is for members ___ . You ___  if you're a member.",
+      "answers": {
+        "a": "only / can't go in",
+        "b": "only / can go in only",
+        "c": "only / can go unless",
+        "d": "--- / can't go in only ",
+        "e": "only / can't go unless"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "107",
+      "text": "Yesterday I studied all evening ___ I didn't have anything better to do.",
+      "answers": {
+        "a": "when",
+        "b": "as",
+        "c": "while",
+        "d": "---",
+        "e": "why"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "108",
+      "text": "\"What's that noise?\" \"It sounds ___ a baby crying\".",
+      "answers": {
+        "a": "as if",
+        "b": "as though",
+        "c": "---",
+        "d": "like",
+        "e": "as"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "109",
+      "text": "They are very kind to me. They treat me ___ their ___ son.",
+      "answers": {
+        "a": "like I'm / ---",
+        "b": "as if I'm / own",
+        "c": "as if I were / ---",
+        "d": "as if I will be / own",
+        "e": "as if I was / own"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "110",
+      "text": "I'm going to be in NYC next week. I hope the weather will be good ___ .",
+      "answers": {
+        "a": "while I'm there",
+        "b": "in my visit",
+        "c": "while I'll be there",
+        "d": "during I'm there",
+        "e": "during I'll be there"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "111",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     }
   ]
 }
