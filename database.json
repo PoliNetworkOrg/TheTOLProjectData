@@ -6884,15 +6884,15 @@
     },
     {
       "id": "111",
-      "text": "",
+      "text": "Raif is away at the moment. I don't know exactly when he's  ___ , but I'm pretty sure he'll be back ___ Monday.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "come back / until",
+        "b": "come back / by",
+        "c": "coming back / by",
+        "d": "come back / on",
+        "e": "coming back / until"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     }
   ]
