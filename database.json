@@ -1298,13 +1298,13 @@
     },
     {
       "id": "100",
-      "text": "Dati l'insieme $A={x \\in \\Reals | x^2+x \\geqslant 0$} e l'insieme $B={x \\in \\Reals | 9-x^2 \\glant 0$}, allora:",
+      "text": "Dati l'insieme $A$={$x \\in \\Reals | x^2+x \\geqslant 0$} e l'insieme $B$={$x \\in \\Reals | 9-x^2 \\glant 0$}, allora:",
       "answers": {
-        "a": "$A \\bigcup B = \\Reals$",
-        "b": "$A \\bigcap B = \\Reals$",
-        "c": "$A \\bigcup B = {x \\in \\Reals$ | -3 < x < -1, 0 \\leqslant x < 3}$",
-        "d": "$A \\bigcup B = {x \\in \\Reals$ | -3 < x < -1, 0 < x < 3}$",
-        "e": "$A \\bigcup B = {x \\in \\Reals$ | -3 < x < 3}$"
+        "a": "$A \\cup B = \\Reals$",
+        "b": "$A \\cap B = \\Reals$",
+        "c": "$A \\cup B = {x \\in \\Reals | -3 < x < -1, 0 \\leqslant x < 3}$",
+        "d": "$A \\cup B = {x \\in \\Reals | -3 < x < -1, 0 < x < 3}$",
+        "e": "$A \\cup B = {x \\in \\Reals | -3 < x < 3}$"
       },
       "correct": "a",
       "validated": false
