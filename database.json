@@ -1310,7 +1310,13 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "101",
+      "text": "Due grandezze $a, b \\gt 0$ sono legate dalla relazione $a=\\frac {3}/{b}$. Di quale percentuale deve aumentare $b$ affinché $a$ diminuisca del 25%?",
+      "answers": {
+        "a": "0.33%",
+        "b": "3.3%",
+        "c": "33%"
+      },
       "validated": false
     },
     {
