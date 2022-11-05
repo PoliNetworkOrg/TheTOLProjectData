@@ -1323,7 +1323,13 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "102",
+      "text": "Da un'urna contenente 30 palline, che possono essere rosse oppure verdi, si estraggono due palline senza reimmissione. Quante sono le palline verdi sapendo che la probabilità di estrarne almeno una è pari a $\\ frac {21}{30}$?",
+      "answers": {
+        "a": "14",
+        "b": "16",
+        "c": "12"
+      },
       "validated": false
     },
     {
