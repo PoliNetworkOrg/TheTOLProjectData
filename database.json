@@ -1336,7 +1336,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "103",
+      "text": "Siano $a=2^83$, $b=3^53$ e $c=4^39$. Allora:",
+      "answers": {
+        "a": "$a>b>c$",
+        "b": "$a<b<c$",
+        "c": "$b>a>c$",
+        "d": "$b<c<a$",
+        "e": "$a<c<b$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
