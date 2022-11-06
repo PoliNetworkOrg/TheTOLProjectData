@@ -1337,15 +1337,15 @@
     },
     {
       "id": "103",
-      "text": "Siano $a=2^{83}$, $b=3^{53}$, $c=4^{39}$. Allora:",
+      "text": "La somma di cinque numeri consecutivi è uguale a 195. Quanto vale il prodotto tra il più piccolo ed il più grande di questi numeri?",
       "answers": {
-        "a": "$a>b>c$",
-        "b": "$a<b<c$",
-        "c": "$b>a>c$",
-        "d": "$b<c<a$",
-        "e": "$a<c<b$"
+        "a": "1571",
+        "b": "1751",
+        "c": "1175",
+        "d": "1157",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "c",
+      "correct": "e",
       "validated": false
     },
     {
