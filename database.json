@@ -1349,6 +1349,8 @@
       "validated": false
     },
     {
+      "id": "104",
+      "text": "Siano $a=log_10{9876543210123456789}$, $b=log_9{243}$. Allora $\\frac {a}{b}$ vale:",
       "answers": {},
       "validated": false
     },
