@@ -1285,13 +1285,13 @@
     },
     {
       "id": "99",
-      "text": "Il numero di studenti $N$ che hanno avuto l'influenza $t$ mesi dopo l'inizio di un anno non bisestile può essere descritto mediante il modello $N(t)= 370 - \\frac {495}{1+2t}$ per $t \\geqslant 0$. Dopo quanto tempo 100 studenti hanno contratto l'influenza?",
+      "text": "Un Ingegnere del PoliMi ha osservato che il numero N di membri che si uniscono ad un gruppo Telegram dopo t mesi segue la legge $N(t)= 500 - \\frac {450}{1+3t}$ per $t \\geqslant 0$. Dopo quanti giorni nel gruppo Telegram ci saranno almeno 300 membri?",
       "answers": {
-        "a": "Esattamente 12,5 giorni",
+        "a": "Circa 12 giorni ",
         "b": "Circa 13 giorni",
-        "c": "Circa 12 giorni",
-        "d": "Esattamente 13 giorni",
-        "e": "Non si può determinare con i soli dati forniti"
+        "c": "Circa 14 giorni",
+        "d": "Circa 15 giorni",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "b",
       "validated": true
