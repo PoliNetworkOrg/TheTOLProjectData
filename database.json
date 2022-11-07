@@ -1170,11 +1170,11 @@
       "id": "90",
       "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -(\\sqrt{3})^{x+4}+20=0$?",
       "answers": {
-        "a": "$log_2{5}$ e $log_3{4}$",
-        "b": "$log_2{3}$ e $log_3{5}$",
-        "c": "$2log_3{5}$ e $2log_3{4}$",
-        "d": "$log_2{5}$ e $2$",
-        "e": "$log_3{5}$ e $2$"
+        "a": "$log_2{5}$ , $log_3{4}$",
+        "b": "$log_2{3}$ , $log_3{5}$",
+        "c": "$2log_3{5}$ , $2log_3{4}$",
+        "d": "$log_2{5}$ , $2$",
+        "e": "$log_3{5}$ , $2$"
       },
       "correct": "c",
       "validated": true
@@ -1350,15 +1350,15 @@
     },
     {
       "id": "104",
-      "text": "Siano $a=Log{10}{(9876543210123456789)}$ e $b=Log_9{(243)}$. Tra quali numeri è compreso $\\frac {a}{b}$?",
+      "text": "Siano $m=log_{10}(9876543210123456789)$ ed $n=log_9(243)$. Tra quali numeri è compreso $\\frac {m}{n}$?",
       "answers": {
-        "a": "47 e 48",
+        "a": "7 e 8",
         "b": "15 e 16",
-        "c": "7 e 8",
-        "d": "47 e 48",
+        "c": "23 e 24",
+        "d": "46 e 47",
         "e": "49 e 50"
       },
-      "correct": "c",
+      "correct": "a",
       "validated": false
     },
     {
