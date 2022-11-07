@@ -1350,12 +1350,12 @@
     },
     {
       "id": "104",
-      "text": "Siano $a=log{9876543210123456789}$, $b=log_9{243}$. Tra quali numeri è compreso $\\frac {a}{b}$?",
+      "text": "Siano $a=Log{10}{(9876543210123456789)}$ e $b=Log_9{(243)}$. Tra quali numeri è compreso $\\frac {a}{b}$?",
       "answers": {
         "a": "47 e 48",
         "b": "15 e 16",
         "c": "7 e 8",
-        "d": "23 e 24",
+        "d": "47 e 48",
         "e": "49 e 50"
       },
       "correct": "c",
