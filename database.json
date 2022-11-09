@@ -1285,13 +1285,13 @@
     },
     {
       "id": "99",
-      "text": "Un Ingegnere del PoliMi ha osservato che il numero $N$ di membri che si uniscono ad un gruppo Telegram dopo $t$ mesi segue la legge $N(t)= 500 - \\frac {450}{1+3t}$ per $t \\geqslant 0$. Dopo quanti giorni nel gruppo Telegram ci saranno almeno 300 membri?",
+      "text": "L'amministratore di un gruppo Telegram ha osservato che il numero $N$ di membri che si sono uniti al gruppo dopo $t$ mesi segue la legge $N(t)= 500 - \\frac {450}{1+3t}$ per $t \\geqslant 0$. Dopo quanti giorni il gruppo Telegram ha raggiunto almeno 300 membri?",
       "answers": {
-        "a": "Circa 12 giorni ",
+        "a": "Circa 11 giorni ",
         "b": "Circa 13 giorni",
         "c": "Circa 14 giorni",
         "d": "Circa 15 giorni",
-        "e": "Nessuna delle precedenti"
+        "e": "Non gli ha mai raggiunti"
       },
       "correct": "b",
       "validated": true
