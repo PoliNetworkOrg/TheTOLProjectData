@@ -1122,7 +1122,7 @@
         "b": "Un quadrato di lato 6 cm",
         "c": "Un rettangolo con base 12 cm e altezza uguale alla radice quadrata della sua diagonale",
         "d": "Un quadrato con la diagonale uguale al semiperimetro del rettangolo dato",
-        "e": "Un rettangolo con base 6 cm e altezza uguale alla raggio della circonferenza in cui è inscritto"
+        "e": "Un rettangolo con base 4 e altezza uguale alla radice cubica del raggio della circonferenza in cui è inscritto"
       },
       "correct": "b",
       "validated": true
