@@ -1324,13 +1324,13 @@
     },
     {
       "id": "102",
-      "text": "Da un'urna contenente 30 palline, che possono essere rosse oppure verdi, si estraggono due palline senza reimmissione. Quante sono le palline verdi sapendo che la probabilità di estrarne almeno una è pari a $\\frac {7}{10}$?",
+      "text": "In un' azienda manifatturiera $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio e 3 in ufficio. Quanti sono i dipendenti in totale?",
       "answers": {
-        "a": "14",
-        "b": "16",
-        "c": "12",
-        "d": "9",
-        "e": "21"
+        "a": "Minore di 56",
+        "b": "Maggiore di 55",
+        "c": "Tra 42 e 55",
+        "d": "57",
+        "e": "91"
       },
       "correct": "b",
       "validated": false
