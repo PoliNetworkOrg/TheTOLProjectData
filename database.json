@@ -1337,11 +1337,11 @@
     },
     {
       "id": "103",
-      "text": "La somma di cinque numeri consecutivi è uguale a 195. Quanto vale il prodotto tra il più piccolo ed il più grande di questi numeri?",
+      "text": "La somma di cinque numeri pari consecutivi è uguale a 260. Quanto vale il prodotto tra il più piccolo ed il più grande di questi numeri?",
       "answers": {
-        "a": "1571",
-        "b": "1751",
-        "c": "1175",
+        "a": "2678",
+        "b": "768",
+        "c": "2768",
         "d": "1157",
         "e": "Nessuna delle precedenti"
       },
