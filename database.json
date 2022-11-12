@@ -1328,9 +1328,9 @@
       "answers": {
         "a": "Minore di 56",
         "b": "Maggiore di 55",
-        "c": "Tra 42 e 55",
-        "d": "57",
-        "e": "91"
+        "c": "28",
+        "d": "Minore di 35",
+        "e": "41"
       },
       "correct": "b",
       "validated": false
