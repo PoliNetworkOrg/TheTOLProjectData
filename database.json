@@ -1291,7 +1291,7 @@
         "b": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt3$",
         "c": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt2$",
         "d": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt3$",
-        "e": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt[3]{3}$"
+        "e": "$(r+\\frac{r}{\\sqrt[3]{3}})\\sqrt3$"
       },
       "correct": "b",
       "validated": true
