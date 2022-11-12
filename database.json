@@ -7026,39 +7026,39 @@
       "id": "116",
       "text": "I ___ a little longer, but I really have to go now.",
       "answers": {
-        "a": "'d stay",
+        "a": "can stay",
         "b": "'ll stay",
-        "c": "can stay",
+        "c": "'d stay",
         "d": "'d have stayed",
-        "e": "could stay"
+        "e": "could't stay"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     },
     {
       "id": "117",
-      "text": "",
+      "text": "I'd rather ___ anyone what I said.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "you don't tell",
+        "b": "you didn't tell",
+        "c": "not you tell",
+        "d": "you wouldn't tell",
+        "e": "not tell you"
       },
-      "correct": "",
+      "correct": "b",
       "validated": true
     },
     {
       "id": "118",
-      "text": "",
+      "text": "The course didn't go well. ___ of the stundents were happy.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "All",
+        "b": "No-one",
+        "c": "Nobody",
+        "d": "None",
+        "e": "Nothing"
       },
-      "correct": "",
+      "correct": "d",
       "validated": true
     }
   ]
