@@ -7065,11 +7065,11 @@
       "id": "118",
       "text": "The course didn't go well. ___ of the stundents were happy.",
       "answers": {
-        "a": "All",
-        "b": "No-one",
-        "c": "Nobody",
-        "d": "None",
-        "e": "Nothing"
+        "a": "all",
+        "b": "no-one",
+        "c": "nobody",
+        "d": "none",
+        "e": "nothing"
       },
       "correct": "d",
       "validated": true
