@@ -5524,6 +5524,19 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "",
+      "text": "Uno scaldabagno di altezza 1.6 cm e di diametro 60 cm pieno d'acqua, è alla temperatura iniziale di 20 c. Calcolare quanto calore occorre per portare la temperatura a 80 c ",
+      "answers": {
+        "a": "134564 j",
+        "b": "143682 kj",
+        "c": "342678 j ",
+        "d": "138924 kj ",
+        "e": "326648 j"
+      },
+      "correct": "d",
+      "validated": false
     }
   ],
   "ing": [
