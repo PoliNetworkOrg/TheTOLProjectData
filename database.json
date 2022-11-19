@@ -1375,7 +1375,16 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "106",
+      "text": "Dati gli insiemi $A = \\lbrace (x, y) \\in \\Reals | x^2+y^2 \\leqslant 1 \\rbrace$ e $B = \\lbrace (x, y) \\in \\Reals | (x+y)^2 \\leqslant 1 \\rbrace$, quanto vale $A^C \\cup B^C$?",
+      "answers": {
+        "a": "$(\\frac{\\pi}{4} +1$",
+        "b": "$\\pi -1$",
+        "c": "$(\\frac{\\pi}{2}$",
+        "d": "$(\\frac{\\pi}{2} -1$",
+        "e": "$(\\frac{3\\pi}{2} -\\sqrt2$"
+      },
+      "correct": "d",
       "validated": false
     },
     {
