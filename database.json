@@ -1389,6 +1389,7 @@
     },
     {
       "id": "107",
+      "text": "Due dadi a sei facce vengono lanciati contemporaneamente. ll primo dado è equilibrato mentre il secondo è truccato in modo che le probabilità che si verifichino le facce numerate con 2 e 4 siano triple rispetto alla probabilità  di ciascuna delle altre facce. Qual è la probabilità che esca una faccia pari su entrambi i dadi?",
       "answers": {},
       "validated": false
     },
