@@ -1405,8 +1405,8 @@
       "text": "Sia $f(x)=cos(kx)$, con $k \\in \\Reals^+$. Se $f(a)=-1$ ed $f(b)=1$, qual è la minima distanza tra $a$ e $b$?",
       "answers": {
         "a": "$\\frac{\\pi}{2k}$",
-        "b": "$\\frac{\\pi 2}{k}$",
-        "c": "$\\pi 2$",
+        "b": "$\\frac{2 \\pi}{k}$",
+        "c": "$2 \\pi$",
         "d": "$\\pi$",
         "e": "$\\frac{\\pi}{k}$"
       },
