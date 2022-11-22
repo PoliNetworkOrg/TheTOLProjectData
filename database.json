@@ -1401,6 +1401,8 @@
       "validated": false
     },
     {
+      "id": "108",
+      "text": "Sia $f(x)=sin(kx)$, con $k \\in \\Reals^+.$ Se $f(a)=-1$ ed $f(b)=1$, qual è la minima distanza tra $a$ e $b$?",
       "answers": {},
       "validated": false
     },
