@@ -5577,6 +5577,19 @@
       },
       "correct": "e",
       "validated": false
+    },
+    {
+      "id": "24",
+      "text": "Un blocco dal peso di $10N$ si trova in equilibrio a causa delle forze di attrito su un piano inclinato alto $50 cm$ e lungo $100 cm$. Quanto vale la forza di attrito statico?",
+      "answers": {
+        "a": "$\\frac {1}{2} N$",
+        "b": "$5 N$",
+        "c": "$10 N$",
+        "d": "$20 N$",
+        "e": "$\\frac {1}{5} N$"
+      },
+      "correct": "b",
+      "validated": false
     }
   ],
   "ing": [
