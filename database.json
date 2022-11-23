@@ -5541,7 +5541,7 @@
     },
     {
       "id": "21",
-      "text": "A quale distanza devono essere posizionate due cariche da $0,1 \\mu C$ ciascuna affinchè la loro forza repulsiva sia equivalente al peso, sulla Terra, di una massa da $1$ $kg$?",
+      "text": "A quale distanza devono essere posizionate due cariche da $0,1$ $\\mu C$ ciascuna affinchè la loro forza repulsiva sia equivalente al peso, sulla Terra, di una massa da $1$ $kg$?",
       "answers": {
         "a": "Circa $3 \\cdot 10^{-3}$ $m$",
         "b": "Circa $9 \\cdot 10^{-3}$ $m$",
@@ -5567,7 +5567,7 @@
     },
     {
       "id": "23",
-      "text": "Un conduttore è percorso da una corrente di $6,4 \\mu A$. Sapendo che la carica di un elettrone è pari a $1,6 \\cdot 10^{-19} C$, quanti elettroni attraversano la sezione trasversale del conduttore in $16'40''$?",
+      "text": "Un conduttore è percorso da una corrente di $6,4$ $\\mu A$. Sapendo che la carica di un elettrone è pari a $1,6 \\cdot 10^{-19} C$, quanti elettroni attraversano la sezione trasversale del conduttore in $16'40''$?",
       "answers": {
         "a": "$4,0 \\cdot 10^{27}$",
         "b": "$1,6 \\cdot 10^{17}$",
@@ -5580,7 +5580,7 @@
     },
     {
       "id": "24",
-      "text": "Un blocco dal peso di $10N$ si trova in equilibrio a causa delle forze di attrito su un piano inclinato alto $50 cm$ e lungo $100 cm$. Quanto vale la forza di attrito statico?",
+      "text": "Un blocco dal peso di $10$ $N$ si trova in equilibrio a causa delle forze di attrito su un piano inclinato alto $50$ $cm$ e lungo $100$ $cm$. Quanto vale la forza di attrito statico?",
       "answers": {
         "a": "$\\frac {1}{2} N$",
         "b": "$5 N$",
