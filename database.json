@@ -5580,13 +5580,13 @@
     },
     {
       "id": "24",
-      "text": "Un blocco dal peso di $10$ $N$ si trova in equilibrio a causa delle forze di attrito su un piano inclinato alto $50$ $cm$ e lungo $100$ $cm$. Quanto vale la forza di attrito statico?",
+      "text": "Un corpo del peso di $100$ $N$ si trova su un piano inclinato alto $60$ $cm$ e lungo $1$ $m$. Quanto vale il modulo della forza parallela al piano se il coefficiente di attrito statico vale $0,3$?",
       "answers": {
-        "a": "$\\frac {1}{2} N$",
-        "b": "$5 N$",
-        "c": "$10 N$",
-        "d": "$20 N$",
-        "e": "$\\frac {1}{5} N$"
+        "a": "$42 N$",
+        "b": "$36 N$",
+        "c": "$30 N$",
+        "d": "$24 N$",
+        "e": "$20 N$"
       },
       "correct": "b",
       "validated": false
