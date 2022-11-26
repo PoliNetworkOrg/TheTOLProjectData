@@ -7207,15 +7207,15 @@
     },
     {
       "id": "123",
-      "text": "Proposing and managing innovative projects is an ___ way to hire excellent people.",
+      "text": "",
       "answers": {
-        "a": "imperative",
-        "b": "hole",
-        "c": " accent",
-        "d": "acquiescent",
-        "e": "abbey"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
       },
-      "correct": "b",
+      "correct": "",
       "validated": true
     }
   ]
