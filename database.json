@@ -1372,7 +1372,7 @@
         "e": "Esattamente $\\frac {5}{12}$ mesi"
       },
       "correct": "b",
-      "validated": true
+      "validated": false
     },
     {
       "id": "106",
@@ -1385,7 +1385,7 @@
         "e": "$\\frac{3\\pi}{2} -\\sqrt2$"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "107",
@@ -1398,7 +1398,7 @@
         "e": "70%"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "108",
@@ -1411,15 +1411,33 @@
         "e": "$\\frac{\\pi}{k}$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "answers": {},
@@ -5274,8 +5292,16 @@
       "id": "4",
       "sub": "5",
       "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
-      "answers": {},
-      "validated": false
+      "text": "Il fine del filosofare:",
+      "answers": {
+        "a": "Non consiste nel raggiungere uno scopo pratico",
+        "b": "Consiste nel non accettare il pensiero comune",
+        "c": "E' raggiunto solo se coincide con la consapevolezza del conosciuto",
+        "d": "E' prima di tutto istruire chi non filosofa",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true
     }
   ],
   "fis": [
@@ -5307,7 +5333,7 @@
     },
     {
       "id": "3",
-      "text": "Il termine \"brinamento\" indica la transizione di fase tra quali stati?",
+      "text": "Il termine \"brinamento\" indica la transizione di fase tra quali stati della materia?",
       "answers": {
         "a": "Da liquido a solido",
         "b": "Da liquido a gassoso",
@@ -5316,7 +5342,7 @@
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "4",
@@ -5576,20 +5602,20 @@
         "e": "$4,0 \\cdot 10^{16}$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "24",
       "text": "Un corpo del peso di $100$ $N$ si trova su un piano inclinato alto $60$ $cm$ e lungo $1$ $m$. Quanto vale il modulo della forza parallela al piano se il coefficiente di attrito statico vale $0,3$?",
       "answers": {
-        "a": "$42 N$",
-        "b": "$36 N$",
-        "c": "$30 N$",
-        "d": "$24 N$",
-        "e": "$20 N$"
+        "a": "$42$ $N$",
+        "b": "$36$ $N$",
+        "c": "$30$ $N$",
+        "d": "$24$ $N$",
+        "e": "$20$ $N$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     }
   ],
   "ing": [
@@ -7125,6 +7151,71 @@
         "e": "nothing"
       },
       "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "119",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "120",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "121",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "122",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
+    },
+    {
+      "id": "123",
+      "text": "x",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": true
     }
   ]
