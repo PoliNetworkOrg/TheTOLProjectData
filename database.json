@@ -1372,7 +1372,7 @@
         "e": "10"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "106",
@@ -1414,8 +1414,8 @@
       "validated": true
     },
     {
-      "id": "",
-      "text": "",
+      "id": "109",
+      "text": "x",
       "answers": {
         "a": "",
         "b": "",
@@ -1427,8 +1427,8 @@
       "validated": true
     },
     {
-      "id": "",
-      "text": "",
+      "id": "110",
+      "text": "x",
       "answers": {
         "a": "",
         "b": "",
