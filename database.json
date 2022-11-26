@@ -1415,7 +1415,7 @@
     },
     {
       "id": "109",
-      "text": "Se i lati di un triangolo misurano $aˆ2+a+1$, $2a+1$, $a^2-1$ allora un angolo ottuso del triangolo misura:",
+      "text": "Se i lati di un triangolo misurano $a^2+a+1$, $2a+1$, $a^2-1$ allora un angolo ottuso del triangolo misura:",
       "answers": {
         "a": "$\\frac{2\\pi}{3}$",
         "b": "$\\frac{3\\pi}{4}$",
@@ -7144,78 +7144,78 @@
       "id": "118",
       "text": "The course didn't go well. ___ of the stundents were happy.",
       "answers": {
-        "a": "all",
-        "b": "no-one",
-        "c": "nobody",
-        "d": "none",
-        "e": "nothing"
+        "a": "All",
+        "b": "No-one",
+        "c": "Nobody",
+        "d": "None",
+        "e": "Nothing"
       },
       "correct": "d",
       "validated": true
     },
     {
       "id": "119",
-      "text": "",
+      "text": "In 2022, expenditure on education ___ up by ten point eight percent over and ___ inflation.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "has gone / above",
+        "b": "--- / over",
+        "c": "has had / over",
+        "d": "--- / more",
+        "e": "grow / more"
       },
-      "correct": "",
+      "correct": "a",
       "validated": true
     },
     {
       "id": "120",
-      "text": "x",
+      "text": "I had no trouble ___ a place to stay in Milan. Indeed it was surprisingly easy.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "find",
+        "b": "found",
+        "c": "to find",
+        "d": "in find",
+        "e": "finding"
       },
-      "correct": "",
+      "correct": "e",
       "validated": true
     },
     {
       "id": "121",
-      "text": "x",
+      "text": "Do you want ___ with you or do you want to go ___ ?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "I came / now",
+        "b": "me to come / alone",
+        "c": "I come / ---",
+        "d": "I'm coming / yourself",
+        "e": "me / without"
       },
-      "correct": "",
+      "correct": "b",
       "validated": true
     },
     {
       "id": "122",
-      "text": "x",
+      "text": "We can't ___ making a decison. We have to decide right now.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "put away",
+        "b": "put over",
+        "c": "put off",
+        "d": "put out",
+        "e": "put down"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     },
     {
       "id": "123",
-      "text": "x",
+      "text": "Proposing and managing innovative projects is an ___ way to hire excellent people.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "imperative",
+        "b": "hole",
+        "c": " accent",
+        "d": "acquiescent",
+        "e": "abbey"
       },
-      "correct": "",
+      "correct": "b",
       "validated": true
     }
   ]
