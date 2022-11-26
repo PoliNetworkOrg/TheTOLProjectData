@@ -1415,29 +1415,29 @@
     },
     {
       "id": "109",
-      "text": "",
+      "text": "Se i lati di un triangolo misurano $aˆ2+a+1$, $2a+1$, $a^2-1$ allora un angolo ottuso del triangolo misura:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$\\frac{2\\pi}{3}$",
+        "b": "$\\frac{3\\pi}{4}$",
+        "c": "$\\frac{4\\pi}{5}$",
+        "d": "$\\frac{5\\pi}{6}$",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "",
-      "validated": true
+      "correct": "a",
+      "validated": false
     },
     {
       "id": "110",
-      "text": "x",
+      "text": "Siano $C$ e $C'$ due cerchi aventi entrambi i raggi unitari e con il centro di uno posizionato sul bordo dell'altro. Allora $C \\cap C'$ vale:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{3}$",
+        "b": "$\\frac{2\\pi}{3} - \\frac {\\sqrt3}{2}$",
+        "c": "$\\frac{3\\pi}{2} - \\frac {\\sqrt3}{2}$",
+        "d": "$\\frac{3\\pi}{2} - \\frac {\\sqrt2}{3}$",
+        "e": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{2}$"
       },
-      "correct": "",
-      "validated": true
+      "correct": "b",
+      "validated": false
     },
     {
       "answers": {},
@@ -7155,7 +7155,7 @@
     },
     {
       "id": "119",
-      "text": "x",
+      "text": "",
       "answers": {
         "a": "",
         "b": "",
