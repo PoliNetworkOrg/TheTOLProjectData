@@ -7207,15 +7207,15 @@
     },
     {
       "id": "123",
-      "text": "",
+      "text": "For those who haven't ___ yet, this project is part of an innovative talent acquisition strategy.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "figured it out",
+        "b": "realize",
+        "c": "recognize",
+        "d": "miss it out",
+        "e": "missed"
       },
-      "correct": "",
+      "correct": "a",
       "validated": true
     }
   ]
