@@ -1246,15 +1246,15 @@
     },
     {
       "id": "96",
-      "text": "L’affermazione “la somma degli angoli interni di un poligono non può essere uguale ad un numero dispari di angoli retti “ è:",
+      "text": "A quale altezza si deve sezionare un cono equilatero di raggio $r$ con un piano parallelo alla base affinchè i due solidi ottenuti abbiano volumi equivalenti?",
       "answers": {
-        "a": "Vera, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
-        "b": "Falsa, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
-        "c": "Vera, ma solo per i poligoni regolari",
-        "d": "Vera, ma solo se il poligono ha un numero dispari di lati",
-        "e": "Nessuna delle precedenti"
+        "a": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt2$",
+        "b": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt3$",
+        "c": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt2$",
+        "d": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt3$",
+        "e": "$(r+\\frac{r}{\\sqrt[3]{3}})\\sqrt3$"
       },
-      "correct": "a",
+      "correct": "b",
       "validated": true
     },
     {
@@ -1285,15 +1285,15 @@
     },
     {
       "id": "99",
-      "text": "A quale altezza si deve sezionare un cono equilatero di raggio $r$ con un piano parallelo alla base affinchè i due solidi ottenuti abbiano volumi equivalenti?",
+      "text": "L’affermazione “la somma degli angoli interni di un poligono non può essere uguale ad un numero dispari di angoli retti “ è:",
       "answers": {
-        "a": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt2$",
-        "b": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt3$",
-        "c": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt2$",
-        "d": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt3$",
-        "e": "$(r+\\frac{r}{\\sqrt[3]{3}})\\sqrt3$"
+        "a": "Vera, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "b": "Falsa, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "c": "Vera, ma solo per i poligoni regolari",
+        "d": "Vera, ma solo se il poligono ha un numero dispari di lati",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "b",
+      "correct": "a",
       "validated": true
     },
     {
@@ -1424,7 +1424,7 @@
         "e": "$0,96$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "110",
@@ -1437,7 +1437,7 @@
         "e": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{2}$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
