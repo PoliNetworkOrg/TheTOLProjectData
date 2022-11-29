@@ -6898,7 +6898,7 @@
       "text": "They can't have known what ___ to happen.",
       "answers": {
         "a": "---",
-        "b": "is going",
+        "b": "is gone",
         "c": "was going ",
         "d": "have seen ",
         "e": "have seeing"
@@ -6938,7 +6938,7 @@
       "answers": {
         "a": "have saw",
         "b": "had saw",
-        "c": "have seen",
+        "c": "see",
         "d": "have see",
         "e": "had seen"
       },
@@ -7025,13 +7025,13 @@
     },
     {
       "id": "109",
-      "text": "They are very kind to me. They treat me ___ their ___ son.",
+      "text": "They are very kind to me. They treat me ___ their son.",
       "answers": {
-        "a": "like I'm / ---",
-        "b": "as if I'm / own",
-        "c": "as if I were / ---",
-        "d": "as if I will be / own",
-        "e": "as if I was / own"
+        "a": "like I'm",
+        "b": "as if I'm",
+        "c": "as if I become",
+        "d": "as if I will be",
+        "e": "as if I was"
       },
       "correct": "e",
       "validated": true
@@ -7068,7 +7068,7 @@
       "answers": {
         "a": "woke up",
         "b": "were woken up",
-        "c": "are woken up",
+        "c": "woked up",
         "d": "were waking up",
         "e": "woken up"
       },
@@ -7077,7 +7077,7 @@
     },
     {
       "id": "113",
-      "text": "The view was wonderful. I would have taken some picture if I ___ a camera with me.",
+      "text": "The view was wonderful. I would have taken some pictures if I ___ a camera with me.",
       "answers": {
         "a": "had",
         "b": "would have",
@@ -7122,7 +7122,7 @@
         "b": "'ll stay",
         "c": "'d stay",
         "d": "'d have stayed",
-        "e": "could't stay"
+        "e": "couldn't stay"
       },
       "correct": "c",
       "validated": true
