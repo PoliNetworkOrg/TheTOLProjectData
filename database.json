@@ -1304,7 +1304,7 @@
         "b": "$A \\cap B = \\Reals$",
         "c": "$A \\cap B$ = {$x \\in \\Reals | -3 < x < -1, 0 \\leqslant x < 3$}",
         "d": "$A \\cap B$ = {$x \\in \\Reals | -3 < x < -1, 0 < x < 3$}",
-        "e": "$A \\cap B$ = {$x \\in \\Reals | -3 < x < 3$}"
+        "e": "$A \\cup B$ = {$x \\in \\Reals | -3 < x < 3$}"
       },
       "correct": "a",
       "validated": true
