@@ -1246,7 +1246,7 @@
     },
     {
       "id": "96",
-      "text": "ù",
+      "text": "A quale altezza si deve sezionare un cono equilatero di raggio $r$ con un piano parallelo alla base affinchè i due solidi ottenuti abbiano volumi equivalenti?",
       "answers": {
         "a": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt2$",
         "b": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt3$",
