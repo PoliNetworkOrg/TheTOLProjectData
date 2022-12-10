@@ -112,7 +112,7 @@
     },
     {
       "id": "9",
-      "text": "Dato un triangolo $ABC$, si prolunghino i lati $\\overline{AB}$ e $\\overline{AC}$ dalla parte di $B$ e $C$ rispettivamente di un segmento $\\overline{BB'}$ e $\\overline{CC'}$ tali che $\\overline{AB}$=$\\overline{BB'}$ e $\\overline{AC}$=$\\overline{CC'}. Quanto vale l'area $AB'C'$?",
+      "text": "Dato un triangolo $ABC$, si prolunghino i lati $\\overline{AB}$ e $\\overline{AC}$ dalla parte di $B$ e $C$ rispettivamente di un segmento $\\overline{BB'}$ e $\\overline{CC'}$ tali che $\\overline{AB}$=$\\overline{BB'}$ e $\\overline{AC}$=$\\overline{CC'}$. Quanto vale l'area $AB'C'$?",
       "answers": {
         "a": "Il doppio dell'area di $ABC$",
         "b": "$\\sqrt{2}$ volte l'area di $ABC$",
@@ -349,9 +349,9 @@
       "text": "L'insieme delle soluzioni dell'equazione $2cosx + 2sinx = \\sqrt 3 + 1$ in $[-\\pi, \\pi]$ è:",
       "answers": {
         "a": "$\\pi/2$",
-        "b": "$-\\pi/4 , \\pi/4$",
-        "c": "$-\\pi/6 , \\pi/6$",
-        "d": "$\\pi/6 , \\pi/3$",
+        "b": "$-\\pi/4 \\land \\pi/4$",
+        "c": "$-\\pi/6 \\land \\pi/6$",
+        "d": "$\\pi/6 \\land \\pi/3$",
         "e": "$-\\pi/2$"
       },
       "correct": "d",
@@ -429,8 +429,8 @@
         "a": "Ha valore negativo",
         "b": "E' equivalente a $-log_7(-1/42)$",
         "c": "Non è un numero reale",
-        "d": "E' equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
-        "e": "E' un numero reale compreso tra 6 e 7"
+        "d": "È equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
+        "e": "È un numero reale compreso tra 6 e 7"
       },
       "correct": "d",
       "validated": true
@@ -456,7 +456,7 @@
         "b": "Sempre",
         "c": "Per $x \\neq 0, x \\neq \\pi$",
         "d": "$\\pi < x < 2\\pi$",
-        "e": "$\\pi/2 < x < \\pi \\cdot 3/2$"
+        "e": "$\\pi/2 < x < 3\\pi /2$"
       },
       "correct": "d",
       "validated": true
@@ -713,9 +713,9 @@
       "text": "In un triangolo un lato misura 6 cm ed il coseno dell'angolo acuto ad esso opposto è uguale a $\\frac{\\sqrt{3}}{2}$. Allora il raggio della circonferenza circoscritta è:",
       "answers": {
         "a": "6 cm",
-        "b": "$2 \\cdot \\sqrt{3}$ cm",
-        "c": "$3 \\cdot \\sqrt{3}$ cm",
-        "d": "$2 \\cdot \\sqrt{2}$ cm",
+        "b": "$2 \\sqrt{3}$ cm",
+        "c": "$3 \\sqrt{3}$ cm",
+        "d": "$2 \\sqrt{2}$ cm",
         "e": "3 cm"
       },
       "correct": "a",
@@ -736,11 +736,11 @@
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "text": "Sia $ABC$ un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = 2 \\pi /3$, il perimetro del triangolo è:",
       "answers": {
-        "a": "$r + 2\\cdot \\sqrt{2}$",
-        "b": "$r \\cdot (2 + \\sqrt{3})$",
-        "c": "$r \\cdot \\sqrt{3}$",
+        "a": "$r + 2 \\sqrt{2}$",
+        "b": "$r (2 + \\sqrt{3})$",
+        "c": "$r \\sqrt{3}$",
         "d": "$r + \\frac{\\sqrt{2}}{\\sqrt{3}}$",
         "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
       },
