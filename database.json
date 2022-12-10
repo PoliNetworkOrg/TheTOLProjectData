@@ -18,7 +18,7 @@
     },
     {
       "id": "2",
-      "text": "I numeri $a$, $b$, $c$ sono tutti $> 1$ ed i seguenti logaritmi hanno tutti la stessa base: $log(a \\cdot b^2 \\cdot c) = 7 , log(a^2 \\cdot b \\cdot c^2) = 11 , log(a^2 \\cdot b^2 \\cdot c^3) = 15$. Qual è questa base?",
+      "text": "I numeri $a$, $b$, $c$ sono tutti $> 1$ ed i seguenti logaritmi hanno tutti la stessa base: $log(ab^2c) = 7 , log(a^2bc^2) = 11 , log(a^2b^2c^3) = 15$. Qual è questa base?",
       "answers": {
         "a": "Non è possibile determinare la base",
         "b": "$a$",
@@ -35,9 +35,9 @@
       "answers": {
         "a": "$\\pi/6$",
         "b": "$\\pi/3$",
-        "c": "$\\pi \\cdot 2/3$",
-        "d": "$\\pi \\cdot 5/6$",
-        "e": "$\\pi \\cdot 4/3$"
+        "c": "$2\\pi /3$",
+        "d": "$5\\pi /6$",
+        "e": "$4\\pi /3$"
       },
       "correct": "e",
       "validated": true
@@ -63,7 +63,7 @@
         "b": "78",
         "c": "37",
         "d": "102",
-        "e": "Non si può determinare con i soli dati forniti."
+        "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
       "validated": true
@@ -112,12 +112,12 @@
     },
     {
       "id": "9",
-      "text": "Dato un triangolo ABC, prolunghiamo i lati AB e AC dalla parte di B e C rispettivamente di un segmento BB' e CC' tali che AB=BB' e AC=CC'. Allora l'area di AB'C'",
+      "text": "Dato un triangolo $ABC$, si prolunghino i lati $\\overline{AB}$ e $\\overline{AC}$ dalla parte di $B$ e $C$ rispettivamente di un segmento $\\overline{BB'}$ e $\\overline{CC'}$ tali che $\\overline{AB}$=$\\overline{BB'}$ e $\\overline{AC}$=$\\overline{CC'}. Quanto vale l'area $AB'C'$?",
       "answers": {
-        "a": "è il doppio dell'area di ABC",
-        "b": "è $\\sqrt{2}$ volte l'area di ABC",
-        "c": "è il triplo dell'area di ABC",
-        "d": "è il quadruplo dell'area di ABC",
+        "a": "Il doppio dell'area di $ABC$",
+        "b": "$\\sqrt{2}$ volte l'area di $ABC$",
+        "c": "Il triplo dell'area di $ABC$",
+        "d": "Il quadruplo dell'area di $ABC$",
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
       "correct": "d",
@@ -125,7 +125,7 @@
     },
     {
       "id": "10",
-      "text": "Quanti numeri n di 4 cifre sono tali che il prodotto delle cifre di n sia dispari?",
+      "text": "Quanti numeri $n$ di 4 cifre sono tali che il prodotto delle cifre di $n$ sia dispari?",
       "answers": {
         "a": "625",
         "b": "4500",
@@ -281,7 +281,7 @@
     },
     {
       "id": "22",
-      "text": "Consideriamo gli elementi dell'insieme $A = \\lbrace 3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}} \\rbrace$, quanti di essi sono minori di 2?",
+      "text": "Considerati gli elementi dell'insieme $A = \\lbrace 3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}} \\rbrace$, quanti di essi sono minori di 2?",
       "answers": {
         "a": "0",
         "b": "1",
@@ -313,7 +313,7 @@
         "b": "$x = -e$",
         "c": "$x = 0$",
         "d": "$x = -1$",
-        "e": "Ci sono più risposte possibili."
+        "e": "Ci sono più risposte possibili"
       },
       "correct": "e",
       "validated": true
@@ -632,13 +632,13 @@
     },
     {
       "id": "49",
-      "text": "Cosa possiamo dire in merito ai grafici delle seguenti funzioni?\n\n$f(x)=\\sqrt{e^{\\ln(x^{2})}}$\n$g(x)=\\sqrt{\\ln(e^{x^{2}})}$",
+      "text": "Considerati il grafico della funzione $f(x)=\\sqrt{e^{\\ln(x^{2})}}$ e quello della funzione $g(x)=\\sqrt{\\ln(e^{x^{2}})}$, si può affermare che:",
       "answers": {
         "a": "Sono coincidenti",
         "b": "Sono coincidenti, a meno di un punto",
         "c": "Sono coincidenti per $x\\ge 0$",
         "d": "Sono coincidenti per $x\\le 0$",
-        "e": "Nessuna delle precedeni"
+        "e": "Nessuna delle precedenti"
       },
       "correct": "b",
       "validated": true
@@ -5998,7 +5998,7 @@
     },
     {
       "id": "30",
-      "text": "My mother is looking ___ my little sister",
+      "text": "My mother is looking ___ my little sister.",
       "answers": {
         "a": "after",
         "b": "forward",
@@ -6089,7 +6089,7 @@
     },
     {
       "id": "37",
-      "text": "Who are ___ girls? I don't know ___",
+      "text": "Who are ___ girls? I don't know ___ .",
       "answers": {
         "a": "that / them",
         "b": "those / hers",
@@ -6102,7 +6102,7 @@
     },
     {
       "id": "38",
-      "text": "What ___ your score? 27 ___ 30",
+      "text": "What ___ your score? 27 ___ 30.",
       "answers": {
         "a": "is / out of",
         "b": "is / on",
@@ -6583,7 +6583,7 @@
     },
     {
       "id": "75",
-      "text": "If you ___ more carefully, you ___ so many accidents",
+      "text": "If you ___ more carefully, you ___ so many accidents.",
       "answers": {
         "a": "drive / couldn't have",
         "b": "are / not have",
@@ -7142,7 +7142,7 @@
     },
     {
       "id": "118",
-      "text": "The course didn't go well. ___ of the stundents were happy.",
+      "text": "The course didn't go well. ___ of the students were happy.",
       "answers": {
         "a": "All",
         "b": "No-one",
