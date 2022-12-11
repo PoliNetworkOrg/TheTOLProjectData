@@ -882,7 +882,7 @@
     },
     {
       "id": "68",
-      "text": "Nei suoi ultimi 4 esami Gianni ha ottenuto a tutti gli esami il voto 27. Al quinto esame ha ottenuto un voto diverso ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere quello ottenuto da Gianni?",
+      "text": "Gianni, in tutti i suoi ultimi quattro esami, il voto 27. Al quinto esame ha ottenuto un voto diverso ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere quello ottenuto da Gianni al suo quinto esame?",
       "answers": {
         "a": "30",
         "b": "29",
@@ -999,7 +999,7 @@
     },
     {
       "id": "77",
-      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\hat{APC}$? ",
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\widehat{APC}$? ",
       "answers": {
         "a": "$126^{\\circ}$",
         "b": "$135^{\\circ}$",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "102",
-      "text": "In un'azienda manifatturiera $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio e 3 in ufficio. Quanti sono i dipendenti in totale?",
+      "text": "In un'azienda manifatturiera, sicuramente $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio e 3 in ufficio. Quanti sono i possibili dipendenti?",
       "answers": {
         "a": "Minore di 56",
         "b": "Maggiore di 55",
