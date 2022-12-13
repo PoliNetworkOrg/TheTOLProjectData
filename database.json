@@ -1363,7 +1363,7 @@
     },
     {
       "id": "105",
-      "text": "Un giocatore principiante di freccette ha la probabilità del 10% di colpire il bersaglio. Quanti lanci dovrà fare affinchè la probabilità di colpire almeno una volta il bersaglio si pari o superiore al 40%?",
+      "text": "Un giocatore principiante di freccette ha la probabilità del 10% di colpire il bersaglio. Quanti lanci dovrà fare affinchè la probabilità di colpire almeno una volta il bersaglio sia pari o superiore al 40%?",
       "answers": {
         "a": "4",
         "b": "5",
@@ -5579,7 +5579,7 @@
       "validated": true
     },
     {
-      "id": "",
+      "id": "22",
       "text": "Uno scaldabagno di altezza 1.6 cm e di diametro 60 cm pieno d'acqua, è alla temperatura iniziale di 20 c. Calcolare quanto calore occorre per portare la temperatura a 80 c ",
       "answers": {
         "a": "134564 j",
