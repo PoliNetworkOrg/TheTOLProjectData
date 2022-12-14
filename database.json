@@ -18,7 +18,7 @@
     },
     {
       "id": "2",
-      "text": "I numeri $a$, $b$, $c$ sono tutti $> 1$ ed i seguenti logaritmi hanno tutti la stessa base: $log(a \\cdot b^2 \\cdot c) = 7 , log(a^2 \\cdot b \\cdot c^2) = 11 , log(a^2 \\cdot b^2 \\cdot c^3) = 15$. Qual è questa base?",
+      "text": "I numeri $a$, $b$, $c$ sono tutti $> 1$ ed i seguenti logaritmi hanno tutti la stessa base: $log(ab^2c) = 7 , log(a^2bc^2) = 11 , log(a^2b^2c^3) = 15$. Qual è questa base?",
       "answers": {
         "a": "Non è possibile determinare la base",
         "b": "$a$",
@@ -31,13 +31,13 @@
     },
     {
       "id": "3",
-      "text": "Data l'equazione $cos^2(2x) + \\sqrt 3 \\cdot sin(2x) - 7/4 = 0$, qual è il massimo valore dell'angolo x nell'intervallo  $0 \\leq x \\leq 2\\pi$ che soddisfa l'equazione?",
+      "text": "Data l'equazione $cos^2(2x) + \\sqrt3 sin(2x) - 7/4 = 0$, qual è il massimo valore dell'angolo x nell'intervallo  $0 \\leqslant  x \\leqslant 2\\pi$ che soddisfa l'equazione?",
       "answers": {
         "a": "$\\pi/6$",
         "b": "$\\pi/3$",
-        "c": "$\\pi \\cdot 2/3$",
-        "d": "$\\pi \\cdot 5/6$",
-        "e": "$\\pi \\cdot 4/3$"
+        "c": "$2\\pi /3$",
+        "d": "$5\\pi /6$",
+        "e": "$4\\pi /3$"
       },
       "correct": "e",
       "validated": true
@@ -63,14 +63,14 @@
         "b": "78",
         "c": "37",
         "d": "102",
-        "e": "Non si può determinare con i soli dati forniti."
+        "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
       "validated": true
     },
     {
       "id": "6",
-      "text": "Stabilire a quale equazione corrisponde il seguente grafico.",
+      "text": "A quale equazione corrisponde il grafico in figura?",
       "answers": {
         "a": "$y=|log_{10}(x)+1|$",
         "b": "$y=|log_{10}(x+1)|$",
@@ -112,12 +112,12 @@
     },
     {
       "id": "9",
-      "text": "Dato un triangolo ABC, prolunghiamo i lati AB e AC dalla parte di B e C rispettivamente di un segmento BB' e CC' tali che AB=BB' e AC=CC'. Allora l'area di AB'C'",
+      "text": "Dato un triangolo $ABC$, si prolunghino i lati $\\overline{AB}$ e $\\overline{AC}$ dalla parte di $B$ e $C$ rispettivamente di un segmento $\\overline{BB'}$ e $\\overline{CC'}$ tali che $\\overline{AB}$=$\\overline{BB'}$ e $\\overline{AC}$=$\\overline{CC'}$. Quanto vale l'area $AB'C'$?",
       "answers": {
-        "a": "è il doppio dell'area di ABC",
-        "b": "è $\\sqrt{2}$ volte l'area di ABC",
-        "c": "è il triplo dell'area di ABC",
-        "d": "è il quadruplo dell'area di ABC",
+        "a": "Il doppio dell'area di $ABC$",
+        "b": "$\\sqrt{2}$ volte l'area di $ABC$",
+        "c": "Il triplo dell'area di $ABC$",
+        "d": "Il quadruplo dell'area di $ABC$",
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
       "correct": "d",
@@ -125,7 +125,7 @@
     },
     {
       "id": "10",
-      "text": "Quanti numeri n di 4 cifre sono tali che il prodotto delle cifre di n sia dispari?",
+      "text": "Quanti numeri $n$ di 4 cifre sono tali che il prodotto delle cifre di $n$ sia dispari?",
       "answers": {
         "a": "625",
         "b": "4500",
@@ -281,7 +281,7 @@
     },
     {
       "id": "22",
-      "text": "Consideriamo gli elementi dell'insieme $A = \\lbrace 3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}} \\rbrace$, quanti di essi sono minori di 2?",
+      "text": "Considerati gli elementi dell'insieme $A = \\lbrace 3^{\\frac{1}{3}}, 20^{\\frac{1}{4}}, 18^{\\frac{1}{2}}, 6^{\\frac{1}{3}} \\rbrace$, quanti di essi sono minori di 2?",
       "answers": {
         "a": "0",
         "b": "1",
@@ -313,7 +313,7 @@
         "b": "$x = -e$",
         "c": "$x = 0$",
         "d": "$x = -1$",
-        "e": "Ci sono più risposte possibili."
+        "e": "Ci sono più risposte possibili"
       },
       "correct": "e",
       "validated": true
@@ -346,7 +346,7 @@
     },
     {
       "id": "27",
-      "text": "L'insieme delle soluzioni dell'equazione $2cosx + 2sinx = \\sqrt 3 + 1$ in $[-\\pi, \\pi]$ è:",
+      "text": "L'insieme delle soluzioni dell'equazione $2cos(x) + 2sin(x) = \\sqrt 3 + 1$ in $[-\\pi, \\pi]$ è:",
       "answers": {
         "a": "$\\pi/2$",
         "b": "$-\\pi/4 , \\pi/4$",
@@ -402,8 +402,8 @@
       "answers": {
         "a": "Ha una sola soluzione",
         "b": "Ha quattro soluzioni distinte",
-        "c": "E' indeterminato",
-        "d": "E' impossibile",
+        "c": "È indeterminato",
+        "d": "È impossibile",
         "e": "Ha due soluzioni distinte"
       },
       "correct": "a",
@@ -427,10 +427,10 @@
       "text": "L'espressione $log_7(42)$",
       "answers": {
         "a": "Ha valore negativo",
-        "b": "E' equivalente a $-log_7(-1/42)$",
+        "b": "È equivalente a $-log_7(-1/42)$",
         "c": "Non è un numero reale",
-        "d": "E' equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
-        "e": "E' un numero reale compreso tra 6 e 7"
+        "d": "È equivalente all'espressione $\\frac{log_{16}(42)}{log_{16}(7)}$ ",
+        "e": "È un numero reale compreso tra 6 e 7"
       },
       "correct": "d",
       "validated": true
@@ -456,7 +456,7 @@
         "b": "Sempre",
         "c": "Per $x \\neq 0, x \\neq \\pi$",
         "d": "$\\pi < x < 2\\pi$",
-        "e": "$\\pi/2 < x < \\pi \\cdot 3/2$"
+        "e": "$\\pi/2 < x < 3\\pi /2$"
       },
       "correct": "d",
       "validated": true
@@ -632,13 +632,13 @@
     },
     {
       "id": "49",
-      "text": "Cosa possiamo dire in merito ai grafici delle seguenti funzioni?\n\n$f(x)=\\sqrt{e^{\\ln(x^{2})}}$\n$g(x)=\\sqrt{\\ln(e^{x^{2}})}$",
+      "text": "Considerati il grafico della funzione $f(x)=\\sqrt{e^{\\ln(x^{2})}}$ e quello della funzione $g(x)=\\sqrt{\\ln(e^{x^{2}})}$, si può affermare che:",
       "answers": {
         "a": "Sono coincidenti",
         "b": "Sono coincidenti, a meno di un punto",
-        "c": "Sono coincidenti per $x\\ge 0$",
-        "d": "Sono coincidenti per $x\\le 0$",
-        "e": "Nessuna delle precedeni"
+        "c": "Sono coincidenti per $x\\geqslant  0$",
+        "d": "Sono coincidenti per $x\\leqslant  0$",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "b",
       "validated": true
@@ -713,9 +713,9 @@
       "text": "In un triangolo un lato misura 6 cm ed il coseno dell'angolo acuto ad esso opposto è uguale a $\\frac{\\sqrt{3}}{2}$. Allora il raggio della circonferenza circoscritta è:",
       "answers": {
         "a": "6 cm",
-        "b": "$2 \\cdot \\sqrt{3}$ cm",
-        "c": "$3 \\cdot \\sqrt{3}$ cm",
-        "d": "$2 \\cdot \\sqrt{2}$ cm",
+        "b": "$2 \\sqrt{3}$ cm",
+        "c": "$3 \\sqrt{3}$ cm",
+        "d": "$2 \\sqrt{2}$ cm",
         "e": "3 cm"
       },
       "correct": "a",
@@ -736,11 +736,11 @@
     },
     {
       "id": "57",
-      "text": "Sia ABC un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che $\\hat{ABC} = \\pi \\cdot 2/3$, il perimetro del triangolo è:",
+      "text": "Sia $ABC$ un triangolo isoscele inscritto in una circonferenza di raggio $r$. Sapendo che l'angolo $\\widehat{ABC}$ vale $2 \\pi /3$, il perimetro del triangolo è:",
       "answers": {
-        "a": "$r + 2\\cdot \\sqrt{2}$",
-        "b": "$r \\cdot (2 + \\sqrt{3})$",
-        "c": "$r \\cdot \\sqrt{3}$",
+        "a": "$r + 2 \\sqrt{2}$",
+        "b": "$r (2 + \\sqrt{3})$",
+        "c": "$r \\sqrt{3}$",
         "d": "$r + \\frac{\\sqrt{2}}{\\sqrt{3}}$",
         "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
       },
@@ -749,7 +749,7 @@
     },
     {
       "id": "58",
-      "text": "Sia $ABCD$ un quadrato. Costruiamo esternamente al quadrato il triangolo equilatero $BCP$ e tracciamo la diagonale $AC$. Detta $K$ l'intersezione tra la retta $AC$ e $PD$, trovare l'ampiezza in gradi dell'angolo $\\hat{CKP}$.",
+      "text": "Sia $ABCD$ un quadrato. Si costruisca esternamente al quadrato il triangolo equilatero $BCP$ e si tracci la diagonale $\\overline{AC}$. Detta $K$ l'intersezione tra la retta $\\overline{AC}$ e $\\overline{PD}$, quanto vale l'ampiezza dell'angolo $\\widehat{CKP}$?",
       "answers": {
         "a": "$60^{\\circ}$",
         "b": "$75^{\\circ}$",
@@ -790,7 +790,7 @@
       "id": "61",
       "text": "Se il numero reale $a$ è una radice del polinomio $P(x)$, quale di queste affermazioni è sicuramente vera?",
       "answers": {
-        "a": "Il coefficiente del termine con esponente maggiore di $P(x)$ è 1.",
+        "a": "Il coefficiente del termine con esponente maggiore di $P(x)$ è 1",
         "b": "$P(x)$ ha grado 1",
         "c": "$P(0)=a$",
         "d": "$P(x)$ è divisibile per $(x+a)$",
@@ -827,20 +827,20 @@
     },
     {
       "id": "64",
-      "text": "In quale delle opzioni le due equazioni identificano la stessa curva sul piano cartesiano?",
+      "text": "In quale delle opzioni le due equazioni identificano la stessa curva nel piano cartesiano?",
       "answers": {
-        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$  ;  $y=x-2$",
-        "b": "$y=e^{ln(x)}$  ;  $y=x$",
-        "c": "$y=ln(e^x)$  ;  $y=x$",
-        "d": "$y=\\sqrt{x}$  ;  $y^2=x$",
-        "e": "$(x-1)^2+(y-2)^2=9$  ;  $x^2+y^2-2x-4y=0$"
+        "a": "$y=\\frac{(x+2)(x-2)}{x+2}$  ,  $y=x-2$",
+        "b": "$y=e^{ln(x)}$  ,  $y=x$",
+        "c": "$y=ln(e^x)$  ,  $y=x$",
+        "d": "$y=\\sqrt{x}$  ,  $y^2=x$",
+        "e": "$(x-1)^2+(y-2)^2=9$  ,  $x^2+y^2-2x-4y=0$"
       },
       "correct": "c",
       "validated": true
     },
     {
       "id": "65",
-      "text": "A quale di queste equazioni potrebbe corrispondere il grafico in figura?",
+      "text": "A quale equazione corrisponde il grafico in figura?",
       "answers": {
         "a": "$-4x+2y+3=0$",
         "b": "$3x+2y-3=0$",
@@ -882,7 +882,7 @@
     },
     {
       "id": "68",
-      "text": "Nei suoi ultimi 4 esami, Gianni ha ottenuto a tutti gli esami, il voto 27. Al quinto esame, ha ottenuto un voto diverso, ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere il voto ottenuto da Gianni?",
+      "text": "Gianni, a tutti i suoi ultimi quattro esami, ha ottenuto il voto 27. Al quinto esame ha ottenuto un voto diverso ma la sua media è ancora un numero intero. Quale tra questi voti potrebbe essere quello ottenuto da Gianni al suo quinto esame?",
       "answers": {
         "a": "30",
         "b": "29",
@@ -999,7 +999,7 @@
     },
     {
       "id": "77",
-      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura in gradi l'angolo $\\hat{APC}$? ",
+      "text": "Sia $ABC$ un triangolo rettangolo in cui l'angolo in $A$ misura $48^{\\circ}$ e l'angolo in $B$ misura $90^{\\circ}$. La bisettrice dell'angolo in $A$ interseca la bisettrice dell'angolo in $B$ nel punto $P$. Quanto misura l'angolo $\\widehat{APC}$? ",
       "answers": {
         "a": "$126^{\\circ}$",
         "b": "$135^{\\circ}$",
@@ -1089,112 +1089,355 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "84",
+      "text": "Determinare quale delle seguenti equazioni non ha soluzioni reali.",
+      "answers": {
+        "a": "$e^x+e^{-x}=2$",
+        "b": "$e^x+e^{-x}=8/3$",
+        "c": "$e^x+e^{-x}=1$",
+        "d": "$e^x+e^{-x}=e$",
+        "e": "$e^x+e^{-x}=3$"
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "85",
+      "text": "La retta $y=mx+1$ passa per i punti $(\\sqrt{2}, log_{\\pi}p)$ e $(log_{\\pi}p, 1)$. Quali sono i possibili valori di $p$? ",
+      "answers": {
+        "a": "$p=1$ , $p=\\pi$",
+        "b": "$p=1$ , $p=\\sqrt{2}$",
+        "c": "$p=\\sqrt{2}$ , $p=\\pi$",
+        "d": "$p=1$ , $p=1$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "86",
+      "text": "Il rettangolo di area massima avente perimetro 24 cm è:  ",
+      "answers": {
+        "a": "Un rettangolo con base 12 cm e altezza 4 cm",
+        "b": "Un quadrato di lato 6 cm",
+        "c": "Un rettangolo con base 12 cm e altezza uguale alla radice quadrata della sua diagonale",
+        "d": "Un quadrato con la diagonale uguale al semiperimetro del rettangolo dato",
+        "e": "Un rettangolo con base 4 e altezza uguale alla radice cubica del raggio della circonferenza in cui è inscritto"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "87",
+      "text": "In un triangolo rettangolo $ABC$ l'ipotenusa $\\overline{AC}$ misura 8 cm ed il cateto $\\overline{BC}$ è la metà di $\\overline{AC}$. Considerato un punto $P$ su $\\overline{AC}$ e la sua proiezione $K$ su $\\overline{BC}$, per quale posizione di $P$ l'area di $BAPK$ è la metà di quella di $ABC$?",
+      "answers": {
+        "a": "$\\overline{PC}=2$ cm",
+        "b": "$\\overline{PC}=\\sqrt{2}$ cm",
+        "c": "$\\overline{PC}=2\\sqrt{2}$ cm",
+        "d": "$\\overline{PC}=3\\sqrt{2}$ cm",
+        "e": "$\\overline{PC}=4\\sqrt{2}$ cm"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "88",
+      "text": "Qual è la distanza più breve tra la curva avente equazione $(x+2)^2+(y-3)^2=18$ e la curva $(x-7)^2+(y+6)^2=2$?",
+      "answers": {
+        "a": "9",
+        "b": "$9\\sqrt{2}$",
+        "c": "$4\\sqrt{2}$",
+        "d": "$5\\sqrt{2}$",
+        "e": "$\\sqrt{2}$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "89",
+      "text": "Nell'intervallo $[-\\pi, 2\\pi]$, quante soluzioni soddisfano l'equazione $cos(x)+sin(x)=\\frac{1}{\\pi}$?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "4"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "90",
+      "text": "Quali sono le soluzioni $x$ reali dell'equazione $3^{x} -(\\sqrt{3})^{x+4}+20=0$?",
+      "answers": {
+        "a": "$log_2{5}$ , $log_3{4}$",
+        "b": "$log_2{3}$ , $log_3{5}$",
+        "c": "$2log_3{5}$ , $2log_3{4}$",
+        "d": "$log_2{5}$ , $2$",
+        "e": "$log_3{5}$ , $2$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "91",
+      "text": "La funzione $f(x)=-\\sqrt{3}sin(x)+cos(x)$ è equivalente a:",
+      "answers": {
+        "a": "$f(x)=\\sqrt{3}sin(x)-cos(x)$",
+        "b": "$f(x)=2sin(x-\\frac{\\pi}{6})$",
+        "c": "$f(x)=2sin(x+\\frac{5\\pi}{6})$",
+        "d": "$f(x)=sin(x-\\frac{\\pi}{12})$",
+        "e": "$f(x)=\\sqrt{3}sin(x+\\frac{\\pi}{2})$"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "92",
+      "text": "Siano $a=cos(\\frac{2\\pi}{3})$, $b=tg(-\\frac{\\pi}{3})$, $c=sin(\\frac{19\\pi}{4})$. Quale delle seguenti diseguaglianze è verificata?",
+      "answers": {
+        "a": "$c>a>b$",
+        "b": "$a<b<c$",
+        "c": "$a>c>b$",
+        "d": "$a<c<b$",
+        "e": "$c>b>a$"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "93",
+      "text": "Data la funzione $f(x)=\\sqrt{(\\sqrt{x^2}-1)^2}$, quale delle seguenti affermazioni è vera?",
+      "answers": {
+        "a": "$\\exist \\alpha >1$ | $f(x)=\\alpha$ ha esattamente tre soluzioni distinte",
+        "b": "Il grafico di $f(x)$ è simmetrico rispetto alla retta $x=0$",
+        "c": "$f(x)=\\alpha, \\alpha \\in (0,1)$ ha esattamente tre soluzioni distinte",
+        "d": "Il grafico di $f(x)$ è simmetrico rispetto alla retta $y=0$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "94",
+      "text": "Il perimetro di un dodecagono regolare inscritto in una circonferenza di raggio uguale a $1$ vale:",
+      "answers": {
+        "a": "$2\\pi (\\sqrt{6}-\\sqrt{2})$",
+        "b": "$6(\\sqrt{6}-\\sqrt{2})$",
+        "c": "$2\\pi(\\sqrt{2-\\sqrt{3}})$",
+        "d": "$6(\\sqrt{2-\\sqrt{3}})$",
+        "e": "$2\\pi (\\frac {\\sqrt{6}}{\\sqrt{2}})$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "95",
+      "text": "Sia $P$ l'insieme dei punti della regione di piano compresa tra i lati di un triangolo avente come vertici i punti $O(0;0)$, $B(5;4)$, $C(7;2)$. Sia inoltre $Q$ l'insieme dei punti della regione di piano compresa tra i lati di un triangolo avente come vertici i punti $O(0;0)$, $B(5;4)$, $D(6;2)$. Allora l'insieme complementare di $Q$ rispetto a $P$ vale:",
+      "answers": {
+        "a": "7",
+        "b": "9",
+        "c": "2",
+        "d": "11",
+        "e": "16"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "96",
+      "text": "A quale altezza si deve sezionare un cono equilatero di raggio $r$ con un piano parallelo alla base affinchè i due solidi ottenuti abbiano volumi equivalenti?",
+      "answers": {
+        "a": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt2$",
+        "b": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt3$",
+        "c": "$(r-\\frac{r}{\\sqrt[3]{2}})\\sqrt2$",
+        "d": "$(r-\\frac{r}{\\sqrt[3]{3}})\\sqrt3$",
+        "e": "$(r+\\frac{r}{\\sqrt[3]{3}})\\sqrt3$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "97",
+      "text": "Data la seguente disequazione $e^\\frac{\\sqrt{x^2}-2}{x^4-1} \\geqslant 1$, l'insieme delle soluzioni $x\\in \\Reals$ è:",
+      "answers": {
+        "a": "$\\Reals \\setminus {(-1, 1)}$",
+        "b": "$(-\\infin, -1) \\cup (1, +\\infin)$",
+        "c": "$[-2, -1) \\cup (1, 2]$",
+        "d": "$(-\\infin, -2] \\cup (-1, 1) \\cup [2, +\\infin)$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "98",
+      "text": "Per quali valori di $n \\in \\N$ l'equazione $\\sqrt[3n] {2 \\sqrt[n] {\\sqrt[4]{1024}}}$ = $\\sqrt[4n] {2 \\sqrt[3] {\\sqrt{16}}}$ è soddisfatta?",
+      "answers": {
+        "a": "$n=0$",
+        "b": "$n=2, n=10$",
+        "c": "$n=2$",
+        "d": "$n=0, n=10$",
+        "e": "$n=10$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "99",
+      "text": "L’affermazione \"la somma degli angoli interni di un poligono non può essere uguale ad un numero dispari di angoli retti\" è:",
+      "answers": {
+        "a": "Vera, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "b": "Falsa, perchè la somma degli angoli interni di un poligono è sempre uguale ad un numero intero di angoli piatti",
+        "c": "Vera, ma solo per i poligoni regolari",
+        "d": "Vera, ma solo se il poligono ha un numero dispari di lati",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "100",
+      "text": "Dati l'insieme $A$={$x \\in \\Reals | x^2+x \\geqslant 0$} e l'insieme $B$={$x \\in \\Reals | 9-x^2 > 0$}, allora:",
+      "answers": {
+        "a": "$A \\cup B = \\Reals$",
+        "b": "$A \\cap B = \\Reals$",
+        "c": "$A \\cap B$ = {$x \\in \\Reals | -3 < x < -1, 0 \\leqslant x < 3$}",
+        "d": "$A \\cap B$ = {$x \\in \\Reals | -3 < x < -1, 0 < x < 3$}",
+        "e": "$A \\cup B$ = {$x \\in \\Reals | -3 < x < 3$}"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "101",
+      "text": "Due grandezze $a, b \\gt 0$ sono legate dalla relazione $a=\\frac {3}{b}$. Di quale percentuale deve aumentare $b$ affinché $a$ diminuisca del 25%?",
+      "answers": {
+        "a": "Circa 0.3%",
+        "b": "Esattamente 0.33%",
+        "c": "Esattamente 33%",
+        "d": "Esattamente 33.3%",
+        "e": "Circa 33.33%"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "102",
+      "text": "In un'azienda manifatturiera, sicuramente $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio e 3 in ufficio. Quanti sono i possibili dipendenti?",
+      "answers": {
+        "a": "Minore di 56",
+        "b": "Maggiore di 55",
+        "c": "28",
+        "d": "Minore di 35",
+        "e": "41"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "103",
+      "text": "La somma di cinque numeri pari consecutivi è uguale a 260. Quanto vale il prodotto tra il più piccolo ed il più grande di questi numeri?",
+      "answers": {
+        "a": "2678",
+        "b": "768",
+        "c": "2768",
+        "d": "678",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "104",
+      "text": "Siano $m=log_{10}(9876543210123456789)$ ed $n=log_9(243)$. Tra quali numeri è compreso $\\frac {m}{n}$?",
+      "answers": {
+        "a": "7 e 8",
+        "b": "15 e 16",
+        "c": "23 e 24",
+        "d": "46 e 47",
+        "e": "49 e 50"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "105",
+      "text": "Un giocatore principiante di freccette ha la probabilità del 10% di colpire il bersaglio. Quanti lanci dovrà fare affinchè la probabilità di colpire almeno una volta il bersaglio sia pari o superiore al 40%?",
+      "answers": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "9",
+        "e": "10"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "106",
+      "text": "Dati gli insiemi $A = \\lbrace (x, y) \\in \\Reals^2 | x^2+y^2 \\leqslant 1 \\rbrace$ e $B = \\lbrace (x, y) \\in \\Reals^2 | (x+y)^2 \\leqslant 1 \\rbrace$, quanto vale $A \\cap B^\\complement$?",
+      "answers": {
+        "a": "$\\frac{\\pi}{4} +\\sqrt2$",
+        "b": "$\\pi -1$",
+        "c": "$\\frac{\\pi}{2}$",
+        "d": "$\\frac{\\pi}{2} -1$",
+        "e": "$\\frac{3\\pi}{2} -\\sqrt2$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "107",
+      "text": "Due dadi a sei facce vengono lanciati contemporaneamente. ll primo dado è equilibrato mentre il secondo è truccato in modo che le probabilità che si verifichino le facce numerate con 2 e 4 siano triple rispetto alla probabilità  di ciascuna delle altre facce. Qual è la probabilità che esca una faccia pari su entrambi i dadi?",
+      "answers": {
+        "a": "25%",
+        "b": "30%",
+        "c": "35%",
+        "d": "55%",
+        "e": "70%"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "108",
+      "text": "Sia $f(x)=cos(kx)$, con $k \\in \\Reals^+$. Se $f(a)=-1$ ed $f(b)=1$, qual è la minima distanza tra $a$ e $b$?",
+      "answers": {
+        "a": "$\\frac{\\pi}{2k}$",
+        "b": "$\\frac{2 \\pi}{k}$",
+        "c": "$2 \\pi k$",
+        "d": "$\\pi k$",
+        "e": "$\\frac{\\pi}{k}$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "109",
+      "text": "Un angolo interno di un triangolo misura $\\beta$ mentre gli altri due misurano $\\alpha$. Se $\\sin (\\alpha) = 0,6$ allora $\\sin (\\beta$) vale:",
+      "answers": {
+        "a": "$0,79$",
+        "b": "$0,83$",
+        "c": "$0,87$",
+        "d": "$0,93$",
+        "e": "$0,96$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "110",
+      "text": "Siano $C$ e $C'$ due cerchi aventi entrambi il raggio uguale a $\\sqrt2$ e con il centro di uno posizionato sul bordo dell'altro. Allora $C \\cap C'$ vale:",
+      "answers": {
+        "a": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{3}$",
+        "b": "$\\frac{4\\pi}{3} - \\sqrt3$",
+        "c": "$\\frac{3\\pi}{2} - \\frac {\\sqrt3}{2}$",
+        "d": "$\\frac{3\\pi}{2} - \\sqrt2$",
+        "e": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{2}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "answers": {},
@@ -4984,6 +5227,81 @@
       },
       "correct": "e",
       "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "1",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
+      "text": "Secondo l'autore, le arti:",
+      "answers": {
+        "a": "Si sviluppano grazie alla filosofia",
+        "b": "Sono utili ma fini a se stesse",
+        "c": "Sono una forma di filosofia",
+        "d": "Si differenziano dalla filosofia",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "2",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
+      "text": "L'origine della filosofia:",
+      "answers": {
+        "a": "E' suddivisibile in grado semplice di meraviglia e grado più complesso",
+        "b": "E' legata alla sola meraviglia degli uomini per l'universo conosciuto",
+        "c": "E' opera di uomini un tempo liberi",
+        "d": "Ha inibito la libertà degli uomini",
+        "e": "Non compare nel testo"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "3",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
+      "text": "Indicare l'affermazione corretta:",
+      "answers": {
+        "a": "La filosofia non è una scienza",
+        "b": "La filosofia è scienza libera",
+        "c": "Il fine della filosofia è istruire gli uomini",
+        "d": "La filosofia è un arte pratica",
+        "e": "La filosofia è praticata da soli uomini agiati e benestanti"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "4",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
+      "text": "La conoscenza vera è:",
+      "answers": {
+        "a": "Libera",
+        "b": "Inesistente",
+        "c": "La conoscenza delle cause",
+        "d": "Fine a se stessa",
+        "e": "Irrangiungibile"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "4",
+      "sub": "5",
+      "track": "Gli uomini hanno cominciato a filosofare, ora come in origine, a causa della meraviglia: mentre da principio restavano meravigliati di fronte alle difficoltà più semplici, in seguito, progredendo a poco a poco, giunsero a porsi problemi sempre maggiori: per esempio i problemi riguardanti i fenomeni della luna e quelli del sole e degli astri, o i problemi riguardanti la generazione dell'intero universo. Ora, chi prova un senso di dubbio e di meraviglia riconosce di non sapere; ed è per questo che anche colui che ama il mito è, in certo qual modo, filosofo: il mito, infatti è costituito da un insieme di cose che destano meraviglia. Cosicché, se gli uomini hanno filosofato per liberarsi dall'ignoranza è evidente che ricercano il conoscere solo al fine di sapere e non per conseguire qualche utilità pratica. E il modo stesso in cui si sono svolti i fatti lo dimostra: quando già c'era pressoché tutto ciò che necessitava alla vita, anche all'agiatezza e al benessere, allora si incominciò a ricercare questa forma di conoscenza. È evidente, dunque, che noi non la ricerchiamo per nessun vantaggio che sia estraneo a essa; e, anzi, è evidente che, come diciamo uomo libero colui che è fine a se stesso e non è asservito agli altri, così questa sola, tra tutte le scienze, la diciamo libera: essa sola, infatti, è fine a se stessa. [...] È anche giusto denominare la filosofia scienza della verità, perché il fine della scienza teoretica è la verità, mentre il fine della pratica è l'azione. (Infatti, coloro che hanno per fine l'azione, anche se osservano come stanno le cose, non tendono alla conoscenza di ciò che è eterno ma solo di ciò che è relativo a una determinata circostanza in un determinato momento). Ora noi non conosciamo il vero senza conoscere la causa. Ma ogni cosa che possiede in grado supremo la natura che le è propria, costituisce la causa in virtù della quale anche alle altre conviene quella stessa natura: per esempio, il fuoco è caldo in grado massimo, perché esso è causa del calore nelle altre cose. Pertanto ciò che è causa dell'esser vero delle cose che da esse dipendono, deve essere vero più di tutte le altre.\n---\n(Aristotele - Metafisica)",
+      "text": "Il fine del filosofare:",
+      "answers": {
+        "a": "Non consiste nel raggiungere uno scopo pratico",
+        "b": "Consiste nel non accettare il pensiero comune",
+        "c": "E' raggiunto solo se coincide con la consapevolezza del conosciuto",
+        "d": "E' prima di tutto istruire chi non filosofa",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true
     }
   ],
   "fis": [
@@ -5015,16 +5333,16 @@
     },
     {
       "id": "3",
-      "text": "Il termine \"brinamento\" indica la transizione di fase tra quali stati?",
+      "text": "Il termine \"brinamento\" indica la transizione di fase tra quali stati della materia?",
       "answers": {
         "a": "Da liquido a solido",
         "b": "Da liquido a gassoso",
-        "c": "Da gassoso a solido",
+        "c": "Da vapore a solido",
         "d": "Da solido a gassoso",
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "4",
@@ -5054,13 +5372,13 @@
     },
     {
       "id": "6",
-      "text": "Un'automobile viaggia 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile, considerando che viaggia a velocità costante? ",
+      "text": "Un'automobile viaggia 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile considerando che viaggia a velocità costante? ",
       "answers": {
         "a": "50 m/s",
-        "b": "13.8 km/s",
-        "c": "13.8 m/s",
+        "b": "13,8 km/s",
+        "c": "13,8 m/s",
         "d": "2 km/h",
-        "e": "Nessuna delle precedenti."
+        "e": "Nessuna delle precedenti"
       },
       "correct": "e",
       "validated": true
@@ -5132,7 +5450,7 @@
     },
     {
       "id": "12",
-      "text": "Una lampadina a risparmio energetico da 15 W, la cui durata è stimata in circa 7 anni, è collegata ad un generatore di 220 V.  Qual è il valore della corrente che passa nella lampadina?",
+      "text": "Una lampadina a risparmio energetico da 15 W è collegata ad un generatore di 220 V. Qual è il valore della corrente che passa nella lampadina?",
       "answers": {
         "a": "circa 14,7 A",
         "b": "circa 1,7 A",
@@ -5204,6 +5522,97 @@
         "c": "Le onde elettromagnetiche non possono propagarsi nel vuoto",
         "d": "Le onde elettromagnetiche hanno velocità minore in acqua che in vuoto",
         "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "18",
+      "text": "Due sfere di acciaio si avvicinano alla stessa velocità fino a scontrarsi frontalmente in un urto elastico. Dopo l'urto, una delle due sfere con massa 600 g rimane ferma. Quant'è la massa dell'altra sfera?",
+      "answers": {
+        "a": "0,2 kg",
+        "b": "0,3 kg",
+        "c": "0,4 kg",
+        "d": "0,6 kg",
+        "e": "0,7 kg"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "19",
+      "text": "Un cubetto di ghiaccio è completamente immerso in un bicchiere contenente acqua. Se il cubetto di ghiaccio si scioglie, allora:",
+      "answers": {
+        "a": "Il livello dell'acqua non cambia",
+        "b": "Il livello dell'acqua scende",
+        "c": "Il livello dell'acqua sale",
+        "d": "Inizialmente il livello dell'acqua scende, poi sale",
+        "e": "Non si può concludere nulla con le sole informazioni fornite"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "20",
+      "text": "Un serbatoio è riempito d'acqua fino al bordo. Quando un foro sul fondo viene aperto, il serbatoio si svuota nel tempo $T$. Quanto tempo $T'$ ci vorrà per svuotare il serbatoio se è riempito a metà?",
+      "answers": {
+        "a": "$T'=\\frac {T}{2\\sqrt{2}}$",
+        "b": "$T'=\\frac {\\sqrt{2}}{2T}$",
+        "c": "$T'=\\frac {T}{\\sqrt{2}}$",
+        "d": "$T'=T \\frac {\\sqrt{2}}{2}$",
+        "e": "E' necessario conoscere l'area della sezione del foro"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "21",
+      "text": "A quale distanza devono essere posizionate due cariche da $0,1$ $\\mu C$ ciascuna affinchè la loro forza repulsiva sia equivalente al peso, sulla Terra, di una massa da $1$ $kg$?",
+      "answers": {
+        "a": "Circa $3 \\cdot 10^{-3}$ $m$",
+        "b": "Circa $9 \\cdot 10^{-3}$ $m$",
+        "c": "Circa $3$ $cm$",
+        "d": "Circa $1 \\cdot 10^{-3}$ $m$",
+        "e": "Circa $0,9$ $cm$"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "22",
+      "text": "Uno scaldabagno di altezza 1.6 cm e di diametro 60 cm pieno d'acqua, è alla temperatura iniziale di 20 c. Calcolare quanto calore occorre per portare la temperatura a 80 c ",
+      "answers": {
+        "a": "134564 j",
+        "b": "143682 kj",
+        "c": "342678 j ",
+        "d": "138924 kj ",
+        "e": "326648 j"
+      },
+      "correct": "d",
+      "validated": false
+    },
+    {
+      "id": "23",
+      "text": "Un conduttore è percorso da una corrente di $6,4$ $\\mu A$. Sapendo che la carica di un elettrone è pari a $1,6 \\cdot 10^{-19}$ $C$, quanti elettroni attraversano la sezione trasversale del conduttore in $16'40''$?",
+      "answers": {
+        "a": "$4,0 \\cdot 10^{27}$",
+        "b": "$1,6 \\cdot 10^{17}$",
+        "c": "$6,4 \\cdot 10^{15}$",
+        "d": "$2,0 \\cdot 10^{24}$",
+        "e": "$4,0 \\cdot 10^{16}$"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "24",
+      "text": "Un corpo del peso di $100$ $N$ si trova su un piano inclinato alto $60$ $cm$ e lungo $1$ $m$. Quanto vale il modulo della forza parallela al piano se il coefficiente di attrito statico vale $0,3$?",
+      "answers": {
+        "a": "$42$ $N$",
+        "b": "$36$ $N$",
+        "c": "$30$ $N$",
+        "d": "$24$ $N$",
+        "e": "$20$ $N$"
       },
       "correct": "b",
       "validated": true
@@ -5589,7 +5998,7 @@
     },
     {
       "id": "30",
-      "text": "My mother is looking ___ my little sister",
+      "text": "My mother is looking ___ my little sister.",
       "answers": {
         "a": "after",
         "b": "forward",
@@ -5680,7 +6089,7 @@
     },
     {
       "id": "37",
-      "text": "Who are ___ girls? I don't know ___",
+      "text": "Who are ___ girls? I don't know ___ .",
       "answers": {
         "a": "that / them",
         "b": "those / hers",
@@ -5693,7 +6102,7 @@
     },
     {
       "id": "38",
-      "text": "What ___ your score? 27 ___ 30",
+      "text": "What ___ your score? 27 ___ 30.",
       "answers": {
         "a": "is / out of",
         "b": "is / on",
@@ -6174,7 +6583,7 @@
     },
     {
       "id": "75",
-      "text": "If you ___ more carefully, you ___ so many accidents",
+      "text": "If you ___ more carefully, you ___ so many accidents.",
       "answers": {
         "a": "drive / couldn't have",
         "b": "are / not have",
@@ -6415,6 +6824,396 @@
         "c": "'ll / seen",
         "d": "'d / have had",
         "e": "--- / had"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "94",
+      "text": "The only thing you can depend ___ is your family.",
+      "answers": {
+        "a": "---",
+        "b": "on",
+        "c": "to",
+        "d": "with",
+        "e": "for"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "95",
+      "text": "I ___ to leave the party ___ last night. I wasn't  feeling very well.",
+      "answers": {
+        "a": "had / before",
+        "b": "have / ---",
+        "c": "had / early",
+        "d": "have / before",
+        "e": "had not / ---"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "96",
+      "text": "I'm looking forward to ___ on holiday.",
+      "answers": {
+        "a": "go",
+        "b": "stay",
+        "c": "book",
+        "d": "going",
+        "e": "see"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "97",
+      "text": "\"Would you pass ___ suitcase, please?\", he asked. He asked ___ to pass ___ suitcase.",
+      "answers": {
+        "a": "my /me / his",
+        "b": "the /me / her",
+        "c": "my / --- / its",
+        "d": "my / ---/  my",
+        "e": "my / --- / its"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "98",
+      "text": "He stopped just before ___ his key in the front door.",
+      "answers": {
+        "a": "leave",
+        "b": "left",
+        "c": "stolen",
+        "d": "cut",
+        "e": "putting"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "99",
+      "text": "They can't have known what ___ to happen.",
+      "answers": {
+        "a": "---",
+        "b": "is gone",
+        "c": "was going ",
+        "d": "have seen ",
+        "e": "have seeing"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "100",
+      "text": "I got ___ the car and walked into the house.",
+      "answers": {
+        "a": "in",
+        "b": "out of",
+        "c": "---",
+        "d": "out",
+        "e": "without"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "101",
+      "text": "I expect to have ___ here by the end of the year.",
+      "answers": {
+        "a": "finished the work",
+        "b": "finish work",
+        "c": "finishing worked",
+        "d": "finished working",
+        "e": "finisched the works"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "102",
+      "text": "Matteo, who I ___ earlier, wasn't at the party.",
+      "answers": {
+        "a": "have saw",
+        "b": "had saw",
+        "c": "see",
+        "d": "have see",
+        "e": "had seen"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "103",
+      "text": "Have you got the money I ___ yesterday?",
+      "answers": {
+        "a": "lent you",
+        "b": "lent me",
+        "c": "borrow",
+        "d": "borrow it",
+        "e": "borrow you"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "104",
+      "text": "I couldn't sleep ___ very tired.",
+      "answers": {
+        "a": "although I was",
+        "b": "despite I was",
+        "c": "despite of being",
+        "d": "spite of being",
+        "e": "I was"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "105",
+      "text": "You should insure your bike in case ___ stolen.",
+      "answers": {
+        "a": "it will be",
+        "b": "if it will be",
+        "c": "it is",
+        "d": "if it is",
+        "e": "will be"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "106",
+      "text": "The club is for members ___ . You ___  if you're a member.",
+      "answers": {
+        "a": "only / can't go in",
+        "b": "only / can go in only",
+        "c": "only / can go unless",
+        "d": "--- / can't go in only ",
+        "e": "only / can't go unless"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "107",
+      "text": "Yesterday I studied all evening ___ I didn't have anything better to do.",
+      "answers": {
+        "a": "when",
+        "b": "as",
+        "c": "while",
+        "d": "---",
+        "e": "why"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "108",
+      "text": "\"What's that noise?\" \"It sounds ___ a baby crying\".",
+      "answers": {
+        "a": "as if",
+        "b": "as though",
+        "c": "---",
+        "d": "like",
+        "e": "as"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "109",
+      "text": "They are very kind to me. They treat me ___ their own son.",
+      "answers": {
+        "a": "like I'm",
+        "b": "as if I'm",
+        "c": "as if I become",
+        "d": "as if I will be",
+        "e": "as if I was"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "110",
+      "text": "I'm going to be in NYC next week. I hope the weather will be good ___ .",
+      "answers": {
+        "a": "while I'm there",
+        "b": "in my visit",
+        "c": "while I'll be there",
+        "d": "during I'm there",
+        "e": "during I'll be there"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "111",
+      "text": "Raif is away at the moment. I don't know exactly when he's  ___ , but I'm pretty sure he'll be back ___ Monday.",
+      "answers": {
+        "a": "come back / until",
+        "b": "come back / by",
+        "c": "coming back / by",
+        "d": "come back / on",
+        "e": "coming back / until"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "112",
+      "text": "@federico_grandi",
+      "answers": {
+        "a": "woke up",
+        "b": "were woken up",
+        "c": "woked up",
+        "d": "were waking up",
+        "e": "woken up"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "113",
+      "text": "The view was wonderful. I would have taken some pictures if I ___ a camera with me.",
+      "answers": {
+        "a": "had",
+        "b": "would have",
+        "c": "would have had",
+        "d": "'d had",
+        "e": "have"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "114",
+      "text": "Tommaso left the meeting room suddenly. He said he ___ to go.",
+      "answers": {
+        "a": "has had",
+        "b": "have",
+        "c": "has",
+        "d": "have had",
+        "e": "had"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "115",
+      "text": "I'm not tired enough to go to bed. If I ____ to bed now, I would't sleep.",
+      "answers": {
+        "a": "went",
+        "b": "go",
+        "c": "had gone",
+        "d": "would go",
+        "e": "have gone"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "116",
+      "text": "I ___ a little longer, but I really have to go now.",
+      "answers": {
+        "a": "can stay",
+        "b": "'ll stay",
+        "c": "'d stay",
+        "d": "'d have stayed",
+        "e": "couldn't stay"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "117",
+      "text": "I'd rather ___ anyone what I said.",
+      "answers": {
+        "a": "you don't tell",
+        "b": "you didn't tell",
+        "c": "not you tell",
+        "d": "you wouldn't tell",
+        "e": "not tell you"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "118",
+      "text": "The course didn't go well. ___ of the students were happy.",
+      "answers": {
+        "a": "All",
+        "b": "No-one",
+        "c": "Nobody",
+        "d": "None",
+        "e": "Nothing"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "119",
+      "text": "In 2022, expenditure on education ___ up by ten point eight percent over and ___ inflation.",
+      "answers": {
+        "a": "has gone / above",
+        "b": "--- / over",
+        "c": "has had / over",
+        "d": "--- / more",
+        "e": "grow / more"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "120",
+      "text": "I had no trouble ___ a place to stay in Milan. Indeed it was surprisingly easy.",
+      "answers": {
+        "a": "find",
+        "b": "found",
+        "c": "to find",
+        "d": "in find",
+        "e": "finding"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "121",
+      "text": "Do you want ___ with you or do you want to go ___ ?",
+      "answers": {
+        "a": "I came / now",
+        "b": "me to come / alone",
+        "c": "I come / ---",
+        "d": "I'm coming / yourself",
+        "e": "me / without"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "122",
+      "text": "We can't ___ making a decison. We have to decide right now.",
+      "answers": {
+        "a": "put away",
+        "b": "put over",
+        "c": "put off",
+        "d": "put out",
+        "e": "put down"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "123",
+      "text": "For those who haven't ___ yet, this project is part of an innovative talent acquisition strategy.",
+      "answers": {
+        "a": "figured it out",
+        "b": "realize",
+        "c": "recognize",
+        "d": "miss it out",
+        "e": "missed"
       },
       "correct": "a",
       "validated": true
