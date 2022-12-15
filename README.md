@@ -8,3 +8,5 @@ This repo has two branches:
 
 - `main`: this is the branch where every new change will be reflected, it's intented to be used in development
 - `stable`: this is the branch that holds the production database, will not reflect changes until manually updated
+
+To deploy the development database (in the `main` branch) to production (`stable`), dispatch the [`deploy`](https://github.com/PoliNetworkOrg/TheTOLProjectData/actions/workflows/deploy.yml) workflow.
