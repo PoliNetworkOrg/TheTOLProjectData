@@ -1324,7 +1324,7 @@
     },
     {
       "id": "102",
-      "text": "In un'azienda manifatturiera, sicuramente $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio e 3 in ufficio. Quanti sono i possibili dipendenti?",
+      "text": "In un'azienda manifatturiera, sicuramente $\\frac {1}{2}$ dei dipendenti lavora in produzione, $\\frac {1}{4}$ in logistica, $\\frac {1}{7}$ in laboratorio, 3 in ufficio e altri in altri reparti. Quanti sono i possibili dipendenti?",
       "answers": {
         "a": "Minore di 56",
         "b": "Maggiore di 55",
@@ -1376,7 +1376,7 @@
     },
     {
       "id": "106",
-      "text": "Dati gli insiemi $A = \\lbrace (x, y) \\in \\Reals^2 | x^2+y^2 \\leqslant 1 \\rbrace$ e $B = \\lbrace (x, y) \\in \\Reals^2 | (x+y)^2 \\leqslant 1 \\rbrace$, quanto vale $A \\cap B^\\complement$?",
+      "text": "Dati gli insiemi $A = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1 \\rbrace$ e $B = \\lbrace (x, y) \\in \\Reals^2 : (x+y)^2 \\leqslant 1 \\rbrace$, quanto vale $A \\cap B^\\complement$?",
       "answers": {
         "a": "$\\frac{\\pi}{4} +\\sqrt2$",
         "b": "$\\pi -1$",
@@ -6718,7 +6718,7 @@
         "a": "seen / met",
         "b": "saw / meet",
         "c": "see / met",
-        "d": "seen / met",
+        "d": "seen / meet",
         "e": "have seen / meet"
       },
       "correct": "c",
