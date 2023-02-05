@@ -5519,9 +5519,9 @@
       "answers": {
         "a": "Le onde sonore non possono propagarsi nel vuoto",
         "b": "Le onde elettromagnetiche si propagano solo nel vuoto",
-        "c": "Le onde elettromagnetiche non possono propagarsi nel vuoto",
-        "d": "Le onde elettromagnetiche hanno velocità minore in acqua che in vuoto",
-        "e": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili"
+        "c": "Le onde elettromagnetiche hanno velocità minore in acqua che in vuoto",
+        "d": "Le onde sismiche sono onde sonore, ma non sempre le loro frequenze sono udibili",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "b",
       "validated": true
