@@ -1447,7 +1447,7 @@
         "b": "$A \\cup B = \\lbrace 1, 2, 3, 4, 5  \\rbrace$",
         "c": "$A \\cap B^\\complement = \\lbrace 7, 8, 9  \\rbrace$",
         "d": "$B \\cup A^\\complement = \\lbrace 0, 1, 3, 5, 7, 9  \\rbrace$",
-        "e": "$A \\setminus B$ = \\lbrace 2, 4  \\rbrace$"
+        "e": "$A \\setminus B = \\lbrace 2, 4  \\rbrace$"
       },
       "correct": "a",
       "validated": false
@@ -1458,8 +1458,8 @@
       "answers": {
         "a": "$10!$",
         "b": "$9!$",
-        "c": "$10 \\ cdot 9!$",
-        "d": "$9 \\ cdot 10!$",
+        "c": "$10 \\cdot 9!$",
+        "d": "$9 \\cdot 10!$",
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
@@ -1467,7 +1467,7 @@
     },
     {
       "id": "113",
-      "text": "Sia $l$ lo spigolo di un cubo circoscritto ad una circonferenza di raggio $r$. Scelto a caso un punto all'interno del cubo, qual é la probabilità che risulti interno alla sfera?",
+      "text": "Siano dati un cubo ed una sfera in esso inscritta. Scelto a caso un punto all'interno del cubo, qual è la probabilità che risulti interno alla sfera?",
       "answers": {
         "a": "60%",
         "b": "Circa 40%",
@@ -1479,7 +1479,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "114",
+      "text": "Nel piano cartesiano ortogonale $Oxy$, quanti sono i punti tali che $|x|=|y|= e^ln(2)$?",
+      "answers": {
+        "a": "0",
+        "b": "2",
+        "c": "4",
+        "d": "8",
+        "e": "Infiniti"
+      },
+      "correct": "c",
       "validated": false
     },
     {
