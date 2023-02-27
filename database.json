@@ -1480,7 +1480,7 @@
     },
     {
       "id": "114",
-      "text": "Nel piano cartesiano ortogonale $Oxy$, quanti sono i punti tali che $|x|=|y|= e^ln(2)$?",
+      "text": "Nel piano cartesiano ortogonale $Oxy$, quanti sono i punti tali che $|x|=|y|= e^{\\ln(2)}$?",
       "answers": {
         "a": "0",
         "b": "2",
@@ -1492,7 +1492,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "115",
+      "text": "Se l'affermazione \"per ogni angolo esiste una semiretta che divide a metà l'angolo\" è vera, allora la sua negazione è:",
+      "answers": {
+        "a": "Non esiste un angolo per cui ogni semiretta uscente dal suo vertice divide a metà l'angolo",
+        "b": "Per ogni angolo non esiste alcuna semiretta che lo divide a metà",
+        "c": "Esiste un angolo ed esiste una semiretta che non divide a metà l'angolo",
+        "d": "Esiste un angolo tale che ogni semiretta uscente dal suo vertice non divide a metà l'angolo",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
       "validated": false
     },
     {
@@ -5652,6 +5661,11 @@
       },
       "correct": "b",
       "validated": true
+    },
+    {
+      "id": "25",
+      "answers": {},
+      "validated": false
     }
   ],
   "ing": [
