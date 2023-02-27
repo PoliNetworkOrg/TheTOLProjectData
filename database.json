@@ -7317,41 +7317,41 @@
     },
     {
       "id": "127",
-      "text": "The train was late this morning, but it's usually on time.",
+      "text": "The train was late this morning, but it's usually ___ time.",
       "answers": {
         "a": "on",
         "b": "at",
         "c": "in",
-        "d": "",
-        "e": ""
+        "d": "by",
+        "e": "off"
       },
       "correct": "a",
       "validated": false
     },
     {
       "id": "128",
-      "text": "",
+      "text": "If Gabriele ___ to bed so late, He ___ tired all the time.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "don't go / could be",
+        "b": "didn't  go / would be",
+        "c": "goes / wouldn't be",
+        "d": "go / couldn't be",
+        "e": "didn't  go / wouldn't be"
       },
-      "correct": "",
+      "correct": "e",
       "validated": false
     },
     {
       "id": "129",
-      "text": "",
+      "text": "She definitely hates ___ waiting.",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "keepings",
+        "b": "be kept",
+        "c": "kept",
+        "d": "being kept",
+        "e": "keeps"
       },
-      "correct": "",
+      "correct": "d",
       "validated": false
     }
   ]
