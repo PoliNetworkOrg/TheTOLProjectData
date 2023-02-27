@@ -1454,7 +1454,7 @@
     },
     {
       "id": "112",
-      "text": "Quanti numeri in base 10 interi non negativi di 9 cifre sono composti da 9 cifre distinte?",
+      "text": "Nel sistema di numerazione posizionale in base 10, quanti numeri interi non negativi di 9 cifre sono composti da 9 cifre distinte?",
       "answers": {
         "a": "$10!$",
         "b": "$9!$",
@@ -5664,7 +5664,15 @@
     },
     {
       "id": "25",
-      "answers": {},
+      "text": "A quale distanza dal filamento di una lampadina da $50W$ l'illuminazione è pari a $100 W/m^2$? Si consideri la lampadina come una sorgente puntiforme.",
+      "answers": {
+        "a": "Circa $20 cm$",
+        "b": "Circa $40 mm$",
+        "c": "Circa $40 cm$",
+        "d": "Circa $10 cm$",
+        "e": "Circa $0,02 m$"
+      },
+      "correct": "a",
       "validated": false
     }
   ],
@@ -7267,6 +7275,36 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "124",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "125",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "126",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "127",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "128",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "129",
+      "answers": {},
+      "validated": false
     }
   ]
 }
