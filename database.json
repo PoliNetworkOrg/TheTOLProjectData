@@ -1440,15 +1440,42 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "111",
+      "text": "Dati gli insiemi $A = \\lbrace 2n , n\\in \\natnums  \\rbrace$ e $B = \\lbrace n \\lt 6 , n \\in \\natnums  \\rbrace$, allora:",
+      "answers": {
+        "a": "$A \\cap B = \\lbrace 0, 2, 4  \\rbrace$",
+        "b": "$A \\cup B = \\lbrace 1, 2, 3, 4, 5  \\rbrace$",
+        "c": "$A \\cap B^\\complement = \\lbrace 7, 8, 9  \\rbrace$",
+        "d": "$B \\cup A^\\complement = \\lbrace 0, 1, 3, 5, 7, 9  \\rbrace$",
+        "e": "$A \\setminus B$ = \\lbrace 2, 4  \\rbrace$"
+      },
+      "correct": "a",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "112",
+      "text": "Quanti numeri in base 10 interi non negativi di 9 cifre sono composti da 9 cifre distinte?",
+      "answers": {
+        "a": "$10!$",
+        "b": "$9!$",
+        "c": "$10 \\ cdot 9!$",
+        "d": "$9 \\ cdot 10!$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "113",
+      "text": "Sia $l$ lo spigolo di un cubo circoscritto ad una circonferenza di raggio $r$. Scelto a caso un punto all'interno del cubo, qual é la probabilità che risulti interno alla sfera?",
+      "answers": {
+        "a": "60%",
+        "b": "Circa 40%",
+        "c": "Circa 60%",
+        "d": "50%",
+        "e": "Circa 52%"
+      },
+      "correct": "e",
       "validated": false
     },
     {
