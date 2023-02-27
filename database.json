@@ -7278,32 +7278,80 @@
     },
     {
       "id": "124",
-      "answers": {},
+      "text": "Two people ___ in the accident and ___ to hospital.",
+      "answers": {
+        "a": "have injury / have taken",
+        "b": "were injury / have taken",
+        "c": "were ills / have taken",
+        "d": "were injured / were taken",
+        "e": "injured / have taken"
+      },
+      "correct": "d",
       "validated": false
     },
     {
       "id": "125",
-      "answers": {},
+      "text": "Do you want tea or coffee? ___ . I really don't ___ .",
+      "answers": {
+        "a": "Both / know",
+        "b": "Both / care",
+        "c": "Either / mind",
+        "d": "Either / know",
+        "e": "Neither / know"
+      },
+      "correct": "c",
       "validated": false
     },
     {
       "id": "126",
-      "answers": {},
+      "text": "It's too noisy here. Can we go somewhere ___ ?",
+      "answers": {
+        "a": "quietely",
+        "b": "quieter",
+        "c": "quiet",
+        "d": "more quietly",
+        "e": "more quietely"
+      },
+      "correct": "b",
       "validated": false
     },
     {
       "id": "127",
-      "answers": {},
+      "text": "The train was late this morning, but it's usually on time.",
+      "answers": {
+        "a": "on",
+        "b": "at",
+        "c": "in",
+        "d": "",
+        "e": ""
+      },
+      "correct": "a",
       "validated": false
     },
     {
       "id": "128",
-      "answers": {},
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
       "id": "129",
-      "answers": {},
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     }
   ]
