@@ -1450,7 +1450,7 @@
         "e": "$A \\setminus B = \\lbrace 2, 4  \\rbrace$"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "112",
@@ -1463,7 +1463,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "113",
@@ -1476,7 +1476,7 @@
         "e": "Circa 52%"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "114",
@@ -1489,7 +1489,7 @@
         "e": "Infiniti"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "115",
@@ -1502,7 +1502,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
@@ -5673,7 +5673,7 @@
         "e": "Circa $0,02 m$"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     }
   ],
   "ing": [
@@ -7287,7 +7287,7 @@
         "e": "injured / have taken"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "125",
@@ -7300,7 +7300,7 @@
         "e": "Neither / know"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "126",
@@ -7313,7 +7313,7 @@
         "e": "more quietely"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "127",
@@ -7326,7 +7326,7 @@
         "e": "off"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "128",
@@ -7339,7 +7339,7 @@
         "e": "didn't  go / wouldn't be"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "129",
@@ -7352,7 +7352,7 @@
         "e": "keeps"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     }
   ]
 }
