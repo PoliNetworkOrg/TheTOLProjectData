@@ -5357,11 +5357,11 @@
         "a": "Possono accedere tutti i candidati che hanno superato il TOL",
         "b": "Possono accedere solo i candidati che hanno superato il TOL nella prima finestra",
         "c": "Possono accedere gli studenti iscritti al penultimo anno delle superiori che hanno superato solo il TOL",
-        "d": "Possono accedere solo i candidati iscritti al penultimo anno delle superiori che hanno superato il TOL oppure il TOLC-I",
+        "d": "Possono accedere i candidati iscritti all'ultimo anno delle superiori che hanno superato il TOL oppure il TOLC-I",
         "e": "Nessuna della precedenti"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
