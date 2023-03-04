@@ -1505,7 +1505,12 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "116",
+      "text": "Sia $\\alpha$ un piano ed $S$ una sfera di raggio $r=\\5sqrt(3)$. Sapendo che la distanza di $\\alpha$ da $S$ vale $2\\sqrt(12)$, allora: ",
+      "answers": {
+        "a": "Il piano $\\alpha$ è tangente alla sfera $S$",
+        "b": "L'intersezione tra la sfera $S$ ed il piano $\\alpha$ è vuota"
+      },
       "validated": false
     },
     {
