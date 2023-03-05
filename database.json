@@ -1519,7 +1519,7 @@
     },
     {
       "id": "117",
-      "text": "Il seguente sistema: $\\begin{cases} x + y  - \\sqrt \\frac {\\pi}{2} > 0 \\\\ |1-2\\sin^2 (\\frac {\\pi}{2})-x^2-y^2| = 0 \\end{cases}$",
+      "text": "Il seguente sistema: $\\begin{cases} x + y  - \\sqrt \\frac {\\pi}{2} > 0 \\\\ |1-2\\sin^2 (\\frac {\\pi}{2})|-x^2-y^2 = 0 \\end{cases}$",
       "answers": {
         "a": "È impossibile",
         "b": "Ha due soluzioni distinte, entrambe positive",
