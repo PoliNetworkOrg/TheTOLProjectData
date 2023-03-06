@@ -1561,7 +1561,7 @@
       "text": "Nel piano cartesiano, la sequente equazione $9x^2-y^2=0$ definisce:",
       "answers": {
         "a": "Una coppia di rette parallele",
-        "b": "Una semiretta",
+        "b": "Una retta passante per l'origine degli assi",
         "c": "Una circonferenza",
         "d": "Un punto",
         "e": "Una coppia di rette incidenti"
@@ -5762,6 +5762,19 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "26",
+      "text": "La velocità di fuga di un pianeta è la velocità iniziale minima che un corpo sulla sua superficie deve avere per vincere definitivamente l'attrazione gravitazionale del pianeta. Sapendo che la velocità di fuga dipende solo dal raggio $R$ del pianeta e dalla sua accelerazione di gravità $g$ al livello della superficie, quali tra le seguenti formule potrebbe fornire la velocità di fuga?",
+      "answers": {
+        "a": "$v_{f} = \\frac{gR}{4}$",
+        "b": "$v_{f} = \\sqrt \\frac{3g}{R}$",
+        "c": "$v_{f} = \\sqrt 2gR$",
+        "d": "$v_{f} = 2(gR)^2$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "c",
+      "validated": false
     }
   ],
   "ing": [
