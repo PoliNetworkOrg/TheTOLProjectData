@@ -5769,7 +5769,7 @@
       "answers": {
         "a": "$v_{f} = \\frac{gR}{4}$",
         "b": "$v_{f} = \\sqrt \\frac{3g}{R}$",
-        "c": "$v_{f} = \\sqrt 2gR$",
+        "c": "$v_{f} = \\sqrt {2gR}$",
         "d": "$v_{f} = 2(gR)^2$",
         "e": "Nessuna delle precedenti"
       },
