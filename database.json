@@ -1560,11 +1560,11 @@
       "id": "120",
       "text": "Nel piano cartesiano, la sequente equazione $9x^2-y^2=0$ definisce:",
       "answers": {
-        "a": "Una coppia di rette incidenti",
+        "a": "Una coppia di rette parallele",
         "b": "Una semiretta",
         "c": "Una circonferenza",
         "d": "Un punto",
-        "e": "Una coppia di rette parallele"
+        "e": "Una coppia di rette incidenti"
       },
       "correct": "e",
       "validated": false
