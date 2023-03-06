@@ -1532,7 +1532,7 @@
     },
     {
       "id": "118",
-      "text": "Considerata l'implicazione \"se $x \\leqslant y$ allora $x^n \\leqslant y^n$\", per quali $n \\in \\natnums$ è vera?",
+      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali $n \\in \\natnums$ è vera?",
       "answers": {
         "a": "Solo se $n$ è dispari",
         "b": "Per ogni $n$",
@@ -1557,7 +1557,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "120",
+      "text": "Nel piano cartesiano, la sequente equazione $9x^2-y^2=0$ definisce:",
+      "answers": {
+        "a": "Una coppia di rette incidenti",
+        "b": "Una semiretta",
+        "c": "Una circonferenza",
+        "d": "Un punto",
+        "e": "Una coppia di rette parallele"
+      },
+      "correct": "e",
       "validated": false
     },
     {
