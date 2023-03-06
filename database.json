@@ -1531,11 +1531,29 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "118",
+      "text": "Considerata l'implicazione \"se $x \\leqslant y$ allora $x^n \\leqslant y^n$\", per quali $n \\in \\natnums$ è vera?",
+      "answers": {
+        "a": "Solo se $n$ è dispari",
+        "b": "Per ogni $n$",
+        "c": "Solo se $n$ è pari",
+        "d": "Per nessun $n$",
+        "e": "Per qualche $0<n<1$"
+      },
+      "correct": "a",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "119",
+      "text": "Siano $a, b \\in \\Reals$ tali che $a^2+b^2=1$. Allora:",
+      "answers": {
+        "a": "$a^2-b^2 \\leqslant 0$",
+        "b": "$|a+b| \\geqslant 1$",
+        "c": "$(a+b)^2 \\geqslant 1$",
+        "d": "$|a| \\leqslant 1$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
       "validated": false
     },
     {
