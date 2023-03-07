@@ -5415,13 +5415,13 @@
       "text": "I test alternativi al TOL:",
       "answers": {
         "a": "Sono erogati dal Politecnico di Milano",
-        "b": "Sono riconosciuti dal Politecnico di Milano solo se registrati nei termi previsti",
+        "b": "Sono riconosciuti dal Politecnico di Milano solo se registrati nei termini previsti",
         "c": "Sono riservati ai soli candidati iscritti al penultimo anno delle superiori",
-        "d": "",
-        "e": ""
+        "d": "Sono riservati a tutti i candidati senza OFA test",
+        "e": "Sono sempre riconosciuti dal Politecnico di MIlano"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5760,7 +5760,7 @@
     },
     {
       "id": "25",
-      "text": "A quale distanza dal filamento di una lampadina da $50W$ l'illuminazione è pari a $100 W/m^2$? Si consideri la lampadina come una sorgente puntiforme.",
+      "text": "A quale distanza dal filamento di una lampadina da $50W$ l'illuminazione è pari a $100 \\frac {W}{m^2}$? Si consideri la lampadina come una sorgente puntiforme.",
       "answers": {
         "a": "Circa $20 cm$",
         "b": "Circa $40 mm$",
