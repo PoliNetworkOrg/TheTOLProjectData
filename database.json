@@ -1512,10 +1512,10 @@
         "b": "Il raggio della circonferenza intersezione vale $3^\\frac{3}{2}$",
         "c": "L'intersezione tra la sfera $S$ ed il piano $\\alpha$ è vuota",
         "d": "Il diametro del cerchio intersezione vale $2\\sqrt3$",
-        "e": "Il raggio del circonferenza intersezione vale $\\sqrt3$"
+        "e": "Il raggio della circonferenza intersezione vale $\\sqrt3$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "117",
@@ -1525,14 +1525,14 @@
         "b": "Ha due soluzioni distinte, entrambe positive",
         "c": "Ha infinite soluzioni",
         "d": "Ha due soluzioni distinte, entrambe negative",
-        "e": "Ha due soluzioni distinte, un positiva e una negativa"
+        "e": "Ha due soluzioni distinte, una positiva e una negativa"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "118",
-      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali $n \\in \\natnums$ è vera?",
+      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali $n \\in \\natnums - {1}$ è vera?",
       "answers": {
         "a": "Solo se $n$ è dispari",
         "b": "Per ogni $n$",
@@ -1562,8 +1562,8 @@
       "answers": {
         "a": "Una coppia di rette parallele",
         "b": "Una retta passante per l'origine degli assi",
-        "c": "Una circonferenza",
-        "d": "Un punto",
+        "c": "Una circonferenza di raggio pari a 3",
+        "d": "Un punto le cui coordinate sono (-3, 3)",
         "e": "Una coppia di rette incidenti"
       },
       "correct": "e",
@@ -5774,7 +5774,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     }
   ],
   "ing": [
