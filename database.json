@@ -1532,7 +1532,7 @@
     },
     {
       "id": "118",
-      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali altri $n \\in \\natnums$ - {1} è sempre vera?",
+      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali $n \\in \\natnums$ - {1} è sempre vera?",
       "answers": {
         "a": "Solo se $n$ è dispari",
         "b": "Per ogni $n$",
@@ -1583,6 +1583,8 @@
       "validated": false
     },
     {
+      "id": "122",
+      "text": "L'equaione della retta tangente alla curca $xy-4=0$ e passante per il punto $P(0,1",
       "answers": {},
       "validated": false
     },
