@@ -1571,7 +1571,7 @@
     },
     {
       "id": "121",
-      "text": "Per quante coppie $(m, n)$ con $m, n  \\in \\Z$ l'equazione $2m+3n=4mn$ è soddisfatta?",
+      "text": "Per quante coppie $(m, n)$ di interi l'equazione $2m+3n=4mn$ è soddisfatta?",
       "answers": {
         "a": "0",
         "b": "1",
