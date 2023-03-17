@@ -1532,7 +1532,7 @@
     },
     {
       "id": "118",
-      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali $n \\in \\natnums$ - {1} è sempre vera?",
+      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali valori di $n \\in \\natnums$ è sempre vera?",
       "answers": {
         "a": "Solo se $n$ è dispari",
         "b": "Per ogni $n$",
@@ -1584,10 +1584,15 @@
     },
     {
       "id": "122",
-      "text": "L'equazione della retta tangente alla curva $xy-4=0$ e passante per il punto $P(0,1) è:",
+      "text": "L'equazione della retta tangente alla curva $xy-4=0$ e passante per il punto $P(0,1)$ è:",
       "answers": {
-        "a": "$y=16x-1$"
+        "a": "$y=4x-1$",
+        "b": "$y=-\\frac {x}{16} +1$",
+        "c": "$y=\\frac {x}{2} -1$",
+        "d": "$y=-16x+1$",
+        "e": "$y=\\frac {4}{x}+1$"
       },
+      "correct": "b",
       "validated": false
     },
     {
