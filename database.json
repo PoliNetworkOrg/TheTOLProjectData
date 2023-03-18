@@ -1596,7 +1596,16 @@
       "validated": false
     },
     {
-      "answers": {},
+      "id": "123",
+      "text": "Un numero quadrato o quadrato perfetto è un numero intero non negativo che può essere espresso come il quadrato di un altro numero intero non negativo. Se $x$ è un numero quadrato, allora il successivo quadrato perfetto è:",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
