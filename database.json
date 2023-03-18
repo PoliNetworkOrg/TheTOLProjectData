@@ -1599,13 +1599,13 @@
       "id": "123",
       "text": "Un numero quadrato o quadrato perfetto è un numero intero non negativo che può essere espresso come il quadrato di un altro numero intero non negativo. Se $x$ è un numero quadrato, allora il successivo quadrato perfetto è:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$x+2 \\sqrt{x} +1$",
+        "b": "$x^2 +1$",
+        "c": "$x^2+2x+1$",
+        "d": "$x+1$",
+        "e": "$2x+1$"
       },
-      "correct": "",
+      "correct": "a",
       "validated": false
     },
     {
