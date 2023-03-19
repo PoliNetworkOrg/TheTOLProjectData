@@ -1609,6 +1609,8 @@
       "validated": false
     },
     {
+      "id": "124",
+      "text": "Se $x= \\frac {1}{27y}$, $log_y{x}+log_x{y}=5/2 e $xy>0$ allora $\\sqrt \\frac {4x}{y}$ vale:",
       "answers": {},
       "validated": false
     },
