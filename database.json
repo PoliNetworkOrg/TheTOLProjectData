@@ -1610,13 +1610,13 @@
     },
     {
       "id": "124",
-      "text": "Se $x, y>0$, $log_x{y}+log_y{x}=\\frac {5}{2}$ ed $x= \\frac {1}{27y}$, allora $\\sqrt \\frac {4x}{y}$ vale:",
+      "text": "Se $x, y>0$, $log_x{y}+log_y{x}=\\frac {5}{2}$ ed $x= \\frac {1}{27y}$, allora $\\frac {x}{y}$ vale:",
       "answers": {
-        "a": "$ \\frac {2 \\sqrt3}{3} $",
-        "b": "$\\sqrt3$",
-        "c": "$ \\frac {2} {\\sqrt3}$",
-        "d": "$2\\sqrt3$",
-        "e": "$ \\frac {2} {3 \\sqrt3}$"
+        "a": "$\\sqrt{3} $",
+        "b": "$2 \\sqrt3$",
+        "c": "$ \\frac {1} {3}$",
+        "d": "$3$",
+        "e": "$2$"
       },
       "correct": "d",
       "validated": false
