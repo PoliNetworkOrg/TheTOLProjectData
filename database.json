@@ -5831,8 +5831,15 @@
     },
     {
       "id": "27",
-      "text": "Un cubo di legno di densità $\\rho_{legno}= 750$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
-      "answers": {},
+      "text": "Un cubo di legno di densità $\\rho_{legno}= 650$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza del cubo che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
+      "answers": {
+        "a": "$1,5$ $cm$",
+        "b": "$0,95$ $cm$",
+        "c": "$0,75$ $cm$",
+        "d": "$1,05$ $cm$",
+        "e": "$1,25$ $cm$"
+      },
+      "correct": "d",
       "validated": false
     }
   ],
@@ -7591,6 +7598,44 @@
       },
       "correct": "b",
       "validated": true
+    },
+    {
+      "id": "136",
+      "text": "We stopped at the motorway services ___ something ___ .",
+      "answers": {
+        "a": "to get / to eat",
+        "b": "get / eat",
+        "c": "got / eat",
+        "d": "to get / eating",
+        "e": "to got / to eat"
+      },
+      "correct": "a",
+      "validated": false
+    },
+    {
+      "id": "137",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "138",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "139",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "140",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "141",
+      "answers": {},
+      "validated": false
     }
   ]
 }
