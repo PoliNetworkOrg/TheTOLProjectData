@@ -1623,7 +1623,7 @@
     },
     {
       "id": "125",
-      "text": "Un polinomio $P(x)$ ha resto $7$ se diviso per $x-5$ e resto $11$ se diviso per $x-7$. Allora il resto di $P(x)$ quando è diviso per $(x-5) (x-7)$ vale:",
+      "text": "Un polinomio $P(x)$ ha resto $7$ se diviso per $x-5$ e resto $11$ se diviso per $x-7$. Allora il resto di $P(x)$ se è diviso per $(x-5) (x-7)$ vale:",
       "answers": {
         "a": "$2x+3$",
         "b": "$3x-2$",
@@ -7604,8 +7604,8 @@
       "text": "We stopped at the motorway services ___ something ___ .",
       "answers": {
         "a": "to get / to eat",
-        "b": "get / eat",
-        "c": "got / eat",
+        "b": "getting / eat",
+        "c": "having / to eat",
         "d": "to get / eating",
         "e": "to got / to eat"
       },
@@ -7614,22 +7614,54 @@
     },
     {
       "id": "137",
-      "answers": {},
+      "text": "___ every day is a good way of ___ fit.",
+      "answers": {
+        "a": "Swim / keep",
+        "b": "Swim / keeping",
+        "c": "Swimming / keeping",
+        "d": "Swimming / keep",
+        "e": "To swim / keep"
+      },
+      "correct": "c",
       "validated": false
     },
     {
       "id": "138",
-      "answers": {},
+      "text": "If I ___ in that university, ___ soon change things.",
+      "answers": {
+        "a": "work / I'll",
+        "b": "'m working / I'll",
+        "c": "worked / I'll",
+        "d": "worked / I'd",
+        "e": "worked / I"
+      },
+      "correct": "d",
       "validated": false
     },
     {
       "id": "139",
-      "answers": {},
+      "text": "___ you be ___ all tomorrow evening?",
+      "answers": {
+        "a": "Have / work",
+        "b": "Do / work",
+        "c": "Will / work",
+        "d": "Having / work",
+        "e": "Will / working"
+      },
+      "correct": "e",
       "validated": false
     },
     {
       "id": "140",
-      "answers": {},
+      "text": "I ___ to the radio when I ___ an idea.",
+      "answers": {
+        "a": "listen / had",
+        "b": "was listening / had",
+        "c": "have listened / have",
+        "d": "listened / having",
+        "e": "have listening / had"
+      },
+      "correct": "b",
       "validated": false
     },
     {
