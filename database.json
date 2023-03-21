@@ -5831,7 +5831,7 @@
     },
     {
       "id": "27",
-      "text": "Un cubo di legno di densità $\\rho= 750$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho= 1$ $kg/m^3$. Sapendo che la base del cubo misura $10$ $cm$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
+      "text": "Un cubo di legno di densità $\\rho_{legno}= 750$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
       "answers": {},
       "validated": false
     }
