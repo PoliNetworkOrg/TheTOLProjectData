@@ -1493,15 +1493,15 @@
     },
     {
       "id": "115",
-      "text": "Se l'affermazione \"per ogni angolo esiste una semiretta che divide a metà l'angolo\" è vera, allora la sua negazione è:",
+      "text": "Per quante coppie $(m, n)$ di interi l'equazione $2m+3n=4mn$ è soddisfatta?",
       "answers": {
-        "a": "Non esiste un angolo per cui ogni semiretta uscente dal suo vertice divide a metà l'angolo",
-        "b": "Per ogni angolo non esiste alcuna semiretta che lo divide a metà",
-        "c": "Esiste un angolo ed esiste una semiretta che non divide a metà l'angolo",
-        "d": "Esiste un angolo tale che ogni semiretta uscente dal suo vertice non divide a metà l'angolo",
-        "e": "Nessuna delle precedenti"
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "4"
       },
-      "correct": "d",
+      "correct": "c",
       "validated": true
     },
     {
@@ -1571,15 +1571,7 @@
     },
     {
       "id": "121",
-      "text": "Per quante coppie $(m, n)$ di interi l'equazione $2m+3n=4mn$ è soddisfatta?",
-      "answers": {
-        "a": "0",
-        "b": "1",
-        "c": "2",
-        "d": "3",
-        "e": "4"
-      },
-      "correct": "c",
+      "answers": {},
       "validated": false
     },
     {
@@ -1635,8 +1627,17 @@
       "validated": false
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "126",
+      "text": "Se l'affermazione \"per ogni angolo esiste una semiretta che divide a metà l'angolo\" è vera, allora la sua negazione è:",
+      "answers": {
+        "a": "Non esiste un angolo per cui ogni semiretta uscente dal suo vertice divide a metà l'angolo",
+        "b": "Per ogni angolo non esiste alcuna semiretta che lo divide a metà",
+        "c": "Esiste un angolo ed esiste una semiretta che non divide a metà l'angolo",
+        "d": "Esiste un angolo tale che ogni semiretta uscente dal suo vertice non divide a metà l'angolo",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "answers": {},
