@@ -1606,7 +1606,7 @@
         "e": "$2x-3$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "124",
@@ -5481,7 +5481,7 @@
         "e": "Non compare nel testo"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
