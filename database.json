@@ -1580,7 +1580,7 @@
         "e": "$\\2x+1$"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "122",
