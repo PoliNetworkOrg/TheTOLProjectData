@@ -1593,7 +1593,7 @@
         "e": "$2$"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "123",
