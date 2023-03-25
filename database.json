@@ -1558,24 +1558,6 @@
     },
     {
       "id": "120",
-      "text": "Nel piano cartesiano, l'equazione $9x^2-y^2=0$ definisce:",
-      "answers": {
-        "a": "Una coppia di rette parallele",
-        "b": "Una retta passante per l'origine degli assi",
-        "c": "Una circonferenza di raggio pari a 3",
-        "d": "Un punto le cui coordinate sono (-3, 3)",
-        "e": "Una coppia di rette incidenti"
-      },
-      "correct": "e",
-      "validated": true
-    },
-    {
-      "id": "121",
-      "answers": {},
-      "validated": false
-    },
-    {
-      "id": "122",
       "text": "L'equazione della retta tangente alla curva $xy-4=0$ e passante per il punto $P(0,1)$ è:",
       "answers": {
         "a": "$y=4x-1$",
@@ -1585,10 +1567,10 @@
         "e": "$y=\\frac {4}{x}+1$"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
-      "id": "123",
+      "id": "121",
       "text": "Un numero quadrato o quadrato perfetto è un numero intero non negativo che può essere espresso come il quadrato di un altro numero intero non negativo. Se $x$ è un numero quadrato, allora il successivo quadrato perfetto è:",
       "answers": {
         "a": "$x+2 \\sqrt{x} +1$",
@@ -1601,7 +1583,7 @@
       "validated": false
     },
     {
-      "id": "124",
+      "id": "122",
       "text": "Se $x, y>0$, $log_x{y}+log_y{x}=\\frac {5}{2}$ ed $x= \\frac {1}{27y}$, allora $\\frac {x}{y}$ vale:",
       "answers": {
         "a": "$\\sqrt{3} $",
@@ -1614,7 +1596,7 @@
       "validated": false
     },
     {
-      "id": "125",
+      "id": "123",
       "text": "Un polinomio $P(x)$ ha resto $7$ se diviso per $x-5$ e resto $11$ se diviso per $x-7$. Allora il resto di $P(x)$ se è diviso per $(x-5) (x-7)$ vale:",
       "answers": {
         "a": "$2x+3$",
@@ -1627,7 +1609,7 @@
       "validated": false
     },
     {
-      "id": "126",
+      "id": "124",
       "text": "Se l'affermazione \"per ogni angolo esiste una semiretta che divide a metà l'angolo\" è vera, allora la sua negazione è:",
       "answers": {
         "a": "Non esiste un angolo per cui ogni semiretta uscente dal suo vertice divide a metà l'angolo",
@@ -1638,6 +1620,23 @@
       },
       "correct": "d",
       "validated": true
+    },
+    {
+      "id": "125",
+      "text": "Nel piano cartesiano, l'equazione $9x^2-y^2=0$ definisce:",
+      "answers": {
+        "a": "Una coppia di rette parallele",
+        "b": "Una retta passante per l'origine degli assi",
+        "c": "Una circonferenza di raggio pari a 3",
+        "d": "Un punto le cui coordinate sono (-3, 3)",
+        "e": "Una coppia di rette incidenti"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "answers": {},
+      "validated": false
     },
     {
       "answers": {},
