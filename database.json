@@ -1636,7 +1636,7 @@
     },
     {
       "id": "126",
-      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superifcie di uno è il doppio dell'altra. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
+      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superifcie di uno è il doppio dell'altra. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata, il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
       "answers": {
         "a": "8",
         "b": "10",
@@ -1649,16 +1649,16 @@
     },
     {
       "id": "127",
-      "text": "La retta $r$ passa per i punti A(-51; 0) , B(73;124) e forma un angolo $\\alpha$ con l'asse delle ascisse nel III quadrante. Quanto vale $\\alpha$?",
+      "text": "La retta $r$ passa per i punti A(-51, 0) e B(73,124). Quanto vale l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
       "answers": {
-        "a": "",
+        "a": "1",
         "b": "$ \\frac {\\pi}{4}$",
-        "c": "",
-        "d": "",
-        "e": ""
+        "c": "$ \\frac {\\pi}{6}$",
+        "d": "$ \\frac {\\pi}{3}$",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "answers": {},
