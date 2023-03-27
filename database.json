@@ -1649,8 +1649,15 @@
     },
     {
       "id": "127",
-      "text": "La retta $r$ passa per i punti A(-51; 0) , B(73;124) e forma un angolo $\\alpha$ con l'asse delle ascisse nel III quadrante. Quanto vale $\\alpha)$?",
-      "answers": {},
+      "text": "La retta $r$ passa per i punti A(-51; 0) , B(73;124) e forma un angolo $\\alpha$ con l'asse delle ascisse nel III quadrante. Quanto vale $\\alpha$?",
+      "answers": {
+        "a": "",
+        "b": "$ \\frac {\\pi}{4}$",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "b",
       "validated": false
     },
     {
