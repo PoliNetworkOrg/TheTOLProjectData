@@ -1635,8 +1635,17 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "126",
+      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superifcie di uno è il doppio dell'altro. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
+      "answers": {
+        "a": "8",
+        "b": "10",
+        "c": "2",
+        "d": "6",
+        "e": "4"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "answers": {},
