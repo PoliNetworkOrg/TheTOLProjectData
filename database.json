@@ -1649,7 +1649,7 @@
     },
     {
       "id": "127",
-      "text": "La retta $r$ passa per i punti A(-51, 0) e B(73,124). Quanto vale l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
+      "text": "La retta $r$ passa per i punti A(-51, 0) e B(73,124). Quanto vale in radianti l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
       "answers": {
         "a": "1",
         "b": "$ \\frac {\\pi}{4}$",
