@@ -1661,7 +1661,16 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "128",
+      "text": "L'equazione $\\frac {1}{2}x^2+ \\frac{1}{3}xy+ \\frac{1}{4}y^2 =\\frac {1}{5}$ rappresta nel piano cartesiano:",
+      "answers": {
+        "a": "Una circonferenza",
+        "b": "Una parabola",
+        "c": "Un'ellisse",
+        "d": "Un'iperbole equilatera riferita ai propri asistoti",
+        "e": "Un'iperbole traslata con centro nell'origine degli assi "
+      },
+      "correct": "c",
       "validated": false
     },
     {
