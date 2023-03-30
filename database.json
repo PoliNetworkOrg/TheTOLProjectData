@@ -1667,8 +1667,8 @@
         "a": "Una circonferenza",
         "b": "Una parabola",
         "c": "Un'ellisse",
-        "d": "Un'iperbole equilatera riferita ai propri asistoti",
-        "e": "Un'iperbole traslata con centro nell'origine degli assi "
+        "d": "Un'iperbole che interseca l'asse delle $x$ con centro nell'origine ",
+        "e": "Un'iperbole che interseca l'asse delle $y$ con centro nell'origine "
       },
       "correct": "c",
       "validated": false
