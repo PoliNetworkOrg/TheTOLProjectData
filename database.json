@@ -1688,15 +1688,15 @@
     },
     {
       "id": "130",
-      "text": "",
+      "text": "Nell'intervallo $[1, 10000]$, quanti sono i numeri naturali multipli di 7 oppure di 8?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "2250",
+        "b": "2950",
+        "c": "3650",
+        "d": "3250",
+        "e": "2500"
       },
-      "correct": "",
+      "correct": "e",
       "validated": false
     },
     {
@@ -7742,6 +7742,45 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "142",
+      "text": "Acid rain is ___ by ___ coal or oil.",
+      "answers": {
+        "a": "done / burning",
+        "b": "done / burnt",
+        "c": "caused / burning",
+        "d": "burned / doing",
+        "e": "burnt / doing"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "143",
+      "text": "It was the best teaching I have ever seen.",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "144",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "145",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "146",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "147",
+      "answers": {},
+      "validated": false
     }
   ]
 }
