@@ -1678,15 +1678,25 @@
       "text": "L'inseme del punti del piano $\\alpha$ è definito come $\\alpha = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali coppie $(x, y)$, con $x, y \\in \\mathbb {Z}$, appartengono all'inseme $\\alpha$?",
       "answers": {
         "a": "$(0, 0) , (0, 1)$",
-        "b": "$(0, 0) , (1, 0)$",
+        "b": "$(0, 0) , (-1, 0)$",
         "c": "$(0, 0) , (0, -1)$",
-        "d": "$(0, 0) , (-1, 0)$",
+        "d": "$(0, 0) , (1, 0)$",
         "e": "$(0, 0) , (-1, 1)$"
       },
+      "correct": "d",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "130",
+      "text": "",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
       "validated": false
     },
     {
