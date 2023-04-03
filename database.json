@@ -5894,6 +5894,19 @@
       },
       "correct": "d",
       "validated": true
+    },
+    {
+      "id": "28",
+      "text": "Due ciclisti, A e B, percorrono una pista circolare a velocità costante e nello stesso verso partendo da punti diametralmente opposti. Se la velocità di A è i $\\frc {12}{11}$ di B, quanti giri avrà percorso A quando raggiungerà B per la prima volta?",
+      "answers": {
+        "a": "11",
+        "b": "6",
+        "c": "12",
+        "d": "3",
+        "e": "4"
+      },
+      "correct": "b",
+      "validated": false
     }
   ],
   "ing": [
