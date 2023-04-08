@@ -7762,7 +7762,7 @@
         "e": "burnt / doing"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "143",
@@ -7775,7 +7775,7 @@
         "e": "I have / do"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "144",
@@ -7788,7 +7788,7 @@
         "e": "knowing"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "145",
@@ -7801,7 +7801,7 @@
         "e": "going / grew"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "146",
@@ -7814,7 +7814,7 @@
         "e": "is / to be"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "147",
@@ -7827,7 +7827,7 @@
         "e": "buys"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     }
   ]
 }
