@@ -1636,7 +1636,7 @@
     },
     {
       "id": "126",
-      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superifcie di uno è il doppio dell'altra. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata, il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
+      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superficie di uno è il doppio dell'altra. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata, il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
       "answers": {
         "a": "8",
         "b": "10",
@@ -1645,7 +1645,7 @@
         "e": "4"
       },
       "correct": "a",
-      "validated": true
+      "validated": false
     },
     {
       "id": "127",
@@ -1700,26 +1700,32 @@
       "validated": false
     },
     {
+      "id": "131",
       "answers": {},
       "validated": false
     },
     {
+      "id": "132",
       "answers": {},
       "validated": false
     },
     {
+      "id": "133",
       "answers": {},
       "validated": false
     },
     {
+      "id": "134",
       "answers": {},
       "validated": false
     },
     {
+      "id": "135",
       "answers": {},
       "validated": false
     },
     {
+      "id": "136",
       "answers": {},
       "validated": false
     },
@@ -5915,6 +5921,16 @@
       },
       "correct": "b",
       "validated": false
+    },
+    {
+      "id": "29",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "30",
+      "answers": {},
+      "validated": false
     }
   ],
   "ing": [
@@ -7597,7 +7613,7 @@
     },
     {
       "id": "130",
-      "text": "In don't understand this sentence. What ___ ?",
+      "text": "I don't understand this sentence. What ___ ?",
       "answers": {
         "a": "does mean this word",
         "b": "does this word mean",
@@ -7755,7 +7771,7 @@
       "id": "142",
       "text": "Acid rain is ___ by ___ coal or oil.",
       "answers": {
-        "a": "done / burning",
+        "a": "did / burning",
         "b": "done / burnt",
         "c": "caused / burning",
         "d": "burned / doing",
@@ -7828,6 +7844,60 @@
       },
       "correct": "c",
       "validated": true
+    },
+    {
+      "id": "148",
+      "text": "She ___ like her mother: dont' you think she ___ after her?",
+      "answers": {
+        "a": "looks / takes",
+        "b": "--- / makes",
+        "c": "seems / makes",
+        "d": "feels / looks",
+        "e": "makes / seems"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "149",
+      "text": "They're not staying much ___ are they?",
+      "answers": {
+        "a": "great",
+        "b": "longer",
+        "c": "greatest",
+        "d": "longest",
+        "e": "smart"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "150",
+      "text": "If you ___ asked me for tickets I could ___ got you some.",
+      "answers": {
+        "a": "have / had",
+        "b": "--- / ---",
+        "c": "have / have",
+        "d": "had / have",
+        "e": "had / ---"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "151",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "152",
+      "answers": {},
+      "validated": false
+    },
+    {
+      "id": "153",
+      "answers": {},
+      "validated": false
     }
   ]
 }
