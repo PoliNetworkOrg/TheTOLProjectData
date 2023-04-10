@@ -1671,20 +1671,20 @@
         "e": "Un'iperbole che interseca l'asse delle $y$ con centro nell'origine "
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "129",
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra le seguenti le coppie $(x, y)$ appartengono all'insieme $\\Omega$?",
       "answers": {
-        "a": "$(-1, 0) , (0, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
+        "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (2, 0)$",
         "b": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
         "c": "$(-1, 0) , (0, 0), (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
         "d": "$(0, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0)$",
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": false
+      "validated": true
     },
     {
       "id": "130",
@@ -1697,7 +1697,7 @@
         "e": "2500"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "131",
