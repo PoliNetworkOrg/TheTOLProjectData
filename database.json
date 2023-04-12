@@ -1636,16 +1636,16 @@
     },
     {
       "id": "126",
-      "text": "Una squadra di piastrellisti deve piastrellare due piazziali, la cui superficie di uno è il doppio dell'altra. Nella prima metà della giornata la squadra lavora nel piazzale grande, poi nella seconda metà della giornata una metà dei piastrellisti continua a lavorare nel piazzale grande, mentre un'altra metà si dedica al piazzale piccolo. A fine giornata, il piazzale grande è completamente piastrellato mentre nel piazzale piccolo resta una piccolla zona non piastrellata. Quest'ultima viene completata da un solo piastrellista che impiega tutta la giornata seguente. Quanti sono in totale i piastrellisti?",
+      "text": "Si considerino le seguenti espressioni numeriche: [1] $\\ln(\\sin(48 \\pi))$, [2] $\\ln(\\cos(48 \\pi))$ e [3] $\\ln(\\tan (48 \\pi))$. Allora:",
       "answers": {
-        "a": "8",
-        "b": "10",
-        "c": "2",
-        "d": "6",
-        "e": "4"
+        "a": "La [1] non ha significato e la [2] ha significato",
+        "b": "La [1] ha significato e la [3] non ha significato",
+        "c": "La [1] ha significato e la [2] non ha significato",
+        "d": "La [1] e la [2] hanno significato",
+        "e": "La [1] e la [2] non hanno significato"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     },
     {
       "id": "127",
@@ -1677,11 +1677,11 @@
       "id": "129",
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra le seguenti le coppie $(x, y)$ appartengono all'insieme $\\Omega$?",
       "answers": {
-        "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (2, 0)$",
-        "b": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
-        "c": "$(-1, 0) , (0, 0), (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
+        "a": "$(-1, 0) , (0, 0), (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
+        "b": "$(0, 0) , (\\frac{1}{2}, \\frac{\\3sqrt2}{5}) , (1, 0)$",
+        "c": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
         "d": "$(0, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0)$",
-        "e": "Nessuna delle precedenti"
+        "e": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$"
       },
       "correct": "d",
       "validated": true
