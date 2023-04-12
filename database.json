@@ -1675,13 +1675,13 @@
     },
     {
       "id": "129",
-      "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra le seguenti le coppie $(x, y)$ appartengono all'insieme $\\Omega$?",
+      "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
       "answers": {
         "a": "$(-1, 0) , (0, 0), (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
         "b": "$(0, 0) , (\\frac{1}{2}, \\frac{\\3sqrt2}{5}) , (1, 0)$",
         "c": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
         "d": "$(0, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0)$",
-        "e": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$"
+        "e": "$(\\frac{1}{2}, \\frac{\\3sqrt2}{5})$"
       },
       "correct": "d",
       "validated": true
