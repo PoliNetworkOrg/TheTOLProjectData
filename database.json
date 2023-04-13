@@ -1584,7 +1584,7 @@
     },
     {
       "id": "122",
-      "text": "Se $\\begin{cases} x, y > 0 \\\\ log_x{y}+log_y{x}=\\frac {5}{2} \\\\ x = \\frac {1}{27y} \\end{cases} \\\\$ Allora $\\frac {x}{y}$ vale:",
+      "text": "Siano $\\begin{cases} log_x{y}+log_y{x}=\\frac {5}{2} \\\\ x = \\frac {1}{27y} \\end{cases} , con x, y > 0$. Allora $\\frac {x}{y}$ vale:",
       "answers": {
         "a": "$\\sqrt{3} $",
         "b": "$2 \\sqrt3$",
