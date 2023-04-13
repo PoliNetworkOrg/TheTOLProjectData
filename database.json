@@ -7894,18 +7894,42 @@
     },
     {
       "id": "151",
-      "answers": {},
-      "validated": false
+      "text": "It was slowly getting ___ and ___.",
+      "answers": {
+        "a": "host / host",
+        "b": "up / down",
+        "c": "in / out",
+        "d": "great / great",
+        "e": "hotter / hotter"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "152",
-      "answers": {},
-      "validated": false
+      "text": "Water freezes if the temperature ___ below zero.",
+      "answers": {
+        "a": "feel",
+        "b": "felt",
+        "c": "falls",
+        "d": "feels",
+        "e": "fall "
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "153",
-      "answers": {},
-      "validated": false
+      "text": "The take-home message from The TOL Project: if you can dream it, you can do it!",
+      "answers": {
+        "a": "take-home",
+        "b": "recognize",
+        "c": "learn",
+        "d": "know",
+        "e": "aknowledge"
+      },
+      "correct": "a",
+      "validated": true
     }
   ]
 }
