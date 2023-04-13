@@ -1584,7 +1584,7 @@
     },
     {
       "id": "122",
-      "text": "Se $x, y>0$, $log_x{y}+log_y{x}=\\frac {5}{2}$ ed $x= \\frac {1}{27y}$, allora $\\frac {x}{y}$ vale:",
+      "text": "Se $\\begin{cases} x, y > 0 \\\\ log_x{y}+log_y{x}=\\frac {5}{2} \\\\ x = \\frac {1}{27y} \\end{cases}$ allora $\\frac {x}{y}$ vale:",
       "answers": {
         "a": "$\\sqrt{3} $",
         "b": "$2 \\sqrt3$",
@@ -1649,7 +1649,7 @@
     },
     {
       "id": "127",
-      "text": "La retta $r$ passa per i punti $A (-51, 0)$ e $B (73,124)$. Quanto vale in radianti l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
+      "text": "La retta $r$ passa per i punti $A (-51, 0)$ e $B (73, 124)$. Quanto vale in radianti l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
       "answers": {
         "a": "1",
         "b": "$ \\frac {\\pi}{4}$",
@@ -1677,11 +1677,11 @@
       "id": "129",
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
       "answers": {
-        "a": "$(-1, 0) , (0, 0), (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
-        "b": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{5}) , (1, 0)$",
-        "c": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0) , (2, 0)$",
-        "d": "$(0, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1, 0)$",
-        "e": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{5})$"
+        "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
+        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "d": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1 , 0)$",
+        "e": "$(1, 0) , (2, 0)$"
       },
       "correct": "d",
       "validated": true
@@ -1726,12 +1726,13 @@
     },
     {
       "id": "134",
-      "text": "Statistica",
+      "text": "Trigonometria",
       "answers": {},
       "validated": false
     },
     {
       "id": "135",
+      "text": "Statistica",
       "answers": {},
       "validated": false
     },
