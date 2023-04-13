@@ -1714,16 +1714,19 @@
     },
     {
       "id": "132",
+      "text": "Logica",
       "answers": {},
       "validated": false
     },
     {
       "id": "133",
+      "text": "Trigonometria",
       "answers": {},
       "validated": false
     },
     {
       "id": "134",
+      "text": "Statistica",
       "answers": {},
       "validated": false
     },
@@ -7920,12 +7923,12 @@
     },
     {
       "id": "153",
-      "text": "The take-home message from The TOL Project: if you can dream it, you can do it!",
+      "text": "The ___ message from The TOL Project: if you can dream it, you can do it!",
       "answers": {
         "a": "take-home",
-        "b": "recognize",
-        "c": "learn",
-        "d": "know",
+        "b": "recognizing",
+        "c": "learn out",
+        "d": "know-how",
         "e": "aknowledge"
       },
       "correct": "a",
