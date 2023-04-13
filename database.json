@@ -1701,8 +1701,16 @@
     },
     {
       "id": "131",
-      "answers": {},
-      "validated": false
+      "text": "Presso l'aula studio acquario del PoliMi, 4 studenti della Scuola di Ingegneria, 3 di Design e 5 di Architettura devono sedersi ad uno stesso tavolo. Gli studenti della stessa Scuola devono rimanere vicini. In quanti modi si può fare?\n",
+      "answers": {
+        "a": "103680",
+        "b": "17280",
+        "c": "2880",
+        "d": "8640",
+        "e": "Nessuna delle precedenti "
+      },
+      "correct": "a",
+      "validated": true
     },
     {
       "id": "132",
