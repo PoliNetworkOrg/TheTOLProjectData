@@ -1714,9 +1714,16 @@
     },
     {
       "id": "132",
-      "text": "Logica",
-      "answers": {},
-      "validated": false
+      "text": "L'età di Lorenzo è pari ad un $\\frac {1}{3}*$ di quella di suo padre. Tra $30$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
+      "answers": {
+        "a": "10",
+        "b": "18",
+        "c": "14",
+        "d": "12",
+        "e": "16"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
       "id": "133",
