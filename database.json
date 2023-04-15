@@ -1740,7 +1740,7 @@
     },
     {
       "id": "134",
-      "text": "L'equazione $\\sqrt12 \\cosx=\\sqrt6 \\sqrt3$ non ammette come soluzione:",
+      "text": "L'equazione $\\sqrt{12 \\cosx}=\\sqrt{6 \\sqrt3}$ non ammette come soluzione:",
       "answers": {
         "a": "$\\frac{\\pi}{6}$",
         "b": "$\\frac{11}{6} \\pi$",
@@ -1749,7 +1749,7 @@
         "e": "$\\arctan (\\sqrt3)$"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "135",
@@ -1766,13 +1766,13 @@
     },
     {
       "id": "136",
-      "text": "Siano $P, O, L, I$ numeri interi. Se $\\begin{cases} L = O -1 \\\\ O = I + 2 \\\\ I = P - 3 \\end{cases}$ , quale delle sequenti diseguaglianze è sicuramente vera?",
+      "text": "Siano $p, o, l,$ $i$ numeri interi. Se $\\begin{cases} l = o -1 \\\\ o = i + 2 \\\\ i = p - 3 \\end{cases}$ , quale delle sequenti diseguaglianze è sicuramente vera?",
       "answers": {
-        "a": "$O > L > I > P$",
-        "b": "$O > L > P > I$",
-        "c": "$P > O > I > L$",
-        "d": "$P > O > L > I$",
-        "e": "$I > L > P > O$"
+        "a": "$o > l > i > p$",
+        "b": "$o > l > p > i$",
+        "c": "$p > o > l > i$",
+        "d": "$p > o > l > i$",
+        "e": "$i > l > p > o$"
       },
       "correct": "d",
       "validated": true
