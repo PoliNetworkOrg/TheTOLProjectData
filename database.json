@@ -1727,15 +1727,29 @@
     },
     {
       "id": "133",
-      "text": "La misura in gradi sessadecimali dell'angolo alla circonferenza di un arco di $12,5$ $cm$ di una circonferenza di raggio pari a $5$ $cm$ vale circa:",
-      "answers": {},
-      "validated": false
+      "text": "L'angolo alla circonferenza di un arco di $12,6$ $cm$ di una circonferenza di raggio pari a $4$ $cm$ si trova nel:",
+      "answers": {
+        "a": "I quadrante",
+        "b": "II quadrante",
+        "c": "III quadrante",
+        "d": "IV quadrante",
+        "e": "Non si può determinare con i soli dati forniti"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "id": "134",
-      "text": "Trigonometria",
-      "answers": {},
-      "validated": false
+      "text": "L'equazione $\\sqrt(12 \\cosx$)=\\sqrt(6 \\sqrt3)$ non ammette come soluzione:",
+      "answers": {
+        "a": "$\\frac{\\pi}{6}$",
+        "b": "$\\frac{11 \\pi}{6}$",
+        "c": "$-\\frac{\\pi}{6}$",
+        "d": "$\\arctan (\\frac{1}{\\sqrt3})$",
+        "e": "$\\arctan (\\sqrt3)$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
       "id": "135",
@@ -1745,6 +1759,7 @@
     },
     {
       "id": "136",
+      "text": "Aritmetica",
       "answers": {},
       "validated": false
     },
