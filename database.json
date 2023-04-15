@@ -1740,7 +1740,7 @@
     },
     {
       "id": "134",
-      "text": "L'equazione $\\sqrt12 \\cosx$=\\sqrt6 \\sqrt3$ non ammette come soluzione:",
+      "text": "L'equazione $\\sqrt12 \\cosx=\\sqrt6 \\sqrt3$ non ammette come soluzione:",
       "answers": {
         "a": "$\\frac{\\pi}{6}$",
         "b": "$\\frac{11}{6} \\pi$",
@@ -1755,26 +1755,26 @@
       "id": "135",
       "text": "Si tirano 3 dadi regolari a 10 facce. Qual è la probabilità di ottenere un 3, un 10 e un numero diverso da 3 e 10?",
       "answers": {
-        "a": "$9,9 \\cdot 10^-3$",
-        "b": "$8 \\cdot 10^-3$",
-        "c": "$2 \\cdot 10^-3$",
-        "d": "$6 \\cdot 10^-3$",
-        "e": "$3 \\cdot 10^-1$"
+        "a": "$9,9 \\cdot 10^{-3}$",
+        "b": "$8 \\cdot 10^{-3}$",
+        "c": "$2 \\cdot 10^{-3}$",
+        "d": "$6 \\cdot 10^{-3}$",
+        "e": "$3 \\cdot 10^{-1}$"
       },
       "correct": "b",
       "validated": true
     },
     {
       "id": "136",
-      "text": "Siano $p, o, l, i$ numeri interi. Se",
+      "text": "Siano $P, O, L, I$ numeri interi. Se $\\begin{cases} L = O -1 \\\\ O = I + 2 \\\\ I = P - 3 \\end{cases}$ , quale delle sequenti diseguaglianze è sicuramente vera?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$O > L > I > P$",
+        "b": "$O > L > P > I$",
+        "c": "$P > O > I > L$",
+        "d": "$P > O > L > I$",
+        "e": "$I > L > P > O$"
       },
-      "correct": "",
+      "correct": "d",
       "validated": true
     },
     {
