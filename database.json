@@ -1714,7 +1714,7 @@
     },
     {
       "id": "132",
-      "text": "L'età di Lorenzo è pari ad un $\\frac {1}{3}$ di quella di suo padre. Tra $10$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
+      "text": "L'età di Lorenzo è pari ad $\\frac {1}{3}$ di quella di suo padre. Tra $10$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
       "answers": {
         "a": "21",
         "b": "19",
@@ -1766,7 +1766,7 @@
     },
     {
       "id": "136",
-      "text": "Siano $p, o, l, i,$ numeri interi. Se $\\begin{cases} l = o -1 \\\\ o = i + 2 \\\\ i = p - 3 \\end{cases}$ , quale delle sequenti diseguaglianze è sicuramente vera?",
+      "text": "Siano $l, o, i, p,$ numeri interi. Se $\\begin{cases} l = o -1 \\\\ o = i + 2 \\\\ i = p - 3 \\end{cases}$ , quale delle seguenti diseguaglianze è sicuramente vera?",
       "answers": {
         "a": "$o > l > i > p$",
         "b": "$o > l > p > i$",
