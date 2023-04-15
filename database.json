@@ -1749,7 +1749,7 @@
         "e": "$\\arctan (\\sqrt3)$"
       },
       "correct": "e",
-      "validated": true
+      "validated": false
     },
     {
       "id": "135",
