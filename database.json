@@ -1766,9 +1766,16 @@
     },
     {
       "id": "136",
-      "text": "Aritmetica",
-      "answers": {},
-      "validated": false
+      "text": "Siano $p, o, l, i$ numeri interi. Se",
+      "answers": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": ""
+      },
+      "correct": "",
+      "validated": true
     },
     {
       "answers": {},
