@@ -1714,20 +1714,20 @@
     },
     {
       "id": "132",
-      "text": "L'età di Lorenzo è pari ad un $\\frac {1}{3}$ di quella di suo padre. Tra $30$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
+      "text": "L'età di Lorenzo è pari ad un $\\frac {1}{3}$ di quella di suo padre. Tra $10$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
       "answers": {
-        "a": "10",
-        "b": "18",
-        "c": "14",
-        "d": "12",
-        "e": "16"
+        "a": "21",
+        "b": "19",
+        "c": "18",
+        "d": "16",
+        "e": "11"
       },
       "correct": "b",
       "validated": true
     },
     {
       "id": "133",
-      "text": "Trigonometria",
+      "text": "La misura in gradi sessadecimali dell'angolo alla circonferenza di un arco di $12,5$ $cm$ di una circonferenza di raggio pari a $5$ $cm$ vale circa:",
       "answers": {},
       "validated": false
     },
