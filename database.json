@@ -1655,7 +1655,7 @@
         "b": "$ \\frac {\\pi}{4}$",
         "c": "$ \\frac {\\pi}{6}$",
         "d": "$ \\frac {\\pi}{3}$",
-        "e": "$sqrt3$"
+        "e": "$\\sqrt3$"
       },
       "correct": "b",
       "validated": true
@@ -1766,13 +1766,13 @@
     },
     {
       "id": "136",
-      "text": "Siano $l, o, i, p,$ numeri interi. Se $\\begin{cases} l = o -1 \\\\ o = i + 2 \\\\ i = p - 3 \\end{cases}$ , quale delle seguenti diseguaglianze è sicuramente vera?",
+      "text": "Siano $p, q, r, s,$ numeri interi. Se $\\begin{cases} p = q -1 \\\\ q = r + 2 \\\\ r = s - 3 \\end{cases}$ , quale delle seguenti diseguaglianze è sicuramente vera?",
       "answers": {
-        "a": "$o > l > i > p$",
-        "b": "$o > l > p > i$",
-        "c": "$p > o > i > l$",
-        "d": "$p > o > l > i$",
-        "e": "$i > l > p > o$"
+        "a": "$q > p > r > s$",
+        "b": "$q > p > s > r$",
+        "c": "$s > q > r > p$",
+        "d": "$s > q > p > r$",
+        "e": "$r > p > s > q$"
       },
       "correct": "d",
       "validated": true
