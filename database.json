@@ -5980,28 +5980,28 @@
     },
     {
       "id": "29",
-      "text": "Secondo la scala Richter, la magnitudo di un terremoto è data da $\\log \\frac{S}{S0}$, dove $S$ è la dimensione dell'onda sismica generata e $S0$ è la dimensione della",
+      "text": "Secondo la scala Richter, la magnitudo di un terremoto è data da $\\log_{10} \\frac{S}{S_0}$, dove $S$ sono le dimensioni delle onde sismiche generate ed $S_0$ quelle corrispondenti ad un terremoto con magnitudo pari $0$ Richter. Quanto è più intenso un terremoto di magnutudo $8,5$ Richter rispetto ad uno di magnitudo $8,0$ Richter? ",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "0,5 volte",
+        "b": "1,5 volte",
+        "c": "2 volte circa",
+        "d": "2,5 volte circa",
+        "e": "3 volte circa"
       },
-      "correct": "",
+      "correct": "e",
       "validated": true
     },
     {
       "id": "30",
-      "text": "x",
+      "text": "L'eco è dovuta al fenomeno di:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "Diffrazione di onde sonore",
+        "b": "Rifrazione di onde eleastiche",
+        "c": "Riflessione di onde acustiche",
+        "d": "Interferenza di onde sonore",
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "",
+      "correct": "c",
       "validated": true
     }
   ],
