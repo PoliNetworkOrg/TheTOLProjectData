@@ -7662,10 +7662,10 @@
       "text": "If Gabriele ___ to bed so late, He ___ tired all the time.",
       "answers": {
         "a": "don't go / could be",
-        "b": "didn't  go / would be",
+        "b": "didn't go / would be",
         "c": "goes / wouldn't be",
         "d": "go / couldn't be",
-        "e": "didn't  go / wouldn't be"
+        "e": "didn't go / wouldn't be"
       },
       "correct": "e",
       "validated": true
@@ -7698,7 +7698,7 @@
     },
     {
       "id": "131",
-      "text": "Where's the book I gave you? What ___ whit it?",
+      "text": "Where's the book I gave you? What ___ with it?",
       "answers": {
         "a": "have you done",
         "b": "have you been doing",
@@ -7919,7 +7919,7 @@
     },
     {
       "id": "148",
-      "text": "She ___ like her mother: dont' you think she ___ after her?",
+      "text": "She ___ like her mother: don't you think she ___ after her?",
       "answers": {
         "a": "looks / takes",
         "b": "--- / makes",
@@ -7990,7 +7990,7 @@
         "b": "recognizing",
         "c": "learn out",
         "d": "know-how",
-        "e": "aknowledge"
+        "e": "acknowledge"
       },
       "correct": "a",
       "validated": true
