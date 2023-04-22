@@ -229,7 +229,7 @@
     },
     {
       "id": "18",
-      "text": "Siano $a,b$ numeri reali positivi. Sappiamo che $ln(a^2b)=7$ e che $ln(ab)$ è un numero intero. Quali dei seguenti valori può assumere la quantità $ln(ab^2)$?",
+      "text": "Siano $a,b$ numeri reali positivi. Si sa che $ln(a^2b)=7$ e che $ln(ab)$ è un numero intero. Quali dei seguenti valori può assumere la quantità $ln(ab^2)$?",
       "answers": {
         "a": "1",
         "b": "4",
