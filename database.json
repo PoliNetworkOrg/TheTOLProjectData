@@ -7857,7 +7857,7 @@
       "text": "It was the best teaching ___ ever ___.",
       "answers": {
         "a": "I have / had",
-        "b": "I / had",
+        "b": "I had / do",
         "c": "--- / do",
         "d": "it was / had",
         "e": "I have / do"
@@ -7910,11 +7910,11 @@
       "answers": {
         "a": "buy",
         "b": "to buying",
-        "c": "buying",
+        "c": "to bought",
         "d": "to buy",
         "e": "buys"
       },
-      "correct": "c",
+      "correct": "d",
       "validated": true
     },
     {
@@ -7945,7 +7945,7 @@
     },
     {
       "id": "150",
-      "text": "If you ___ asked me for tickets I could ___ got you some.",
+      "text": "If you ___ asked me for tickets I could ___ gotten you some.",
       "answers": {
         "a": "have / had",
         "b": "--- / ---",
