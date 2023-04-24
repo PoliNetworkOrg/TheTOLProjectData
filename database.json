@@ -1469,10 +1469,10 @@
       "id": "113",
       "text": "Siano dati un cubo ed una sfera in esso inscritta. Scelto a caso un punto all'interno del cubo, qual è la probabilità che risulti interno alla sfera?",
       "answers": {
-        "a": "60%",
-        "b": "Circa 40%",
-        "c": "Circa 60%",
-        "d": "50%",
+        "a": "63%",
+        "b": "Circa 47%",
+        "c": "Circa 65%",
+        "d": "58%",
         "e": "Circa 52%"
       },
       "correct": "e",
