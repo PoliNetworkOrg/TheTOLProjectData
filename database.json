@@ -1584,7 +1584,7 @@
     },
     {
       "id": "122",
-      "text": "Siano $log_x{y} + log_y{x} = \\frac {5}{2}$ $e$  $x = \\frac {1}{27y}$ , $con$ $x, y > 0$ $e$ $x, y \\ne 1$. Allora $\\frac {x+y}{4}$ vale:",
+      "text": "Siano $log_x{y} + log_y{x} = \\frac {5}{2}$ $ed$  $x = \\frac {1}{27y}$ , $con$ $x, y > 0$ $ed$ $x, y \\ne 1$. Allora $\\frac {x+y}{4}$ vale:",
       "answers": {
         "a": "$\\sqrt{3} $",
         "b": "$ \\frac {1} {3}$",
@@ -5941,7 +5941,7 @@
     },
     {
       "id": "26",
-      "text": "La velocità di fuga di un pianeta è la velocità iniziale minima che un corpo sulla sua superficie deve avere per vincere definitivamente l'attrazione gravitazionale del pianeta. Sapendo che la velocità di fuga dipende solo dal raggio $R$ del pianeta e dalla sua accelerazione di gravità $g$ al livello della superficie, quali tra le seguenti formule potrebbe fornire la velocità di fuga?",
+      "text": "La velocità di fuga è la velocità minima con cui un corpo deve essere lanciato dalla superficie di un pianeta per vincere definitivamente l'attrazione gravitazionale del pianeta stesso. Sapendo che la velocità di fuga dipende solo dal raggio $R$ del pianeta e dalla sua accelerazione di gravità $g$ al livello della superficie, quali tra le seguenti formule potrebbe fornire la velocità di fuga?",
       "answers": {
         "a": "$v_{f} = \\frac{gR}{4}$",
         "b": "$v_{f} = \\sqrt \\frac{3g}{R}$",
