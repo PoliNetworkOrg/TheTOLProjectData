@@ -1584,7 +1584,7 @@
     },
     {
       "id": "122",
-      "text": "Siano $\\begin{cases} log_x{y}+log_y{x}=\\frac {5}{2} \\\\ x = \\frac {1}{27y} \\end{cases}$ , $con$ $x, y > 0$ $e$ $x, y \\ne 1$. Allora $\\frac {x+y}{4}$ vale:",
+      "text": "Siano $log_x{y} + log_y{x} = \\frac {5}{2}$ $e$  $x = \\frac {1}{27y}$ , $con$ $x, y > 0$ $e$ $x, y \\ne 1$. Allora $\\frac {x+y}{4}$ vale:",
       "answers": {
         "a": "$\\sqrt{3} $",
         "b": "$ \\frac {1} {3}$",
