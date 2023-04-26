@@ -5720,7 +5720,7 @@
     },
     {
       "id": "9",
-      "text": "Una Tesla Model S, viaggiando su una curva con velocità $v$, è soggetta ad una forza centripeta $F$. Quanto vale tale forza agente su una seconda Tesla Model S di uguale massa che viaggia sulla stessa curva a velocità $2v$?",
+      "text": "Un'automobile, viaggiando su una curva con velocità $v$, è soggetta ad una forza centripeta $F.$ Quanto vale tale forza agente su una seconda automobile di uguale massa che viaggia sulla stessa curva a velocità $2v$?",
       "answers": {
         "a": "$F$",
         "b": "$2F$",
