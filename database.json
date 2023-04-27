@@ -1443,13 +1443,13 @@
       "id": "111",
       "text": "Dati gli insiemi $A = \\lbrace 2x , x\\in \\natnums  \\rbrace$ e $B = \\lbrace x \\lt 6 , x \\in \\natnums  \\rbrace$, allora:",
       "answers": {
-        "a": "$A \\cap B = \\lbrace 0, 2, 4  \\rbrace$",
+        "a": "$A \\cap B = \\lbrace 2, 4  \\rbrace$",
         "b": "$A \\cup B = \\lbrace 1, 2, 3, 4, 5  \\rbrace$",
         "c": "$A \\cap B^\\complement = \\lbrace 7, 8, 9  \\rbrace$",
         "d": "$B \\cup A^\\complement = \\lbrace 0, 1, 3, 5, 7, 9  \\rbrace$",
-        "e": "$A \\setminus B = \\lbrace 2, 4  \\rbrace$"
+        "e": "Nessuna delle precedenti"
       },
-      "correct": "a",
+      "correct": "e",
       "validated": true
     },
     {
