@@ -5761,11 +5761,11 @@
       "id": "12",
       "text": "Una lampadina a risparmio energetico da 15 W è collegata ad un generatore di 220 V. Qual è il valore della corrente che passa nella lampadina?",
       "answers": {
-        "a": "circa 14,7 A",
-        "b": "circa 1,7 A",
-        "c": "circa 0,7 A",
-        "d": "circa 0,07 A",
-        "e": "circa 0,48 A"
+        "a": "Circa 14,7 A",
+        "b": "Circa 1,7 A",
+        "c": "Circa 0,7 A",
+        "d": "Circa 0,07 A",
+        "e": "Circa 0,48 A"
       },
       "correct": "d",
       "validated": true
@@ -5983,10 +5983,10 @@
       "text": "Secondo la scala Richter, la magnitudo di un terremoto è data da $\\log_{10} \\frac{S}{S_0}$, dove $S$ sono le dimensioni delle onde sismiche generate ed $S_0$ quelle corrispondenti ad un terremoto con magnitudo pari $0$ Richter. Quanto è più intenso un terremoto di magnutudo $8,5$ Richter rispetto ad uno di magnitudo $8,0$ Richter? ",
       "answers": {
         "a": "0,5 volte",
-        "b": "1,5 volte",
-        "c": "2 volte circa",
-        "d": "2,5 volte circa",
-        "e": "3 volte circa"
+        "b": "Circa 1,5 volte",
+        "c": "Circa 2 volte",
+        "d": "2,5 volte",
+        "e": "Circa 3 volte"
       },
       "correct": "e",
       "validated": true
