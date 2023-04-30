@@ -5777,8 +5777,8 @@
         "a": "Esiste un legame di proporzionalità diretta fra p e T",
         "b": "Esiste un legame di proporzionalità diretta fra V e T",
         "c": "Esiste un legame di proporzionalità inversa fra p e V",
-        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale.",
-        "e": "Nessuna delle precedenti."
+        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "a",
       "validated": true
