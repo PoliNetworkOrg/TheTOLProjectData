@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "mat": [
     {
@@ -229,7 +229,7 @@
     },
     {
       "id": "18",
-      "text": "Siano $a,b$ numeri reali positivi. Sappiamo che $ln(a^2b)=7$ e che $ln(ab)$ è un numero intero. Quali dei seguenti valori può assumere la quantità $ln(ab^2)$?",
+      "text": "Siano $a,b$ numeri reali positivi. Si sa che $ln(a^2b)=7$ e che $ln(ab)$ è un numero intero. Quali dei seguenti valori può assumere la quantità $ln(ab^2)$?",
       "answers": {
         "a": "1",
         "b": "4",
@@ -703,7 +703,7 @@
         "b": "Gli studenti di Ingegneria del Poli se sono maschi non sono intelligenti",
         "c": "C'è qualche studente di Ingegneria del Poli che non è maschio oppure non è intelligente",
         "d": "Esistono studenti di Ingegneria del Poli maschi ma non intelligenti",
-        "e": "Gli studenti Ingengeria del Poli sono femmine e intelligenti  "
+        "e": "Gli studenti Ingegneria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
       "validated": true
@@ -1440,108 +1440,342 @@
       "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "111",
+      "text": "Dati gli insiemi $A = \\lbrace 2x , x\\in \\natnums  \\rbrace$ e $B = \\lbrace x \\lt 6 , x \\in \\natnums  \\rbrace$, allora:",
+      "answers": {
+        "a": "$A \\cap B = \\lbrace 2, 4  \\rbrace$",
+        "b": "$A \\cup B = \\lbrace 1, 2, 3, 4, 5  \\rbrace$",
+        "c": "$A \\cap B^\\complement = \\lbrace 7, 8, 9  \\rbrace$",
+        "d": "$B \\cup A^\\complement = \\lbrace 0, 1, 3, 5, 7, 9  \\rbrace$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "112",
+      "text": "Nel sistema di numerazione posizionale in base 10, quanti numeri interi non negativi di 9 cifre sono composti da 9 cifre distinte?",
+      "answers": {
+        "a": "$10!$",
+        "b": "$9!$",
+        "c": "$10 \\cdot 9!$",
+        "d": "$9 \\cdot 10!$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "113",
+      "text": "Siano dati un cubo ed una sfera in esso inscritta. Scelto a caso un punto all'interno del cubo, qual è la probabilità che risulti interno alla sfera?",
+      "answers": {
+        "a": "63%",
+        "b": "Circa 47%",
+        "c": "Circa 65%",
+        "d": "58%",
+        "e": "Circa 52%"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "114",
+      "text": "Nel piano cartesiano ortogonale $Oxy$, quanti sono i punti tali che $|x|=|y|= e^{\\ln(2)}$?",
+      "answers": {
+        "a": "0",
+        "b": "2",
+        "c": "4",
+        "d": "8",
+        "e": "Infiniti"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "115",
+      "text": "Per quante coppie $(m, n)$ di interi l'equazione $2m+3n=4mn$ è soddisfatta?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "e": "4"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "116",
+      "text": "Sia $\\alpha$ un piano ed $S$ una sfera di raggio $5\\sqrt3$. Sapendo che la distanza di $\\alpha$ dal centro di $S$ vale $2\\sqrt12$, allora: ",
+      "answers": {
+        "a": "Il piano $\\alpha$ è tangente alla sfera $S$",
+        "b": "Il raggio della circonferenza intersezione vale $3^\\frac{3}{2}$",
+        "c": "L'intersezione tra la sfera $S$ ed il piano $\\alpha$ è vuota",
+        "d": "Il diametro del cerchio intersezione vale $2\\sqrt3$",
+        "e": "Il raggio della circonferenza intersezione vale $\\sqrt3$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "117",
+      "text": "Il seguente sistema: $\\begin{cases} x + y  - \\sqrt \\frac {\\pi}{2} > 0 \\\\ |1-2\\sin^2 (\\frac {\\pi}{2})|-x^2-y^2 = 0 \\end{cases}$",
+      "answers": {
+        "a": "È impossibile",
+        "b": "Ha due soluzioni distinte, entrambe positive",
+        "c": "Ha infinite soluzioni",
+        "d": "Ha due soluzioni distinte, entrambe negative",
+        "e": "Ha due soluzioni distinte, una positiva e una negativa"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "118",
+      "text": "Considerata l'implicazione se $x \\leqslant y$ allora $x^n \\leqslant y^n$, per quali valori di $n \\in \\natnums$ è sempre vera?",
+      "answers": {
+        "a": "Solo se $n$ è dispari",
+        "b": "Per ogni $n$",
+        "c": "Solo se $n$ è pari",
+        "d": "Per nessun $n$",
+        "e": "Per qualche $0<n<1$"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "119",
+      "text": "Siano $a, b \\in \\Reals$ tali che $a^2+b^2=1$. Allora:",
+      "answers": {
+        "a": "$a^2-b^2 \\leqslant 0$",
+        "b": "$|a+b| \\geqslant 1$",
+        "c": "$(a+b)^2 \\geqslant 1$",
+        "d": "$|a| \\leqslant 1$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "120",
+      "text": "L'equazione della retta tangente alla curva $xy-4=0$ e passante per il punto $P(0,1)$ è:",
+      "answers": {
+        "a": "$y=4x-1$",
+        "b": "$y=-\\frac {x}{16} +1$",
+        "c": "$y=\\frac {x}{2} -1$",
+        "d": "$y=-6x+1$",
+        "e": "$y=\\frac {4}{x}+1$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "121",
+      "text": "Un numero quadrato o quadrato perfetto è un numero intero non negativo che può essere espresso come il quadrato di un altro numero intero non negativo. Se $x$ è un numero quadrato, allora il successivo quadrato perfetto è:",
+      "answers": {
+        "a": "$x+2 \\sqrt{x} +1$",
+        "b": "$x^2 +1$",
+        "c": "$x^2+2x+1$",
+        "d": "$x+1$",
+        "e": "$2x+1$"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "122",
+      "text": "Siano $log_x{y} + log_y{x} = \\frac {5}{2}$ $ed$  $x = \\frac {1}{27y}$ , $con$ $x, y > 0$ $ed$ $x, y \\ne 1$. Allora $\\frac {x+y}{4}$ vale:",
+      "answers": {
+        "a": "$\\sqrt{3} $",
+        "b": "$ \\frac {1} {3}$",
+        "c": " $2 \\sqrt3$",
+        "d": "$ \\frac {1} {9}$",
+        "e": "$3$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "123",
+      "text": "Un polinomio $P(x)$ ha resto $7$ se diviso per $x-5$ e resto $11$ se diviso per $x-7$. Allora il resto di $P(x)$ se è diviso per $(x-5) (x-7)$ vale:",
+      "answers": {
+        "a": "$2x+3$",
+        "b": "$3x-2$",
+        "c": "$3x+2$",
+        "d": "$x-2$",
+        "e": "$2x-3$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "124",
+      "text": "Se l'affermazione \"per ogni angolo esiste una semiretta che divide a metà l'angolo\" è vera, allora la sua negazione è:",
+      "answers": {
+        "a": "Non esiste un angolo per cui ogni semiretta uscente dal suo vertice divide a metà l'angolo",
+        "b": "Per ogni angolo non esiste alcuna semiretta che lo divide a metà",
+        "c": "Esiste un angolo ed esiste una semiretta che non divide a metà l'angolo",
+        "d": "Esiste un angolo tale che ogni semiretta uscente dal suo vertice non divide a metà l'angolo",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "125",
+      "text": "Nel piano cartesiano, l'equazione $9x^2-y^2=0$ definisce:",
+      "answers": {
+        "a": "Una coppia di rette parallele",
+        "b": "Una retta passante per l'origine degli assi",
+        "c": "Una circonferenza di raggio pari a 3",
+        "d": "Un punto le cui coordinate sono (-3, 3)",
+        "e": "Una coppia di rette incidenti"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "126",
+      "text": "Si considerino le seguenti espressioni numeriche: [1] $\\ln(\\sin(48 \\pi))$, [2] $\\ln(\\cos(48 \\pi))$ e [3] $\\ln(\\tan (48 \\pi))$. Allora:",
+      "answers": {
+        "a": "La [1] non ha significato e la [2] ha significato",
+        "b": "La [1] ha significato e la [3] non ha significato",
+        "c": "La [1] ha significato e la [2] non ha significato",
+        "d": "La [1] e la [2] hanno significato",
+        "e": "La [1] e la [2] non hanno significato"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "127",
+      "text": "La retta $r$ passa per i punti $A (-51, 0)$ e $B (73, 124)$. Quanto vale in radianti l'angolo $\\alpha$ che la retta $r$ forma con l'asse delle ascisse nel terzo quadrante?",
+      "answers": {
+        "a": "1",
+        "b": "$ \\frac {\\pi}{4}$",
+        "c": "$ \\frac {\\pi}{6}$",
+        "d": "$ \\frac {\\pi}{3}$",
+        "e": "$\\sqrt3$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "128",
+      "text": "L'equazione $\\frac {1}{2}x^2+ \\frac{1}{3}xy+ \\frac{1}{4}y^2 =\\frac {1}{5}$ rappresenta nel piano cartesiano:",
+      "answers": {
+        "a": "Una circonferenza",
+        "b": "Una parabola",
+        "c": "Un'ellisse",
+        "d": "Un'iperbole che interseca l'asse delle $x$ con centro nell'origine ",
+        "e": "Un'iperbole che interseca l'asse delle $y$ con centro nell'origine "
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "129",
+      "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
+      "answers": {
+        "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
+        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "d": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1 , 0)$",
+        "e": "$(1, 0) , (2, 0)$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "130",
+      "text": "Nell'intervallo $[1, 10000]$, quanti sono i numeri naturali multipli di 7 oppure di 8?",
+      "answers": {
+        "a": "3650",
+        "b": "3250",
+        "c": "2856",
+        "d": "2678",
+        "e": "2500"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "131",
+      "text": "Presso l'aula studio acquario del PoliMi, 4 studenti della Scuola di Ingegneria, 3 di Design e 2 di Architettura devono sedersi ad uno stesso tavolo. Gli studenti della stessa Scuola devono rimanere vicini. In quanti modi si può fare?\n",
+      "answers": {
+        "a": "1728",
+        "b": "1288",
+        "c": "1192",
+        "d": "1048",
+        "e": "1038"
+      },
+      "correct": "a",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "132",
+      "text": "L'età di Lorenzo è pari a $\\frac {1}{3}$ di quella di suo padre. Tra $10$ anni, la somma delle loro età sarà pari a 96. Quanti anni ha oggi Lorenzo?",
+      "answers": {
+        "a": "21",
+        "b": "19",
+        "c": "18",
+        "d": "16",
+        "e": "11"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "133",
+      "text": "L'angolo alla circonferenza di un arco di $12,6$ $cm$ di una circonferenza di raggio pari a $4$ $cm$ si trova nel:",
+      "answers": {
+        "a": "I quadrante",
+        "b": "II quadrante",
+        "c": "III quadrante",
+        "d": "IV quadrante",
+        "e": "Non si può determinare con i soli dati forniti"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "134",
+      "text": "L'equazione $\\sqrt{12 \\cos(x)}$=$\\sqrt{6 \\sqrt3}$ non ammette come soluzione:",
+      "answers": {
+        "a": "$\\frac{\\pi}{6}$",
+        "b": "$\\frac{11}{6} \\pi$",
+        "c": "$-\\frac{\\pi}{6}$",
+        "d": "$\\arctan (\\frac{1}{\\sqrt3})$",
+        "e": "$\\arctan (\\sqrt3)$"
+      },
+      "correct": "e",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "135",
+      "text": "Si tirano 3 dadi regolari a 10 facce. Qual è la probabilità di ottenere un 3, un 10 e un numero diverso da 3 e 10?",
+      "answers": {
+        "a": "$9,9 \\cdot 10^{-3}$",
+        "b": "$8 \\cdot 10^{-3}$",
+        "c": "$2 \\cdot 10^{-3}$",
+        "d": "$6 \\cdot 10^{-3}$",
+        "e": "$3 \\cdot 10^{-1}$"
+      },
+      "correct": "b",
+      "validated": true
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "136",
+      "text": "Siano $p, q, r, s,$ numeri interi. Se $\\begin{cases} p = q -1 \\\\ q = r + 2 \\\\ r = s - 3 \\end{cases}$ , quale delle seguenti diseguaglianze è sicuramente vera?",
+      "answers": {
+        "a": "$q > p > r > s$",
+        "b": "$q > p > s > r$",
+        "c": "$s > q > r > p$",
+        "d": "$s > q > p > r$",
+        "e": "$r > p > s > q$"
+      },
+      "correct": "d",
+      "validated": true
     },
     {
       "answers": {},
@@ -5302,6 +5536,81 @@
       },
       "correct": "a",
       "validated": true
+    },
+    {
+      "id": "5",
+      "sub": "1",
+      "track": "ART. 1 - REQUISITI DI ACCESSO E FASI DI IMMATRICOLAZIONE \n\nFatti salvi i requisiti di accesso ai corsi di Laurea previsti dalla legge, il Politecnico di Milano prevede come requisito il sostenimento di un apposito test di ammissione denominato “Test On Line”, e d’ora in poi indicato come TOL, che verifica anche la conoscenza della lingua inglese e può assegnare eventuali “Obblighi Formativi Aggiuntivi”, di seguito indicati come OFA e precisati successivamente. \n\nIl punteggio minimo, ottenuto al TOL, per poter essere ammessi, arrotondato all'intero più vicino, deve essere pari o maggiore a 20 (venti) punti. In sostituzione del TOL è ritenuto idoneo il sostenimento di uno dei test considerati alternativi al TOL, non erogati dal Politecnico di Milano, ognuno con specifici punteggi come indicato nell’Art. 2 del presente bando. \n\nSono previste tre diverse fasi di immatricolazione:\n- PRIMA FASE – “Immatricolazione anticipata”;\n- SECONDA FASE - “Immatricolazione standard per candidati senza OFA Test” a cui si accede con graduatoria;\n- TERZA FASE – “Immatricolazione standard anche per candidati con OFA Test” a cui si accede con graduatoria. \n\nL’accesso ad ognuna delle fasi è consentito secondo quanto indicato di seguito. \n\nART. 2 - PRIMA FASE – “IMMATRICOLAZIONE ANTICIPATA”. \n\nPossono accedere alla PRIMA FASE – “Immatricolazione anticipata” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure sono in possesso di uno dei seguenti test alternativi:\n- TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it), svolto nell’anno solare 2022, come iscritti al penultimo anno della scuola secondaria superiore, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60; per verificare la del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\n\n[Omissis]\n\nI candidati potranno utilizzare i suddetti test sostitutivi del TOL solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 \ndel giorno 06 luglio 2023. Non sarà possibile utilizzare ai fini dell’ammissione nella PRIMA FASE tali test senza aver provveduto alla registrazione entro la scadenza prevista.\nInoltre; i test alternaitivi al TOL quali SAT, ACT, GRE, GMAT in ogni caso non potranno essere utilizzati nella seconda e terza fase di immatricolazione. \n\n\nART. 2.1 - PERIODO E MODALITÀ DI IMMATRICOLAZIONE ANTICIPATA\nI candidati potranno immatricolarsi ad un qualsiasi corso di laurea in Ingegneria a partire dalle ore 10:30 del giorno 10 luglio 2023 fino alle ore 23:59:59 del giorno 13 luglio 2023.\nL’immatricolazione deve essere effettuata, solo ed esclusivamente, accedendo alla pagina www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione, effettuando il pagamento della prima rata della contribuzione dovuta per l’AnnoAccademico 2023/2024. Eventuali candidati ancora dell’esito dell’esame di Stato della Scuola Secondaria di secondo grado si potranno immatricolare sotto condizione; tale condizione verrà rimossa quando comunicheranno l’avvenuta conclusione degli studi attraverso l’inserimento dell’informazione nei Servizi Online. \n\n\nART. 3 - SECONDA FASE – “Immatricolazione standard per candidati senza OFA Test”\nPossono accedere alla SECONDA FASE – “Immatricolazione standard per i candidati senza OFA” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito in anni scolastici precedenti all’anno 2022/23 oppure il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60 e non si sono immatricolati nella PRIMA FASE – “Immatricolazione anticipata”, oppure hanno sostenuto il TOL nell’anno solare 2023, avendo ottenuto un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure il TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it) svolto nell’anno solare 2022 come iscritti al penultimo anno di scuola superiore o TOLC-I svolto nell’anno solare 2023, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60.Per verificare la conversione del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\nI candidati potranno utilizzare il TOLC-I solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 del giorno 6 luglio 2023 ed avranno provveduto ad inserire almeno una preferenza. \n\n\nART. 3.1 - CALENDARIO DEI TOL PER L’ANNO 2023\nIl calendario delle date delle sessioni e dei posti disponibili è reso noto in apposita procedura nei Servizi Online www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione.\nIl TOL è erogato per due differenti tipologie di candidati e prevede due differenti denominazioni: \n1 - per i candidati che conseguiranno il titolo di scuola secondaria di secondo grado al termine dell’anno scolastico 2023/2024 è denominato TEST ANTICIPATO. \nÈ possibile sostenere il test una sola volta per mese solare, e la ripetizione è consentita solo a chi ha ottenuto un voto del TOL, arrotondato all’intero più vicino, minore di 60. Eventuali assenze saranno conteggiate come \nun tentativo. Il TEST ANTICIPATO verrà erogato nei mesi da febbraio 2023 fino a luglio 2023.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n2 - per i candidati che sono in possesso di un titolo di Scuola secondaria di secondo grado e per coloro che lo conseguiranno con l’anno scolastico 2022/2023 è denominato TEST STANDARD. \nÈ possibile sostenere il test fino ad un massimo di tre volte: una sola volta per ciascuna finestra per migliorare il punteggio che verrà utilizzato ai fini della formulazione delle graduatorie. Eventuali assenze saranno conteggiate come un tentativo.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n\nLe finestre previste sono le seguenti: \nPRIMA FINESTRA: dal 4/2/2023 al 18/03/2023; \nSECONDA FINESTRA: dal 20/03/2023 al 13/05/2023; \nTERZA FINESTRA: dal 15/05/2023 al 08/07/2023.\n\n---\n\nEstratto del bando di ammissione di Ingegneria del Politecnico di Milano, a.a. 2023/2024\n\n",
+      "text": "Alla prima fase di immatricolazione:",
+      "answers": {
+        "a": "Possono accedere tutti i candidati che hanno superato il TOL",
+        "b": "Possono accedere solo i candidati che hanno superato il TOL nella prima finestra",
+        "c": "Possono accedere gli studenti iscritti al penultimo anno delle superiori che hanno superato solo il TOL",
+        "d": "Possono accedere i candidati iscritti all'ultimo anno delle superiori che hanno superato il TOL oppure il TOLC-I",
+        "e": "Nessuna della precedenti"
+      },
+      "correct": "e",
+      "validated": false
+    },
+    {
+      "id": "5",
+      "sub": "2",
+      "track": "ART. 1 - REQUISITI DI ACCESSO E FASI DI IMMATRICOLAZIONE \n\nFatti salvi i requisiti di accesso ai corsi di Laurea previsti dalla legge, il Politecnico di Milano prevede come requisito il sostenimento di un apposito test di ammissione denominato “Test On Line”, e d’ora in poi indicato come TOL, che verifica anche la conoscenza della lingua inglese e può assegnare eventuali “Obblighi Formativi Aggiuntivi”, di seguito indicati come OFA e precisati successivamente. \n\nIl punteggio minimo, ottenuto al TOL, per poter essere ammessi, arrotondato all'intero più vicino, deve essere pari o maggiore a 20 (venti) punti. In sostituzione del TOL è ritenuto idoneo il sostenimento di uno dei test considerati alternativi al TOL, non erogati dal Politecnico di Milano, ognuno con specifici punteggi come indicato nell’Art. 2 del presente bando. \n\nSono previste tre diverse fasi di immatricolazione:\n- PRIMA FASE – “Immatricolazione anticipata”;\n- SECONDA FASE - “Immatricolazione standard per candidati senza OFA Test” a cui si accede con graduatoria;\n- TERZA FASE – “Immatricolazione standard anche per candidati con OFA Test” a cui si accede con graduatoria. \n\nL’accesso ad ognuna delle fasi è consentito secondo quanto indicato di seguito. \n\nART. 2 - PRIMA FASE – “IMMATRICOLAZIONE ANTICIPATA”. \n\nPossono accedere alla PRIMA FASE – “Immatricolazione anticipata” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure sono in possesso di uno dei seguenti test alternativi:\n- TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it), svolto nell’anno solare 2022, come iscritti al penultimo anno della scuola secondaria superiore, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60; per verificare la del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\n\n[Omissis]\n\nI candidati potranno utilizzare i suddetti test sostitutivi del TOL solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 \ndel giorno 06 luglio 2023. Non sarà possibile utilizzare ai fini dell’ammissione nella PRIMA FASE tali test senza aver provveduto alla registrazione entro la scadenza prevista.\nInoltre; i test alternaitivi al TOL quali SAT, ACT, GRE, GMAT in ogni caso non potranno essere utilizzati nella seconda e terza fase di immatricolazione. \n\n\nART. 2.1 - PERIODO E MODALITÀ DI IMMATRICOLAZIONE ANTICIPATA\nI candidati potranno immatricolarsi ad un qualsiasi corso di laurea in Ingegneria a partire dalle ore 10:30 del giorno 10 luglio 2023 fino alle ore 23:59:59 del giorno 13 luglio 2023.\nL’immatricolazione deve essere effettuata, solo ed esclusivamente, accedendo alla pagina www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione, effettuando il pagamento della prima rata della contribuzione dovuta per l’AnnoAccademico 2023/2024. Eventuali candidati ancora dell’esito dell’esame di Stato della Scuola Secondaria di secondo grado si potranno immatricolare sotto condizione; tale condizione verrà rimossa quando comunicheranno l’avvenuta conclusione degli studi attraverso l’inserimento dell’informazione nei Servizi Online. \n\n\nART. 3 - SECONDA FASE – “Immatricolazione standard per candidati senza OFA Test”\nPossono accedere alla SECONDA FASE – “Immatricolazione standard per i candidati senza OFA” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito in anni scolastici precedenti all’anno 2022/23 oppure il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60 e non si sono immatricolati nella PRIMA FASE – “Immatricolazione anticipata”, oppure hanno sostenuto il TOL nell’anno solare 2023, avendo ottenuto un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure il TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it) svolto nell’anno solare 2022 come iscritti al penultimo anno di scuola superiore o TOLC-I svolto nell’anno solare 2023, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60.Per verificare la conversione del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\nI candidati potranno utilizzare il TOLC-I solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 del giorno 6 luglio 2023 ed avranno provveduto ad inserire almeno una preferenza. \n\n\nART. 3.1 - CALENDARIO DEI TOL PER L’ANNO 2023\nIl calendario delle date delle sessioni e dei posti disponibili è reso noto in apposita procedura nei Servizi Online www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione.\nIl TOL è erogato per due differenti tipologie di candidati e prevede due differenti denominazioni: \n1 - per i candidati che conseguiranno il titolo di scuola secondaria di secondo grado al termine dell’anno scolastico 2023/2024 è denominato TEST ANTICIPATO. \nÈ possibile sostenere il test una sola volta per mese solare, e la ripetizione è consentita solo a chi ha ottenuto un voto del TOL, arrotondato all’intero più vicino, minore di 60. Eventuali assenze saranno conteggiate come \nun tentativo. Il TEST ANTICIPATO verrà erogato nei mesi da febbraio 2023 fino a luglio 2023.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n2 - per i candidati che sono in possesso di un titolo di Scuola secondaria di secondo grado e per coloro che lo conseguiranno con l’anno scolastico 2022/2023 è denominato TEST STANDARD. \nÈ possibile sostenere il test fino ad un massimo di tre volte: una sola volta per ciascuna finestra per migliorare il punteggio che verrà utilizzato ai fini della formulazione delle graduatorie. Eventuali assenze saranno conteggiate come un tentativo.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n\nLe finestre previste sono le seguenti: \nPRIMA FINESTRA: dal 4/2/2023 al 18/03/2023; \nSECONDA FINESTRA: dal 20/03/2023 al 13/05/2023; \nTERZA FINESTRA: dal 15/05/2023 al 08/07/2023.\n\n---\n\nEstratto del bando di ammissione di Ingegneria del Politecnico di Milano, a.a. 2023/2024\n\n",
+      "text": "I test alternativi al TOL:",
+      "answers": {
+        "a": "Sono erogati dal Politecnico di Milano",
+        "b": "Sono riconosciuti dal Politecnico di Milano se registrati nei termini previsti",
+        "c": "Sono riservati ai soli candidati iscritti al penultimo anno delle superiori",
+        "d": "Sono riservati a tutti i candidati senza OFA test",
+        "e": "Sono sempre riconosciuti dal Politecnico di Milano"
+      },
+      "correct": "b",
+      "validated": false
+    },
+    {
+      "id": "5",
+      "sub": "3",
+      "track": "ART. 1 - REQUISITI DI ACCESSO E FASI DI IMMATRICOLAZIONE \n\nFatti salvi i requisiti di accesso ai corsi di Laurea previsti dalla legge, il Politecnico di Milano prevede come requisito il sostenimento di un apposito test di ammissione denominato “Test On Line”, e d’ora in poi indicato come TOL, che verifica anche la conoscenza della lingua inglese e può assegnare eventuali “Obblighi Formativi Aggiuntivi”, di seguito indicati come OFA e precisati successivamente. \n\nIl punteggio minimo, ottenuto al TOL, per poter essere ammessi, arrotondato all'intero più vicino, deve essere pari o maggiore a 20 (venti) punti. In sostituzione del TOL è ritenuto idoneo il sostenimento di uno dei test considerati alternativi al TOL, non erogati dal Politecnico di Milano, ognuno con specifici punteggi come indicato nell’Art. 2 del presente bando. \n\nSono previste tre diverse fasi di immatricolazione:\n- PRIMA FASE – “Immatricolazione anticipata”;\n- SECONDA FASE - “Immatricolazione standard per candidati senza OFA Test” a cui si accede con graduatoria;\n- TERZA FASE – “Immatricolazione standard anche per candidati con OFA Test” a cui si accede con graduatoria. \n\nL’accesso ad ognuna delle fasi è consentito secondo quanto indicato di seguito. \n\nART. 2 - PRIMA FASE – “IMMATRICOLAZIONE ANTICIPATA”. \n\nPossono accedere alla PRIMA FASE – “Immatricolazione anticipata” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure sono in possesso di uno dei seguenti test alternativi:\n- TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it), svolto nell’anno solare 2022, come iscritti al penultimo anno della scuola secondaria superiore, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60; per verificare la del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\n\n[Omissis]\n\nI candidati potranno utilizzare i suddetti test sostitutivi del TOL solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 \ndel giorno 06 luglio 2023. Non sarà possibile utilizzare ai fini dell’ammissione nella PRIMA FASE tali test senza aver provveduto alla registrazione entro la scadenza prevista.\nInoltre; i test alternaitivi al TOL quali SAT, ACT, GRE, GMAT in ogni caso non potranno essere utilizzati nella seconda e terza fase di immatricolazione. \n\n\nART. 2.1 - PERIODO E MODALITÀ DI IMMATRICOLAZIONE ANTICIPATA\nI candidati potranno immatricolarsi ad un qualsiasi corso di laurea in Ingegneria a partire dalle ore 10:30 del giorno 10 luglio 2023 fino alle ore 23:59:59 del giorno 13 luglio 2023.\nL’immatricolazione deve essere effettuata, solo ed esclusivamente, accedendo alla pagina www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione, effettuando il pagamento della prima rata della contribuzione dovuta per l’AnnoAccademico 2023/2024. Eventuali candidati ancora dell’esito dell’esame di Stato della Scuola Secondaria di secondo grado si potranno immatricolare sotto condizione; tale condizione verrà rimossa quando comunicheranno l’avvenuta conclusione degli studi attraverso l’inserimento dell’informazione nei Servizi Online. \n\n\nART. 3 - SECONDA FASE – “Immatricolazione standard per candidati senza OFA Test”\nPossono accedere alla SECONDA FASE – “Immatricolazione standard per i candidati senza OFA” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito in anni scolastici precedenti all’anno 2022/23 oppure il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60 e non si sono immatricolati nella PRIMA FASE – “Immatricolazione anticipata”, oppure hanno sostenuto il TOL nell’anno solare 2023, avendo ottenuto un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure il TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it) svolto nell’anno solare 2022 come iscritti al penultimo anno di scuola superiore o TOLC-I svolto nell’anno solare 2023, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60.Per verificare la conversione del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\nI candidati potranno utilizzare il TOLC-I solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 del giorno 6 luglio 2023 ed avranno provveduto ad inserire almeno una preferenza. \n\n\nART. 3.1 - CALENDARIO DEI TOL PER L’ANNO 2023\nIl calendario delle date delle sessioni e dei posti disponibili è reso noto in apposita procedura nei Servizi Online www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione.\nIl TOL è erogato per due differenti tipologie di candidati e prevede due differenti denominazioni: \n1 - per i candidati che conseguiranno il titolo di scuola secondaria di secondo grado al termine dell’anno scolastico 2023/2024 è denominato TEST ANTICIPATO. \nÈ possibile sostenere il test una sola volta per mese solare, e la ripetizione è consentita solo a chi ha ottenuto un voto del TOL, arrotondato all’intero più vicino, minore di 60. Eventuali assenze saranno conteggiate come \nun tentativo. Il TEST ANTICIPATO verrà erogato nei mesi da febbraio 2023 fino a luglio 2023.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n2 - per i candidati che sono in possesso di un titolo di Scuola secondaria di secondo grado e per coloro che lo conseguiranno con l’anno scolastico 2022/2023 è denominato TEST STANDARD. \nÈ possibile sostenere il test fino ad un massimo di tre volte: una sola volta per ciascuna finestra per migliorare il punteggio che verrà utilizzato ai fini della formulazione delle graduatorie. Eventuali assenze saranno conteggiate come un tentativo.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n\nLe finestre previste sono le seguenti: \nPRIMA FINESTRA: dal 4/2/2023 al 18/03/2023; \nSECONDA FINESTRA: dal 20/03/2023 al 13/05/2023; \nTERZA FINESTRA: dal 15/05/2023 al 08/07/2023.\n\n---\n\nEstratto del bando di ammissione di Ingegneria del Politecnico di Milano, a.a. 2023/2024\n\n",
+      "text": "Alla terza fase di immatricolazione:",
+      "answers": {
+        "a": "Possono accedere solo i candidati che non hanno superato il TOL nella terza finestra",
+        "b": "Possono accedere gli studenti iscritti al penultimo anno delle superiori che non hanno superato il TOL",
+        "c": "Possono accedere solo i candidati che hanno superato il TOL",
+        "d": "Possono accedere solo i candidati che hanno superato il TOL oppure il TOLC-I",
+        "e": "Non compare nel testo"
+      },
+      "correct": "e",
+      "validated": false
+    },
+    {
+      "id": "5",
+      "sub": "4",
+      "track": "ART. 1 - REQUISITI DI ACCESSO E FASI DI IMMATRICOLAZIONE \n\nFatti salvi i requisiti di accesso ai corsi di Laurea previsti dalla legge, il Politecnico di Milano prevede come requisito il sostenimento di un apposito test di ammissione denominato “Test On Line”, e d’ora in poi indicato come TOL, che verifica anche la conoscenza della lingua inglese e può assegnare eventuali “Obblighi Formativi Aggiuntivi”, di seguito indicati come OFA e precisati successivamente. \n\nIl punteggio minimo, ottenuto al TOL, per poter essere ammessi, arrotondato all'intero più vicino, deve essere pari o maggiore a 20 (venti) punti. In sostituzione del TOL è ritenuto idoneo il sostenimento di uno dei test considerati alternativi al TOL, non erogati dal Politecnico di Milano, ognuno con specifici punteggi come indicato nell’Art. 2 del presente bando. \n\nSono previste tre diverse fasi di immatricolazione:\n- PRIMA FASE – “Immatricolazione anticipata”;\n- SECONDA FASE - “Immatricolazione standard per candidati senza OFA Test” a cui si accede con graduatoria;\n- TERZA FASE – “Immatricolazione standard anche per candidati con OFA Test” a cui si accede con graduatoria. \n\nL’accesso ad ognuna delle fasi è consentito secondo quanto indicato di seguito. \n\nART. 2 - PRIMA FASE – “IMMATRICOLAZIONE ANTICIPATA”. \n\nPossono accedere alla PRIMA FASE – “Immatricolazione anticipata” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure sono in possesso di uno dei seguenti test alternativi:\n- TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it), svolto nell’anno solare 2022, come iscritti al penultimo anno della scuola secondaria superiore, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60; per verificare la del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\n\n[Omissis]\n\nI candidati potranno utilizzare i suddetti test sostitutivi del TOL solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 \ndel giorno 06 luglio 2023. Non sarà possibile utilizzare ai fini dell’ammissione nella PRIMA FASE tali test senza aver provveduto alla registrazione entro la scadenza prevista.\nInoltre; i test alternaitivi al TOL quali SAT, ACT, GRE, GMAT in ogni caso non potranno essere utilizzati nella seconda e terza fase di immatricolazione. \n\n\nART. 2.1 - PERIODO E MODALITÀ DI IMMATRICOLAZIONE ANTICIPATA\nI candidati potranno immatricolarsi ad un qualsiasi corso di laurea in Ingegneria a partire dalle ore 10:30 del giorno 10 luglio 2023 fino alle ore 23:59:59 del giorno 13 luglio 2023.\nL’immatricolazione deve essere effettuata, solo ed esclusivamente, accedendo alla pagina www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione, effettuando il pagamento della prima rata della contribuzione dovuta per l’AnnoAccademico 2023/2024. Eventuali candidati ancora dell’esito dell’esame di Stato della Scuola Secondaria di secondo grado si potranno immatricolare sotto condizione; tale condizione verrà rimossa quando comunicheranno l’avvenuta conclusione degli studi attraverso l’inserimento dell’informazione nei Servizi Online. \n\n\nART. 3 - SECONDA FASE – “Immatricolazione standard per candidati senza OFA Test”\nPossono accedere alla SECONDA FASE – “Immatricolazione standard per i candidati senza OFA” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito in anni scolastici precedenti all’anno 2022/23 oppure il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60 e non si sono immatricolati nella PRIMA FASE – “Immatricolazione anticipata”, oppure hanno sostenuto il TOL nell’anno solare 2023, avendo ottenuto un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure il TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it) svolto nell’anno solare 2022 come iscritti al penultimo anno di scuola superiore o TOLC-I svolto nell’anno solare 2023, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60.Per verificare la conversione del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\nI candidati potranno utilizzare il TOLC-I solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 del giorno 6 luglio 2023 ed avranno provveduto ad inserire almeno una preferenza. \n\n\nART. 3.1 - CALENDARIO DEI TOL PER L’ANNO 2023\nIl calendario delle date delle sessioni e dei posti disponibili è reso noto in apposita procedura nei Servizi Online www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione.\nIl TOL è erogato per due differenti tipologie di candidati e prevede due differenti denominazioni: \n1 - per i candidati che conseguiranno il titolo di scuola secondaria di secondo grado al termine dell’anno scolastico 2023/2024 è denominato TEST ANTICIPATO. \nÈ possibile sostenere il test una sola volta per mese solare, e la ripetizione è consentita solo a chi ha ottenuto un voto del TOL, arrotondato all’intero più vicino, minore di 60. Eventuali assenze saranno conteggiate come \nun tentativo. Il TEST ANTICIPATO verrà erogato nei mesi da febbraio 2023 fino a luglio 2023.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n2 - per i candidati che sono in possesso di un titolo di Scuola secondaria di secondo grado e per coloro che lo conseguiranno con l’anno scolastico 2022/2023 è denominato TEST STANDARD. \nÈ possibile sostenere il test fino ad un massimo di tre volte: una sola volta per ciascuna finestra per migliorare il punteggio che verrà utilizzato ai fini della formulazione delle graduatorie. Eventuali assenze saranno conteggiate come un tentativo.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n\nLe finestre previste sono le seguenti: \nPRIMA FINESTRA: dal 4/2/2023 al 18/03/2023; \nSECONDA FINESTRA: dal 20/03/2023 al 13/05/2023; \nTERZA FINESTRA: dal 15/05/2023 al 08/07/2023.\n\n---\n\nEstratto del bando di ammissione di Ingegneria del Politecnico di Milano, a.a. 2023/2024\n\n",
+      "text": "L'immatricolazione anticipata:",
+      "answers": {
+        "a": "E' riservata a tutti i candidati che hanno superato il TOL per primi",
+        "b": "Riguarda solo i candidati che hanno superato il TOL nella prima finestra",
+        "c": "E' riservata ai soli studenti iscritti al penultimo anno delle superiori che si diplomeranno nell'anno successivo",
+        "d": "Possono accedere i candidati iscritti all'ultimo anno delle superiori che hanno superato il TOL oppure il TOLC-I",
+        "e": "Nessuna della precedenti"
+      },
+      "correct": "c",
+      "validated": false
+    },
+    {
+      "id": "5",
+      "sub": "5",
+      "track": "ART. 1 - REQUISITI DI ACCESSO E FASI DI IMMATRICOLAZIONE \n\nFatti salvi i requisiti di accesso ai corsi di Laurea previsti dalla legge, il Politecnico di Milano prevede come requisito il sostenimento di un apposito test di ammissione denominato “Test On Line”, e d’ora in poi indicato come TOL, che verifica anche la conoscenza della lingua inglese e può assegnare eventuali “Obblighi Formativi Aggiuntivi”, di seguito indicati come OFA e precisati successivamente. \n\nIl punteggio minimo, ottenuto al TOL, per poter essere ammessi, arrotondato all'intero più vicino, deve essere pari o maggiore a 20 (venti) punti. In sostituzione del TOL è ritenuto idoneo il sostenimento di uno dei test considerati alternativi al TOL, non erogati dal Politecnico di Milano, ognuno con specifici punteggi come indicato nell’Art. 2 del presente bando. \n\nSono previste tre diverse fasi di immatricolazione:\n- PRIMA FASE – “Immatricolazione anticipata”;\n- SECONDA FASE - “Immatricolazione standard per candidati senza OFA Test” a cui si accede con graduatoria;\n- TERZA FASE – “Immatricolazione standard anche per candidati con OFA Test” a cui si accede con graduatoria. \n\nL’accesso ad ognuna delle fasi è consentito secondo quanto indicato di seguito. \n\nART. 2 - PRIMA FASE – “IMMATRICOLAZIONE ANTICIPATA”. \n\nPossono accedere alla PRIMA FASE – “Immatricolazione anticipata” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure sono in possesso di uno dei seguenti test alternativi:\n- TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it), svolto nell’anno solare 2022, come iscritti al penultimo anno della scuola secondaria superiore, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60; per verificare la del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\n\n[Omissis]\n\nI candidati potranno utilizzare i suddetti test sostitutivi del TOL solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 \ndel giorno 06 luglio 2023. Non sarà possibile utilizzare ai fini dell’ammissione nella PRIMA FASE tali test senza aver provveduto alla registrazione entro la scadenza prevista.\nInoltre; i test alternaitivi al TOL quali SAT, ACT, GRE, GMAT in ogni caso non potranno essere utilizzati nella seconda e terza fase di immatricolazione. \n\n\nART. 2.1 - PERIODO E MODALITÀ DI IMMATRICOLAZIONE ANTICIPATA\nI candidati potranno immatricolarsi ad un qualsiasi corso di laurea in Ingegneria a partire dalle ore 10:30 del giorno 10 luglio 2023 fino alle ore 23:59:59 del giorno 13 luglio 2023.\nL’immatricolazione deve essere effettuata, solo ed esclusivamente, accedendo alla pagina www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione, effettuando il pagamento della prima rata della contribuzione dovuta per l’AnnoAccademico 2023/2024. Eventuali candidati ancora dell’esito dell’esame di Stato della Scuola Secondaria di secondo grado si potranno immatricolare sotto condizione; tale condizione verrà rimossa quando comunicheranno l’avvenuta conclusione degli studi attraverso l’inserimento dell’informazione nei Servizi Online. \n\n\nART. 3 - SECONDA FASE – “Immatricolazione standard per candidati senza OFA Test”\nPossono accedere alla SECONDA FASE – “Immatricolazione standard per i candidati senza OFA” i candidati che sono in possesso di entrambi i seguenti requisiti:\n1) Il diploma di scuola secondaria di secondo grado conseguito in anni scolastici precedenti all’anno 2022/23 oppure il diploma di scuola secondaria di secondo grado conseguito al termine dell’anno scolastico 2022/23;\n2) Il TOL sostenuto nell’anno solare 2022 come iscritti al penultimo anno della scuola secondaria di secondo grado nell’anno scolastico 2021/2022, con un punteggio arrotondato all’intero più vicino maggiore o uguale a 60 e non si sono immatricolati nella PRIMA FASE – “Immatricolazione anticipata”, oppure hanno sostenuto il TOL nell’anno solare 2023, avendo ottenuto un punteggio arrotondato all’intero più vicino maggiore o uguale a 60, oppure il TOLC-I (erogato dal Consorzio Interuniversitario Sistemi Integrati per l’Accesso - CISIA www.cisiaonline.it) svolto nell’anno solare 2022 come iscritti al penultimo anno di scuola superiore o TOLC-I svolto nell’anno solare 2023, con un punteggio TOLC-I convertito in punteggio TOL arrotondato all’intero più vicino maggiore o uguale a 60.Per verificare la conversione del punteggio è disponibile una procedura sul sito web https://www.polimi.it/convertitore-tolc-i\nI candidati potranno utilizzare il TOLC-I solo se avranno provveduto a registrarne il possesso attraverso i Servizi Online del Politecnico di Milano entro le ore 12:00 del giorno 6 luglio 2023 ed avranno provveduto ad inserire almeno una preferenza. \n\n\nART. 3.1 - CALENDARIO DEI TOL PER L’ANNO 2023\nIl calendario delle date delle sessioni e dei posti disponibili è reso noto in apposita procedura nei Servizi Online www.polimi.it/servizionline > Lauree triennali e a ciclo unico: test di ingresso o di recupero ed immatricolazione.\nIl TOL è erogato per due differenti tipologie di candidati e prevede due differenti denominazioni: \n1 - per i candidati che conseguiranno il titolo di scuola secondaria di secondo grado al termine dell’anno scolastico 2023/2024 è denominato TEST ANTICIPATO. \nÈ possibile sostenere il test una sola volta per mese solare, e la ripetizione è consentita solo a chi ha ottenuto un voto del TOL, arrotondato all’intero più vicino, minore di 60. Eventuali assenze saranno conteggiate come \nun tentativo. Il TEST ANTICIPATO verrà erogato nei mesi da febbraio 2023 fino a luglio 2023.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n2 - per i candidati che sono in possesso di un titolo di Scuola secondaria di secondo grado e per coloro che lo conseguiranno con l’anno scolastico 2022/2023 è denominato TEST STANDARD. \nÈ possibile sostenere il test fino ad un massimo di tre volte: una sola volta per ciascuna finestra per migliorare il punteggio che verrà utilizzato ai fini della formulazione delle graduatorie. Eventuali assenze saranno conteggiate come un tentativo.\nIn presenza di un’iscrizione al test è possibile procedere con una nuova iscrizione solo successivamente alla data del test a cui si è iscritti.\n\nLe finestre previste sono le seguenti: \nPRIMA FINESTRA: dal 4/2/2023 al 18/03/2023; \nSECONDA FINESTRA: dal 20/03/2023 al 13/05/2023; \nTERZA FINESTRA: dal 15/05/2023 al 08/07/2023.\n\n---\n\nEstratto del bando di ammissione di Ingegneria del Politecnico di Milano, a.a. 2023/2024\n\n",
+      "text": "Alcuni test alternativi al TOL:",
+      "answers": {
+        "a": "Non possono essere utilizzati nella seconda e terza fase di immatricolazione",
+        "b": "Possono essere utilizzati solo nella seconda fase di immatricolazione",
+        "c": "Possono essere utilizzati solo terza fase di immatricolazione",
+        "d": "Non possono essere utilizzati nella prima fase di immatricolazione",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": false
     }
   ],
   "fis": [
@@ -5411,7 +5720,7 @@
     },
     {
       "id": "9",
-      "text": "Una Tesla Model S, viaggiando su una curva con velocità $v$, è soggetta ad una forza centripeta $F$. Quanto vale tale forza agente su una seconda Tesla Model S di uguale massa che viaggia sulla stessa curva a velocità $2v$?",
+      "text": "Un'automobile, viaggiando su una curva con velocità $v$, è soggetta ad una forza centripeta $F.$ Quanto vale tale forza agente su una seconda automobile di uguale massa che viaggia sulla stessa curva a velocità $2v$?",
       "answers": {
         "a": "$F$",
         "b": "$2F$",
@@ -5452,11 +5761,11 @@
       "id": "12",
       "text": "Una lampadina a risparmio energetico da 15 W è collegata ad un generatore di 220 V. Qual è il valore della corrente che passa nella lampadina?",
       "answers": {
-        "a": "circa 14,7 A",
-        "b": "circa 1,7 A",
-        "c": "circa 0,7 A",
-        "d": "circa 0,07 A",
-        "e": "circa 0,48 A"
+        "a": "Circa 14,7 A",
+        "b": "Circa 1,7 A",
+        "c": "Circa 0,7 A",
+        "d": "Circa 0,07 A",
+        "e": "Circa 0,48 A"
       },
       "correct": "d",
       "validated": true
@@ -5468,8 +5777,8 @@
         "a": "Esiste un legame di proporzionalità diretta fra p e T",
         "b": "Esiste un legame di proporzionalità diretta fra V e T",
         "c": "Esiste un legame di proporzionalità inversa fra p e V",
-        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale.",
-        "e": "Nessuna delle precedenti."
+        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale",
+        "e": "Nessuna delle precedenti"
       },
       "correct": "a",
       "validated": true
@@ -5615,6 +5924,84 @@
         "e": "$20$ $N$"
       },
       "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "25",
+      "text": "A quale distanza dal filamento di una lampadina da $50W$ l'illuminazione è pari a $100 \\frac {W}{m^2}$? Si consideri la lampadina come una sorgente puntiforme.",
+      "answers": {
+        "a": "Circa $20 cm$",
+        "b": "Circa $40 mm$",
+        "c": "Circa $40 cm$",
+        "d": "Circa $10 cm$",
+        "e": "Circa $0,02 m$"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "26",
+      "text": "La velocità di fuga è la velocità minima con cui un corpo deve essere lanciato dalla superficie di un pianeta per vincere definitivamente l'attrazione gravitazionale del pianeta stesso. Sapendo che la velocità di fuga dipende solo dal raggio $R$ del pianeta e dalla sua accelerazione di gravità $g$ al livello della superficie, quali tra le seguenti formule potrebbe fornire la velocità di fuga?",
+      "answers": {
+        "a": "$v_{f} = \\frac{gR}{4}$",
+        "b": "$v_{f} = \\sqrt \\frac{3g}{R}$",
+        "c": "$v_{f} = \\sqrt {2gR}$",
+        "d": "$v_{f} = 2(gR)^2$",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "27",
+      "text": "Un cubo di legno di densità $\\rho_{legno}= 650$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza del cubo che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
+      "answers": {
+        "a": "$1,5$ $cm$",
+        "b": "$0,95$ $cm$",
+        "c": "$0,75$ $cm$",
+        "d": "$1,05$ $cm$",
+        "e": "$1,25$ $cm$"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "28",
+      "text": "Due ciclisti, A e B, percorrono una pista circolare a velocità costante e nello stesso verso partendo da punti diametralmente opposti. Se la velocità di A è $\\frac {12}{11}$ di B, quanti giri avrà percorso A quando raggiungerà B per la prima volta?",
+      "answers": {
+        "a": "11",
+        "b": "6",
+        "c": "12",
+        "d": "3",
+        "e": "4"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "29",
+      "text": "Secondo la scala Richter, la magnitudo di un terremoto è data da $\\log_{10} \\frac{S}{S_0}$, dove $S$ sono le dimensioni delle onde sismiche generate ed $S_0$ quelle corrispondenti ad un terremoto con magnitudo pari $0$ Richter. Quanto è più intenso un terremoto di magnutudo $8,5$ Richter rispetto ad uno di magnitudo $8,0$ Richter? ",
+      "answers": {
+        "a": "0,5 volte",
+        "b": "Circa 1,5 volte",
+        "c": "Circa 2 volte",
+        "d": "2,5 volte",
+        "e": "Circa 3 volte"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "30",
+      "text": "L'eco è dovuta al fenomeno di:",
+      "answers": {
+        "a": "Diffrazione di onde acustiche",
+        "b": "Rifrazione di onde eleastiche",
+        "c": "Riflessione di onde sonore",
+        "d": "Interferenza di onde sonore",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "c",
       "validated": true
     }
   ],
@@ -7214,6 +7601,396 @@
         "c": "recognize",
         "d": "miss it out",
         "e": "missed"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "124",
+      "text": "Two people ___ in the accident and ___ to hospital.",
+      "answers": {
+        "a": "have injury / have taken",
+        "b": "were injury / have taken",
+        "c": "were ills / have taken",
+        "d": "were injured / were taken",
+        "e": "injured / have taken"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "125",
+      "text": "Do you want tea or coffee? ___ . I really don't ___ .",
+      "answers": {
+        "a": "Both / know",
+        "b": "Both / care",
+        "c": "Either / mind",
+        "d": "Either / know",
+        "e": "Neither / know"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "126",
+      "text": "It's too noisy here. Can we go somewhere ___ ?",
+      "answers": {
+        "a": "quietely",
+        "b": "quieter",
+        "c": "quiet",
+        "d": "more quietly",
+        "e": "more quietely"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "127",
+      "text": "The train was late this morning, but it's usually ___ time.",
+      "answers": {
+        "a": "on",
+        "b": "at",
+        "c": "in",
+        "d": "by",
+        "e": "off"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "128",
+      "text": "If Gabriele ___ to bed so late, He ___ tired all the time.",
+      "answers": {
+        "a": "don't go / could be",
+        "b": "didn't go / would be",
+        "c": "goes / wouldn't be",
+        "d": "go / couldn't be",
+        "e": "didn't go / wouldn't be"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "129",
+      "text": "She definitely hates ___ waiting.",
+      "answers": {
+        "a": "keepings",
+        "b": "be kept",
+        "c": "kept",
+        "d": "being kept",
+        "e": "keeps"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "130",
+      "text": "I don't understand this sentence. What ___ ?",
+      "answers": {
+        "a": "does mean this word",
+        "b": "does this word mean",
+        "c": "means this word",
+        "d": "does means this word",
+        "e": "does this word means"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "131",
+      "text": "Where's the book I gave you? What ___ with it?",
+      "answers": {
+        "a": "have you done",
+        "b": "have you been doing",
+        "c": "are you doing",
+        "d": "have you did",
+        "e": "are you do"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "132",
+      "text": "The girl sitting next to me on the plane was very nervous. She ___ before.",
+      "answers": {
+        "a": "hasn't flown",
+        "b": "didn't fly",
+        "c": "hadn't flown",
+        "d": "wasn't flying",
+        "e": "didn't flying"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "133",
+      "text": "We're late. The math lesson ___ by the time we get to the campus.",
+      "answers": {
+        "a": "will already start",
+        "b": "will be already started",
+        "c": "will already had started",
+        "d": "will be yet started",
+        "e": "will already have started"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "134",
+      "text": "I was ill yesterday. I spent ___ in bed.",
+      "answers": {
+        "a": "the most of day",
+        "b": "most of a day",
+        "c": "the most of the day",
+        "d": "most of the day",
+        "e": "most of day"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "135",
+      "text": "Lorenzo told me ___ his new project, ___ a lot.",
+      "answers": {
+        "a": "on / he's enjoy it",
+        "b": "about / which he's enjoying",
+        "c": "--- / he's enjoying",
+        "d": "a bit / he's enjoying it",
+        "e": "--- / he's enjoy"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "136",
+      "text": "We stopped at the motorway services ___ something ___ .",
+      "answers": {
+        "a": "to get / to eat",
+        "b": "getting / eat",
+        "c": "having / to eat",
+        "d": "to get / eating",
+        "e": "to got / to eat"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "137",
+      "text": "___ every day is a good way of ___ fit.",
+      "answers": {
+        "a": "Swim / keep",
+        "b": "Swim / keeping",
+        "c": "Swimming / keeping",
+        "d": "Swimming / keep",
+        "e": "To swim / to keep"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "138",
+      "text": "If I ___ in that university, ___ soon change things.",
+      "answers": {
+        "a": "work / I'll",
+        "b": "'m working / I'll",
+        "c": "worked / I'll",
+        "d": "worked / I'd",
+        "e": "worked / I"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "139",
+      "text": "___ you be ___ all tomorrow evening?",
+      "answers": {
+        "a": "Have / work",
+        "b": "Do / work",
+        "c": "Will / work",
+        "d": "Having / work",
+        "e": "Will / working"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "140",
+      "text": "I ___ to the radio when I ___ an idea.",
+      "answers": {
+        "a": "listen / had",
+        "b": "was listening / had",
+        "c": "have listened / have",
+        "d": "listened / having",
+        "e": "have listening / had"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "141",
+      "text": "They didn't like Milan, even though they ___ living there for years.",
+      "answers": {
+        "a": "had been",
+        "b": "having",
+        "c": "have had ",
+        "d": "---",
+        "e": "have"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "142",
+      "text": "Acid rain is ___ by ___ coal or oil.",
+      "answers": {
+        "a": "did / burning",
+        "b": "done / burnt",
+        "c": "caused / burning",
+        "d": "burned / doing",
+        "e": "burnt / doing"
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "143",
+      "text": "It was the best teaching ___ ever ___.",
+      "answers": {
+        "a": "I have / had",
+        "b": "I had / do",
+        "c": "--- / do",
+        "d": "it was / had",
+        "e": "I have / do"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "144",
+      "text": "His illnes was much more serious than we ___  at first.",
+      "answers": {
+        "a": "think",
+        "b": "thought",
+        "c": "know",
+        "d": "thinking",
+        "e": "knowing"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "145",
+      "text": "I recently ___ back to the small town where I ___ up.",
+      "answers": {
+        "a": "go / grow",
+        "b": "went out / go",
+        "c": "went / 'm",
+        "d": "went / grew",
+        "e": "going / grew"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "146",
+      "text": "Three years ___ a long time ___ without a job.",
+      "answers": {
+        "a": "are / to be",
+        "b": "is / beeing",
+        "c": "are / beeing",
+        "d": "are / ---",
+        "e": "is / to be"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "147",
+      "text": "It's a waste of money ___ things you don't need.",
+      "answers": {
+        "a": "buy",
+        "b": "to buying",
+        "c": "to bought",
+        "d": "to buy",
+        "e": "buys"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "148",
+      "text": "She ___ like her mother: don't you think she ___ after her?",
+      "answers": {
+        "a": "looks / takes",
+        "b": "--- / makes",
+        "c": "seems / makes",
+        "d": "feels / looks",
+        "e": "makes / seems"
+      },
+      "correct": "a",
+      "validated": true
+    },
+    {
+      "id": "149",
+      "text": "They're not staying much ___ , are they?",
+      "answers": {
+        "a": "great",
+        "b": "longer",
+        "c": "greatest",
+        "d": "longest",
+        "e": "smart"
+      },
+      "correct": "b",
+      "validated": true
+    },
+    {
+      "id": "150",
+      "text": "If you ___ asked me for tickets I could ___ gotten you some.",
+      "answers": {
+        "a": "have / had",
+        "b": "--- / ---",
+        "c": "have / have",
+        "d": "had / have",
+        "e": "had / ---"
+      },
+      "correct": "d",
+      "validated": true
+    },
+    {
+      "id": "151",
+      "text": "It was slowly getting ___ and ___.",
+      "answers": {
+        "a": "host / host",
+        "b": "up / down",
+        "c": "in / out",
+        "d": "great / great",
+        "e": "hotter / hotter"
+      },
+      "correct": "e",
+      "validated": true
+    },
+    {
+      "id": "152",
+      "text": "Water freezes if the temperature ___ below zero.",
+      "answers": {
+        "a": "feel",
+        "b": "felt",
+        "c": "falls",
+        "d": "feels",
+        "e": "fall "
+      },
+      "correct": "c",
+      "validated": true
+    },
+    {
+      "id": "153",
+      "text": "The ___ message from The TOL Project: if you can dream it, you can do it!",
+      "answers": {
+        "a": "take-home",
+        "b": "recognizing",
+        "c": "learn out",
+        "d": "know-how",
+        "e": "acknowledge"
       },
       "correct": "a",
       "validated": true
