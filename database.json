@@ -5550,7 +5550,7 @@
         "e": "Nessuna della precedenti"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5565,7 +5565,7 @@
         "e": "Sono sempre riconosciuti dal Politecnico di Milano"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5580,7 +5580,7 @@
         "e": "Non compare nel testo"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5595,7 +5595,7 @@
         "e": "Nessuna della precedenti"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5610,7 +5610,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     }
   ],
   "fis": [
