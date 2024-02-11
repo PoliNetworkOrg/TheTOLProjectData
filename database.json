@@ -1678,8 +1678,8 @@
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
       "answers": {
         "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
-        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
-        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{3})$",
+        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{3})$",
         "d": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1 , 0)$",
         "e": "$(1, 0) , (2, 0)$"
       },
@@ -1778,15 +1778,42 @@
       "validated": true
     },
     {
-      "answers": {},
+      "id": "137",
+      "text": "Siano $a,b$ numeri reali. Se $a+2b=10$ quali delle seguenti espressioni ha un valore che non dipende da $a, b$?",
+      "answers": {
+        "a": "$a-2b$",
+        "b": "$a^2+4b^2-4ab$",
+        "c": "$a^2+4b^2+4ab$",
+        "d": "$b+2a$",
+        "e": "Nessuna delle precedenti."
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "138",
+      "text": "Quali delle seguenti somme di frazioni rappresenta il numero periodico 0.3454545 ?",
+      "answers": {
+        "a": "$\\frac{8}{11} -$\\frac{5}{9}",
+        "b": "$\\frac{1}{5} +$\\frac{8}{55} ",
+        "c": "$\\frac{1}{6} +$\\frac{7}{44}",
+        "d": "$\\frac{5}{9} -$\\frac{1}{11}",
+        "e": "Nessuna delle precedenti."
+      },
+      "correct": "b",
       "validated": false
     },
     {
-      "answers": {},
+      "id": "139",
+      "text": "Quale delle seguenti uguaglianze è verificata?",
+      "answers": {
+        "a": "%\\frac{15}{11} \\cdot 0,6 \\overline{1}=\\frac{6}{5}$",
+        "b": "$0,\\overline{4323}-0,\\overline{3213}=0,\\overline{111}$",
+        "c": "$1,2\\overline{34}+2,3\\overline{45}=3,60$",
+        "d": "$\\frac{10, \\overline{10}}{10^{-3}}=10101, \\overline{01}$",
+        "e": "$\\frac {134}{495})^{0,\\overline{3}}=\\sqrt[3]{0. \\overline{270}}$"
+      },
+      "correct": "d",
       "validated": false
     },
     {
