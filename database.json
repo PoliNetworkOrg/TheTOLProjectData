@@ -1678,7 +1678,7 @@
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
       "answers": {
         "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
-        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{3})$",
+        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{3}) , (1, 0)$",
         "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{3})$",
         "d": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1 , 0)$",
         "e": "$(1, 0) , (2, 0)$"
@@ -1808,10 +1808,10 @@
       "text": "Quale delle seguenti uguaglianze è verificata?",
       "answers": {
         "a": "$\\frac{15}{11} \\cdot 0,6 \\overline{1}=\\frac{6}{5}$",
-        "b": "$0,\\overline{4323}-0,\\overline{3213}=0,\\overline{111}$",
+        "b": "$0,\\overline{4323}-0,\\overline{3213}=0,\\overline{1}$",
         "c": "$1,2\\overline{34}+2,3\\overline{45}=3,60$",
         "d": "$\\frac{10, \\overline{10}}{10^{-3}}=10101, \\overline{01}$",
-        "e": "$\\bigg (\\frac {134}{495}\\bigg)^{0,\\overline{3}}=\\sqrt[3]{0. \\overline{270}}$"
+        "e": "$\\Big (\\frac {134}{495}\\Big)^{0,\\overline{3}}=\\sqrt[3]{0. \\overline{270}}$"
       },
       "correct": "d",
       "validated": false
