@@ -1811,7 +1811,7 @@
         "b": "$0,\\overline{4323}-0,\\overline{3213}=0,\\overline{111}$",
         "c": "$1,2\\overline{34}+2,3\\overline{45}=3,60$",
         "d": "$\\frac{10, \\overline{10}}{10^{-3}}=10101, \\overline{01}$",
-        "e": "$\\frac {134}{495})^{0,\\overline{3}}=\\sqrt[3]{0. \\overline{270}}$"
+        "e": "$\\bigg (\\frac {134}{495}\\bigg)^{0,\\overline{3}}=\\sqrt[3]{0. \\overline{270}}$"
       },
       "correct": "d",
       "validated": false
