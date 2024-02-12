@@ -1818,8 +1818,16 @@
     },
     {
       "id": "140",
-      "answers": {},
-      "validated": false
+      "text": "Se $n$ è un numero intero positivo e il prodotto di tutti i numeri interi da 1 a $n$ compreso è un multiplo di 990, qual è il valore minimo possibile di $n$",
+      "answers": {
+        "a": "9",
+        "b": "10",
+        "c": "11",
+        "d": "13",
+        "e": "18"
+      },
+      "correct": "c",
+      "validated": true
     },
     {
       "answers": {},
