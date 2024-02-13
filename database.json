@@ -14,7 +14,10 @@
         "e": "Non ci sono informazioni sufficienti per rispondere"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "segno del discriminante di un'equazione completa di secondo grado"
+      ]
     },
     {
       "id": "2",
@@ -27,7 +30,11 @@
         "e": "E' possibile determinare la base ma non è $a$, nè $b$, nè $c$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di logaritmo",
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "3",
@@ -40,7 +47,11 @@
         "e": "$4\\pi /3$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni goniometriche",
+        "identità fondamentale della goniometria"
+      ]
     },
     {
       "id": "4",
@@ -53,7 +64,11 @@
         "e": "Infinite"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "grafici notevoli di funzioni elementari",
+        "equazioni non risolvibili algebricamente"
+      ]
     },
     {
       "id": "5",
@@ -66,7 +81,12 @@
         "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "equazioni di primo grado",
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "6",
@@ -80,6 +100,10 @@
       },
       "correct": "d",
       "validated": true,
+      "tags": [
+        "grafico di funzioni elementari logaritmiche",
+        "funzioni con termini in valore assoluto"
+      ],
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
@@ -95,7 +119,10 @@
         "e": "$ln(x)>1$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione di disequazioni algebriche"
+      ]
     },
     {
       "id": "8",
@@ -108,7 +135,10 @@
         "e": "108"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche su numeri naturali"
+      ]
     },
     {
       "id": "9",
@@ -121,7 +151,11 @@
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema dei seni",
+        "area di un triangolo"
+      ]
     },
     {
       "id": "10",
@@ -134,7 +168,11 @@
         "e": "5000"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "proprietà di moltiplicazione dei numeri naturali"
+      ]
     },
     {
       "id": "11",
@@ -147,7 +185,11 @@
         "e": "Più di sei"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni goniometriche",
+        "periodicità di funzioni goniometriche"
+      ]
     },
     {
       "id": "12",
@@ -160,7 +202,11 @@
         "e": "189"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "conteggio"
+      ]
     },
     {
       "id": "13",
@@ -173,7 +219,12 @@
         "e": "Infiniti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "studio del segno di una funzione quadratica",
+        "radici di una funzione quadratica",
+        "numeri interi"
+      ]
     },
     {
       "id": "14",
@@ -186,7 +237,12 @@
         "e": "4"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di logaritmo",
+        "proprietà dei logaritmi",
+        "arrotondamenti"
+      ]
     },
     {
       "id": "15",
@@ -199,7 +255,11 @@
         "e": "100"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "discriminante di un polinomio quadratico",
+        "principio di identità dei polinomi"
+      ]
     },
     {
       "id": "16",
@@ -212,7 +272,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica"
+      ]
     },
     {
       "id": "17",
@@ -225,7 +288,12 @@
         "e": "Nessuna scimmia mangia le mele"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "logica proposizionale",
+        "Negazione di una proposizione",
+        "quantificatori universali ed esistenziali"
+      ]
     },
     {
       "id": "18",
@@ -238,7 +306,11 @@
         "e": "5"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi",
+        "proprietà dei numeri interi"
+      ]
     },
     {
       "id": "19",
@@ -251,7 +323,10 @@
         "e": "32"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "20",
@@ -264,7 +339,11 @@
         "e": "5,2"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica",
+        "varianza"
+      ]
     },
     {
       "id": "21",
@@ -277,7 +356,11 @@
         "e": "95"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "coefficiente binomiale"
+      ]
     },
     {
       "id": "22",
@@ -303,7 +386,11 @@
         "e": "1/6"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni",
+        "calcolo probabilità"
+      ]
     },
     {
       "id": "24",
@@ -316,7 +403,10 @@
         "e": "Ci sono più risposte possibili"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "grafici notevoli di funzioni elementari"
+      ]
     },
     {
       "id": "25",
@@ -329,7 +419,11 @@
         "e": "$\\frac{\\sqrt{3}}{2}$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "problemi di geometria piana",
+        "teorema di Pitagora"
+      ]
     },
     {
       "id": "26",
@@ -342,7 +436,11 @@
         "e": "$\\frac{3}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "problemi di geometria piana",
+        "teorema di Pitagora"
+      ]
     },
     {
       "id": "27",
@@ -355,7 +453,12 @@
         "e": "$-\\pi/2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni goniometriche",
+        "identità fondamentale della goniometria",
+        "sostituzione di variabile"
+      ]
     },
     {
       "id": "28",
@@ -368,7 +471,10 @@
         "e": "$2^{12} < 9^6 < 5^8$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze"
+      ]
     },
     {
       "id": "29",
@@ -1502,7 +1608,12 @@
         "e": "4"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "numeri interi",
+        "equazioni di primo grado a due variabili"
+      ]
     },
     {
       "id": "116",
@@ -1606,7 +1717,11 @@
         "e": "$2x-3$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema del resto",
+        "sistema di equazioni a due incognite"
+      ]
     },
     {
       "id": "124",
@@ -1697,7 +1812,12 @@
         "e": "2500"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "multipli di un numero",
+        "minimo comune multiplo"
+      ]
     },
     {
       "id": "131",
@@ -1710,7 +1830,11 @@
         "e": "1038"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "permutazioni"
+      ]
     },
     {
       "id": "132",
@@ -1762,7 +1886,10 @@
         "e": "$3 \\cdot 10^{-1}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi indipendenti"
+      ]
     },
     {
       "id": "136",
@@ -1801,7 +1928,11 @@
         "e": "Nessuna delle precedenti."
       },
       "correct": "b",
-      "validated": false
+      "validated": false,
+      "tags": [
+        "numeri decimali illimitati periodici",
+        "frazioni generatrici"
+      ]
     },
     {
       "id": "139",
@@ -1814,7 +1945,11 @@
         "e": "$\\Big (\\frac {134}{495}\\Big)^{0,\\overline{3}}=\\sqrt[3]{0, \\overline{270}}$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "numeri decimali illimitati periodici",
+        "frazioni generatrici"
+      ]
     },
     {
       "id": "140",
@@ -1827,7 +1962,11 @@
         "e": "18"
       },
       "correct": "c",
-      "validated": false
+      "validated": false,
+      "tags": [
+        "fattorizzazione in numeri primi",
+        "multipli e divisori"
+      ]
     },
     {
       "answers": {},
