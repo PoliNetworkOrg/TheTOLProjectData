@@ -101,7 +101,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "grafico di funzioni elementari logaritmiche",
+        "proprietà delle funzioni logaritmiche",
         "funzioni con termini in valore assoluto"
       ],
       "attachments": [
@@ -137,7 +137,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "operazioni aritmetiche su numeri naturali"
+        "operazioni aritmetiche su numeri naturali, conteggio"
       ]
     },
     {
@@ -421,7 +421,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "riangolo equilatero inscritto in una circonferenza",
+        "triangolo equilatero inscritto in una circonferenza",
         "bisettrice di un angolo",
         "teorema di Pitagora"
       ]
