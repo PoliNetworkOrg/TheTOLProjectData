@@ -389,7 +389,7 @@
       "validated": true,
       "tags": [
         "sistema di equazioni",
-        "calcolo probabilità"
+        "calcolo probabilità di eventi equiprobabili"
       ]
     },
     {
@@ -421,7 +421,8 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "problemi di geometria piana",
+        "riangolo equilatero inscritto in una circonferenza",
+        "bisettrice di un angolo",
         "teorema di Pitagora"
       ]
     },
