@@ -1963,7 +1963,7 @@
         "e": "18"
       },
       "correct": "c",
-      "validated": false,
+      "validated": true,
       "tags": [
         "fattorizzazione in numeri primi",
         "multipli e divisori"
