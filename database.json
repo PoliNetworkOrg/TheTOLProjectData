@@ -1956,13 +1956,13 @@
       "id": "140",
       "text": "Siano $n$ è un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$",
       "answers": {
-        "a": "9",
-        "b": "10",
-        "c": "11",
+        "a": "10",
+        "b": "11",
+        "c": "12",
         "d": "13",
-        "e": "18"
+        "e": "14"
       },
-      "correct": "c",
+      "correct": "b",
       "validated": true,
       "tags": [
         "fattorizzazione in numeri primi",
