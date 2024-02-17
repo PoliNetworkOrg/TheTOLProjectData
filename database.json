@@ -1903,7 +1903,11 @@
         "e": "$r > p > s > q$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "logica proposizionale",
+        "implicazione logica"
+      ]
     },
     {
       "id": "137",
