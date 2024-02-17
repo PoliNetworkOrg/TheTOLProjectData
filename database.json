@@ -1800,7 +1800,12 @@
         "e": "$(1, 0) , (2, 0)$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione intensiva di insiemi",
+        "equazione della circonferenza",
+        "piano cartesiano"
+      ]
     },
     {
       "id": "130",
@@ -1848,7 +1853,10 @@
         "e": "11"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni di primo grado a due incognite"
+      ]
     },
     {
       "id": "133",
@@ -1861,7 +1869,10 @@
         "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di angolo radiante"
+      ]
     },
     {
       "id": "134",
@@ -1874,7 +1885,12 @@
         "e": "$\\arctan (\\sqrt3)$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni irrazionali",
+        "equazioni goniometriche elementari",
+        "equazioni goniometriche inverse"
+      ]
     },
     {
       "id": "135",
