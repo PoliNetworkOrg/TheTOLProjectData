@@ -1557,7 +1557,13 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione intensiva di insiemi",
+        "operazioni tra insiemi",
+        "numeri naturali",
+        "parità dello zero"
+      ]
     },
     {
       "id": "112",
@@ -1570,7 +1576,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "numeri naturali",
+        "permutazioni"
+      ]
     },
     {
       "id": "113",
@@ -1583,7 +1593,11 @@
         "e": "Circa 52%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "volumi di figure solide",
+        "probabilità di eventi equiprobabili"
+      ]
     },
     {
       "id": "114",
@@ -1596,7 +1610,11 @@
         "e": "Infiniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di valore assoluto",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "115",
