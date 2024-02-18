@@ -373,7 +373,11 @@
         "e": "4"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze",
+        "ordinamento dei numeri naturali"
+      ]
     },
     {
       "id": "23",
