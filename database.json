@@ -492,7 +492,12 @@
         "e": "Ha infinite soluzioni"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di annullamento del prodotto",
+        "equazioni algebriche di secondo e terzo grado",
+        "proprietà dei numeri razionali"
+      ]
     },
     {
       "id": "30",
@@ -505,7 +510,12 @@
         "e": "6%"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità",
+        "minimo comune multiplo",
+        "multipli"
+      ]
     },
     {
       "id": "31",
@@ -518,7 +528,12 @@
         "e": "Ha due soluzioni distinte"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni",
+        "intersezioni tra curve",
+        "interpretazione grafica di equazioni"
+      ]
     },
     {
       "id": "32",
@@ -531,7 +546,11 @@
         "e": "11/24"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "disposizione con ripetizione"
+      ]
     },
     {
       "id": "33",
@@ -1649,7 +1668,11 @@
         "e": "Il raggio della circonferenza intersezione vale $\\sqrt3$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "piano secante, tangente o esterno ad una sfera",
+        "distanza tra il piano ed il centro di una sfera"
+      ]
     },
     {
       "id": "117",
