@@ -548,6 +548,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
+        "probabilità",
         "calcolo combinatorio",
         "disposizione con ripetizione"
       ]
@@ -563,7 +564,10 @@
         "e": "È un numero reale compreso tra 6 e 7"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "34",
@@ -576,7 +580,11 @@
         "e": "Cinque"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ricerca dei fattori primi di un intero",
+        "criteri di divisibilità"
+      ]
     },
     {
       "id": "35",
@@ -589,7 +597,10 @@
         "e": "$\\pi/2 < x < 3\\pi /2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni trigonometriche"
+      ]
     },
     {
       "id": "36",
@@ -602,7 +613,10 @@
         "e": "$111301_{4}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione di un numero intero in base diversa da quella decimale"
+      ]
     },
     {
       "id": "37",
@@ -615,7 +629,11 @@
         "e": "Quattro"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "formula della distanza tra due punti",
+        "intersezioni tra circonferenza e assi cartesiani"
+      ]
     },
     {
       "id": "38",
@@ -628,7 +646,11 @@
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "forma implicita e forma esplicita di un'equazione algebrica",
+        "condizione di perpendicolarità"
+      ]
     },
     {
       "id": "39",
@@ -641,7 +663,11 @@
         "e": "7/30"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità",
+        "eventi dipendenti"
+      ]
     },
     {
       "id": "40",
@@ -654,7 +680,11 @@
         "e": "$x = 0$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni algebriche",
+        "studio del segno"
+      ]
     },
     {
       "id": "41",
@@ -667,7 +697,11 @@
         "e": "$1+sin^2(x)$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione di espressioni goniometriche",
+        "identità fondamentale della goniometria"
+      ]
     },
     {
       "id": "42",
@@ -1685,7 +1719,12 @@
         "e": "Ha due soluzioni distinte, una positiva e una negativa"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "duplicazione del coseno",
+        "equazioni di retta e circonferenza",
+        "insieme intersezione"
+      ]
     },
     {
       "id": "118",
@@ -1698,7 +1737,10 @@
         "e": "Per qualche $0<n<1$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di funzioni strettamente crescenti, funzione potenza"
+      ]
     },
     {
       "id": "119",
@@ -1711,7 +1753,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "circonferenza gonimetrica",
+        "definizione di valore assoluto"
+      ]
     },
     {
       "id": "120",
@@ -1724,7 +1770,12 @@
         "e": "$y=\\frac {4}{x}+1$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione di una conica",
+        "fascio di rette passanti per un punto",
+        "condizione di tangenza"
+      ]
     },
     {
       "id": "121",
