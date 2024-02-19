@@ -2103,12 +2103,29 @@
     },
     {
       "id": "141",
+      "text": "Quanti sono i divisori di $10!$?",
+      "answers": {
+        "a": "$2 \\cdot 5!$",
+        "b": "$250$",
+        "c": "$5!^{2}$",
+        "d": "520",
+        "e": "270"
+      },
+      "correct": "e",
+      "validated": true,
+      "tags": [
+        "fattorizzazione in numeri primi",
+        "divisori di un numero"
+      ]
+    },
+    {
+      "id": "142",
       "text": "Lanciando tre volte un dado regolare a sei facce, con quale frequenza usciranno due numeri pari ed uno dispari?",
       "answers": {
         "a": "37,5%",
-        "b": "12,5%",
-        "c": "25%",
-        "d": "50%",
+        "b": "33,3% circa",
+        "c": "66,6% circa",
+        "d": "12,5%",
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
@@ -2116,10 +2133,6 @@
       "tags": [
         "probabilità di eventi equiprobabili, frequenza relativa"
       ]
-    },
-    {
-      "answers": {},
-      "validated": false
     },
     {
       "answers": {},
