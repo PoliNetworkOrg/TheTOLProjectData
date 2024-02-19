@@ -714,7 +714,11 @@
         "e": "Il polinomio non ha radici reali"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "scomposizione di un polinomio",
+        "legge di annullamento del prodotto"
+      ]
     },
     {
       "id": "43",
