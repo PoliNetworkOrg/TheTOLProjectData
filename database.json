@@ -2102,8 +2102,20 @@
       ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "141",
+      "text": "Lanciando tre volte un dado regolare a sei facce, con quale frequenza usciranno due numeri pari ed uno dispari?",
+      "answers": {
+        "a": "37,5%",
+        "b": "12,5%",
+        "c": "25%",
+        "d": "50%",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili, frequenza relativa"
+      ]
     },
     {
       "answers": {},
