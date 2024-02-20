@@ -2086,7 +2086,7 @@
     },
     {
       "id": "140",
-      "text": "Siano $n$ è un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$",
+      "text": "Siano $n$ è un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$?",
       "answers": {
         "a": "10",
         "b": "11",
@@ -2107,7 +2107,7 @@
       "answers": {
         "a": "$2 \\cdot 5!$",
         "b": "$250$",
-        "c": "$5!^{2}$",
+        "c": "$(5!)^2$",
         "d": "$520$",
         "e": "$270$"
       },
