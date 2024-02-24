@@ -1835,7 +1835,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenente i quantificatori \"per ogni\" ed \"esiste\""
+      ]
     },
     {
       "id": "125",
