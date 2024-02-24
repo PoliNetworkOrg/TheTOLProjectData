@@ -770,7 +770,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze"
+      ]
     },
     {
       "id": "47",
@@ -783,7 +786,11 @@
         "e": "4%"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità",
+        "eventi indipendenti"
+      ]
     },
     {
       "id": "48",
@@ -796,7 +803,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "implicazioni tra proposizioni"
+      ]
     },
     {
       "id": "49",
@@ -809,7 +819,12 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà di funzioni logaritmiche ed esponenziali",
+        "dominio di una funzione",
+        "intersezione tra due funzioni"
+      ]
     },
     {
       "id": "50",
@@ -822,7 +837,10 @@
         "e": "Non esiste un triangolo con lati di tali dimensioni"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei triangoli"
+      ]
     },
     {
       "id": "51",
@@ -835,7 +853,10 @@
         "e": "Tutte le deduzioni precedenti possono essere sbagliate"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ragionamenti su \"tabelle a doppia entrata\""
+      ]
     },
     {
       "id": "52",
@@ -848,7 +869,11 @@
         "e": "72"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "permutazioni"
+      ]
     },
     {
       "id": "53",
@@ -1462,7 +1487,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "somma degli angoli interni di un poligono",
+        "teorema della geometria euclidea"
+      ]
     },
     {
       "id": "100",
