@@ -886,7 +886,10 @@
         "e": "I triangoli sono tutti inscrivibili"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenente i quantificatori \"per ogni\""
+      ]
     },
     {
       "id": "54",
@@ -899,7 +902,11 @@
         "e": "Gli studenti Ingegneria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenente i quantificatori \"esiste\"",
+        "prima legge di De Morgan"
+      ]
     },
     {
       "id": "55",
@@ -912,7 +919,10 @@
         "e": "3 cm"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema dei seni"
+      ]
     },
     {
       "id": "56",
@@ -925,7 +935,10 @@
         "e": "Bruno ieri è andato ad una festa, quindi c'è andato anche Carlo"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "implicazioni tra proposizioni"
+      ]
     },
     {
       "id": "57",
@@ -938,7 +951,10 @@
         "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema della corda"
+      ]
     },
     {
       "id": "58",
@@ -1305,7 +1321,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "significato geometrico dei parametri m e q nell'equazione della retta y=mx+q e passaggio per punti assegnati",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "86",
