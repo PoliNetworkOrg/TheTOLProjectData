@@ -1792,7 +1792,11 @@
         "e": "$2x+1$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "significato algebrico di quadrato perfetto",
+        "quadrato di un binomio"
+      ]
     },
     {
       "id": "122",
@@ -1805,7 +1809,12 @@
         "e": "$3$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni",
+        "proprietà dei logaritmi",
+        "cambiamento di base"
+      ]
     },
     {
       "id": "123",
@@ -1851,7 +1860,11 @@
         "e": "Una coppia di rette incidenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "geometria analistica piana",
+        "riconoscimento di luoghi descritti da equazioni"
+      ]
     },
     {
       "id": "126",
