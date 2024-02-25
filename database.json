@@ -2118,13 +2118,13 @@
     },
     {
       "id": "138",
-      "text": "Quali delle seguenti somme di frazioni rappresenta il numero periodico 0.3454545 ?",
+      "text": "Quali delle seguenti moltiplicazioni equivale a $0.0\\overline{1}$ \\cdot  3.\\overline{4}$ ?",
       "answers": {
-        "a": "$\\frac{8}{11} -$\\frac{5}{9}",
-        "b": "$\\frac{1}{5} +$\\frac{8}{55} ",
-        "c": "$\\frac{1}{6} +$\\frac{7}{44}",
-        "d": "$\\frac{5}{9} -$\\frac{1}{11}",
-        "e": "Nessuna delle precedenti."
+        "a": "",
+        "b": "$0.1\\overline{2}$ \\cdot  0.\\overline{31}$",
+        "c": "",
+        "d": "",
+        "e": ""
       },
       "correct": "b",
       "validated": false,
