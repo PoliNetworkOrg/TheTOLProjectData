@@ -2118,13 +2118,13 @@
     },
     {
       "id": "138",
-      "text": "Quali delle seguenti moltiplicazioni equivale a $0.0\\overline{1}$ \\cdot  3.\\overline{4}$ ?",
+      "text": "Quali delle seguenti moltiplicazioni equivale a $0.0\\overline{1} \\cdot  3.\\overline{4}$ ?",
       "answers": {
-        "a": "",
-        "b": "$0.1\\overline{2}$ \\cdot  0.\\overline{31}$",
-        "c": "",
-        "d": "",
-        "e": ""
+        "a": "$0.\\overline{1} \\cdot  0.6\\overline{81}$",
+        "b": "$0.1\\overline{2} \\cdot  0.\\overline{31}$",
+        "c": "$1.\\overline{8} \\cdot  0.\\overline{3}$",
+        "d": "$0.\\overline{27} \\cdot  5.\\overline{5}$",
+        "e": "Nessuna delle precedenti."
       },
       "correct": "b",
       "validated": false,
