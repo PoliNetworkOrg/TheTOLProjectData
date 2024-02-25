@@ -2204,8 +2204,8 @@
       "id": "143",
       "text": "L'età media degli studenti iscritti al primo anno del corso di Ingegneria informatica è pari a $18,5$ anni. L'età media degli studenti iscritti al quinto anno dello stesso corso è pari a $24,5$ anni. Sapendo che gli studenti del primo anno sono $700$ e quelli del quinto anno sono $300$, qual è la stima dell'età media dell'intera popolazione del corso di informatica?",
       "answers": {
-        "a": "$21$ anni e $6$ mesi",
-        "b": "$21$ anni e $5$ mesi",
+        "a": "$20$ anni e $6$ mesi",
+        "b": "$20$ anni e $5$ mesi",
         "c": "$20$ anni e $4$ mesi",
         "d": "$20$ anni e $3$ mesi",
         "e": "Non ci sono sufficienti informazioni per calcolare la stima richiesta"
