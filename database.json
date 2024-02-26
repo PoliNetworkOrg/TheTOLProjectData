@@ -2219,8 +2219,23 @@
     },
     {
       "id": "144",
-      "answers": {},
-      "validated": false
+      "text": "Nella seguente immagine viene riportata la distribuzione delle aziende chimiche secondo il fatturato annuo in milioni di euro. Qual è la percentuale di aziende con fatturato annuo superiore a 750 milioni e non superiore a 3 miliardi?",
+      "answers": {
+        "a": "35%",
+        "b": "50%",
+        "c": "60%",
+        "d": "75%",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true,
+      "tags": [
+        "frequenze assolute",
+        "percentuali"
+      ],
+      "attachments": [
+        "1J_NChJjSVWCouGrrEFGqDMZVIEarb9MQ.jpg"
+      ]
     },
     {
       "answers": {},
