@@ -2266,13 +2266,19 @@
       "text": "Nella seguente immagine viene riportata la distribuzione dei punteggi ottenuti ad una sessione del TOL da una certa popolazione di studenti. Se ne deduce che:",
       "answers": {
         "a": "Gli studenti che hanno ottenuto un punteggio inferiore a 30 sono tanti quanti quelli che hanno ottenuto un punteggio compreso fra 30 e 60",
-        "b": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80  sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
-        "c": "Gli studenti che hanno ottenuto un punteggio inferiore a 70  sono più di quelli che hanno ottenuto un punteggio superiore a 90",
-        "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80  sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
-        "e": "Nessuna delle precedenti"
+        "b": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80 sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
+        "c": "Gli studenti che hanno ottenuto un punteggio inferiore a 70 sono più di quelli che hanno ottenuto un punteggio superiore a 90",
+        "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 90 sono più di quelli che hanno ottenuto un punteggio inferiore o uguale a 90",
+        "e": "Nessuna delle precedenti proposizioni è vera"
       },
       "correct": "e",
-      "validated": false
+      "validated": false,
+      "tags": [
+        "interpretazione di tabelle di percentuali"
+      ],
+      "attachments": [
+        "1c25GOlDzl1Xyamc_J2mcDLwOo82bUmLC.jpg"
+      ]
     },
     {
       "answers": {},
