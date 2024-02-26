@@ -291,7 +291,7 @@
       "validated": true,
       "tags": [
         "logica proposizionale",
-        "Negazione di una proposizione",
+        "negazione di una proposizione",
         "quantificatori universali ed esistenziali"
       ]
     },
@@ -1809,7 +1809,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "circonferenza gonimetrica",
+        "circonferenza goniometrica",
         "definizione di valore assoluto"
       ]
     },
@@ -2197,7 +2197,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "probabilità di eventi equiprobabili, frequenza relativa"
+        "probabilità di eventi equiprobabili, frequenze relative"
       ]
     },
     {
