@@ -2226,7 +2226,7 @@
     },
     {
       "id": "143",
-      "text": "L'età media degli studenti iscritti al primo anno del corso di Ingegneria informatica è pari a $18,5$ anni. L'età media degli studenti iscritti al quinto anno dello stesso corso è pari a $24,5$ anni. Sapendo che gli studenti del primo anno sono $700$ e quelli del quinto anno sono $300$, qual è la stima dell'età media dell'intera popolazione del corso di informatica?",
+      "text": "L'età media degli studenti iscritti al primo anno del corso di Ingegneria informatica è pari a $18,5$ anni. L'età media degli studenti iscritti al quinto anno dello stesso corso è pari a $24,5$ anni. Sapendo che gli studenti del primo anno sono $700$ e quelli del quinto anno sono $300$, qual è la stima dell'età media dell'intera popolazione del corso di Ingegneria informatica?",
       "answers": {
         "a": "$20$ anni e $6$ mesi",
         "b": "$20$ anni e $5$ mesi",
@@ -2262,7 +2262,16 @@
       ]
     },
     {
-      "answers": {},
+      "id": "145",
+      "text": "Nella seguente immagine viene riportata la distribuzione dei punteggi ottenuti ad una sessione del TOL da una certa popolazione di studenti. Se ne deduce che:",
+      "answers": {
+        "a": "Gli studenti che hanno ottenuto un punteggio inferiore a 30 sono tanti quanti quelli che hanno ottenuto un punteggio compreso fra 30 e 60",
+        "b": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80  sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
+        "c": "Gli studenti che hanno ottenuto un punteggio inferiore a 70  sono più di quelli che hanno ottenuto un punteggio superiore a 90",
+        "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80  sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "e",
       "validated": false
     },
     {
