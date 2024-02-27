@@ -1678,7 +1678,14 @@
         "e": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "area di un triangolo",
+        "teorema del seno",
+        "area di un cerchio, area di un settore circolare",
+        "insieme intersezione",
+        "insieme complementare."
+      ]
     },
     {
       "id": "111",
