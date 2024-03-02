@@ -2339,7 +2339,7 @@
         "e": "475"
       },
       "correct": "b",
-      "validated": true,
+      "validated": false,
       "tags": [
         "frequenze assolute",
         "frequenze relative"
