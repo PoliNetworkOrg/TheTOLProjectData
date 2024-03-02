@@ -2243,7 +2243,8 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "frequenze assolute e relative",
+        "frequenze assolute",
+        "frequenze relative",
         "proporzioni"
       ]
     },
@@ -2278,7 +2279,7 @@
         "e": "Nessuna delle precedenti proposizioni è vera"
       },
       "correct": "e",
-      "validated": false,
+      "validated": true,
       "tags": [
         "interpretazione di tabelle di percentuali"
       ],
@@ -2287,8 +2288,21 @@
       ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "146",
+      "text": "Siano $x_1$, $x_2$, $x_3$ e $x_4$ i valori che descrivono la modalità di una rilevazione. Sapendo che la frequenza di $x_ 1$ è uguale a 20, la frequenza relativa di $x_2$ è uguale a 5%, quella di $x_4$ è uguale a 11% e che il totale delle frequenze è 500, qual è la frequenza di $x_3$? ",
+      "answers": {
+        "a": "375",
+        "b": "400",
+        "c": "425",
+        "d": "450",
+        "e": "475"
+      },
+      "correct": "b",
+      "validated": false,
+      "tags": [
+        "frequenze assolute",
+        "frequenze relative"
+      ]
     },
     {
       "answers": {},
