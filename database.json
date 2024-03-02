@@ -887,7 +887,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenente i quantificatori \"per ogni\""
+        "negazione di una proposizione contenente i quantificatori \"per ogni\" ed \"esiste\""
       ]
     },
     {
@@ -1188,7 +1188,10 @@
         "e": "Ferruccio dice sempre la verità, anche quando mente"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenenti i quantificatori \"esiste\""
+      ]
     },
     {
       "id": "74",
@@ -1647,7 +1650,12 @@
         "e": "$\\frac{3\\pi}{2} -\\sqrt2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "interpretazione grafica di una disequazione",
+        "insieme intersezione",
+        "insieme complementare"
+      ]
     },
     {
       "id": "107",
@@ -1660,7 +1668,10 @@
         "e": "70%"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi indipendenti"
+      ]
     },
     {
       "id": "108",
@@ -1673,7 +1684,11 @@
         "e": "$\\frac{\\pi}{k}$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "periodicità di una funzione goniometrica",
+        "distanza tra due punti"
+      ]
     },
     {
       "id": "109",
@@ -1686,7 +1701,12 @@
         "e": "$0,96$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà del triangolo isoscele",
+        "archi associati",
+        "formula di duplicazione del seno"
+      ]
     },
     {
       "id": "110",
@@ -1705,7 +1725,7 @@
         "teorema del seno",
         "area di un cerchio, area di un settore circolare",
         "insieme intersezione",
-        "insieme complementare."
+        "insieme complementare"
       ]
     },
     {
