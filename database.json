@@ -1548,7 +1548,13 @@
         "e": "$A \\cup B$ = {$x \\in \\Reals | -3 < x < 3$}"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni algebriche",
+        "studio del segno",
+        "intersezione tra due insiemi",
+        "unione tra due insiemi"
+      ]
     },
     {
       "id": "101",
@@ -1574,7 +1580,11 @@
         "e": "41"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disuguaglianze su frazioni",
+        "divisibilità di un numero"
+      ]
     },
     {
       "id": "103",
@@ -1587,7 +1597,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni lineari"
+      ]
     },
     {
       "id": "104",
@@ -1600,7 +1613,11 @@
         "e": "49 e 50"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi",
+        "formula del cambiamento di base per i logaritmi"
+      ]
     },
     {
       "id": "105",
@@ -1613,7 +1630,11 @@
         "e": "10"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità complementare",
+        "distribuzione binomiale"
+      ]
     },
     {
       "id": "106",
