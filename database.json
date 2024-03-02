@@ -2289,7 +2289,7 @@
     },
     {
       "id": "146",
-      "text": "Siano $x_1$, $x_2$, $x_3$ e $x_4$ i valori che descrivono la modalità di una rilevazione. Sapendo che la frequenza di $x_ 1$ è uguale a 20, la frequenza relativa di $x_2$ è uguale a 5%, quella di $x_4$ è uguale a 11% e che il totale delle frequenze è 500, qual è la frequenza di $x_3$? ",
+      "text": "Siano $x_1$, $x_2$, $x_3$, $x_4$ i valori che descrivono la modalità di una rilevazione. Sapendo che la frequenza di $x_ 1$ è uguale a 20, quella di $x_2$ è uguale a 25, la frequenza relativa di $x_4$ è uguale a 11% e che il totale delle frequenze è 500, qual è la frequenza di $x_3$? ",
       "answers": {
         "a": "375",
         "b": "400",
