@@ -1068,7 +1068,10 @@
         "e": "$(x-1)^2+(y-2)^2=9$  ,  $x^2+y^2-2x-4y=0$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi, funzione esponenziale, riconoscimento luoghi descritti da equazioni"
+      ]
     },
     {
       "id": "65",
@@ -1082,6 +1085,9 @@
       },
       "correct": "a",
       "validated": true,
+      "tags": [
+        "riconoscimento luoghi descritti da equazioni"
+      ],
       "attachments": [
         "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
       ]
@@ -1110,7 +1116,10 @@
         "e": "$\\frac{1}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "relazioni tra funzioni trigonometriche, ricerca massimo di una funzione"
+      ]
     },
     {
       "id": "68",
@@ -1123,7 +1132,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo della media"
+      ]
     },
     {
       "id": "69",
@@ -1136,7 +1148,10 @@
         "e": "$p(x)=x+1$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "formula per scrivere tutti inumeri pari/dispari  a partire da numeri naturali"
+      ]
     },
     {
       "id": "70",
@@ -1149,7 +1164,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "intersezione di grafici di funzione, proprietà delle potenze"
+      ]
     },
     {
       "id": "71",
