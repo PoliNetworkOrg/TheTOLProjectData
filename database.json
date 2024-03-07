@@ -1180,7 +1180,10 @@
         "e": "$-1 < k \\leqslant 0$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "funzioni trigonometriche, disequazioni fratte"
+      ]
     },
     {
       "id": "72",
