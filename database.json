@@ -1406,7 +1406,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "significato geometrico dei parametri m e q nell'equazione della retta y=mx+q",
+        "significato geometrico dei parametri dell'equazione di una retta in forma esplicita",
         "passaggio per punti assegnati",
         "proprietà dei logaritmi"
       ]
@@ -1422,7 +1422,12 @@
         "e": "Un rettangolo con base 4 e altezza uguale alla radice cubica del raggio della circonferenza in cui è inscritto"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "perimetro di un rettangolo",
+        "riconoscimento di luoghi descritti da equazioni",
+        "vertice della parabola con asse verticale"
+      ]
     },
     {
       "id": "87",
@@ -1435,7 +1440,11 @@
         "e": "$\\overline{PC}=4\\sqrt{2}$ cm"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "criteri di similitudine dei triangoli",
+        "area del triangolo"
+      ]
     },
     {
       "id": "88",
