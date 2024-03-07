@@ -2357,7 +2357,7 @@
         "e": "475"
       },
       "correct": "b",
-      "validated": false,
+      "validated": true,
       "tags": [
         "frequenze assolute",
         "frequenze relative"
