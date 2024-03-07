@@ -1196,7 +1196,10 @@
         "e": "30 minuti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica"
+      ]
     },
     {
       "id": "73",
@@ -1211,7 +1214,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenenti i quantificatori \"esiste\""
+        "negazione di una proposizione contenennte una negazione"
       ]
     },
     {
@@ -1225,7 +1228,12 @@
         "e": "Vera $\\iff sin(x)=cos(x)$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "identità fondamentale della goniometria",
+        "proprietà dei logaritmi",
+        "quadrato di un binomio"
+      ]
     },
     {
       "id": "75",
@@ -1238,7 +1246,11 @@
         "e": "16 $cm$ e 10 $cm$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "area di un rettangolo",
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "76",
@@ -1251,7 +1263,11 @@
         "e": "Dipende dal lato del cubo"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "formule per i volumi della sfera e del cubo",
+        "percentuali"
+      ]
     },
     {
       "id": "77",
@@ -1264,7 +1280,10 @@
         "e": "$150^{\\circ}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "incentro di un triangolo"
+      ]
     },
     {
       "id": "78",
@@ -1277,7 +1296,10 @@
         "e": "Dopo il diciasettesimo giorno"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "funzione lineare ed esponenziale"
+      ]
     },
     {
       "id": "79",
@@ -1290,7 +1312,11 @@
         "e": "40%"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni tra insiemi",
+        "insieme complementare"
+      ]
     },
     {
       "id": "80",
@@ -1303,7 +1329,11 @@
         "e": "Nessuna delle precedenti "
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di cotangente",
+        "formula di sottrazione della tangente"
+      ]
     },
     {
       "id": "81",
@@ -1316,7 +1346,10 @@
         "e": "$\\frac{13}{5}$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione delle funzioni seno e tangente"
+      ]
     },
     {
       "id": "82",
@@ -1329,7 +1362,10 @@
         "e": "88%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità del complementare di un evento"
+      ]
     },
     {
       "id": "83",
