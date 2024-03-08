@@ -1457,7 +1457,11 @@
         "e": "$\\sqrt{2}$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione della circonferenza",
+        "formula della distanza tra due punti"
+      ]
     },
     {
       "id": "89",
@@ -1470,7 +1474,11 @@
         "e": "4"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "circonferenza trigonometrica",
+        "metodo dell'angolo aggiunto"
+      ]
     },
     {
       "id": "90",
@@ -1483,7 +1491,10 @@
         "e": "$log_3{5}$ , $2$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni esponenziali risolvibili mediante sostituzione di variabile"
+      ]
     },
     {
       "id": "91",
@@ -1587,7 +1598,10 @@
         "e": "$n=10$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione di queazioni algebriche con incognita naturale all'indice di radice"
+      ]
     },
     {
       "id": "99",
