@@ -1585,7 +1585,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "Risoluzione di disequazioni algebriche fratte di secondo grado"
+      ]
     },
     {
       "id": "98",
@@ -1600,7 +1603,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "risoluzione di queazioni algebriche con incognita naturale all'indice di radice"
+        "risoluzione di equazioni algebriche con incognita naturale all'indice di radice"
       ]
     },
     {
