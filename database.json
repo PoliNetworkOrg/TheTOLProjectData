@@ -2450,13 +2450,13 @@
     },
     {
       "id": "147",
-      "text": "Ogni anno il Politecnico di Milano definisce i posti disponibili per ciascun corso di studio. Nella seguente immagine viene riportato un istogramma dei posti disponibili per l'anno accademico 2024/2025, raggruppati nelle quattro Scuole dell'Ateneo. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
+      "text": "Ogni anno il Politecnico di Milano definisce i posti disponibili per ciascun corso di studio. La seguente immagine riporta i totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole dell'Ateneo. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
       "answers": {
-        "a": "$40°$",
-        "b": "$39,9°$",
-        "c": "$39,98°$",
-        "d": "$39,89°$",
-        "e": "$39,90°$"
+        "a": "$40°$ circa",
+        "b": "$39°$ circa",
+        "c": "$38°$ circa",
+        "d": "$37°$ circa",
+        "e": "$36°$ circa"
       },
       "correct": "a",
       "validated": false,
