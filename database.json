@@ -2348,7 +2348,7 @@
     },
     {
       "id": "141",
-      "text": "Quanti sono i divisori di $10!$?",
+      "text": "Quanti sono i divisori di $10!$ (10 fattoriale)?",
       "answers": {
         "a": "$2 \\cdot 5!$",
         "b": "$250$",
