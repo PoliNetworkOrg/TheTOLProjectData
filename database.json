@@ -137,7 +137,8 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "operazioni aritmetiche su numeri naturali, conteggio"
+        "operazioni aritmetiche su numeri naturali",
+        "conteggio"
       ]
     },
     {
@@ -1036,7 +1037,7 @@
       "validated": true,
       "tags": [
         "disequazioni irrazionali con indice pari",
-        "definizione di vallore assoluto"
+        "definizione di valore assoluto"
       ]
     },
     {
@@ -1070,7 +1071,9 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "proprietà dei logaritmi, funzione esponenziale, riconoscimento luoghi descritti da equazioni"
+        "proprietà dei logaritmi",
+        "funzione esponenziale",
+        "riconoscimento luoghi descritti da equazioni"
       ]
     },
     {
@@ -1166,7 +1169,8 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "intersezione di grafici di funzione, proprietà delle potenze"
+        "intersezione di grafici di funzione",
+        "proprietà delle potenze"
       ]
     },
     {
@@ -1182,7 +1186,8 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "funzioni trigonometriche, disequazioni fratte"
+        "funzioni trigonometriche",
+        "disequazioni fratte"
       ]
     },
     {
@@ -2450,7 +2455,7 @@
     },
     {
       "id": "147",
-      "text": "Ogni anno il Politecnico di Milano definisce i posti disponibili per ciascun corso di studio. La seguente immagine riporta i totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole dell'Ateneo. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
+      "text": "La seguente immagine riporta i totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole del Politecnico di Milano. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
       "answers": {
         "a": "$40°$ circa",
         "b": "$39°$ circa",
@@ -2459,7 +2464,7 @@
         "e": "$36°$ circa"
       },
       "correct": "a",
-      "validated": false,
+      "validated": true,
       "tags": [
         "diagrammi di frequenze e istogrammi",
         "proporzioni"
