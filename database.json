@@ -2399,7 +2399,7 @@
     },
     {
       "id": "144",
-      "text": "Nella seguente immagine viene riportata la distribuzione delle aziende chimiche secondo il fatturato annuo in milioni di euro. Qual è la percentuale di aziende con fatturato annuo superiore a 750 milioni e non superiore a 3 miliardi?",
+      "text": "La seguente immagine riporta la distribuzione delle aziende chimiche secondo il fatturato annuo in milioni di euro. Qual è la percentuale di aziende con fatturato annuo superiore a 750 milioni e non superiore a 3 miliardi?",
       "answers": {
         "a": "35%",
         "b": "50%",
@@ -2419,7 +2419,7 @@
     },
     {
       "id": "145",
-      "text": "Nella seguente immagine viene riportata la distribuzione dei punteggi ottenuti ad una sessione del TOL da una certa popolazione di studenti. Se ne deduce che:",
+      "text": "La seguente immagine riporta la distribuzione dei punteggi ottenuti ad una sessione del TOL da una certa popolazione di studenti. Se ne deduce che:",
       "answers": {
         "a": "Gli studenti che hanno ottenuto un punteggio inferiore a 30 sono tanti quanti quelli che hanno ottenuto un punteggio compreso fra 30 e 60",
         "b": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80 sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
@@ -2455,7 +2455,7 @@
     },
     {
       "id": "147",
-      "text": "La seguente immagine riporta i totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole del Politecnico di Milano. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
+      "text": "La seguente immagine riporta il totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole del Politecnico di Milano. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
       "answers": {
         "a": "$40°$ circa",
         "b": "$39°$ circa",
@@ -2466,7 +2466,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "diagrammi di frequenze e istogrammi",
+        "interpretazione di diagrammi",
         "proporzioni"
       ],
       "attachments": [
