@@ -1546,7 +1546,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni lineari in seno e coseno"
+      ]
     },
     {
       "id": "94",
@@ -1679,7 +1682,11 @@
         "e": "Circa 33.33%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "incremento percentuale",
+        "decremento percentuale"
+      ]
     },
     {
       "id": "102",
@@ -1814,7 +1821,7 @@
       "tags": [
         "proprietà del triangolo isoscele",
         "archi associati",
-        "formula di duplicazione del seno"
+        "duplicazione del seno"
       ]
     },
     {
@@ -1830,7 +1837,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "area di un triangolo",
+        "area del triangolo",
         "teorema del seno",
         "area di un cerchio, area di un settore circolare",
         "insieme intersezione",
@@ -1886,7 +1893,8 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "volumi di figure solide",
+        "volume della sfera",
+        "volume del cubo",
         "probabilità di eventi equiprobabili"
       ]
     },
@@ -1956,7 +1964,8 @@
       "validated": true,
       "tags": [
         "duplicazione del coseno",
-        "equazioni di retta e circonferenza",
+        "equazioni della retta",
+        "equazione della circonferenza",
         "insieme intersezione"
       ]
     },
@@ -2043,7 +2052,7 @@
       "tags": [
         "sistema di equazioni",
         "proprietà dei logaritmi",
-        "cambiamento di base"
+        "formula del cambiamento di base per i logaritmi"
       ]
     },
     {
@@ -2092,7 +2101,6 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "geometria analitica piana",
         "riconoscimento di luoghi descritti da equazioni"
       ]
     },
@@ -2263,6 +2271,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
+        "probabilità di eventi equiprobabili",
         "probabilità di eventi indipendenti"
       ]
     },
@@ -2344,7 +2353,8 @@
       "validated": true,
       "tags": [
         "fattorizzazione in numeri primi",
-        "multipli e divisori"
+        "multipli",
+        "divisori"
       ]
     },
     {
@@ -2361,7 +2371,7 @@
       "validated": true,
       "tags": [
         "fattorizzazione in numeri primi",
-        "divisori di un numero"
+        "divisori"
       ]
     },
     {
