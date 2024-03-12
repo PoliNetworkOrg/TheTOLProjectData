@@ -171,7 +171,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "calcolo combinatorio",
+        "calcolo probabilità",
         "proprietà di moltiplicazione dei numeri naturali"
       ]
     },
@@ -291,7 +291,6 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "logica proposizionale",
         "negazione di una proposizione",
         "quantificatore universale",
         "quantificatore esistenziale"
@@ -444,7 +443,6 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "problemi di geometria piana",
         "teorema di Pitagora"
       ]
     },
@@ -513,7 +511,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "probabilità",
+        "probabilità di eventi equiprobabili",
         "minimo comune multiplo",
         "multipli"
       ]
@@ -532,8 +530,8 @@
       "validated": true,
       "tags": [
         "sistema di equazioni",
-        "intersezioni tra curve",
-        "interpretazione grafica di equazioni"
+        "insieme intersezione",
+        "interpretazione di equazioni nel piano cartesiano"
       ]
     },
     {
@@ -549,8 +547,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "probabilità",
-        "calcolo combinatorio",
+        "probabilità di eventi equiprobabili",
         "disposizione con ripetizione"
       ]
     },
@@ -649,8 +646,8 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "forma implicita e forma esplicita di un'equazione algebrica",
-        "condizione di perpendicolarità"
+        "equazione di una retta in forma esplicita equazione di una retta in forma implicita",
+        "condizione di perpendicolarità tra rette"
       ]
     },
     {
@@ -666,8 +663,8 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "probabilità",
-        "eventi dipendenti"
+        "probabilità di eventi equiprobabili",
+        "probabilità di eventi dipendenti"
       ]
     },
     {
@@ -684,7 +681,7 @@
       "validated": true,
       "tags": [
         "disequazioni algebriche",
-        "studio del segno"
+        "regola del segno"
       ]
     },
     {
@@ -839,7 +836,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "proprietà dei triangoli"
+        "disugualianza triangolare"
       ]
     },
     {
@@ -871,8 +868,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "calcolo combinatorio",
-        "permutazioni"
+        "permutazioni con ripetizione"
       ]
     },
     {
@@ -970,7 +966,9 @@
       "validated": true,
       "tags": [
         "geometria sintetica piana",
-        "somma di angoli interni di un trinagolo e punti notevoli, bisettrice di un angolo"
+        "somma di angoli interni di un trinagolo",
+        "punti notevoli di un triangolo",
+        "bisettrice di un angolo"
       ]
     },
     {
@@ -1053,7 +1051,6 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "geometria analitica piana",
         "riconoscimento di luoghi descritti da equazioni",
         "equazione generale di una conica"
       ]
@@ -1071,8 +1068,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "proprietà dei logaritmi",
-        "funzione esponenziale",
+        "dominio di funzioni",
         "riconoscimento luoghi descritti da equazioni"
       ]
     },
@@ -1137,7 +1133,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "calcolo della media"
+        "media aritmetica"
       ]
     },
     {
@@ -1219,7 +1215,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenennte una negazione"
+        "negazione di una proposizione contenente una negazione"
       ]
     },
     {
@@ -1270,7 +1266,8 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "formule per i volumi della sfera e del cubo",
+        "volume della sfera",
+        "volume del cubo",
         "percentuali"
       ]
     },
@@ -1303,7 +1300,8 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "funzione lineare ed esponenziale"
+        "funzione lineare",
+        "funzone esponenziale"
       ]
     },
     {
@@ -1353,7 +1351,9 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "definizione delle funzioni seno e tangente"
+        "teorema dei seni",
+        "teorema di pitagora",
+        "definizione di tangente"
       ]
     },
     {
@@ -1369,7 +1369,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "probabilità del complementare di un evento"
+        "probabilità dell'evento complemetare"
       ]
     },
     {
@@ -1498,7 +1498,8 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "equazioni esponenziali risolvibili mediante sostituzione di variabile"
+        "equazioni esponenziali",
+        "sostituzione di variabile"
       ]
     },
     {
@@ -1560,7 +1561,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "perimetro di una circonferenza",
+        "perimetro della circonferenza",
         "esclusioni"
       ]
     },
@@ -1577,7 +1578,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "perimetro di un triangolo noti i vertici",
+        "perimetro del triangolo noti i vertici",
         "insieme complemetare"
       ]
     },
@@ -1595,8 +1596,8 @@
       "validated": true,
       "tags": [
         "criteri di similitudine dei triangoli",
-        "volume di un cono",
-        "volume di un tronco di cono"
+        "volume del cono",
+        "volume del tronco di cono"
       ]
     },
     {
@@ -1612,7 +1613,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "Risoluzione di disequazioni algebriche fratte di secondo grado"
+        "disequazioni algebriche fratte di secondo grado"
       ]
     },
     {
@@ -1663,8 +1664,8 @@
       "tags": [
         "disequazioni algebriche",
         "studio del segno",
-        "intersezione tra due insiemi",
-        "unione tra due insiemi"
+        "insieme intersezione",
+        "insieme unione"
       ]
     },
     {
@@ -1693,8 +1694,8 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "disuguaglianze su frazioni",
-        "divisibilità di un numero"
+        "disequazioni algebriche",
+        "divisori"
       ]
     },
     {
@@ -2376,7 +2377,8 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "probabilità di eventi equiprobabili, frequenze relative"
+        "probabilità di eventi equiprobabili",
+        "frequenze relative"
       ]
     },
     {
