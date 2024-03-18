@@ -837,7 +837,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "disugualianza triangolare"
+        "disegualianza triangolare"
       ]
     },
     {
@@ -901,7 +901,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenente i quantificatori \"esiste\"",
+        "negazione di una proposizione contenente il quantificatore \"esiste\"",
         "prima legge di De Morgan"
       ]
     },
@@ -966,7 +966,6 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "geometria sintetica piana",
         "somma di angoli interni di un trinagolo",
         "punti notevoli di un triangolo",
         "bisettrice di un angolo"
@@ -1070,7 +1069,7 @@
       "validated": true,
       "tags": [
         "dominio di funzioni",
-        "riconoscimento luoghi descritti da equazioni"
+        "riconoscimento di luoghi descritti da equazioni"
       ]
     },
     {
@@ -1086,7 +1085,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "riconoscimento luoghi descritti da equazioni"
+        "riconoscimento di luoghi descritti da equazioni"
       ],
       "attachments": [
         "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
@@ -1370,7 +1369,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "probabilità dell'evento complemetare"
+        "probabilità dell'evento complementare"
       ]
     },
     {
@@ -1449,7 +1448,8 @@
       "validated": true,
       "tags": [
         "criteri di similitudine dei triangoli",
-        "area del triangolo"
+        "area del triangolo",
+        "area del trapezio"
       ]
     },
     {
@@ -1583,7 +1583,7 @@
       "validated": true,
       "tags": [
         "perimetro del triangolo noti i vertici",
-        "insieme complemetare"
+        "insieme complementare"
       ]
     },
     {
@@ -1965,7 +1965,7 @@
       "validated": true,
       "tags": [
         "duplicazione del coseno",
-        "equazioni della retta",
+        "equazione della retta",
         "equazione della circonferenza",
         "insieme intersezione"
       ]
