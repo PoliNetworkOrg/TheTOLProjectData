@@ -68,7 +68,7 @@
       "validated": true,
       "tags": [
         "grafici notevoli di funzioni elementari",
-        "equazioni non risolvibili algebricamente"
+        "equazioni risolvibili graficamente"
       ]
     },
     {
@@ -155,8 +155,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "teorema dei seni",
-        "area di un triangolo"
+        "formula trigonometrica per calcolare l'area di un triangolo qualsiasi"
       ]
     },
     {
@@ -1002,7 +1001,7 @@
       "validated": true,
       "tags": [
         "grafici notevoli di funzioni elementari",
-        "equazioni non risolvibili algebricamente"
+        "equazioni risolvibili graficamente"
       ]
     },
     {
@@ -1035,7 +1034,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "disequazioni irrazionali con indice pari",
+        "disequazioni irrazionali",
         "definizione di valore assoluto"
       ]
     },
@@ -1217,7 +1216,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenente una negazione"
+        "negazione di una proposizione contenente la doppia negazione"
       ]
     },
     {
@@ -1234,8 +1233,7 @@
       "validated": true,
       "tags": [
         "identità fondamentale della goniometria",
-        "proprietà dei logaritmi",
-        "quadrato di un binomio"
+        "proprietà dei logaritmi"
       ]
     },
     {
