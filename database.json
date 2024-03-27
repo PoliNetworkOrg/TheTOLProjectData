@@ -86,7 +86,7 @@
       "tags": [
         "operazioni aritmetiche",
         "equazioni di primo grado",
-        "sistema di equazioni"
+        "sistemi lineari"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "validated": true,
       "tags": [
         "proprietà delle funzioni logaritmiche",
-        "funzioni con termini in valore assoluto"
+        "trasformazioni e  grafici di una funzione"
       ],
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
@@ -122,7 +122,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "risoluzione di disequazioni algebriche"
+        "risoluzione di disequazioni"
       ]
     },
     {
@@ -138,8 +138,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "operazioni aritmetiche su numeri naturali",
-        "conteggio"
+        "operazioni aritmetiche su numeri naturali"
       ]
     },
     {
@@ -171,8 +170,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "calcolo probabilità",
-        "proprietà di moltiplicazione dei numeri naturali"
+        "calcolo combinatorio"
       ]
     },
     {
@@ -188,8 +186,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "equazioni goniometriche",
-        "periodicità di funzioni goniometriche"
+        "grafici di funzioni goniometriche"
       ]
     },
     {
@@ -206,7 +203,7 @@
       "validated": true,
       "tags": [
         "operazioni aritmetiche",
-        "conteggio"
+        "numeri naturali"
       ]
     },
     {
@@ -224,7 +221,7 @@
       "tags": [
         "studio del segno di una funzione quadratica",
         "radici di una funzione quadratica",
-        "numeri interi"
+        "scomposizione di un trinomio di secondo grado"
       ]
     },
     {
@@ -258,7 +255,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "discriminante di un polinomio quadratico",
+        "prodotti notevoli",
         "principio di identità dei polinomi"
       ]
     },
@@ -309,8 +306,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "proprietà dei logaritmi",
-        "proprietà dei numeri interi"
+        "proprietà dei logaritmi"
       ]
     },
     {
@@ -326,7 +322,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "sistema di equazioni"
+        "sistemi lineari"
       ]
     },
     {
@@ -359,8 +355,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "calcolo combinatorio",
-        "coefficiente binomiale"
+        "calcolo combinatorio"
       ]
     },
     {
@@ -494,8 +489,10 @@
       "validated": true,
       "tags": [
         "legge di annullamento del prodotto",
-        "equazioni algebriche di secondo e terzo grado",
-        "proprietà dei numeri razionali"
+        "equazioni algebriche di grado maggiore o uguale a due",
+        "radici algebriche con indice pari",
+        "radici algebriche con indice dispari",
+        "definizione di numero irrazionale"
       ]
     },
     {
@@ -530,7 +527,6 @@
       "validated": true,
       "tags": [
         "sistema di equazioni",
-        "insieme intersezione",
         "interpretazione di equazioni nel piano cartesiano"
       ]
     },
@@ -564,7 +560,8 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "proprietà dei logaritmi"
+        "proprietà dei logaritmi",
+        "formula del cambiamento di base"
       ]
     },
     {
@@ -648,7 +645,8 @@
       "tags": [
         "equazione di una retta in forma esplicita",
         "equazione di una retta in forma implicita",
-        "condizione di perpendicolarità tra rette"
+        "condizione di perpendicolarità tra rette",
+        "condizione di parallelismo"
       ]
     },
     {
@@ -681,8 +679,9 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "disequazioni algebriche",
-        "regola del segno"
+        "disequazioni",
+        "regola del segno",
+        "proprietà della funzione esponenziale"
       ]
     },
     {
@@ -698,8 +697,8 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "risoluzione di espressioni goniometriche",
-        "identità fondamentale della goniometria"
+        "identità fondamentale della goniometria",
+        "definizione di tangente"
       ]
     },
     {
@@ -771,7 +770,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "proprietà delle potenze"
+        "operazione con le potenze"
       ]
     },
     {
@@ -885,7 +884,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenente i quantificatori \"per ogni\" ed \"esiste\""
+        "uso dei quantificatori esistenziale e universale"
       ]
     },
     {
@@ -901,8 +900,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "negazione di una proposizione contenente il quantificatore \"esiste\"",
-        "prima legge di De Morgan"
+        "uso dei quantificatori e prima legge di De Morgan"
       ]
     },
     {
@@ -1482,8 +1480,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "circonferenza trigonometrica",
-        "metodo dell'angolo aggiunto"
+        "equazione lineare in seno e coseno, metodo grafio, metodo dell'angolo aggiunto"
       ]
     },
     {
@@ -1516,7 +1513,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "equazioni lineari in seno e coseno"
+        "funzione lineare in seno e coseno"
       ]
     },
     {
@@ -1633,7 +1630,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "risoluzione di equazioni algebriche con incognita naturale all'indice di radice"
+        "risoluzione di equazione algebrica irrazionale"
       ]
     },
     {
@@ -1649,8 +1646,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "somma degli angoli interni di un poligono",
-        "teorema della geometria euclidea"
+        "somma degli angoli interni di un poligono"
       ]
     },
     {
@@ -1752,8 +1748,8 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "probabilità complementare",
-        "distribuzione binomiale"
+        "prove ripetute",
+        "formula di Bernoulli"
       ]
     },
     {
@@ -1803,8 +1799,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "periodicità di una funzione goniometrica",
-        "distanza tra due punti"
+        "periodo di funzioni goniometriche"
       ]
     },
     {
