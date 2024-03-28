@@ -103,7 +103,7 @@
       "validated": true,
       "tags": [
         "proprietà delle funzioni logaritmiche",
-        "trasformazioni e  grafici di una funzione"
+        "trasformazioni e grafici di una funzione"
       ],
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
@@ -1332,8 +1332,8 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "definizione di cotangente",
-        "formula di sottrazione della tangente"
+        "teoremi sui triangoli rettangoli",
+        "formule goniometriche"
       ]
     },
     {
@@ -1349,9 +1349,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "teorema dei seni",
-        "teorema di pitagora",
-        "definizione di tangente"
+        "relazioni fondamentali della goniometria"
       ]
     },
     {
@@ -1367,6 +1365,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
+        "probabilità di eventi indipendenti",
         "probabilità dell'evento complementare"
       ]
     },
@@ -1480,7 +1479,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "equazione lineare in seno e coseno, metodo grafio, metodo dell'angolo aggiunto"
+        "equazione lineare in seno e coseno, metodo grafico, metodo dell'angolo aggiunto"
       ]
     },
     {
@@ -1562,8 +1561,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "perimetro della circonferenza",
-        "esclusioni"
+        "perimetro della circonferenza"
       ]
     },
     {
@@ -1579,7 +1577,7 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "perimetro del triangolo noti i vertici",
+        "area del triangolo noti i vertici",
         "insieme complementare"
       ]
     },
@@ -1853,7 +1851,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "rappresentazione intensiva di insiemi",
+        "appresentazione caratteristica di insiemi",
         "operazioni tra insiemi",
         "numeri naturali",
         "parità dello zero"
@@ -2164,7 +2162,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "rappresentazione intensiva di insiemi",
+        "rappresentazione caratteristica di insiemi",
         "equazione della circonferenza",
         "piano cartesiano"
       ]
@@ -2284,8 +2282,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "logica proposizionale",
-        "implicazione logica"
+        "implicazione"
       ]
     },
     {
@@ -2367,7 +2364,8 @@
       "validated": true,
       "tags": [
         "fattorizzazione in numeri primi",
-        "divisori"
+        "divisori",
+        "proprietà dei divisori"
       ]
     },
     {
@@ -2401,8 +2399,7 @@
       "validated": true,
       "tags": [
         "frequenze assolute",
-        "frequenze relative",
-        "proporzioni"
+        "frequenze relative"
       ]
     },
     {
@@ -2419,6 +2416,7 @@
       "validated": true,
       "tags": [
         "frequenze assolute",
+        "interpretazione di tabelle",
         "percentuali"
       ],
       "attachments": [
