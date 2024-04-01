@@ -404,7 +404,8 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "grafici notevoli di funzioni elementari"
+        "definizione di logaritmo",
+        "domini di funzioni"
       ]
     },
     {
@@ -421,8 +422,7 @@
       "validated": true,
       "tags": [
         "triangolo equilatero inscritto in una circonferenza",
-        "bisettrice di un angolo",
-        "teorema di Pitagora"
+        "bisettrice di un angolo"
       ]
     },
     {
@@ -438,7 +438,10 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "teorema di Pitagora"
+        "teorema di Pitagora",
+        "quadrato inscritto in una circonferenza",
+        "quadrato circoscritto ad una circonferenza",
+        "bisettrice di un angolo"
       ]
     },
     {
@@ -455,8 +458,7 @@
       "validated": true,
       "tags": [
         "equazioni goniometriche",
-        "identità fondamentale della goniometria",
-        "sostituzione di variabile"
+        "angoli notevoli di funzioni goniometriche"
       ]
     },
     {
@@ -472,7 +474,8 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "proprietà delle potenze"
+        "proprietà delle potenze",
+        "confronto tra numeri"
       ]
     },
     {
@@ -680,7 +683,6 @@
       "validated": true,
       "tags": [
         "disequazioni",
-        "regola del segno",
         "proprietà della funzione esponenziale"
       ]
     },
@@ -770,7 +772,8 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "operazione con le potenze"
+        "proprietà delle potenze",
+        "operazioni con le potenze"
       ]
     },
     {
@@ -900,7 +903,8 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "uso dei quantificatori e prima legge di De Morgan"
+        "uso dei quantificatori",
+        "prima legge di De Morgan"
       ]
     },
     {
@@ -1066,7 +1070,6 @@
       "correct": "c",
       "validated": true,
       "tags": [
-        "dominio di funzioni",
         "riconoscimento di luoghi descritti da equazioni"
       ]
     },
@@ -1116,7 +1119,9 @@
       "validated": true,
       "tags": [
         "relazioni tra funzioni trigonometriche",
-        "ricerca massimo di una funzione"
+        "ricerca massimo di una funzione",
+        "equazioni lineari in seno e coseno",
+        "operazioni tra grafici"
       ]
     },
     {
@@ -1148,7 +1153,8 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "formula per scrivere tutti i numeri pari/dispari  a partire da numeri naturali"
+        "numeri pari",
+        "numeri dispari"
       ]
     },
     {
@@ -1164,7 +1170,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "intersezione di grafici di funzione",
+        "risoluzione grafica di equazioni",
         "proprietà delle potenze"
       ]
     },
@@ -1479,7 +1485,9 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "equazione lineare in seno e coseno, metodo grafico, metodo dell'angolo aggiunto"
+        "equazione lineare in seno e coseno",
+        "equazioni risolvibili graficamente",
+        "metodo dell'angolo aggiunto"
       ]
     },
     {
@@ -1545,7 +1553,7 @@
       "correct": "b",
       "validated": true,
       "tags": [
-        "equazioni lineari in seno e coseno"
+        "caratteristiche delle funzioni"
       ]
     },
     {
@@ -1851,7 +1859,7 @@
       "correct": "e",
       "validated": true,
       "tags": [
-        "appresentazione caratteristica di insiemi",
+        "rappresentazione caratteristica di insiemi",
         "operazioni tra insiemi",
         "numeri naturali",
         "parità dello zero"
@@ -1976,7 +1984,8 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "definizione di funzioni strettamente crescenti, funzione potenza"
+        "definizione di funzioni strettamente crescenti",
+        "funzione potenza"
       ]
     },
     {
