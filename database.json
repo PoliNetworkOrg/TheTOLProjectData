@@ -226,7 +226,7 @@
     },
     {
       "id": "14",
-      "text": "La parte intera del numero $log_{10}(2021)$ vale:",
+      "text": "Quanto vale $log_{10}(2021)$ approssimato all'intero più vicino?",
       "answers": {
         "a": "202",
         "b": "3",
