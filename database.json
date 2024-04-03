@@ -14,7 +14,11 @@
         "e": "Non ci sono informazioni sufficienti per rispondere"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "segno del discriminante di un'equazione completa di secondo grado",
+        "rappresentazione grafica di una parabola"
+      ]
     },
     {
       "id": "2",
@@ -27,7 +31,11 @@
         "e": "E' possibile determinare la base ma non è $a$, nè $b$, nè $c$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di logaritmo",
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "3",
@@ -40,7 +48,11 @@
         "e": "$4\\pi /3$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni goniometriche",
+        "identità fondamentale della goniometria"
+      ]
     },
     {
       "id": "4",
@@ -53,7 +65,11 @@
         "e": "Infinite"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "grafici notevoli di funzioni elementari",
+        "equazioni risolvibili graficamente"
+      ]
     },
     {
       "id": "5",
@@ -66,7 +82,12 @@
         "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "equazioni di primo grado",
+        "sistemi lineari"
+      ]
     },
     {
       "id": "6",
@@ -80,6 +101,10 @@
       },
       "correct": "d",
       "validated": true,
+      "tags": [
+        "proprietà delle funzioni logaritmiche",
+        "trasformazioni e grafici di una funzione"
+      ],
       "attachments": [
         "1plrTPg028CWCJa9yJNS24MHj_CU_gDlv.jpg"
       ]
@@ -95,7 +120,10 @@
         "e": "$ln(x)>1$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione di disequazioni"
+      ]
     },
     {
       "id": "8",
@@ -108,7 +136,10 @@
         "e": "108"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche su numeri naturali"
+      ]
     },
     {
       "id": "9",
@@ -121,7 +152,10 @@
         "e": "È impossibile da stabilire senza conoscere le misure dei lati del triangolo"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "formula trigonometrica per calcolare l'area di un triangolo qualsiasi"
+      ]
     },
     {
       "id": "10",
@@ -134,7 +168,10 @@
         "e": "5000"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio"
+      ]
     },
     {
       "id": "11",
@@ -147,7 +184,10 @@
         "e": "Più di sei"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "grafici di funzioni goniometriche"
+      ]
     },
     {
       "id": "12",
@@ -160,7 +200,11 @@
         "e": "189"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "numeri naturali"
+      ]
     },
     {
       "id": "13",
@@ -173,11 +217,16 @@
         "e": "Infiniti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "studio del segno di una funzione quadratica",
+        "radici di una funzione quadratica",
+        "scomposizione di un trinomio di secondo grado"
+      ]
     },
     {
       "id": "14",
-      "text": "La parte intera del numero $log_{10}(2021)$ vale:",
+      "text": "Quanto vale $log_{10}(2021)$ approssimato all'intero più vicino?",
       "answers": {
         "a": "202",
         "b": "3",
@@ -186,7 +235,12 @@
         "e": "4"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di logaritmo",
+        "proprietà dei logaritmi",
+        "arrotondamenti"
+      ]
     },
     {
       "id": "15",
@@ -199,7 +253,11 @@
         "e": "100"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "prodotti notevoli",
+        "principio di identità dei polinomi"
+      ]
     },
     {
       "id": "16",
@@ -212,7 +270,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica"
+      ]
     },
     {
       "id": "17",
@@ -225,7 +286,12 @@
         "e": "Nessuna scimmia mangia le mele"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione",
+        "quantificatore universale",
+        "quantificatore esistenziale"
+      ]
     },
     {
       "id": "18",
@@ -238,7 +304,10 @@
         "e": "5"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "19",
@@ -251,7 +320,10 @@
         "e": "32"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistemi lineari"
+      ]
     },
     {
       "id": "20",
@@ -264,7 +336,11 @@
         "e": "5,2"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica",
+        "varianza"
+      ]
     },
     {
       "id": "21",
@@ -277,7 +353,10 @@
         "e": "95"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio"
+      ]
     },
     {
       "id": "22",
@@ -290,7 +369,11 @@
         "e": "4"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze",
+        "ordinamento dei numeri naturali"
+      ]
     },
     {
       "id": "23",
@@ -303,7 +386,10 @@
         "e": "1/6"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili"
+      ]
     },
     {
       "id": "24",
@@ -316,7 +402,11 @@
         "e": "Ci sono più risposte possibili"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di logaritmo",
+        "domini di funzioni"
+      ]
     },
     {
       "id": "25",
@@ -329,7 +419,11 @@
         "e": "$\\frac{\\sqrt{3}}{2}$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "triangolo equilatero inscritto in una circonferenza",
+        "bisettrice di un angolo"
+      ]
     },
     {
       "id": "26",
@@ -342,7 +436,13 @@
         "e": "$\\frac{3}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema di Pitagora",
+        "quadrato inscritto in una circonferenza",
+        "quadrato circoscritto ad una circonferenza",
+        "bisettrice di un angolo"
+      ]
     },
     {
       "id": "27",
@@ -355,7 +455,11 @@
         "e": "$-\\pi/2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni goniometriche",
+        "angoli notevoli di funzioni goniometriche"
+      ]
     },
     {
       "id": "28",
@@ -368,7 +472,11 @@
         "e": "$2^{12} < 9^6 < 5^8$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze",
+        "confronto tra numeri"
+      ]
     },
     {
       "id": "29",
@@ -381,7 +489,14 @@
         "e": "Ha infinite soluzioni"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di annullamento del prodotto",
+        "equazioni algebriche di grado maggiore o uguale a due",
+        "radici algebriche con indice pari",
+        "radici algebriche con indice dispari",
+        "definizione di numero irrazionale"
+      ]
     },
     {
       "id": "30",
@@ -394,11 +509,16 @@
         "e": "6%"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili",
+        "minimo comune multiplo",
+        "multipli"
+      ]
     },
     {
       "id": "31",
-      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = 1 \\\\ x + y = 3 \\end{cases}$",
+      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = - 1 \\\\ x + y = 3 \\end{cases}$",
       "answers": {
         "a": "Ha una sola soluzione",
         "b": "Ha quattro soluzioni distinte",
@@ -407,7 +527,11 @@
         "e": "Ha due soluzioni distinte"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni",
+        "interpretazione di equazioni nel piano cartesiano"
+      ]
     },
     {
       "id": "32",
@@ -420,7 +544,11 @@
         "e": "11/24"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili",
+        "disposizione con ripetizione"
+      ]
     },
     {
       "id": "33",
@@ -433,7 +561,11 @@
         "e": "È un numero reale compreso tra 6 e 7"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi",
+        "formula del cambiamento di base"
+      ]
     },
     {
       "id": "34",
@@ -446,7 +578,11 @@
         "e": "Cinque"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ricerca dei fattori primi di un intero",
+        "criteri di divisibilità"
+      ]
     },
     {
       "id": "35",
@@ -459,7 +595,10 @@
         "e": "$\\pi/2 < x < 3\\pi /2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni trigonometriche"
+      ]
     },
     {
       "id": "36",
@@ -472,7 +611,10 @@
         "e": "$111301_{4}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione di un numero intero in base diversa da quella decimale"
+      ]
     },
     {
       "id": "37",
@@ -485,7 +627,11 @@
         "e": "Quattro"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "formula della distanza tra due punti",
+        "intersezioni tra circonferenza e assi cartesiani"
+      ]
     },
     {
       "id": "38",
@@ -498,7 +644,13 @@
         "e": "Sono perpendicolari e si intersecano nel secondo quadrante"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione di una retta in forma esplicita",
+        "equazione di una retta in forma implicita",
+        "condizione di perpendicolarità tra rette",
+        "condizione di parallelismo"
+      ]
     },
     {
       "id": "39",
@@ -511,7 +663,11 @@
         "e": "7/30"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili",
+        "probabilità di eventi dipendenti"
+      ]
     },
     {
       "id": "40",
@@ -524,7 +680,11 @@
         "e": "$x = 0$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni",
+        "proprietà della funzione esponenziale"
+      ]
     },
     {
       "id": "41",
@@ -537,7 +697,11 @@
         "e": "$1+sin^2(x)$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "identità fondamentale della goniometria",
+        "definizione di tangente"
+      ]
     },
     {
       "id": "42",
@@ -550,7 +714,11 @@
         "e": "Il polinomio non ha radici reali"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "scomposizione di un polinomio",
+        "legge di annullamento del prodotto"
+      ]
     },
     {
       "id": "43",
@@ -602,7 +770,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle potenze",
+        "operazioni con le potenze"
+      ]
     },
     {
       "id": "47",
@@ -615,7 +787,10 @@
         "e": "4%"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi indipendenti"
+      ]
     },
     {
       "id": "48",
@@ -628,7 +803,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "implicazioni tra proposizioni"
+      ]
     },
     {
       "id": "49",
@@ -641,7 +819,12 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà di funzioni logaritmiche ed esponenziali",
+        "dominio di una funzione",
+        "intersezione tra due funzioni"
+      ]
     },
     {
       "id": "50",
@@ -654,7 +837,10 @@
         "e": "Non esiste un triangolo con lati di tali dimensioni"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disugualianza triangolare"
+      ]
     },
     {
       "id": "51",
@@ -667,7 +853,10 @@
         "e": "Tutte le deduzioni precedenti possono essere sbagliate"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ragionamenti su \"tabelle a doppia entrata\""
+      ]
     },
     {
       "id": "52",
@@ -680,7 +869,10 @@
         "e": "72"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "permutazioni con ripetizione"
+      ]
     },
     {
       "id": "53",
@@ -693,7 +885,10 @@
         "e": "I triangoli sono tutti inscrivibili"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "uso dei quantificatori esistenziale e universale"
+      ]
     },
     {
       "id": "54",
@@ -706,7 +901,11 @@
         "e": "Gli studenti Ingegneria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "uso dei quantificatori",
+        "prima legge di De Morgan"
+      ]
     },
     {
       "id": "55",
@@ -719,7 +918,10 @@
         "e": "3 cm"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema dei seni"
+      ]
     },
     {
       "id": "56",
@@ -732,7 +934,10 @@
         "e": "Bruno ieri è andato ad una festa, quindi c'è andato anche Carlo"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "implicazioni tra proposizioni"
+      ]
     },
     {
       "id": "57",
@@ -745,7 +950,10 @@
         "e": "$r + \\frac{\\sqrt{3}}{\\sqrt{2}}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema della corda"
+      ]
     },
     {
       "id": "58",
@@ -758,7 +966,12 @@
         "e": "$90^{\\circ}$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "somma di angoli interni di un trinagolo",
+        "punti notevoli di un triangolo",
+        "bisettrice di un angolo"
+      ]
     },
     {
       "id": "59",
@@ -771,7 +984,10 @@
         "e": "Circa 91000 volte"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili"
+      ]
     },
     {
       "id": "60",
@@ -784,7 +1000,11 @@
         "e": "Infinite"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "grafici notevoli di funzioni elementari",
+        "equazioni risolvibili graficamente"
+      ]
     },
     {
       "id": "61",
@@ -797,7 +1017,11 @@
         "e": "$P(x)$ è divisibile per $(x-a)$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "divisione tra polinomi",
+        "radici di un polinomio"
+      ]
     },
     {
       "id": "62",
@@ -810,7 +1034,11 @@
         "e": "(0, 2)"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni irrazionali",
+        "definizione di valore assoluto"
+      ]
     },
     {
       "id": "63",
@@ -823,7 +1051,11 @@
         "e": "Una circonferenza con centro (-1; 0) e raggio 1"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "riconoscimento di luoghi descritti da equazioni",
+        "equazione generale di una conica"
+      ]
     },
     {
       "id": "64",
@@ -836,7 +1068,10 @@
         "e": "$(x-1)^2+(y-2)^2=9$  ,  $x^2+y^2-2x-4y=0$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "riconoscimento di luoghi descritti da equazioni"
+      ]
     },
     {
       "id": "65",
@@ -850,6 +1085,9 @@
       },
       "correct": "a",
       "validated": true,
+      "tags": [
+        "riconoscimento di luoghi descritti da equazioni"
+      ],
       "attachments": [
         "1qJkWyoPQhU0sdTj9UMqRlPo4MJevcNf_.jpg"
       ]
@@ -878,7 +1116,13 @@
         "e": "$\\frac{1}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "relazioni tra funzioni trigonometriche",
+        "ricerca massimo di una funzione",
+        "equazioni lineari in seno e coseno",
+        "operazioni tra grafici"
+      ]
     },
     {
       "id": "68",
@@ -891,7 +1135,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica"
+      ]
     },
     {
       "id": "69",
@@ -904,7 +1151,11 @@
         "e": "$p(x)=x+1$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "numeri pari",
+        "numeri dispari"
+      ]
     },
     {
       "id": "70",
@@ -917,7 +1168,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione grafica di equazioni",
+        "proprietà delle potenze"
+      ]
     },
     {
       "id": "71",
@@ -930,7 +1185,11 @@
         "e": "$-1 < k \\leqslant 0$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "funzioni trigonometriche",
+        "disequazioni fratte"
+      ]
     },
     {
       "id": "72",
@@ -943,7 +1202,10 @@
         "e": "30 minuti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "media aritmetica"
+      ]
     },
     {
       "id": "73",
@@ -956,7 +1218,10 @@
         "e": "Ferruccio dice sempre la verità, anche quando mente"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenente la doppia negazione"
+      ]
     },
     {
       "id": "74",
@@ -969,7 +1234,11 @@
         "e": "Vera $\\iff sin(x)=cos(x)$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "identità fondamentale della goniometria",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "75",
@@ -982,7 +1251,11 @@
         "e": "16 $cm$ e 10 $cm$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "area di un rettangolo",
+        "sistema di equazioni"
+      ]
     },
     {
       "id": "76",
@@ -995,7 +1268,12 @@
         "e": "Dipende dal lato del cubo"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "volume della sfera",
+        "volume del cubo",
+        "percentuali"
+      ]
     },
     {
       "id": "77",
@@ -1008,7 +1286,10 @@
         "e": "$150^{\\circ}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "incentro di un triangolo"
+      ]
     },
     {
       "id": "78",
@@ -1021,7 +1302,11 @@
         "e": "Dopo il diciasettesimo giorno"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "funzione lineare",
+        "funzione esponenziale"
+      ]
     },
     {
       "id": "79",
@@ -1034,7 +1319,11 @@
         "e": "40%"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni tra insiemi",
+        "insieme complementare"
+      ]
     },
     {
       "id": "80",
@@ -1047,7 +1336,11 @@
         "e": "Nessuna delle precedenti "
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teoremi sui triangoli rettangoli",
+        "formule goniometriche"
+      ]
     },
     {
       "id": "81",
@@ -1060,7 +1353,10 @@
         "e": "$\\frac{13}{5}$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "relazioni fondamentali della goniometria"
+      ]
     },
     {
       "id": "82",
@@ -1073,7 +1369,11 @@
         "e": "88%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi indipendenti",
+        "probabilità dell'evento complementare"
+      ]
     },
     {
       "id": "83",
@@ -1112,7 +1412,12 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "significato geometrico dei parametri dell'equazione di una retta in forma esplicita",
+        "passaggio per punti assegnati",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "86",
@@ -1125,7 +1430,12 @@
         "e": "Un rettangolo con base 4 e altezza uguale alla radice cubica del raggio della circonferenza in cui è inscritto"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "perimetro di un rettangolo",
+        "riconoscimento di luoghi descritti da equazioni",
+        "vertice della parabola con asse verticale"
+      ]
     },
     {
       "id": "87",
@@ -1138,7 +1448,12 @@
         "e": "$\\overline{PC}=4\\sqrt{2}$ cm"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "criteri di similitudine dei triangoli",
+        "area del triangolo",
+        "area del trapezio"
+      ]
     },
     {
       "id": "88",
@@ -1151,7 +1466,11 @@
         "e": "$\\sqrt{2}$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione della circonferenza",
+        "formula della distanza tra due punti"
+      ]
     },
     {
       "id": "89",
@@ -1164,7 +1483,12 @@
         "e": "4"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione lineare in seno e coseno",
+        "equazioni risolvibili graficamente",
+        "metodo dell'angolo aggiunto"
+      ]
     },
     {
       "id": "90",
@@ -1177,7 +1501,11 @@
         "e": "$log_3{5}$ , $2$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni esponenziali",
+        "sostituzione di variabile"
+      ]
     },
     {
       "id": "91",
@@ -1190,7 +1518,10 @@
         "e": "$f(x)=\\sqrt{3}sin(x+\\frac{\\pi}{2})$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "funzione lineare in seno e coseno"
+      ]
     },
     {
       "id": "92",
@@ -1203,7 +1534,11 @@
         "e": "$c>b>a$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "valori notevoli delle funzioni goniometriche",
+        "archi associati"
+      ]
     },
     {
       "id": "93",
@@ -1216,7 +1551,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "caratteristiche delle funzioni"
+      ]
     },
     {
       "id": "94",
@@ -1229,7 +1567,10 @@
         "e": "$2\\pi (\\frac {\\sqrt{6}}{\\sqrt{2}})$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "perimetro della circonferenza"
+      ]
     },
     {
       "id": "95",
@@ -1242,7 +1583,11 @@
         "e": "16"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "area del triangolo noti i vertici",
+        "insieme complementare"
+      ]
     },
     {
       "id": "96",
@@ -1255,7 +1600,12 @@
         "e": "$(r+\\frac{r}{\\sqrt[3]{3}})\\sqrt3$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "criteri di similitudine dei triangoli",
+        "volume del cono",
+        "volume del tronco di cono"
+      ]
     },
     {
       "id": "97",
@@ -1268,7 +1618,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni algebriche fratte di secondo grado"
+      ]
     },
     {
       "id": "98",
@@ -1281,7 +1634,10 @@
         "e": "$n=10$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "risoluzione di equazione algebrica irrazionale"
+      ]
     },
     {
       "id": "99",
@@ -1294,7 +1650,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "somma degli angoli interni di un poligono"
+      ]
     },
     {
       "id": "100",
@@ -1307,7 +1666,13 @@
         "e": "$A \\cup B$ = {$x \\in \\Reals | -3 < x < 3$}"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni algebriche",
+        "studio del segno",
+        "insieme intersezione",
+        "insieme unione"
+      ]
     },
     {
       "id": "101",
@@ -1320,7 +1685,11 @@
         "e": "Circa 33.33%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "incremento percentuale",
+        "decremento percentuale"
+      ]
     },
     {
       "id": "102",
@@ -1333,7 +1702,11 @@
         "e": "41"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "disequazioni algebriche",
+        "divisori"
+      ]
     },
     {
       "id": "103",
@@ -1346,7 +1719,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni lineari"
+      ]
     },
     {
       "id": "104",
@@ -1359,7 +1735,11 @@
         "e": "49 e 50"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà dei logaritmi",
+        "formula del cambiamento di base per i logaritmi"
+      ]
     },
     {
       "id": "105",
@@ -1372,7 +1752,11 @@
         "e": "10"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "prove ripetute",
+        "formula di Bernoulli"
+      ]
     },
     {
       "id": "106",
@@ -1385,7 +1769,12 @@
         "e": "$\\frac{3\\pi}{2} -\\sqrt2$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "interpretazione grafica di una disequazione",
+        "insieme intersezione",
+        "insieme complementare"
+      ]
     },
     {
       "id": "107",
@@ -1398,7 +1787,10 @@
         "e": "70%"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi indipendenti"
+      ]
     },
     {
       "id": "108",
@@ -1411,7 +1803,10 @@
         "e": "$\\frac{\\pi}{k}$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "periodo di funzioni goniometriche"
+      ]
     },
     {
       "id": "109",
@@ -1424,7 +1819,12 @@
         "e": "$0,96$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà del triangolo isoscele",
+        "archi associati",
+        "duplicazione del seno"
+      ]
     },
     {
       "id": "110",
@@ -1437,7 +1837,14 @@
         "e": "$\\frac{2\\pi}{3} - \\frac {\\sqrt2}{2}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "area del triangolo",
+        "teorema del seno",
+        "area di un cerchio, area di un settore circolare",
+        "insieme intersezione",
+        "insieme complementare"
+      ]
     },
     {
       "id": "111",
@@ -1450,7 +1857,13 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione caratteristica di insiemi",
+        "operazioni tra insiemi",
+        "numeri naturali",
+        "parità dello zero"
+      ]
     },
     {
       "id": "112",
@@ -1463,7 +1876,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "numeri naturali",
+        "permutazioni"
+      ]
     },
     {
       "id": "113",
@@ -1476,7 +1893,12 @@
         "e": "Circa 52%"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "volume della sfera",
+        "volume del cubo",
+        "probabilità di eventi equiprobabili"
+      ]
     },
     {
       "id": "114",
@@ -1489,7 +1911,11 @@
         "e": "Infiniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di valore assoluto",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "115",
@@ -1502,7 +1928,12 @@
         "e": "4"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "numeri interi",
+        "equazioni di primo grado a due variabili"
+      ]
     },
     {
       "id": "116",
@@ -1515,7 +1946,11 @@
         "e": "Il raggio della circonferenza intersezione vale $\\sqrt3$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "piano secante, tangente o esterno ad una sfera",
+        "distanza tra il piano ed il centro di una sfera"
+      ]
     },
     {
       "id": "117",
@@ -1528,7 +1963,13 @@
         "e": "Ha due soluzioni distinte, una positiva e una negativa"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "duplicazione del coseno",
+        "equazione della retta",
+        "equazione della circonferenza",
+        "insieme intersezione"
+      ]
     },
     {
       "id": "118",
@@ -1541,7 +1982,11 @@
         "e": "Per qualche $0<n<1$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di funzioni strettamente crescenti",
+        "funzione potenza"
+      ]
     },
     {
       "id": "119",
@@ -1554,7 +1999,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "circonferenza goniometrica",
+        "definizione di valore assoluto"
+      ]
     },
     {
       "id": "120",
@@ -1567,7 +2016,12 @@
         "e": "$y=\\frac {4}{x}+1$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione di una conica",
+        "fascio di rette passanti per un punto",
+        "condizione di tangenza"
+      ]
     },
     {
       "id": "121",
@@ -1580,7 +2034,11 @@
         "e": "$2x+1$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "significato algebrico di quadrato perfetto",
+        "sviluppo del quadrato di un binomio"
+      ]
     },
     {
       "id": "122",
@@ -1593,7 +2051,12 @@
         "e": "$3$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni",
+        "proprietà dei logaritmi",
+        "formula del cambiamento di base per i logaritmi"
+      ]
     },
     {
       "id": "123",
@@ -1606,7 +2069,11 @@
         "e": "$2x-3$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "teorema del resto",
+        "sistema di equazioni a due incognite"
+      ]
     },
     {
       "id": "124",
@@ -1619,7 +2086,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "negazione di una proposizione contenente i quantificatori \"per ogni\" ed \"esiste\""
+      ]
     },
     {
       "id": "125",
@@ -1632,7 +2102,10 @@
         "e": "Una coppia di rette incidenti"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "riconoscimento di luoghi descritti da equazioni"
+      ]
     },
     {
       "id": "126",
@@ -1645,7 +2118,11 @@
         "e": "La [1] e la [2] non hanno significato"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "periodicità delle funzioni goniometriche",
+        "dominio della funzione logaritmica"
+      ]
     },
     {
       "id": "127",
@@ -1658,7 +2135,12 @@
         "e": "$\\sqrt3$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "angoli opposti al vertice",
+        "definizione di coefficiente angolare",
+        "valori notevoli delle funzioni goniometriche"
+      ]
     },
     {
       "id": "128",
@@ -1671,20 +2153,28 @@
         "e": "Un'iperbole che interseca l'asse delle $y$ con centro nell'origine "
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "classificazione delle coniche"
+      ]
     },
     {
       "id": "129",
       "text": "Sia $\\Omega = \\lbrace (x, y) \\in \\Reals^2 : x^2+y^2 \\leqslant 1, x^2+y^2 \\leqslant 2x, y \\geqslant 0 \\rbrace$. Quali tra i seguenti punti del piano cartesiano appartengono all'insieme $\\Omega$?",
       "answers": {
         "a": "$(-1, 0) , (\\frac{1}{2}, \\frac{\\sqrt3}{2})$",
-        "b": "$(\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
-        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{3\\sqrt2}{5})$",
+        "b": "$(\\frac{1}{2}, \\frac{2\\sqrt2}{3}) , (1, 0)$",
+        "c": "$(0, 0) , (\\frac{1}{2}, \\frac{2\\sqrt2}{3})$",
         "d": "$(\\frac{1}{2}, \\frac{\\sqrt3}{2}) , (1 , 0)$",
         "e": "$(1, 0) , (2, 0)$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "rappresentazione caratteristica di insiemi",
+        "equazione della circonferenza",
+        "piano cartesiano"
+      ]
     },
     {
       "id": "130",
@@ -1697,7 +2187,12 @@
         "e": "2500"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "operazioni aritmetiche",
+        "multipli di un numero",
+        "minimo comune multiplo"
+      ]
     },
     {
       "id": "131",
@@ -1710,7 +2205,11 @@
         "e": "1038"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "calcolo combinatorio",
+        "permutazioni"
+      ]
     },
     {
       "id": "132",
@@ -1723,7 +2222,10 @@
         "e": "11"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "sistema di equazioni di primo grado a due incognite"
+      ]
     },
     {
       "id": "133",
@@ -1736,7 +2238,10 @@
         "e": "Non si può determinare con i soli dati forniti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "definizione di angolo radiante"
+      ]
     },
     {
       "id": "134",
@@ -1749,7 +2254,12 @@
         "e": "$\\arctan (\\sqrt3)$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazioni irrazionali",
+        "equazioni goniometriche elementari",
+        "equazioni goniometriche inverse"
+      ]
     },
     {
       "id": "135",
@@ -1762,7 +2272,11 @@
         "e": "$3 \\cdot 10^{-1}$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili",
+        "probabilità di eventi indipendenti"
+      ]
     },
     {
       "id": "136",
@@ -1775,51 +2289,204 @@
         "e": "$r > p > s > q$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "implicazione"
+      ]
     },
     {
-      "answers": {},
+      "id": "137",
+      "text": "Siano $a,b$ numeri reali. Se $a+2b=10$ quali delle seguenti espressioni ha un valore che non dipende da $a, b$?",
+      "answers": {
+        "a": "$a-2b$",
+        "b": "$a^2+4b^2-4ab$",
+        "c": "$a^2+4b^2+4ab$",
+        "d": "$b+2a$",
+        "e": "Nessuna delle precedenti."
+      },
+      "correct": "c",
       "validated": false
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "138",
+      "text": "Quali delle seguenti moltiplicazioni equivale a $0.0\\overline{1} \\cdot  3.\\overline{4}$ ?",
+      "answers": {
+        "a": "$0.\\overline{1} \\cdot 0.6\\overline{81}$",
+        "b": "$0.1\\overline{2} \\cdot  0.\\overline{31}$",
+        "c": "$1.\\overline{8} \\cdot  0.\\overline{3}$",
+        "d": "$0.\\overline{27} \\cdot  5.\\overline{5}$",
+        "e": "Nessuna delle precedenti."
+      },
+      "correct": "b",
+      "validated": true,
+      "tags": [
+        "numeri decimali illimitati periodici",
+        "frazioni generatrici"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "139",
+      "text": "Quale delle seguenti uguaglianze è verificata?",
+      "answers": {
+        "a": "$\\frac{15}{11} \\cdot 0,6 \\overline{1}=\\frac{6}{5}$",
+        "b": "$0,\\overline{4323}-0,\\overline{3213}=0,\\overline{1}$",
+        "c": "$1,2\\overline{34}+2,3\\overline{45}=3,60$",
+        "d": "$\\frac{10, \\overline{10}}{10^{-3}}=10101, \\overline{01}$",
+        "e": "$\\Big (\\frac {134}{495}\\Big)^{0,\\overline{3}}=\\sqrt[3]{0, \\overline{270}}$"
+      },
+      "correct": "d",
+      "validated": true,
+      "tags": [
+        "numeri decimali illimitati periodici",
+        "frazioni generatrici"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "140",
+      "text": "Siano $n$ è un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$?",
+      "answers": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "13",
+        "e": "14"
+      },
+      "correct": "b",
+      "validated": true,
+      "tags": [
+        "fattorizzazione in numeri primi",
+        "multipli",
+        "divisori"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "141",
+      "text": "Quanti sono i divisori di $10!$ (10 fattoriale)?",
+      "answers": {
+        "a": "$2 \\cdot 5!$",
+        "b": "$250$",
+        "c": "$(5!)^2$",
+        "d": "$520$",
+        "e": "$270$"
+      },
+      "correct": "e",
+      "validated": true,
+      "tags": [
+        "fattorizzazione in numeri primi",
+        "divisori",
+        "proprietà dei divisori"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "142",
+      "text": "Lanciando tre volte un dado regolare a sei facce, con quale frequenza usciranno due numeri pari ed uno dispari?",
+      "answers": {
+        "a": "37,5%",
+        "b": "33,3% circa",
+        "c": "12,5%",
+        "d": "66,6% circa",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "a",
+      "validated": true,
+      "tags": [
+        "probabilità di eventi equiprobabili",
+        "frequenze relative"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "143",
+      "text": "L'età media degli studenti iscritti al primo anno del corso di Ingegneria informatica è pari a $18,5$ anni. L'età media degli studenti iscritti al quinto anno dello stesso corso è pari a $24,5$ anni. Sapendo che gli studenti del primo anno sono $700$ e quelli del quinto anno sono $300$, qual è la stima dell'età media dell'intera popolazione del corso di Ingegneria informatica?",
+      "answers": {
+        "a": "$20$ anni e $6$ mesi",
+        "b": "$20$ anni e $5$ mesi",
+        "c": "$20$ anni e $4$ mesi",
+        "d": "$20$ anni e $3$ mesi",
+        "e": "Non ci sono sufficienti informazioni per calcolare la stima richiesta"
+      },
+      "correct": "c",
+      "validated": true,
+      "tags": [
+        "frequenze assolute",
+        "frequenze relative"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "144",
+      "text": "La seguente immagine riporta la distribuzione delle aziende chimiche secondo il fatturato annuo in milioni di euro. Qual è la percentuale di aziende con fatturato annuo superiore a 750 milioni e non superiore a 3 miliardi?",
+      "answers": {
+        "a": "35%",
+        "b": "50%",
+        "c": "60%",
+        "d": "75%",
+        "e": "Nessuna delle precedenti"
+      },
+      "correct": "d",
+      "validated": true,
+      "tags": [
+        "frequenze assolute",
+        "interpretazione di tabelle",
+        "percentuali"
+      ],
+      "attachments": [
+        "1J_NChJjSVWCouGrrEFGqDMZVIEarb9MQ.jpg"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "145",
+      "text": "La seguente immagine riporta la distribuzione dei punteggi ottenuti ad una sessione del TOL da una certa popolazione di studenti. Se ne deduce che:",
+      "answers": {
+        "a": "Gli studenti che hanno ottenuto un punteggio inferiore a 30 sono tanti quanti quelli che hanno ottenuto un punteggio compreso fra 30 e 60",
+        "b": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 80 sono meno di quelli che hanno ottenuto un punteggio compreso fra 60 e 90",
+        "c": "Gli studenti che hanno ottenuto un punteggio inferiore a 70 sono più di quelli che hanno ottenuto un punteggio superiore a 90",
+        "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 90 sono più di quelli che hanno ottenuto un punteggio inferiore o uguale a 90",
+        "e": "Nessuna delle precedenti proposizioni è vera"
+      },
+      "correct": "e",
+      "validated": true,
+      "tags": [
+        "interpretazione di tabelle di percentuali"
+      ],
+      "attachments": [
+        "1c25GOlDzl1Xyamc_J2mcDLwOo82bUmLC.jpg"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "146",
+      "text": "Siano $x_1$, $x_2$, $x_3$, $x_4$ i valori che descrivono la modalità di una rilevazione. Sapendo che la frequenza di $x_ 1$ è uguale a 20, quella di $x_2$ è uguale a 25, la frequenza relativa di $x_4$ è uguale a 11% e che il totale delle frequenze è 500, qual è la frequenza di $x_3$? ",
+      "answers": {
+        "a": "375",
+        "b": "400",
+        "c": "425",
+        "d": "450",
+        "e": "475"
+      },
+      "correct": "b",
+      "validated": true,
+      "tags": [
+        "frequenze assolute",
+        "frequenze relative"
+      ]
     },
     {
-      "answers": {},
-      "validated": false
+      "id": "147",
+      "text": "La seguente immagine riporta il totale dei posti disponibili riferito all'anno accademico 2024/2025 per ciascuna delle quattro Scuole del Politecnico di Milano. In un diagramma a torta, qual è l'ampiezza dell'angolo relativo alla Scuola 1?",
+      "answers": {
+        "a": "$40°$ circa",
+        "b": "$39°$ circa",
+        "c": "$38°$ circa",
+        "d": "$37°$ circa",
+        "e": "$36°$ circa"
+      },
+      "correct": "a",
+      "validated": true,
+      "tags": [
+        "interpretazione di diagrammi",
+        "proporzioni"
+      ],
+      "attachments": [
+        "16nQChbWUDQAOgIhesAGAhkRlueNeyvIB.jpg"
+      ]
     },
     {
       "answers": {},
@@ -5550,7 +6217,7 @@
         "e": "Nessuna della precedenti"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5565,7 +6232,7 @@
         "e": "Sono sempre riconosciuti dal Politecnico di Milano"
       },
       "correct": "b",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5580,7 +6247,7 @@
         "e": "Non compare nel testo"
       },
       "correct": "e",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5595,7 +6262,7 @@
         "e": "Nessuna della precedenti"
       },
       "correct": "c",
-      "validated": false
+      "validated": true
     },
     {
       "id": "5",
@@ -5610,7 +6277,7 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": false
+      "validated": true
     }
   ],
   "fis": [
