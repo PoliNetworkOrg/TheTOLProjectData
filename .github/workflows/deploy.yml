@@ -8,7 +8,7 @@ jobs:
     if: github.event.sender.login == 'EndBug'
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: stable
       - run: |
@@ -22,8 +22,8 @@ jobs:
           git add database.json
       - id: sha
         run: |
-          echo ::set-output name=prev::$(git rev-parse origin/stable)
-          echo ::set-output name=curr::$(git rev-parse origin/main)
+          echo "prev=$(git rev-parse origin/stable)" >> "$GITHUB_OUTPUT"
+          echo "curr=$(git rev-parse origin/main)" >> "$GITHUB_OUTPUT"
       - run: 'git commit -m "chore: update db to match $CURR" -m "Executed via .github/workflows/deploy.yml"'
         env:
           CURR: ${{ steps.sha.outputs.curr }}
