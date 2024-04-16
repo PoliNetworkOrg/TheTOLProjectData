@@ -6591,7 +6591,7 @@
         "e": "$20$ $N$"
       },
       "correct": "b",
-      "validated": true
+      "validated": false
     },
     {
       "id": "25",
