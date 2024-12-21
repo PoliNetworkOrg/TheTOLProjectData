@@ -18,8 +18,8 @@ jobs:
           USER: ${{ github.event.sender.login }}
       - run: git fetch origin
       - run: |
-          git checkout origin/main database.json img/**
-          git add database.json img/**
+          git checkout origin/main database.json img
+          git add database.json img
       - id: sha
         run: |
           echo "prev=$(git rev-parse origin/stable)" >> "$GITHUB_OUTPUT"
