@@ -2340,7 +2340,7 @@
     },
     {
       "id": "140",
-      "text": "Siano $n$ è un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$?",
+      "text": "Siano $n$ un numero intero positivo e $k$ il prodotto di tutti i numeri interi da 1 a $n$ compreso. Se $k$ è un multiplo di 990, qual è il valore minimo possibile di $n$?",
       "answers": {
         "a": "10",
         "b": "11",
@@ -6618,7 +6618,7 @@
     },
     {
       "id": "27",
-      "text": "Un cubo di legno di densità $\\rho_{legno}= 650$ $kg/m^3$ galeggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza del cubo che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
+      "text": "Un cubo di legno di densità $\\rho_{legno}= 650$ $kg/m^3$ galleggia in una vasca contenente acqua, $\\rho_{acqua}= 1000$ $kg/m^3$. Sapendo che la base del cubo misura $9$ $cm^2$ e che è parallela al fondo della vasca, qual è la porzione dell'altezza del cubo che emerge dall'acqua? Si assuma che il cubo di legno sia impermeabile e non poroso.",
       "answers": {
         "a": "$1,5$ $cm$",
         "b": "$0,95$ $cm$",
