@@ -889,13 +889,13 @@
     },
     {
       "id": "54",
-      "text": "\"Non è vero che tutti gli studenti di Ingegneria del Poli sono maschi e intelligenti\". Tale affermazione equivale a:",
+      "text": "\"Non è vero che tutti gli studenti di Ingegneria del Poli sono maschi e intelligenti\". Tale proposizione equivale a:",
       "answers": {
         "a": "Nessun studente di Ingegneria del Poli è maschio e intelligente",
         "b": "Gli studenti di Ingegneria del Poli se sono maschi non sono intelligenti",
         "c": "C'è qualche studente di Ingegneria del Poli che non è maschio oppure non è intelligente",
         "d": "Esistono studenti di Ingegneria del Poli maschi ma non intelligenti",
-        "e": "Gli studenti Ingegneria del Poli sono femmine e intelligenti  "
+        "e": "Gli studenti di Ingegneria del Poli sono femmine e intelligenti  "
       },
       "correct": "c",
       "validated": true,
@@ -2486,7 +2486,6 @@
       ]
     },
     {
-      "id": "148",
       "answers": {},
       "validated": false
     },
