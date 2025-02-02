@@ -2487,7 +2487,13 @@
     },
     {
       "id": "148",
-      "answers": {},
+      "text": "Se nessun valore di x soddisfa l'equazione (k/2 - 1)(π - x) = 2π - x/2 , quanto vale la costante k?",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
       "validated": false
     },
     {
