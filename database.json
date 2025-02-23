@@ -515,7 +515,7 @@
     },
     {
       "id": "31",
-      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = - 1 \\\\ x + y = 3 \\end{cases}$",
+      "text": "Il seguente sistema: $\\begin{cases} x^2 - y^2 = 1 \\\\ x + y = 3 \\end{cases}$",
       "answers": {
         "a": "Ha una sola soluzione",
         "b": "Ha quattro soluzioni distinte",
