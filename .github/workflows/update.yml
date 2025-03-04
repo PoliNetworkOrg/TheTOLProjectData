@@ -14,27 +14,27 @@ on:
 jobs:
   update:
     name: Update database
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Clone source repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: PoliNetworkOrg/TheTOLProject
           ref: main
 
       - name: Clone database repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: ./data/
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: '16'
 
       - name: Cache dependencies
         id: cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('package-lock.json') }}
@@ -61,7 +61,7 @@ jobs:
 
       - name: Commit (automatic update)
         if: ${{ github.event_name == 'schedule' }}
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           add: database.json img
           cwd: ./data/
@@ -72,7 +72,7 @@ jobs:
 
       - name: Commit (manual update)
         if: ${{ github.event_name != 'schedule' }}
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           add: database.json img
           cwd: ./data/
