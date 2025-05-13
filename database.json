@@ -6291,7 +6291,10 @@
         "e": "La somma delle correnti che attraversa le resistenze vale $\\frac{V}{R_1 + R_2}$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "prima legge di Ohm"
+      ]
     },
     {
       "id": "2",
@@ -6317,7 +6320,11 @@
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "passaggi di stato",
+        "energia termica"
+      ]
     },
     {
       "id": "4",
