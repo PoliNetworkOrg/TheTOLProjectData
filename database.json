@@ -6419,7 +6419,10 @@
         "e": "$F^2$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "forza centripeta"
+      ]
     },
     {
       "id": "10",
@@ -6432,7 +6435,11 @@
         "e": "Il campo magnetico può essere generato da materiali paramagnetici nel vuoto"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "campo magnetico",
+        "materiali magnetici"
+      ]
     },
     {
       "id": "11",
