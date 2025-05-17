@@ -6356,8 +6356,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "caduta libera dei gravi",
-        "moto rettilineo uniformemente accellerato"
+        "caduta libera dei gravi"
       ]
     },
     {
@@ -6389,7 +6388,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "struttura atomica"
+        "struttura dell'atomo"
       ]
     },
     {
@@ -6452,7 +6451,10 @@
         "e": "Dopo 5 secondi"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "moto rettilineo uniformemente accellerato"
+      ]
     },
     {
       "id": "12",
@@ -6465,7 +6467,10 @@
         "e": "Circa 0,48 A"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge do Joule"
+      ]
     },
     {
       "id": "13",
