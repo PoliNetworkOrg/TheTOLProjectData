@@ -2487,7 +2487,7 @@
     },
     {
       "id": "148",
-      "text": "test 2",
+      "text": "test 3",
       "answers": {},
       "validated": false
     },
@@ -6469,7 +6469,7 @@
       "correct": "d",
       "validated": true,
       "tags": [
-        "legge do Joule"
+        "legge di Joule"
       ]
     },
     {
