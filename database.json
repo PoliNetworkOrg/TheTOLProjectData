@@ -6483,7 +6483,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di Gay-Lussac"
+      ]
     },
     {
       "id": "14",
@@ -6496,7 +6499,12 @@
         "e": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di neutroni"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "struttura dell'atomo",
+        "numero atomico",
+        "numero di massa"
+      ]
     },
     {
       "id": "15",
