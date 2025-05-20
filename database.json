@@ -6615,7 +6615,10 @@
         "e": "Circa $0,9$ $cm$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di Coulomb"
+      ]
     },
     {
       "id": "22",
@@ -6641,7 +6644,11 @@
         "e": "$4,0 \\cdot 10^{16}$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "corrente elettrica",
+        "carica elementare"
+      ]
     },
     {
       "id": "24",
@@ -6654,7 +6661,11 @@
         "e": "$20$ $N$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "piano inclinato",
+        "attrito statico"
+      ]
     },
     {
       "id": "25",
