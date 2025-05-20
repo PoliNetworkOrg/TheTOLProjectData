@@ -6517,7 +6517,12 @@
         "e": "Il potenziale del conduttore diminuisce rispetto a quello nel vuoto"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "schermatura elettrostatica",
+        "equipotenziale",
+        "carica indotta"
+      ]
     },
     {
       "id": "16",
@@ -6530,7 +6535,10 @@
         "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "primo principio della termodinamica"
+      ]
     },
     {
       "id": "17",
@@ -6543,7 +6551,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle onde elettromagnetiche"
+      ]
     },
     {
       "id": "18",
@@ -6556,7 +6567,12 @@
         "e": "0,7 kg"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "urto elastico",
+        "quantità di moto",
+        "energia cinetica"
+      ]
     },
     {
       "id": "19",
@@ -6569,7 +6585,11 @@
         "e": "Non si può concludere nulla con le sole informazioni fornite"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "principio di Archimede",
+        "densità (ghiaccio vs acqua)"
+      ]
     },
     {
       "id": "20",
