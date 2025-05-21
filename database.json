@@ -6678,7 +6678,10 @@
         "e": "Circa $0,02$ $m$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "irradianza"
+      ]
     },
     {
       "id": "26",
@@ -6691,7 +6694,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "velocità di fuga",
+        "analisi dimensionale"
+      ]
     },
     {
       "id": "27",
