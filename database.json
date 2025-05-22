@@ -6711,7 +6711,11 @@
         "e": "$1,25$ $cm$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "principio di Archimede",
+        "forza peso"
+      ]
     },
     {
       "id": "28",
@@ -6724,7 +6728,11 @@
         "e": "4"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge oraria del moto",
+        "lunghezza di una circonferenza"
+      ]
     },
     {
       "id": "29",
@@ -6737,7 +6745,11 @@
         "e": "Circa 3 volte"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ampiezza di un onda sismica",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "30",
@@ -6750,7 +6762,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "riflessione sonora"
+      ]
     }
   ],
   "ing": [
