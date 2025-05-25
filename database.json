@@ -6453,7 +6453,7 @@
       "correct": "a",
       "validated": true,
       "tags": [
-        "moto rettilineo uniformemente accellerato"
+        "moto rettilineo uniformemente accelerato"
       ]
     },
     {
@@ -6769,8 +6769,19 @@
     },
     {
       "id": "31",
-      "answers": {},
-      "validated": false
+      "text": "Si lascia cadere un sasso in un pozzo e sis sente un tonfo dopo 2 secondi. Qual'è la profondità del pozzo?",
+      "answers": {
+        "a": "4,9 m",
+        "b": "6,7 m",
+        "c": "9,8 m",
+        "d": "11,3 m",
+        "e": "19,6 m"
+      },
+      "correct": "e",
+      "validated": true,
+      "tags": [
+        "moto uniformemente accelerato"
+      ]
     }
   ],
   "ing": [
