@@ -6315,7 +6315,7 @@
       "answers": {
         "a": "Da liquido a solido",
         "b": "Da liquido a gassoso",
-        "c": "Da vapore a solido",
+        "c": "Da gassoso a solido",
         "d": "Da solido a gassoso",
         "e": "Da gassoso a liquido"
       },
