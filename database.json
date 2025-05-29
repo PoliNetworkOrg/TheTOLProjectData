@@ -6442,7 +6442,7 @@
     },
     {
       "id": "11",
-      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni forza esterna, il sasso inizierà la sua discesa verso il suolo:",
+      "text": "Un sasso viene lanciato verso l'alto nella direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni forza esterna, il sasso inizierà la sua discesa verso il suolo:",
       "answers": {
         "a": "Dopo 1 secondo ma prima di 2 secondi",
         "b": "Dopo 2 secondi ma prima di 3 secondi",
@@ -6479,7 +6479,7 @@
         "a": "Esiste un legame di proporzionalità diretta fra p e T",
         "b": "Esiste un legame di proporzionalità diretta fra V e T",
         "c": "Esiste un legame di proporzionalità inversa fra p e V",
-        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale",
+        "d": "Per ciascun volume, tale equazione è rappresentata nel piano p-V da un segmento orizzontale",
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
