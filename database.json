@@ -2486,6 +2486,8 @@
       ]
     },
     {
+      "id": "148",
+      "text": "test 3",
       "answers": {},
       "validated": false
     },
@@ -6289,7 +6291,10 @@
         "e": "La somma delle correnti che attraversa le resistenze vale $\\frac{V}{R_1 + R_2}$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "prima legge di Ohm"
+      ]
     },
     {
       "id": "2",
@@ -6310,12 +6315,16 @@
       "answers": {
         "a": "Da liquido a solido",
         "b": "Da liquido a gassoso",
-        "c": "Da vapore a solido",
+        "c": "Da gassoso a solido",
         "d": "Da solido a gassoso",
         "e": "Da gassoso a liquido"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "passaggi di stato",
+        "energia termica"
+      ]
     },
     {
       "id": "4",
@@ -6328,7 +6337,11 @@
         "e": "33350 kcal"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "passaggi di stato",
+        "calore latente"
+      ]
     },
     {
       "id": "5",
@@ -6341,20 +6354,26 @@
         "e": "Non ci sono dati sufficienti per poter rispondere"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "caduta libera dei gravi"
+      ]
     },
     {
       "id": "6",
       "text": "Un'automobile viaggia 20 km/h per un ora e 45 minuti e a 65 km/h per due ore. Qual è la velocità media dell'automobile considerando che viaggia a velocità costante? ",
       "answers": {
-        "a": "50 m/s",
-        "b": "13,8 km/s",
-        "c": "13,8 m/s",
-        "d": "2 km/h",
-        "e": "Nessuna delle precedenti"
+        "a": "43,5 km/h",
+        "b": "11 m/s",
+        "c": "43 km/h",
+        "d": "42,5 km/h",
+        "e": "12,2 m/s"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "velocità media"
+      ]
     },
     {
       "id": "7",
@@ -6367,7 +6386,10 @@
         "e": "L'energia di ionizzazione è assente nei gas nobili"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "struttura dell'atomo"
+      ]
     },
     {
       "id": "8",
@@ -6380,7 +6402,10 @@
         "e": "$P_1 = nRT_1$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "equazione di stato di un gas ideale"
+      ]
     },
     {
       "id": "9",
@@ -6393,7 +6418,10 @@
         "e": "$F^2$"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "forza centripeta"
+      ]
     },
     {
       "id": "10",
@@ -6406,11 +6434,15 @@
         "e": "Il campo magnetico può essere generato da materiali paramagnetici nel vuoto"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "campo magnetico",
+        "materiali magnetici"
+      ]
     },
     {
       "id": "11",
-      "text": "Un sasso viene lanciato verso l'alto nella sua direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni forza esterna, il sasso inizierà la sua discesa verso il suolo:",
+      "text": "Un sasso viene lanciato verso l'alto nella direzione verticale con una velocità iniziale pari a 15 m/s. Trascurando ogni forza esterna, il sasso inizierà la sua discesa verso il suolo:",
       "answers": {
         "a": "Dopo 1 secondo ma prima di 2 secondi",
         "b": "Dopo 2 secondi ma prima di 3 secondi",
@@ -6419,7 +6451,10 @@
         "e": "Dopo 5 secondi"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "moto rettilineo uniformemente accelerato"
+      ]
     },
     {
       "id": "12",
@@ -6432,7 +6467,10 @@
         "e": "Circa 0,48 A"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di Joule"
+      ]
     },
     {
       "id": "13",
@@ -6441,11 +6479,14 @@
         "a": "Esiste un legame di proporzionalità diretta fra p e T",
         "b": "Esiste un legame di proporzionalità diretta fra V e T",
         "c": "Esiste un legame di proporzionalità inversa fra p e V",
-        "d": "Nel piano p-V, è rappresentata da un segmento orizzontale",
+        "d": "Per ciascun volume, tale equazione è rappresentata nel piano p-V da un segmento orizzontale",
         "e": "Nessuna delle precedenti"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di Gay-Lussac"
+      ]
     },
     {
       "id": "14",
@@ -6458,7 +6499,12 @@
         "e": "Un isotopo è un atomo di un elemento chimico che ha lo stesso numero di protoni ma diverso numero di neutroni"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "struttura dell'atomo",
+        "numero atomico",
+        "numero di massa"
+      ]
     },
     {
       "id": "15",
@@ -6471,7 +6517,12 @@
         "e": "Il potenziale del conduttore diminuisce rispetto a quello nel vuoto"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "schermatura elettrostatica",
+        "equipotenziale",
+        "carica indotta"
+      ]
     },
     {
       "id": "16",
@@ -6484,7 +6535,10 @@
         "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "primo principio della termodinamica"
+      ]
     },
     {
       "id": "17",
@@ -6497,7 +6551,10 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "proprietà delle onde elettromagnetiche"
+      ]
     },
     {
       "id": "18",
@@ -6510,7 +6567,12 @@
         "e": "0,7 kg"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "urto elastico",
+        "quantità di moto",
+        "energia cinetica"
+      ]
     },
     {
       "id": "19",
@@ -6523,7 +6585,11 @@
         "e": "Non si può concludere nulla con le sole informazioni fornite"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "principio di Archimede",
+        "densità (ghiaccio vs acqua)"
+      ]
     },
     {
       "id": "20",
@@ -6549,7 +6615,10 @@
         "e": "Circa $0,9$ $cm$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge di Coulomb"
+      ]
     },
     {
       "id": "22",
@@ -6575,7 +6644,11 @@
         "e": "$4,0 \\cdot 10^{16}$"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "corrente elettrica",
+        "carica elementare"
+      ]
     },
     {
       "id": "24",
@@ -6588,7 +6661,11 @@
         "e": "$20$ $N$"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "piano inclinato",
+        "attrito statico"
+      ]
     },
     {
       "id": "25",
@@ -6601,7 +6678,10 @@
         "e": "Circa $0,02$ $m$"
       },
       "correct": "a",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "irradianza"
+      ]
     },
     {
       "id": "26",
@@ -6614,7 +6694,11 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "velocità di fuga",
+        "analisi dimensionale"
+      ]
     },
     {
       "id": "27",
@@ -6627,7 +6711,11 @@
         "e": "$1,25$ $cm$"
       },
       "correct": "d",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "principio di Archimede",
+        "forza peso"
+      ]
     },
     {
       "id": "28",
@@ -6640,7 +6728,11 @@
         "e": "4"
       },
       "correct": "b",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "legge oraria del moto",
+        "lunghezza di una circonferenza"
+      ]
     },
     {
       "id": "29",
@@ -6653,7 +6745,11 @@
         "e": "Circa 3 volte"
       },
       "correct": "e",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "ampiezza di un'onda sismica",
+        "proprietà dei logaritmi"
+      ]
     },
     {
       "id": "30",
@@ -6666,7 +6762,26 @@
         "e": "Nessuna delle precedenti"
       },
       "correct": "c",
-      "validated": true
+      "validated": true,
+      "tags": [
+        "riflessione sonora"
+      ]
+    },
+    {
+      "id": "31",
+      "text": "Si lascia cadere un sasso in un pozzo e si sente un tonfo dopo 2 secondi. Qual è la profondità del pozzo?",
+      "answers": {
+        "a": "4,9 m",
+        "b": "6,7 m",
+        "c": "9,8 m",
+        "d": "11,3 m",
+        "e": "19,6 m"
+      },
+      "correct": "e",
+      "validated": true,
+      "tags": [
+        "moto uniformemente accelerato"
+      ]
     }
   ],
   "ing": [
