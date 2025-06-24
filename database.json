@@ -2487,7 +2487,7 @@
     },
     {
       "id": "148",
-      "text": "test 4",
+      "text": "test 5",
       "answers": {},
       "validated": false
     },
@@ -6530,7 +6530,7 @@
       "answers": {
         "a": "L'energia interna del gas rimane costante",
         "b": "Il calore ceduto dal gas all'ambiente è uguale al calore assorbito",
-        "c": "Il calore assorbito dal gas è uguale al lavoro fatto dal gas sull'ambiente",
+        "c": "Il calore ceduto è trascurabile",
         "d": "Il calore assorbito è nullo",
         "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
       },
