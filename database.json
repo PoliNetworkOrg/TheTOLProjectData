@@ -2439,7 +2439,7 @@
         "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 90 sono più di quelli che hanno ottenuto un punteggio inferiore o uguale a 90",
         "e": "Nessuna delle precedenti proposizioni è vera"
       },
-      "correct": "e",
+      "correct": "c",
       "validated": true,
       "tags": [
         "interpretazione di tabelle di percentuali"
