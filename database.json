@@ -2439,7 +2439,7 @@
         "d": "Gli studenti che hanno ottenuto un punteggio compreso fra 30 e 90 sono più di quelli che hanno ottenuto un punteggio inferiore o uguale a 90",
         "e": "Nessuna delle precedenti proposizioni è vera"
       },
-      "correct": "e",
+      "correct": "c",
       "validated": true,
       "tags": [
         "interpretazione di tabelle di percentuali"
@@ -2487,7 +2487,7 @@
     },
     {
       "id": "148",
-      "text": "test 3",
+      "text": "test 5",
       "answers": {},
       "validated": false
     },
@@ -6530,7 +6530,7 @@
       "answers": {
         "a": "L'energia interna del gas rimane costante",
         "b": "Il calore ceduto dal gas all'ambiente è uguale al calore assorbito",
-        "c": "Il calore assorbito dal gas è uguale al lavoro fatto dal gas sull'ambiente",
+        "c": "Il calore ceduto è trascurabile",
         "d": "Il calore assorbito è nullo",
         "e": "Il lavoro fatto dal gas è uguale al calore ceduto dal gas"
       },
